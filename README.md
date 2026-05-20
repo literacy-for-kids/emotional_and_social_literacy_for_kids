@@ -1,3 +1,11 @@
+![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
+![Code License](https://img.shields.io/badge/code-MIT-blue)
+![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
+![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
+
+🌐 **View the curriculum website:**  
+https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/
+
 # emotional_and_social_literacy_for_kids
 A curriculum for parsing internal telemetry, understanding human networks, and debugging social interfaces.
 
@@ -55,3 +63,9 @@ Most group friction comes down to basic game theory. We look at peer pressure as
 Students identify a recurring social friction point in their lives (e.g., "I always argue with my brother over the Xbox," or "Group projects at school always end up with me doing all the work") and engineer an explicit communication or behavioral protocol to debug it.
 
 - **Key Activity: Protocol Deployment & Retrospective** — Implementing their new interface protocol in the real world, tracking the results, and conducting a post-mortem to patch the bugs in their approach based on the data collected.
+
+## License
+
+This project uses dual licensing:
+- Code (JavaScript, CSS, configuration): [MIT License](./LICENSE-CODE)
+- Curriculum content (Markdown under website/docs/): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
