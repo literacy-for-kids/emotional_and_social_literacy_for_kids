@@ -9,6 +9,10 @@ description: "Structure, units, and design philosophy of the 18-week Emotional &
 
 This page describes the structure of the curriculum, what makes it distinctive, what you need to start, and what success looks like by Week 18.
 
+:::tip Use With These Guides
+Before teaching, pair this page with the [Facilitator Safety Guide](/docs/facilitator-safety-guide), the [Facilitator Implementation Guide](/docs/facilitator-implementation-guide), and the [Competency Map](/docs/competency-map).
+:::
+
 ---
 
 ## The 18-Week Structure
@@ -51,7 +55,7 @@ Groups behave differently than pairs. This unit covers **alignment problems** (w
 
 ### Capstone — The Social Interface Patch (Weeks 15–18)
 
-Students pick one real, recurring social friction point in their own life and run it through a full engineering loop: diagnose it, design a protocol, deploy that protocol in the real world, and run a post-mortem on the results.
+Students pick one real, recurring social friction point in their own behavior, communication, or environment and run it through a full engineering loop: diagnose it, design a protocol, deploy that protocol in the real world, and run a post-mortem on the results. Capstone projects should stay low-stakes, learner-controlled, and facilitator-approved.
 
 - **Week 15:** Diagnosing a Recurring Social Problem
 - **Week 16:** Engineering an Explicit Communication Protocol
@@ -107,6 +111,12 @@ No prior coursework, no background in psychology or neuroscience, no specific re
 
 That said, the curriculum is best when paired with a **consistent facilitator** who shows up week after week. Trust is the medium this work runs on.
 
+## Implementation Model
+
+The curriculum is designed as **18 weeks with three short sessions per week**. Each session can be taught in about **20–30 minutes**. Use **20 minutes** for a lean implementation and **30 minutes** when including discussion, journaling, or extension activities.
+
+If you only meet once per week, combine the week's three short sessions into one compressed block and preserve the same arc: model, practice, reflect.
+
 ---
 
 ## What You Need to Start
@@ -114,8 +124,9 @@ That said, the curriculum is best when paired with a **consistent facilitator** 
 - A notebook for the Telemetry Log (any kind)
 - Pens, pencils, paper, sticky notes
 - A timer
-- Roughly 90 minutes per week (three 30-minute sessions)
+- Roughly 60–90 minutes per week (three 20–30 minute sessions)
 - A facilitator who is willing to do the activities alongside the student
+- The [Facilitator Safety Guide](/docs/facilitator-safety-guide) and [Facilitator Implementation Guide](/docs/facilitator-implementation-guide)
 
 That's it.
 

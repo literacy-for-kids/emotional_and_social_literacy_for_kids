@@ -128,6 +128,12 @@ Ask:
 
 > "What drains your battery the fastest?"
 
+:::info Sensitive Inputs Note
+Keep this conversation gentle. Sleep, food, medical needs, disability, medication, family schedules, money stress, and home noise are not fully under a child's control.
+
+The goal is pattern noticing and support, not blaming a student for conditions they did not choose or cannot fix on their own.
+:::
+
 Their answer is real data about their own hardware.
 
 ---
@@ -277,6 +283,13 @@ After this week, check whether the learner can:
 3. **Spot degraded mode:** "How do you usually act when your battery is low?" (Looking for: a specific, observable behavior — "I snap" or "I shut down" — rather than a vague "I feel bad.")
 
 If the learner can do at least 2 of these, they are ready for Week 3.
+
+---
+
+## Related Tools
+
+- Use the **Personal Telemetry Log** in [Student Tools and Printables](/docs/student-tools-and-printables) to track capacity, inputs, and low-battery patterns.
+- Use the [Facilitator Implementation Guide](/docs/facilitator-implementation-guide) for adaptations when students need shorter, lower-demand logging.
 
 ---
 

@@ -126,6 +126,17 @@ Ask:
 
 The second kind of friendship is usually higher-bandwidth, even if it's quieter on the surface.
 
+:::info Low-Bandwidth Repair Scripts
+When reliability slips, repair is usually small and concrete:
+
+- "I said yes too fast. I can't do the whole thing, but I can do this smaller part."
+- "I disappeared. I'm sorry. I should have told you my bandwidth was low."
+- "I can't text much tonight, but I don't want to ignore you. I'll answer tomorrow."
+- "I overpromised. Next time I'll give a smaller yes instead of a big one I can't keep."
+
+Limited availability is not a moral failure. The goal is not shaming people for low bandwidth. The goal is honesty, repair, and more reliable expectations.
+:::
+
 ---
 
 ## Guided Session 2
@@ -295,6 +306,13 @@ Skip the "bandwidth" and "network node" language. Use: "Being someone people can
 :::tip Extend (Ages 10–12)
 Have the older learner think about a famous "reliable person" — a coach, a teacher, a public figure — and describe what specifically they do that earns the reputation. Then identify one specific person who's *un*reliable and reverse-engineer what's happening. Concrete analysis beats abstract concepts.
 :::
+
+## Related Tools
+
+- Use the **Trust Repair Planner** in [Student Tools and Printables](/docs/student-tools-and-printables) when a connection needs repair rather than blame.
+- Use the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) if you want to assess reliability reasoning through fictional or low-stakes examples.
+
+---
 
 :::tip Vocabulary This Week
 **reliability**, **bandwidth**, **predictability**, **network node**, **low-friction connection**

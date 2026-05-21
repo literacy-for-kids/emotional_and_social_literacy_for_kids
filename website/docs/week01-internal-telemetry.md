@@ -111,6 +111,12 @@ List everything they noticed on a piece of paper. Use their exact words. The lis
 
 If they only got two or three, that is normal. Add a few of your own out loud: "I notice my shoulders feel a little tight. I notice my breath is medium-fast."
 
+:::info Choice and Privacy Note
+Students do not need to share body signals aloud. They can point to a body map, circle words, draw what they notice, or keep the observation private in their log.
+
+If a body-scan style activity feels too personal, switch to an **object scan**: notice the color, shape, weight, texture, and temperature of a nearby object for 60 seconds, then compare how the body feels before and after. The goal is noticing signals, not forcing interoception.
+:::
+
 ---
 
 **2. The Ice Cube Experiment**
@@ -285,6 +291,13 @@ After this week, check whether the learner can:
 3. **Treat signals as data:** "If your heart starts beating fast, does that mean something is wrong?" (Looking for: "not necessarily — it could mean lots of things; it's just information.")
 
 If the learner can do at least 2 of these, they are ready for Week 2.
+
+---
+
+## Related Tools
+
+- Use the **Personal Telemetry Log** in [Student Tools and Printables](/docs/student-tools-and-printables) for private entries, body maps, or drawing-based tracking.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a learner needs more privacy, a pass option, or a fictional example.
 
 ---
 

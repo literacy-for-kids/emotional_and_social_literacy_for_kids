@@ -127,6 +127,18 @@ Walk through the four common bugs with examples. Use sticky notes — one per bu
 > "Seeing things as totally good or totally bad, with no middle. Often involves the words 'always' or 'never.'"
 > Example: "I made one mistake in the game. I'm the WORST. I always mess up. I'll never be good at this."
 
+:::note Where the Metaphor Breaks
+Not every painful thought is a bug. Sometimes negative feelings point to a real problem.
+
+Examples:
+
+- "This group chat is getting mean" may be useful signal.
+- "I feel nervous before the presentation" may be accurate data about pressure.
+- "I don't like how that adult is talking to me" may be a sign that a boundary or adult help is needed.
+
+Debugging means checking evidence and separating facts from exaggeration. It does **not** mean forcing positivity or pretending everything is fine.
+:::
+
 ---
 
 **3. Wrap-Up: The Most Important Rule**
@@ -270,6 +282,13 @@ After this week, check whether the learner can:
 3. **Apply the test:** "If you have a worried thought, what's one question you can ask yourself?" (Looking for: "is this a fact?" or "what's the evidence?" or "could there be another reason?")
 
 If the learner can do at least 2 of these, they are ready for Week 6.
+
+---
+
+## Related Tools
+
+- Use the **Thought Bug Debugger** in [Student Tools and Printables](/docs/student-tools-and-printables) for fictional or low-stakes examples.
+- Use the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) if you want to assess tool use without grading disclosure.
 
 ---
 

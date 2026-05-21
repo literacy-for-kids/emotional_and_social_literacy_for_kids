@@ -23,6 +23,12 @@ These tools work best **alongside** the audit and the protocols you already have
 - If a student finds a particular technique uncomfortable (e.g., breathing exercises can occasionally feel weird), let them swap to another.
 :::
 
+:::caution Choice-First Regulation
+This week is about **choice-first regulation**, not forced calming.
+
+Do not require closed eyes, breath-holding, public body sharing, or any one body-based tool. If a student does not want breath or muscle-based exercises, offer non-body alternatives such as object observation, drawing, counting, sorting, or an environment scan.
+:::
+
 :::tip Quick Navigation
 - [Guided Session 1: Box Breathing](#guided-session-1)
 - [Guided Session 2: Somatic Grounding & PMR](#guided-session-2)
@@ -225,6 +231,13 @@ This is real, useful data about your own system.
 1. **Demonstrate one technique:** "Show me box breathing." (Looking for: a functional 4-4-4-4 pattern.)
 2. **Name the use case:** "When would you use 5-4-3-2-1 grounding?" (Looking for: spirals, racing thoughts, or hot moments — something specific.)
 3. **Self-knowledge:** "Which technique works best for YOUR system?" (Looking for: a specific answer based on their own experience.)
+
+---
+
+## Related Tools
+
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for body-based activity cautions and opt-out language.
+- Use [Student Tools and Printables](/docs/student-tools-and-printables) if you want to turn the comparison into a private tool-selection log.
 
 ---
 

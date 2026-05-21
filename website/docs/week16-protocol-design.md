@@ -55,6 +55,12 @@ This week is engineering. The work is precise, deliberate, and observable. Help 
 A common pitfall: students try to write a protocol that requires other people to behave a certain way. ("My brother will stop taking my stuff.") That's not a protocol — that's a wish. A protocol describes what YOU will do. The actions are yours. Steer firmly toward this.
 :::
 
+:::caution Protocol Safety Note
+Protocols should focus on learner-controlled actions. They are not secret tests, traps, or experiments on other people.
+
+If a protocol depends on tricking, watching, exposing, pressuring, or controlling someone else, redesign it. The plan should be something the learner can do openly, safely, and stop easily.
+:::
+
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
@@ -295,6 +301,13 @@ After this week, check whether the learner can:
 3. **Identify the failure modes:** "What's the most likely way this protocol breaks?" (Looking for: at least one specific failure mode and a patch for it.)
 
 If the learner can do at least 2 of these, they are ready for Week 17.
+
+---
+
+## Related Tools
+
+- Use the **Personal Protocol Template** in [Student Tools and Printables](/docs/student-tools-and-printables) to keep the protocol concrete and student-controlled.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a proposed protocol starts drifting toward secrecy, manipulation, or control.
 
 ---
 

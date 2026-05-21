@@ -129,6 +129,12 @@ This is one of the most important facts about information in social networks. It
 
 This is also why the right rule isn't "only spread true things." The right rule is **be careful what you transmit at all** — because the system corrupts as it goes.
 
+:::info Digital Privacy Note
+Screenshots, forwarded messages, voice notes, private posts, and copied chat messages create the same problem faster. Before you share digital information, add another question: **Do I have permission to pass this on?**
+
+If there is a genuine safety issue, bring it to a responsible adult instead of turning it into group content.
+:::
+
 ---
 
 ## Guided Session 2
@@ -290,6 +296,13 @@ Becoming aware of your own transmission patterns doesn't mean shaming yourself f
 
 **This week's takeaway:** The information traveling through your network is partly your responsibility. Be the clean signal. Be the stop-node. The network is better when more nodes care about quality.
 :::
+
+---
+
+## Related Tools
+
+- Use the **Rumor Stop-Node Checklist** in [Student Tools and Printables](/docs/student-tools-and-printables) for screenshot, forwarding, and permission decisions.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for digital privacy and social mapping rules.
 
 ---
 

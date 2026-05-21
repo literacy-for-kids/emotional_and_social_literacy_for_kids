@@ -140,6 +140,14 @@ Notice how short the inputs are. Notice how big the outputs are. Notice how the 
 
 Have the student write the five steps on a small index card or sticky note. Put it somewhere they'll see it — in the Telemetry Log, by their bed, in a homework folder. The point is to have the audit handy when they need it.
 
+If a full five-step write-up is too much in the moment, use a pocket-card version first:
+
+```text
+TRIGGER -> CAMERA FACTS -> BRAIN STORY -> NEXT SAFE MOVE
+```
+
+Then expand it into the full audit later.
+
 ---
 
 ## Guided Session 2
@@ -269,6 +277,13 @@ After this week, check whether the learner can:
 3. **Distinguish reaction from response:** "What's the difference between an emotional reaction and a rational response?" (Looking for: something about reaction being automatic / instant / from the hijack vs. response being chosen / deliberate / after thinking.)
 
 If the learner can do at least 2 of these, they are ready for Unit 3 (Week 9).
+
+---
+
+## Related Tools
+
+- Use the **Input/Output Audit** and **Feedback Loop Map** in [Student Tools and Printables](/docs/student-tools-and-printables) for full-page or pocket-card practice.
+- Use the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) if you want light rubrics for tool use rather than personal disclosure.
 
 ---
 

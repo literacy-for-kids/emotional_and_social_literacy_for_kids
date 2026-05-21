@@ -104,7 +104,11 @@ Explain:
 
 > "Most of the time, your thinking brain is in charge. But when something feels like a threat — and it doesn't even have to be a real life-or-death threat — your brain can flip a switch. It hands control to the panic brain. This is sometimes called the amygdala hijack."
 
-Important note for the facilitator: the actual neuroscience is more nuanced than this — the brain is not strictly two regions in conflict. But this **state-machine model** is genuinely useful for what students need to do. Treat it as a simplified diagram, not a literal map.
+:::note Where the Metaphor Breaks
+"Hijack mode" is useful shorthand, not a complete brain diagram. The brain is a connected system, and no single part is literally running the whole person by itself.
+
+Strong emotions can reduce access to careful thinking, planning, and listening. That makes the model useful. But treat it as a simplified map for learning, not a literal picture of one brain part taking total control.
+:::
 
 ---
 
@@ -204,6 +208,14 @@ These are commonly taught regulation techniques. Different ones work for differe
 
 Try the long exhale once now, together. 4 in, 6 out. Three rounds.
 
+:::info Regulation Choice Note
+Never force closed eyes, breath-holding, or public descriptions of body sensations. If breath-based tools feel uncomfortable, offer non-body alternatives such as object observation, drawing, counting, an environment scan, movement, or simply naming the state: "I'm hijacked right now."
+:::
+
+:::caution Distress Note
+If a student becomes more upset while discussing a hijack, pause the activity, offer a less personal version, and shift to a grounding option or private check-in with an appropriate adult. This lesson helps with everyday reactive moments, not emergencies.
+:::
+
 ---
 
 ## Independent Practice
@@ -281,6 +293,13 @@ After this week, check whether the learner can:
 3. **Understand the feature, not flaw:** "Why does the brain even do this — wouldn't it be better if it didn't?" (Looking for: something about survival, it evolved for danger, our brains were built for a different world.)
 
 If the learner can do at least 2 of these, they are ready for Week 4.
+
+---
+
+## Related Tools
+
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for distress protocols, body-based activity cautions, and adult escalation guidance.
+- Use [Student Tools and Printables](/docs/student-tools-and-printables) if you want a private place to capture hijack tells or loop-breaker choices.
 
 ---
 

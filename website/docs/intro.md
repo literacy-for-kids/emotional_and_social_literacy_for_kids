@@ -14,13 +14,16 @@ Most curricula about feelings treat emotions as either rules to obey ("be kind!"
 
 The big shift is this: a kid who learns to label sadness has a label. A kid who learns to read sadness as *data about something the system is tracking* has a tool. One feels passive. The other feels useful.
 
-Over 18 weeks, students build the habit of pausing before they react, debugging the stories their brain spins around emotional data, and noticing the trust ledger that runs every relationship they have. By the end, they will have identified a real friction point in their life, designed a protocol to address it, deployed it in the wild, and run a post-mortem on the results.
+Over 18 weeks, students build the habit of pausing before they react, debugging the stories their brain spins around emotional data, and noticing the trust ledger that runs every relationship they have. By the end, they will have identified a manageable friction point in their own behavior, communication, or environment, designed a protocol to address it, deployed it in the wild, and run a post-mortem on the results.
 
 ---
 
 :::tip Use This Page
 - Start with [The Big Idea](#the-big-idea) for the framing that drives every lesson.
+- Read [Facilitator Safety Guide](/docs/facilitator-safety-guide) for privacy, disclosure, and capstone guardrails.
+- Use [Facilitator Implementation Guide](/docs/facilitator-implementation-guide) for pacing, differentiation, and shortened paths.
 - Read [How to Use This Curriculum](#how-to-use-this-curriculum) for setup, pacing, and adaptation guidance.
+- Review [Competency Map](/docs/competency-map) if you need standards-style language or evidence artifacts.
 - Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every week.
 - Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
 - Use [Getting Started](#getting-started) when you want the fastest route into the lessons.
@@ -28,7 +31,9 @@ Over 18 weeks, students build the habit of pausing before they react, debugging 
 
 :::info For Caregivers and Teachers
 - You do not need to read the whole site before you teach. Read this page, then jump to Week 1.
+- If you are teaching a group, teaching a sensitive learner, or preparing for the capstone, read the safety and implementation guides first.
 - Each weekly page is designed to be skimmed in five minutes: the facilitator snapshot at the top gives you the big idea, and you can teach one session at a time.
+- Students may use fictional examples and may pass on activities that feel too personal.
 - Use this page when you want philosophy. Use the weekly pages when you want directions.
 :::
 
@@ -58,23 +63,29 @@ We are explicitly **not** doing therapy. We are not asking kids to process traum
 
 If a student is in genuine emotional distress, this curriculum is not a substitute for a qualified adult, counselor, or clinician. It is a learning tool, taught by a facilitator, that builds the same kind of self-awareness an engineer brings to a system they own.
 
+:::note Safety and Privacy
+Students should not be pressured to disclose private experiences. They may use fictional examples, low-stakes examples, or written-only reflections. Adults should not promise secrecy when safety is involved, and must follow local policies and laws when a disclosure suggests danger, abuse, neglect, self-harm, harm to others, or unsafe conditions. For the full adult-facing guidance, use the [Facilitator Safety Guide](/docs/facilitator-safety-guide).
+:::
+
 ---
 
 ## How to Use This Curriculum
 
 ### Who It's For
 
-This curriculum is designed for **adults working with kids ages 8–12** — parents, caregivers, classroom teachers, homeschool families, co-ops, and after-school clubs. No background in psychology, neuroscience, or engineering is required. If you can run a conversation and time a two-minute breathing activity, you have what you need.
+This curriculum is designed for **adults working with kids ages 8–12** — parents, caregivers, classroom teachers, homeschool families, co-ops, and after-school clubs. No background in psychology, neuroscience, or engineering is required. If you can run a conversation and guide a short practice activity, you have what you need.
 
 ### What a Typical Week Looks Like
 
-Each week has **three sessions of roughly 30 minutes each**:
+The curriculum is designed as **18 weeks with three short sessions per week**. Each session can be taught in about **20–30 minutes**. Use **20 minutes** for a lean implementation and **30 minutes** when including discussion, journaling, or extension activities.
+
+A typical week includes:
 
 1. **Guided Session 1** — You lead. A short activity or experiment introduces the week's concept.
 2. **Guided Session 2** — You lead. A deeper activity applies the concept.
 3. **Independent Practice** — Student-driven. Practice, observation, and an entry in the **Telemetry Log** — the journal that runs throughout all 18 weeks.
 
-A typical pace is two guided sessions plus one independent practice per week. Some families do all three in one weekend. Both work.
+A typical pace is two guided sessions plus one independent practice per week. Some families do all three in one weekend. Some schools combine the three short sessions into one longer weekly block. Both can work if the rhythm stays predictable.
 
 ### Adapting for Different Ages
 
@@ -152,6 +163,12 @@ Over 18 weeks, the log becomes a personal map of how the student's hardware oper
 :::tip Start Here
 Begin with **[Week 1: Mapping Your Biological Hardware](/docs/week01-internal-telemetry)** and progress through each week sequentially. Each week builds on the previous one.
 :::
+
+Before Week 1, adults should skim:
+
+- [Facilitator Safety Guide](/docs/facilitator-safety-guide)
+- [Facilitator Implementation Guide](/docs/facilitator-implementation-guide)
+- [Student Tools and Printables](/docs/student-tools-and-printables)
 
 ### Materials
 

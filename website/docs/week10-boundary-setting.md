@@ -100,6 +100,12 @@ Explain:
 
 A boundary is the human version of an interface spec.
 
+:::note Where the Metaphor Breaks
+A boundary describes what **I** will do or allow. It is not a remote control for another person.
+
+Boundaries do not remove the need for kindness, safety, repair, or accountability. They also do not cancel safe and reasonable adult rules. A student cannot turn "boundary" into a way to avoid cleanup, school expectations, or responsibility for harm.
+:::
+
 ---
 
 **2. The Three Parts of a Boundary**
@@ -285,6 +291,13 @@ After this week, check whether the learner can:
 3. **State a real one:** "Tell me a boundary you might set with someone in your life, including all three parts." (Looking for: a specific, well-formed statement, even if the student wouldn't actually deliver it this week.)
 
 If the learner can do at least 2 of these, they are ready for Week 11.
+
+---
+
+## Related Tools
+
+- Use the **Boundary Script Builder** in [Student Tools and Printables](/docs/student-tools-and-printables) for respectful practice sentences.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a student needs help distinguishing self-protection from trying to control someone else.
 
 ---
 

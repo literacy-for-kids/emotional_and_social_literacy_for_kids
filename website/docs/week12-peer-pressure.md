@@ -128,7 +128,15 @@ Together, list three alignment problems the student has actually faced. Some cat
 - Group is excluding someone and you don't want to participate
 - Group is asking you to do something that violates a real value
 
+**Digital-life alignment:**
+- Group chat wants everyone to pile on one person
+- Friends want a screenshot forwarded as a joke
+- A gaming chat wants you to join in a dare or trash-talk spiral
+- A server or chat leaves someone out on purpose and expects silence
+
 Notice: alignment problems range from low-stakes (whose house to play at) to high-stakes (whether to participate in something that feels wrong). The skill is the same in all of them — *notice the mismatch, then decide deliberately*.
+
+Belonging is a real need. That is why alignment pressure feels powerful. But unsafe alignment is costly: it can damage trust, increase harm, and pull you into choices you would not actually endorse on your own.
 
 ---
 
@@ -288,6 +296,13 @@ The skill is *holding anyway*. Not because it's easy. Because it's important.
 
 **This week's takeaway:** Belonging is real. Wanting to belong is not weakness. But belonging that requires you to drift is not actually belonging — it's just absorption. The friends who matter most can handle you holding ground.
 :::
+
+---
+
+## Related Tools
+
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for norms around privacy, group pressure, and not labeling classmates.
+- Use the [Facilitator Implementation Guide](/docs/facilitator-implementation-guide) for role-play adaptations in classrooms or small groups.
 
 ---
 

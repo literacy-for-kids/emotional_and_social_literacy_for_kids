@@ -105,7 +105,7 @@ export default function HomepageFeatures() {
             classroom teachers, homeschool families, caregivers, and after-school leaders.
             Students move from understanding their own internal signals to engineering their
             social interfaces — learning how emotions work, how trust is built, and how to
-            resolve conflict as a diagnostic problem.
+            resolve conflict as a diagnostic problem across three short sessions per week.
           </p>
         </div>
       </section>
@@ -169,8 +169,8 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Start Teaching Emotional &amp; Social Literacy</Heading>
           <p className={styles.sectionLead}>
-            Begin with the Welcome page for an overview, then jump into Week 1.
-            Each session is about 20 minutes — designed for ages 8–12.
+            Begin with the Welcome page, then review the facilitator guides before Week 1.
+            Sessions are designed as three short meetings per week, each about 20 to 30 minutes.
           </p>
           <div className={styles.ctaButtons}>
             <Link className="button button--primary button--lg" to="/docs/intro">

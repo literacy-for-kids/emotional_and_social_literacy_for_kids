@@ -135,6 +135,12 @@ Spirals usually start with one of these:
 
 Ask the student which one is the most common starting point for their own spirals.
 
+:::note Where the Metaphor Breaks
+Catastrophizing is a **pattern**, not a character flaw. The loop model is useful because it shows how a spiral grows, not because it explains every hard feeling.
+
+If a student is dealing with persistent spirals, panic attacks, or thoughts of self-harm, this lesson is not enough by itself. Those situations need support from a trusted adult or qualified professional. This tool is for everyday spirals, not emergencies.
+:::
+
 ---
 
 ## Guided Session 2
@@ -280,6 +286,13 @@ After this week, check whether the learner can:
 3. **Name a loop-breaker:** "What's one way to interrupt a spiral?" (Looking for: any one of the techniques — long exhale, cold water, walking, sensory grounding, naming it out loud.)
 
 If the learner can do at least 2 of these, they are ready for Week 8.
+
+---
+
+## Related Tools
+
+- Use the **Feedback Loop Map** in [Student Tools and Printables](/docs/student-tools-and-printables) to diagram a spiral without forcing a personal disclosure.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) when a spiral points to distress that is bigger than this lesson.
 
 ---
 

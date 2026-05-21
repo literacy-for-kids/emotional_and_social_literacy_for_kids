@@ -185,6 +185,12 @@ Now zoom out:
 
 This is the core insight of iterated games — explored in depth in game theory as the success of "tit-for-tat" and similar reciprocal strategies. The general result — that cooperation tends to win in iterated systems — is well-established.
 
+:::note Where the Metaphor Breaks
+Game theory helps us notice patterns. It should not be used to manipulate people, run secret tests, or treat relationships like a trick.
+
+Cooperation is not the same as tolerating mistreatment. If a situation is unsafe, coercive, or repeatedly harmful, the right move may be distance, adult help, or a different boundary — not "keep cooperating harder."
+:::
+
 ---
 
 **3. A Real Conflict Re-Diagnosis**
@@ -295,6 +301,13 @@ This is not an excuse for anyone to be cruel to you. It's a way to **carry less 
 
 **This week's takeaway:** Conflict is a diagnostic puzzle. Treat it that way. The world gets quieter — and your relationships get richer — when you stop assuming the worst.
 :::
+
+---
+
+## Related Tools
+
+- Use the **Social System 5 Whys** in [Student Tools and Printables](/docs/student-tools-and-printables) if you want to carry this systems thinking into the capstone.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) when a conflict may be unsafe rather than merely mismatched.
 
 ---
 

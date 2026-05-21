@@ -54,6 +54,12 @@ This week is about the student running their own experiment. Your job is to be a
 If the student is discouraged because the protocol "isn't working," remind them: this is data collection, not a pass/fail test. A protocol that fails three times this week and works twice is INFORMATION. Information is the entire point.
 :::
 
+:::caution Stop Rule
+Pause the protocol and get adult support if the test starts creating distress, conflict escalation, pressure, secrecy, or any safety concern.
+
+The point is to gather honest data from a safe experiment. Students should not push through harm just to complete the tracker.
+:::
+
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
@@ -300,6 +306,13 @@ Use a sticker chart. Tally marks for triggers. A smiley/neutral/frown face per d
 :::tip Extend (Ages 10–12)
 Have the older learner produce a small data visualization at the end of the week: a chart of severity by day, a comparison of baseline week vs. deployment week, or a count of protocol attempts vs. completions. Looking at data visually often reveals patterns words don't.
 :::
+
+## Related Tools
+
+- Use the **Seven-Day Deployment Tracker** in [Student Tools and Printables](/docs/student-tools-and-printables) for a clean daily log.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if the protocol creates pressure, secrecy, or a problem that is bigger than the project.
+
+---
 
 :::tip Vocabulary This Week
 **deployment**, **data collection**, **observation**, **real-world test**

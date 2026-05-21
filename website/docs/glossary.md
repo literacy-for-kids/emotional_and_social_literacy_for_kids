@@ -10,6 +10,8 @@ slug: /glossary
 
 All the key words from this curriculum, explained in plain language. Terms are listed alphabetically. The **Introduced** column shows the week each term first appears.
 
+Use the table for quick lookups. Use the scaffold section at the end when you want a simpler student-facing version or a facilitator caution about how a term can be misused.
+
 ---
 
 | Term | Definition | Introduced |
@@ -17,6 +19,7 @@ All the key words from this curriculum, explained in plain language. Terms are l
 | **5 Whys** | A diagnostic tool: ask "why?" five times in a row to dig past the surface complaint and find the real root cause of a recurring problem. | Week 15 |
 | **Alignment problem** | A situation where the goals of the group you're in don't match your own goals. The skill is noticing the mismatch and deciding deliberately whether to update or hold. | Week 12 |
 | **All-or-nothing thinking** | A cognitive distortion that sees things as totally good or totally bad with no middle ground — often using "always" or "never." | Week 5 |
+| **Amygdala** | A small brain structure involved in fast threat-detection and emotional salience. Simple version: the brain's fast alarm hardware. | Week 3 |
 | **Amygdala hijack** | When the brain forces a hard state-machine change from regulated thinking to reactive survival mode under high stress. A feature evolved for danger, not a flaw. | Week 3 |
 | **Asymmetric information** | When two people in a situation know different things — and the friction between them is often caused by that gap, not by either being wrong. | Week 14 |
 | **Bandwidth** | A measure of how much you can communicate through a relationship with low effort. High-bandwidth connections feel easy; low-bandwidth ones take work to send any message. | Week 11 |
@@ -48,6 +51,7 @@ All the key words from this curriculum, explained in plain language. Terms are l
 | **Information cascade** | The way information (true or false) spreads through a social network. The shape of the network determines how fast and how far. | Optional 2 |
 | **Input** | What actually happened — the observable facts a camera would record. The raw data underneath any emotional reaction. | Week 6 |
 | **Input/Output Audit** | A five-step debugging routine: identify the trigger, log the telemetry, separate inputs from outputs, name any cognitive bugs, and write a rational response. | Week 8 |
+| **Interface** | The place where two systems meet and affect each other. In people terms, it is how we talk, respond, and set expectations. | Week 10 |
 | **Interface specification** | An explicit description of how a system will accept and respond to inputs. The engineering frame for a boundary. | Week 10 |
 | **Intervention window** | The time between an early warning sign and a full hijack — the period when small actions can prevent a much bigger reaction. | Week 4 |
 | **Iterated game** | A situation where you'll interact with the same people again — for days, months, or years. In iterated games, cooperation usually wins over the long run. | Week 14 |
@@ -77,14 +81,110 @@ All the key words from this curriculum, explained in plain language. Terms are l
 | **Signal** | A piece of data from the body or the world — distinct from the story the brain wraps around it. The goal is reading the signal, not just the story. | Week 1 |
 | **Signal corruption** | What happens to information as it passes through a social network — details get dropped, drama gets added, sources get lost. | Week 13 |
 | **Social capital** | The accumulated trust, goodwill, and reputation in a relationship. Built up through deposits, drained by withdrawals. | Week 9 |
+| **Social map** | A sketch of how people or groups connect. It is for understanding patterns, not ranking popularity. | Optional 2 |
 | **Somatic grounding** | A regulation technique (like 5-4-3-2-1) that pulls attention into present sensory input, competing with the spiral for processing power. | Optional 1 |
 | **State machine** | A system that operates in distinct modes (states) and switches between them based on triggers. The brain runs as a state machine: regulated vs. reactive. | Week 3 |
 | **Story generator** | The part of the brain that automatically wraps narratives around sensory and emotional data. Useful for prediction, but it rarely admits when it's guessing. | Week 6 |
 | **System mismatch** | The engineering frame for conflict — two systems with different goals, information, or constraints colliding. A diagnostic puzzle, not a moral failure. | Week 14 |
 | **Telemetry** | High-priority data packets from the body and emotions — signals you can read like dashboard lights, rather than commands you must obey. | Week 1 |
 | **Telemetry Log** | The running journal of this curriculum. Captures baseline, hardware states, hijack tells, cognitive distortions, audits, ledgers, protocols, and more. | Week 4 |
+| **Thought bug** | Kid-friendly shorthand for a cognitive distortion. It helps you check a thought; it should not be used to dismiss a real problem. | Week 5 |
 | **Transmission** | The act of passing information to someone else. Each transmission is a choice — and you're responsible for the quality of what you send through the network. | Week 13 |
 | **Trigger** | The specific event or signal that activates a protocol. Has to be observable and specific — "when X happens" — not vague. | Week 16 |
 | **Trust ledger** | The running balance of trust in a relationship — built up by deposits, drained by withdrawals. High balances survive errors; low balances collapse over small things. | Week 9 |
 | **Verification** | The act of checking information before passing it on — running it through filters like "is it true? is it kind? is it necessary?" | Week 13 |
 | **Withdrawal** | An interaction that drains trust from a relationship — a broken promise, a dismissive comment, a betrayal, even a small inconsistency. | Week 9 |
+
+---
+
+## Simple Versions and Facilitator Notes
+
+### Alignment problem
+
+**Simple version:** The group wants one thing and I want another.
+
+**Facilitator note:** Belonging is a real need. The goal is not to shame group influence. The goal is to help learners notice when alignment becomes unsafe or costly.
+
+### Amygdala
+
+**Simple version:** A fast alarm part of the brain.
+
+**Facilitator note:** Useful for teaching, but do not present it as if one tiny brain part literally runs the whole person by itself.
+
+### Boundary
+
+**Simple version:** A clear statement about what I will do or allow.
+
+**Facilitator note:** A boundary is not control. It does not erase kindness, accountability, or safe adult rules.
+
+### Catastrophizing
+
+**Simple version:** My brain takes a small problem and fast-forwards it into a disaster.
+
+**Facilitator note:** Treat it as a pattern, not a personality trait. Persistent spirals or self-harm thoughts need adult support beyond the lesson.
+
+### Cognitive distortion
+
+**Simple version:** A thought pattern that bends the story away from the facts.
+
+**Facilitator note:** The point is evidence-checking, not arguing students out of every hard feeling.
+
+### Feedback loop
+
+**Simple version:** Something feeds itself and keeps getting bigger.
+
+**Facilitator note:** Use everyday examples first. The loop model helps students spot interrupt points; it is not a verdict about who they are.
+
+### Interface
+
+**Simple version:** The part where two systems meet.
+
+**Facilitator note:** In relationships, the interface is how people speak, respond, and set expectations. It should stay concrete.
+
+### Iterated game
+
+**Simple version:** A situation where you will see the same people again and again.
+
+**Facilitator note:** This model should support wiser cooperation, not manipulation or secret tests.
+
+### Protocol
+
+**Simple version:** A plan I decide ahead of time for what I will do.
+
+**Facilitator note:** Keep protocols learner-controlled, specific, safe, and easy to stop.
+
+### Signal
+
+**Simple version:** A clue or piece of data.
+
+**Facilitator note:** Signals can come from the body, the environment, or a relationship. The job is to notice them before jumping to interpretation.
+
+### Social capital
+
+**Simple version:** The trust and goodwill that build up over time in a relationship or group.
+
+**Facilitator note:** Keep this concrete. Students do not need business language; they need examples of reliability, honesty, repair, and care.
+
+### Social map
+
+**Simple version:** A picture of how people connect.
+
+**Facilitator note:** A social map is not a popularity ranking. Use fictional, anonymized, or private examples.
+
+### Telemetry
+
+**Simple version:** Signals your system is sending.
+
+**Facilitator note:** Telemetry is data, not a command. The word helps students move from shame to observation.
+
+### Trust ledger
+
+**Simple version:** The running record of what builds trust and what drains it.
+
+**Facilitator note:** The ledger is not scorekeeping. Repair, generosity, boundaries, and context matter.
+
+### Thought bug
+
+**Simple version:** A shortcut or glitch in the story my brain is telling.
+
+**Facilitator note:** Do not use "thought bug" to dismiss a real problem. The tool checks the interpretation, not the student's worth.

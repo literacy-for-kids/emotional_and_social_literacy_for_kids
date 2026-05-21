@@ -23,6 +23,23 @@ This week assumes the student has completed at least Unit 4 (Weeks 12–14). It 
 - Avoid identifying specific real people as "outsiders" or "bridges" in a way that could be hurtful — keep names private.
 :::
 
+:::caution Social Mapping Privacy
+Social maps can hurt people if used carelessly.
+
+- Do not make public maps of real classmates.
+- Do not rank or label peers as outsiders, weak links, bridges, or popularity tiers in public.
+- Use fictional, anonymized, or private examples whenever possible.
+- The goal is understanding group patterns, not assigning social value.
+
+See the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for the full privacy rules.
+:::
+
+:::note Where the Metaphor Breaks
+Social maps are tools for noticing patterns, not judging people's worth.
+
+Even when a map is accurate, showing it publicly can embarrass people, freeze social roles in place, or turn observation into ranking. Use fictional, anonymized, or private examples so the lesson stays about systems, not status.
+:::
+
 :::tip Quick Navigation
 - [Guided Session 1: In-Group / Out-Group and Network Topology](#guided-session-1)
 - [Guided Session 2: Hubs, Bridges, and Cascades](#guided-session-2)
@@ -265,6 +282,13 @@ Skip the formal terminology. Draw a picture of "everyone you usually play with."
 :::tip Extend (Ages 10–12)
 Have the older learner read about **Dunbar's number** (the suggested upper limit on stable relationships humans can maintain — usually given as around 150, with smaller layers inside). It's a fascinating idea with real implications for how schools, online communities, and even cities work.
 :::
+
+## Related Tools
+
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) before running any real-world social mapping activity.
+- Use [Week 13: Corrupt Data Transmission and Its Ripple Effects](/docs/week13-rumors-and-information) alongside this lesson so network maps do not turn into gossip maps.
+
+---
 
 :::tip Vocabulary This Week
 **network topology**, **hub**, **bridge**, **in-group**, **out-group**, **information cascade**

@@ -140,6 +140,12 @@ This is why a fight with your best friend feels different than a fight with an a
 
 This is also why hurting someone close to you has a bigger cost: a withdrawal from a high-balance account hits the system harder, because the relationship depends more on the balance.
 
+:::note Where the Metaphor Breaks
+The trust ledger is a useful model, not a scoreboard. Relationships are not bank accounts where every action gets tallied forever.
+
+Repair, generosity, forgiveness, context, and changing behavior all matter. The goal is wiser trust — noticing what builds reliability, what damages it, and what boundaries are needed while trust rebuilds — not punishment or emotional accounting.
+:::
+
 ---
 
 ## Guided Session 2
@@ -286,6 +292,13 @@ After this week, check whether the learner can:
 3. **Read a real account:** "Tell me about a real relationship and whether it's gaining or draining trust right now." (Looking for: a specific assessment, even if the student isn't sure of the exact balance.)
 
 If the learner can do at least 2 of these, they are ready for Week 10.
+
+---
+
+## Related Tools
+
+- Use the **Trust Repair Planner** in [Student Tools and Printables](/docs/student-tools-and-printables) when a relationship needs repair plus clear boundaries.
+- Use [Week 11: Consistency, Transparency, and High-Bandwidth Connections](/docs/week11-network-reliability) for next-step work on reliability over time.
 
 ---
 

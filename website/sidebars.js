@@ -10,6 +10,10 @@ const currentSiteHref = 'https://literacy-for-kids.github.io/emotional_and_socia
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'facilitator-safety-guide',
+    'facilitator-implementation-guide',
+    'curriculum-overview',
+    'competency-map',
     {
       type: 'category',
       label: 'Internal Telemetry',
@@ -73,7 +77,8 @@ const sidebars = {
         'week-optional-2-group-systems',
       ],
     },
-    'curriculum-overview',
+    'student-tools-and-printables',
+    'assessment-and-reflection-guide',
     'glossary',
     {
       type: 'category',

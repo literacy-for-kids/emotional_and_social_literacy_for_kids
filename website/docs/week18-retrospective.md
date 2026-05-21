@@ -339,6 +339,17 @@ The final reflection is fully solo. The presentation works with any audience siz
 
 ---
 
+## Related Tools
+
+- Use the **Patch Notes Reflection** in [Student Tools and Printables](/docs/student-tools-and-printables) if you want a reusable closing template.
+- Use the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) for optional portfolio, rubric, or certificate-style reflection ideas.
+
+:::info Optional Portfolio or Certificate Reflection
+If the student wants a visible ending, assemble a tiny portfolio with one early Telemetry Log entry, the final protocol, one deployment tracker, and one patch-notes reflection. A short written certificate reflection can name what the student can now do without turning the finale into a high-pressure performance.
+:::
+
+---
+
 ## Check for Understanding
 
 This is the final check for the whole curriculum. After the presentation and reflections, confirm:

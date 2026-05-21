@@ -28,6 +28,14 @@ This week is the diagnostic. You pick **one specific, recurring social friction 
 - Help the student pick well. A poorly-chosen friction point makes the next three weeks frustrating.
 :::
 
+:::caution Capstone Safety Gate
+Facilitator approval is required before a student moves forward with a project.
+
+Approve a project only if it is low-stakes, focused on the student's own behavior, communication, environment, or preparation, and easy to stop if it creates distress.
+
+Do not approve projects about controlling someone else, exposing private information, testing another person's loyalty, revenge, surveillance, unsafe secrets, abuse, or adult-level conflict.
+:::
+
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: Picking the Right Friction Point](#guided-session-1)
@@ -49,7 +57,7 @@ This week is the diagnostic. You pick **one specific, recurring social friction 
 :::info Before You Begin
 - Have the Telemetry Log accessible.
 - Help the student narrow down what to pick. Brainstorm 3–5 candidates BEFORE picking.
-- A good friction point: happens regularly (at least weekly), is at least partly within the student's control, isn't a crisis, isn't about a single person who's clearly being abusive.
+- A good friction point: happens regularly (at least weekly), is at least partly within the student's control, focuses on the student's own choices, communication, environment, or preparation, isn't a crisis, and isn't about a single person who's clearly being abusive.
 - Bad picks: "world peace" (too big), "my brother is annoying sometimes" (too vague), "I had a fight with Sarah last week" (one-time), "my parents are getting divorced" (too big, not the student's to fix).
 :::
 
@@ -297,6 +305,13 @@ After this week, check whether the learner can:
 3. **Read the pattern:** "When does this usually happen?" (Looking for: a specific recurring context — time of day, people involved, conditions — not "all the time.")
 
 If the learner can do at least 2 of these, they are ready for Week 16.
+
+---
+
+## Related Tools
+
+- Use the **Social System 5 Whys** in [Student Tools and Printables](/docs/student-tools-and-printables) to keep the diagnostic specific and low-stakes.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) before approving a capstone project.
 
 ---
 

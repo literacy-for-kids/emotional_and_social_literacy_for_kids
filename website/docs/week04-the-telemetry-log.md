@@ -29,6 +29,10 @@ When you can see the early warning signs, you have time. Time to take a breath, 
 - Format matters less than habit. A messy log that gets used is better than a beautiful log that doesn't.
 :::
 
+:::info Privacy Note
+The Telemetry Log is for pattern noticing, not grading private feelings. Students may keep parts of the log private, use drawings or codes, and use fictional or low-stakes examples when needed.
+:::
+
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Master Telemetry Log](#guided-session-1)
@@ -303,6 +307,13 @@ After this week, check whether the learner can:
 3. **Name an early warning sign:** "What's one signal that tells you a hijack might be coming?" (Looking for: any specific, personal signal — tight jaw, quiet voice, snappy mood, etc.)
 
 If the learner can do at least 2 of these, they are ready for Unit 2 (Week 5).
+
+---
+
+## Related Tools
+
+- Use the **Personal Telemetry Log** in [Student Tools and Printables](/docs/student-tools-and-printables) if you want a reusable template for paper, digital, or private tracking.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a student needs more privacy, a pass option, or an alternative way to participate.
 
 ---
 

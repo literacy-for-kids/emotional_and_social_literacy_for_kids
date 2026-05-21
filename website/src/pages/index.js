@@ -16,10 +16,11 @@ function HomepageHeader() {
             A free, open curriculum that teaches ages 8–12 how emotions and social systems actually work.
           </p>
           <p className={styles.heroLead}>
-            18 weeks of hands-on, discussion-driven lessons — each about 20 minutes
-            per session — designed for classrooms, homeschool families, after-school
-            clubs, and any adult who wants to help kids move from emotional reactivity
-            to intentional, systems-based thinking about themselves and others.
+            18 weeks of hands-on, discussion-driven lessons — typically taught in
+            three short sessions per week, each about 20 to 30 minutes — designed
+            for classrooms, homeschool families, after-school clubs, and any adult
+            who wants to help kids move from emotional reactivity to intentional,
+            systems-based thinking about themselves and others.
           </p>
           <div className={styles.buttons}>
             <Link

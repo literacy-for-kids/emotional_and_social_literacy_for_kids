@@ -94,6 +94,7 @@ Show the student an ambiguous photo or describe a scene. Examples:
 - A photo of two people standing close, faces away from camera.
 - A short story like: "Your friend walked past you in the hallway and didn't say hi."
 - A drawing of a person with their face in their hands.
+- A message marked **seen** with no reply, or a group-chat joke that looks harsher on screen than it might have sounded out loud.
 
 Ask:
 
@@ -106,6 +107,8 @@ Then ask:
 > "Could the story be something else?"
 
 Brainstorm 3–5 alternative stories. The two people might be praying together. The friend might not have seen you. The person with their face in their hands might be laughing.
+
+Digital-life examples are especially useful here: a delayed reply, a forwarded screenshot without context, or a short text that can be read as annoyed, tired, distracted, or rushed.
 
 Key takeaway: **Your brain delivered the first story so fast it felt like just looking at the picture. But it was an interpretation — one of many possible ones.**
 
@@ -269,6 +272,13 @@ After this week, check whether the learner can:
 3. **Offer an alternative story:** "Your friend ignored you at lunch. Brain's first story: 'She's mad.' What's an alternative?" (Looking for: any reasonable alternative explanation — "she was distracted," "she didn't see me," "she had a bad morning.")
 
 If the learner can do at least 2 of these, they are ready for Week 7.
+
+---
+
+## Related Tools
+
+- Use the **Input/Output Audit** in [Student Tools and Printables](/docs/student-tools-and-printables) to sort camera facts from brain-generated story.
+- Use [Week 8: Separating Signal from Narrative Noise](/docs/week08-the-signal-audit) as the next-step formal tool once students can already name input vs. output.
 
 ---
 
