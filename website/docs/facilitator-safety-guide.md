@@ -60,6 +60,20 @@ Use language like:
 
 If a student shares something that suggests danger, abuse, neglect, self-harm, harm to others, or other unsafe conditions, the adult must follow applicable rules, policies, and laws.
 
+## Telemetry Log and Mandatory Reporting
+
+The **Telemetry Log** is designed as a private journal. Students are encouraged to treat it as their own record, and facilitators should not require students to share log entries publicly.
+
+However, **the log is not confidential when safety is involved.**
+
+:::warning Mandatory Reporting Applies to Log Entries
+If a facilitator reads or is shown a Telemetry Log entry that contains information suggesting **danger, abuse, neglect, self-harm, suicidal ideation, or intent to harm others**, they are likely a **mandatory reporter** under local law and must follow applicable reporting requirements.
+
+The Telemetry Log does not provide an exception to mandatory reporting obligations. If a student shares a written log entry that raises a safety concern, treat it the same as a verbal disclosure: stay calm, do not promise secrecy, and follow your school's, program's, or jurisdiction's reporting protocol.
+
+When in doubt, consult your supervisor or a qualified adult before deciding whether to report.
+:::
+
 ## Disclosure Protocol
 
 If a student shares something serious, use this sequence:
@@ -126,6 +140,26 @@ Offer non-body alternatives such as:
 - counting or sorting
 - short movement breaks
 - looking at a visual anchor
+
+### Cold and Pain-Based Sensory Interventions
+
+:::caution Use With Caution: Cold-Based Grounding
+The curriculum materials list includes an ice cube as one possible sensory grounding object. Cold-based and mild pain-based techniques (ice cubes, cold water, rubber band snapping) are sometimes used as grounding interventions, but they are **not appropriate for all students**.
+
+These techniques can be triggering or contraindicated for students with:
+- trauma histories
+- self-harm histories or active self-harm concerns
+- sensory processing differences or sensory hypersensitivity
+
+**Facilitators working with vulnerable populations — especially in clinical, therapeutic, or at-risk settings — should consult with a counselor or clinician before using any cold or pain-based sensory exercise.**
+
+Safe alternatives that work for nearly all students:
+- slow, deep breathing (4 counts in, hold 2, 4 counts out)
+- grounding with a textured object (a rough stone, a smooth river rock, a piece of fabric)
+- the "5 things" scan: name 5 things you can see, 4 you can hear, 3 you can touch
+:::
+
+When in doubt, skip the ice cube and use a textured object or an environment scan instead. The goal is a grounding anchor, not a specific object.
 
 ## Capstone Safety Gate
 
