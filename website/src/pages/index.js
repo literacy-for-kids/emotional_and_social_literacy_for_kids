@@ -1,11 +1,14 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
+  const heroImageUrl = useBaseUrl('/img/hero-image.png');
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={clsx('container', styles.heroContent)}>
@@ -34,6 +37,13 @@ function HomepageHeader() {
               View on GitHub
             </Link>
           </div>
+        </div>
+        <div className={styles.heroMedia}>
+          <img
+            className={styles.heroImage}
+            src={heroImageUrl}
+            alt="Illustrated classroom-style hero artwork for the Emotional and Social Literacy for Kids curriculum"
+          />
         </div>
       </div>
     </header>
