@@ -41,7 +41,7 @@ function HomepageHeader() {
           <img
             className={styles.heroImage}
             src={heroImageUrl}
-            alt="Illustrated hero image for the emotional and social literacy curriculum"
+            alt="Illustrated classroom-style hero artwork for the Emotional and Social Literacy for Kids curriculum"
           />
         </div>
       </div>
