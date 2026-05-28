@@ -6,29 +6,42 @@ description: "How the brain constructs narratives around emotional data. Student
 ---
 
 # Week 6: When the Brain Constructs Bad Stories
-*Debugging the Signal Noise*
+*Story Maker: What Happened vs. What My Brain Said*
 
-Last week you learned that the brain runs predictable bugs. This week you go deeper into *why*.
+Last week you learned about thought bugs. This week you learn why they happen so fast.
 
-Your brain is a **story generator**. It cannot stand having data without a story to explain it. Show your brain a raised eyebrow, an unread message, a sigh from across the room — and within milliseconds it has spun up a narrative: *they're mad, they don't like me, I did something wrong*.
+Your brain is a **story maker**. It sees a clue, then quickly makes a guess about what the clue means.
 
-This isn't a flaw. The story generator helps you navigate the world. It lets you guess what's coming, predict how others will react, and plan ahead. But the same machinery that helps you predict also routinely **makes things up** — fills gaps with guesses, fits new data into existing patterns, and treats interpretations like facts.
+Examples:
 
-This week we look directly at the generator. We watch it run. We catch it inventing stories. And we preview the tool you'll use to unwind it next week: the **Input/Output Audit**.
+- a friend walks past you
+- a teacher sighs
+- a parent says "later"
+- the group chat goes quiet
+
+Your brain often makes a story right away: "They are mad," "I did something wrong," or "I am being left out."
+
+Sometimes that first story is right. Sometimes it is just a guess. This week you practice separating **what happened** from **what my brain said**. The formal toolbox name you will use later is **Input/Output Audit**.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Your brain is always making stories about what things mean. Sometimes the first story is right. Sometimes it is just a guess."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: the brain is constantly *constructing* stories, even when it feels like you're "just seeing" what's there.
-- The skill: separating what actually happened (input) from what the brain made of it (output).
-- Don't expect the student to stop their story generator — that's impossible. Aim to make it visible.
-- This week previews the Input/Output Audit; Week 8 puts it together formally.
+- The big idea: the brain is constantly making stories, even when it feels like the story is obvious.
+- Lead with **story maker** and **What Happened / What My Brain Said**.
+- Use camera facts, thought bubbles, and picture cards.
+- Students may use fictional, book, show, or low-stakes examples.
+- The goal is not to stop the story maker. The goal is to notice it.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Story Generator](#guided-session-1)
-- [Guided Session 2: Inputs vs. Outputs](#guided-session-2)
+- [Guided Session 1: Story Maker Game](#guided-session-1)
+- [Guided Session 2: What Happened / What My Brain Said](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +51,7 @@ This week we look directly at the generator. We watch it run. We catch it invent
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log, paper, pencil, a few short video clips or photos (optional — see Session 1), a partner if available |
-| **Key vocabulary** | story generator, narrative, input, output, audit |
+| **Key vocabulary** | story maker, camera facts, brain story, input/output audit |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -46,155 +59,150 @@ This week we look directly at the generator. We watch it run. We catch it invent
 :::info Before You Begin
 - Optional but useful: find 1–2 short, ambiguous video clips or photos online — something where you can't tell exactly what's happening. (Two people having a conversation with no sound. A person sitting alone on a bench. A pet making an unclear face.)
 - Have the Telemetry Log accessible.
-- Identify an actual recent moment from the student's life that involved misreading someone. Save it for the activities.
+- Identify one low-stakes recent moment from the student's life that involved guessing what something meant. Fictional examples are also fine.
 :::
 
 :::tip Facilitation Mindset
-This week is essentially philosophical: the brain doesn't just see, it *interprets*. That's a big idea. Make it concrete. Use real examples. Lean on the student's own data.
+This week is a big idea, so keep it concrete.
 
-Avoid the trap of using this lesson to dismiss the student's instincts. Their brain's stories are often right! The point is not "your stories are wrong." The point is "your stories are stories, and you can check them."
+Use photos, picture cards, lunch-table moments, group-chat pauses, and sibling examples. Do not let it turn into a debate about whether the student is wrong. The point is simpler: **your first story is still a story, and stories can be checked.**
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Your brain is like a kid who can't stop making up stories. Sometimes the story is right — and sometimes it's totally made up. Today we're going to catch your story-maker in action."
+**Simplest version of the concept:** "Your brain is a story maker. Sometimes the first story is right, and sometimes it is just a guess."
 
 **What to shorten or skip:**
-- Skip the formal "input vs. output" framing. Just call them "what happened" and "what my brain made of it."
+- Skip most formal terms.
+- Use "What happened?" and "What did my brain say?"
 
 **Adapting the activities:**
-- Use picture cards. Show a face or scene. Ask "What's the story?" Then "What's another possible story?"
-- Make a game: who can come up with the silliest alternative story?
+- Use picture cards and thought bubbles.
+- Make a game out of finding three possible stories.
+- Use fictional characters if needed.
 
-**Journal alternative:** "Today my brain made up a story when ___. The story was ___. What actually happened was ___."
+**Journal alternative:** Draw a camera and a thought bubble. Put facts in the camera and guesses in the bubble.
 
-**What success looks like:** The student can describe one time their brain told them a story and can also offer one different possible story about the same thing.
+**What success looks like:** The student can name one first story and one other possible story about the same event.
 :::
 
 ---
 
 ## Guided Session 1
-### The Story Generator
+### Story Maker Game
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe the brain as a **story generator** that wraps narratives around data
-- give an example of the same situation generating different stories
-- understand that the story is fast, automatic, and feels like seeing — but it isn't
+- describe the brain as a **story maker** that guesses what things mean
+- give more than one possible story about the same event
+- understand that the first story can feel true even when it is only a guess
 
 ---
 
 #### Activities
 
-**1. The Ambiguous Image Test**
+**1. The Picture Card Test**
 
-Show the student an ambiguous photo or describe a scene. Examples:
+Show an ambiguous photo or describe a scene:
 
-- A photo of two people standing close, faces away from camera.
-- A short story like: "Your friend walked past you in the hallway and didn't say hi."
-- A drawing of a person with their face in their hands.
-- A message marked **seen** with no reply, or a group-chat joke that looks harsher on screen than it might have sounded out loud.
+- your friend walks past in the hallway and does not say hi
+- a teacher sighs while looking at papers
+- a person in a picture has their head in their hands
+- a text says "ok" and nothing else
 
 Ask:
 
-> "What's the story?"
-
-The student will have an immediate answer — they're fighting, they're hugging, she's mad at me, he's crying.
+> "What is the first story your brain tells?"
 
 Then ask:
 
-> "Could the story be something else?"
+> "What are three other possible stories?"
 
-Brainstorm 3–5 alternative stories. The two people might be praying together. The friend might not have seen you. The person with their face in their hands might be laughing.
-
-Digital-life examples are especially useful here: a delayed reply, a forwarded screenshot without context, or a short text that can be read as annoyed, tired, distracted, or rushed.
-
-Key takeaway: **Your brain delivered the first story so fast it felt like just looking at the picture. But it was an interpretation — one of many possible ones.**
+This can turn into a game. The goal is not the perfect answer. The goal is to feel how quickly the brain fills in blanks.
 
 ---
 
-**2. The 50/50 Test**
+**2. The 50/50 Story Test**
 
-Take any ambiguous social situation the student has had recently. Ask them to give:
+Take a recent moment and find:
 
-- The story their brain first told
-- A 50/50 alternative — equally possible from the actual evidence
+- the first story
+- one equally possible other story
 
 Example:
 
-- Situation: Friend didn't text back for two days.
-- First story: She's mad at me.
-- 50/50 alternative: She lost her phone / She's been busy / She forgot / She's having a hard week and isn't texting anyone.
+- Situation: friend did not text back for two days
+- First story: she is mad at me
+- Other story: she is busy, forgot, lost her phone, or is having her own hard week
 
-> "If you had only the facts — no story — would you really have any way to know which one is true? The brain *picks* a story. It doesn't read minds."
+Say:
+
+> "The brain picks a story fast. It does not automatically know the truth."
 
 ---
 
-**3. Why The Story Generator Exists**
+**3. Why the Story Maker Exists**
 
 Explain:
 
-> "The story generator isn't broken — it's why humans are so good at predicting things. It lets you guess what's coming and plan. The downside is it never tells you 'I'm guessing.' It just delivers the guess as if it were a fact.
+> "The story maker helps humans predict things and get ready. That is useful. The tricky part is that it often forgets to say, 'This is only a guess.'"
 
-> Your job isn't to turn the generator off. Your job is to notice when it ran — and ask whether you have actual evidence for the story it gave you."
+Your job is not to turn the story maker off. Your job is to notice when it starts making guesses.
 
 ---
 
 ## Guided Session 2
-### Inputs vs. Outputs
+### What Happened / What My Brain Said
 #### Learning Goal
 By the end of this session, the student can:
 
-- separate **inputs** (what actually happened) from **outputs** (the story the brain produced)
-- describe the difference between observable evidence and inferred meaning
-- preview the structure of the Input/Output Audit (formalized in Week 8)
+- separate camera facts from brain stories
+- describe the difference between what happened and what they guessed it meant
+- preview the Detective Check, also called the Input/Output Audit
 
 ---
 
 #### Activities
 
-**1. The Two Columns**
+**1. Camera Facts and Thought Bubbles**
 
-Take a piece of paper. Make two columns:
+Take a piece of paper and make two columns:
 
-| INPUTS (what actually happened — observable) | OUTPUTS (what my brain made of it — interpretation) |
+| What happened? | What did my brain say? |
 |---|---|
 
-> "Inputs are things a camera could record. Outputs are things only your brain can produce. They live in totally different worlds — but they get mixed together so fast it feels like one thing."
+Say:
+
+> "The left side is what a camera could see or hear. The right side is the story your brain added."
 
 ---
 
 **2. The Separation Drill**
 
-Take a recent moment the student is willing to talk about. Walk through it together and fill in the two columns.
+Take a recent low-stakes moment and fill in the two columns.
 
 Example:
 
-- Situation: Mom said "we'll talk about this later" and left the room.
-
-| INPUTS | OUTPUTS |
+| What happened? | What did my brain say? |
 |---|---|
-| Mom said "we'll talk about this later" | She's furious |
-| Mom left the room | She's going to take my phone |
-| Mom did not look at me when she said it | She thinks I'm a terrible kid |
-| | I'm in huge trouble |
+| Parent said, "We'll talk later" | They are furious |
+| Parent walked away | I am in huge trouble |
+| Parent sounded short | I must have messed everything up |
 
-Notice: the **inputs** are very short and concrete. The **outputs** are long, dramatic, and entirely produced by the brain.
+Notice how short the facts are and how long the brain story gets.
 
-This is normal. The brain produces a lot of output from a small amount of input. That's its job.
-
-But it means most of what's making the student feel bad in this moment is the *output column*, not the *input column*. The actual input is "Mom said one ambiguous sentence." That's all.
+That is normal. The brain can build a huge story from a tiny clue.
 
 ---
 
-**3. Preview: The Audit**
+**3. Preview the Detective Check**
 
 Tell the student:
 
-> "Next week we'll learn a tool called the **Input/Output Audit**. It's a step-by-step way to take a strong reaction, strip away all the made-up stories, and see what data your brain actually has. Today we just practiced the basic move. Next week we make it into a full debugging routine."
+> "Soon you will learn a tool called the **Input/Output Audit**. Kid version: **The Detective Check**. It helps you sort camera facts from brain stories and choose a safe next move."
 
-This sets up the rest of the unit.
+This sets up the next part of the unit.
 
 ---
 
@@ -202,31 +210,36 @@ This sets up the rest of the unit.
 
 ### Goal
 
-Catch your story generator in action. Practice separating inputs from outputs.
+Catch your story maker in action and practice separating facts from story.
 
 ### Activities
 
-**1. The Daily Input/Output Drill**
+**1. The Daily Detective Check**
 
-Each day this week, when something pings your emotional system — your gut tightens, you feel hurt, you feel left out, you feel anxious — write down:
+When something pings your feelings this week, write down:
 
-| INPUTS (what a camera saw) | OUTPUTS (what my brain made of it) |
+| What happened? | What did my brain say? |
 |---|---|
 | | |
 
-You don't have to do anything about the outputs. Just notice the gap between them.
+You do not have to fix the story yet. Just notice the gap.
 
-**Minimum viable version (younger learners):** Once this week, write down what actually happened and what your brain said about it. Even just one example counts.
+**Minimum viable version:** Do this once this week.
 
 ---
 
-**2. The Spotter Game (optional, requires partner)**
+**2. Three Possible Stories**
 
-If you have someone available — a sibling, parent, friend — play this game once this week:
+Pick one moment this week and list three possible stories about it.
 
-- Tell each other about a small annoying thing that happened today.
-- The listener's only job is to ask: "What's input and what's output?"
-- See if you can help each other notice the gap.
+Examples:
+
+- friend walked past me
+- teacher sighed
+- parent said "later"
+- group chat got quiet
+
+Fictional examples count.
 
 :::note Solo/Small-Group Fallback
 If you don't have a partner, do the Daily Input/Output Drill alone. The drill works perfectly with just you and the log.
@@ -238,11 +251,11 @@ If you don't have a partner, do the Daily Input/Output Drill alone. The drill wo
 >
 > **Trigger:** ___
 >
-> **Inputs (what a camera saw):**
+> **What happened? (camera facts):**
 > - ___
 > - ___
 >
-> **Outputs (what my brain made of it):**
+> **What did my brain say? (thought bubble):**
 > - ___
 > - ___
 >
@@ -255,11 +268,13 @@ If you don't have a partner, do the Daily Input/Output Drill alone. The drill wo
 - "But my brain said ___."
 - "Another possible story is ___."
 
+**Low-writing options:** camera and thought-bubble drawings, picture cards, checkboxes, or oral answers.
+
 ### Reflection Questions
 
-- Was there a moment this week when the gap between input and output was really big? What was that like to see?
-- Is there someone you know whose story generator runs especially loudly?
-- When your story generator runs fast and strong, what does your body feel like?
+- Was there a moment this week when the camera facts were small but the brain story was huge?
+- Which kind of situation makes your story maker loudest?
+- What does your body feel like when your story maker gets going fast?
 
 ---
 
@@ -267,9 +282,9 @@ If you don't have a partner, do the Daily Input/Output Drill alone. The drill wo
 
 After this week, check whether the learner can:
 
-1. **Name the generator:** "What's the story generator?" (Looking for: something about the brain making up stories / interpretations / guessing what stuff means.)
-2. **Separate input from output:** "Tell me about a recent moment. What's the input, and what's the output?" (Looking for: concrete observable inputs and recognizable interpretations as outputs.)
-3. **Offer an alternative story:** "Your friend ignored you at lunch. Brain's first story: 'She's mad.' What's an alternative?" (Looking for: any reasonable alternative explanation — "she was distracted," "she didn't see me," "she had a bad morning.")
+1. **Name the story maker:** "What is the story maker?" (Looking for: the brain part that guesses what things mean.)
+2. **Separate fact from story:** "Tell me a recent moment. What happened, and what did your brain say?" (Looking for concrete facts and a separate interpretation.)
+3. **Offer another story:** "Your friend ignored you at lunch. First story: 'She is mad.' What is another story?" (Looking for any reasonable alternative.)
 
 If the learner can do at least 2 of these, they are ready for Week 7.
 
@@ -285,15 +300,15 @@ If the learner can do at least 2 of these, they are ready for Week 7.
 ## Pause and Notice
 
 :::note What Matters Here
-After the Separation Drill, ask:
+Ask:
 
-> "What does it feel like to look at the input column and the output column side by side? Which one is bigger? Which one is making you feel more?"
+> "What is it like to see the camera facts and the brain story side by side?"
 
-For most kids, the realization that **most of the bad feeling is coming from the output column, not the input column** is genuinely surprising. The actual thing that happened was small. The mountain of meaning their brain built around it is what hurts.
+For many kids, the surprise is this: the camera facts are often small, but the brain story is huge.
 
-This doesn't make the feeling fake. The feeling is real. But knowing where it's coming from — knowing that most of it is brain-generated narrative — gives you somewhere to act.
+That does not make the feeling fake. It just shows where the extra intensity may be coming from.
 
-**This week's takeaway:** The brain doesn't just see. It interprets. Naming the interpretation is the first move in deciding whether to trust it.
+**This week's takeaway:** The brain does not only see. It interprets. Naming the interpretation is the first step in checking it.
 :::
 
 ---
@@ -308,13 +323,13 @@ This doesn't make the feeling fake. The feeling is real. But knowing where it's 
 ---
 
 :::tip Simplify (Ages 8–9)
-Stick with picture-card story-telling. Show a picture, ask "what's the story?" — then ask "could it be something else?" The whole week can be a series of those games. The takeaway: "My brain makes up stories really fast. They aren't always right."
+Stick with picture cards and thought bubbles. The key idea is enough: "My brain makes up stories fast, and I can check them."
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner try to notice their story generator running in real time once a day for a week. Bonus challenge: catch a story generator running in someone else — a parent, a sibling, a character in a show — and describe what input they were turning into what output.
+Have the older learner notice their story maker once a day for a week and record the first story plus two alternative stories.
 :::
 
 :::tip Vocabulary This Week
-**story generator**, **narrative**, **input**, **output**, **audit**
+**story maker**, **camera facts**, **brain story**, **Input/Output Audit** (toolbox phrase)
 :::

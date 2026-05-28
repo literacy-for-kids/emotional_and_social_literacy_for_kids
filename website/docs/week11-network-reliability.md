@@ -6,29 +6,35 @@ description: "How consistency and predictability create high-bandwidth, low-fric
 ---
 
 # Week 11: Consistency, Transparency, and High-Bandwidth Connections
-*Trust, Ledgers, and Network Security — Unit 3 Capstone*
+*Easy to Count On: Small Things That Make Relationships Easier*
 
-For two weeks we have been talking about the trust ledger and interface specs. This week we look at what makes a connection actually *work*.
+For two weeks you have talked about trust jars and boundary rules. This week you look at one of the biggest things that makes a relationship feel easier: **reliability**.
 
-The single biggest factor in any healthy relationship is **reliability**. Not big gestures. Not deep heart-to-hearts. Not constant texting. **Reliability** — the simple, repeated experience of "this person does what they say they're going to do, in a way I can predict."
+Kid version: **easy to count on**.
 
-Think of it as bandwidth. A reliable connection is **high-bandwidth**: you can send data through it quickly, with confidence it'll be received the way you expect. An unreliable connection is **low-bandwidth**: every message takes extra effort because you can't predict how the other side will respond. You have to add disclaimers, hedge, prepare for surprise reactions, or hold back data you'd otherwise share.
+Reliable people do what they say they will do, or they tell you when plans change. They do not need to be perfect. They need to be predictable.
 
-Reliability isn't glamorous. But it's the highest-leverage thing you can be in any network you're part of.
+The toolbox phrase **bandwidth** can stay in the background this week. The child-facing idea is simpler: some people are easy to count on, and that makes friendship feel easier.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Some people are easy to count on. Some people make everything feel harder because you never know what they will do. This week is about becoming someone others can count on."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: consistency is more valuable than intensity. Predictability is more valuable than perfection.
-- The skill: noticing reliability (in yourself and others) and using it as a signal.
-- Avoid moralizing about unreliable people. Goal is awareness of the dynamic.
-- This is Unit 3's capstone — package the ideas, don't add new ones.
+- The big idea: consistency matters more than intensity.
+- Lead with **easy to count on** and **reliability**. Offer **bandwidth** as a toolbox phrase only.
+- Keep the focus on small habits, not dramatic promises.
+- Avoid shaming unreliable behavior. The goal is awareness and repair.
+- This is Unit 3's capstone, so package the ideas instead of adding new theory.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Bandwidth of Reliability](#guided-session-1)
-- [Guided Session 2: Unreliable Nodes](#guided-session-2)
+- [Guided Session 1: Easy to Count On](#guided-session-1)
+- [Guided Session 2: Small Reliable Moves](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +44,7 @@ Reliability isn't glamorous. But it's the highest-leverage thing you can be in a
 |---|---|
 | **Prep time** | ~10 minutes |
 | **Materials** | Telemetry Log, paper, pencil, optional: a partner, optional: a few small objects representing nodes in a network |
-| **Key vocabulary** | reliability, bandwidth, predictability, network node, low-friction connection |
+| **Key vocabulary** | reliability, easy to count on, bandwidth, predictability |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -50,81 +56,92 @@ Reliability isn't glamorous. But it's the highest-leverage thing you can be in a
 :::
 
 :::tip Facilitation Mindset
-This week's central insight runs counter to a lot of cultural messaging. We tell kids that the best friendships are "best friends forever" or "ride or die" — high-intensity stuff. The truth is much quieter: the best connections are usually the ones where you can text "hey, can we reschedule?" and not have to wonder how the other person is going to take it.
+This week's lesson is quieter than some others.
 
-Reliability is the long game. Help the student see that being a reliable node is a superpower — even when it's invisible.
+The best connections are often the ones where a student can say, "I am running late," or "Can we reschedule?" and not fear a huge reaction.
+
+Reliability is the long game. Help the student see that a small yes you keep is stronger than a big yes you cannot keep.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "When people do what they say they'll do, it's easy to be friends with them. When they don't, every friendship feels like extra work."
+**Simplest version of the concept:** "When people do what they say they will do, friendship feels easier."
 
 **What to shorten or skip:**
-- Skip "bandwidth" and "node" vocabulary if it's heavy. Use "easy to count on" and "person in your group."
-- Skip the network diagram if drawing feels effortful.
+- Skip most bandwidth and network language.
+- Focus on one or two real-life examples.
 
 **Adapting the activities:**
-- Use storytelling: "Tell me about a friend who's really easy to count on." "Tell me about someone who isn't."
-- Make it about being a reliable friend yourself, not analyzing other people.
+- Use stories about being on time, returning messages, or bringing what you promised.
+- Keep the focus on what the child can do.
 
-**Journal alternative:** "I am easy to count on when I ___. I'm not as easy to count on when I ___."
+**Journal alternative:** "I am easy to count on when I ___."
 
-**What success looks like:** The student can describe what it feels like when someone is reliable, and can name one way they themselves are reliable.
+**What success looks like:** The student can name one way they are easy to count on and one way they want to improve.
 :::
 
 ---
 
 ## Guided Session 1
-### The Bandwidth of Reliability
+### Easy to Count On
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe **bandwidth** in a relationship as a measure of how much you can send through with low effort
-- identify three behaviors that build high-bandwidth connections
-- recognize that intensity is not the same as reliability
+- describe reliability as doing what you said you would do in a predictable way
+- identify at least 3 small behaviors that make someone easy to count on
+- understand that big feelings and big words are not the same as reliability
 
 ---
 
 #### Activities
 
-**1. The Bandwidth Idea**
+**1. What Easy to Count On Feels Like**
 
 Explain:
 
-> "When you message someone you really trust, you can be quick. You don't have to add disclaimers. You don't have to wonder how they'll take it. That's a **high-bandwidth** connection — you can send a lot of data, quickly, with confidence.
->
-> But there are people you can't message that way. With them, you have to choose your words carefully. You have to prepare for them to react badly. You have to leave things unsaid. That's a **low-bandwidth** connection. Every message takes extra effort."
+> "When someone is easy to count on, your body usually feels more relaxed around them. You know what to expect."
 
-Ask the student to think of one of each kind of connection in their life. (No names need to be shared.)
+Examples:
 
----
+- they show up when they said they would
+- they text back when they can
+- they tell you if plans change
+- they bring the thing they promised
 
-**2. The Three Reliability Behaviors**
+Optional toolbox phrase:
 
-The behaviors that make a connection high-bandwidth aren't dramatic. They're:
-
-**1. Consistency.** You can predict how the person will respond. They don't swing between warm and cold for no reason.
-
-**2. Following through.** When they say they'll do something — text back, save a seat, show up at 4 — they actually do it. Small things matter as much as big.
-
-**3. Transparency.** When something changes, they tell you. "I can't make it after all — sorry." Not just disappearing.
-
-> "None of these are flashy. None of them make for a great story. But they are the difference between an easy friendship and a hard one."
+> "Grown-ups sometimes call this high-bandwidth."
 
 ---
 
-**3. Intensity vs. Reliability**
+**2. Three Reliable Habits**
 
-Some kids confuse *intensity* with *closeness*. A friend who tells you they love you every day but doesn't follow through on plans isn't actually higher-bandwidth than a quiet friend who shows up reliably.
+Three habits make someone easier to count on:
+
+1. **Consistency:** you can usually predict them
+2. **Follow-through:** they do what they said
+3. **Transparency:** they tell you when something changes
+
+Examples kids can use:
+
+- put backpack by the door
+- answer grandma's message
+- show up when you said you would
+- tell someone if plans change
+- bring the thing you promised
+
+---
+
+**3. Small Yes Beats Big Yes**
 
 Ask:
 
-> "Have you ever had a friend who said all the right things but didn't actually show up? What did that feel like over time?"
+> "Which is more helpful: a huge promise that falls apart, or a small promise that gets kept?"
 
-> "Have you ever had a friend who didn't say a lot of dramatic stuff but was always there? What did that feel like over time?"
+Key idea:
 
-The second kind of friendship is usually higher-bandwidth, even if it's quieter on the surface.
+**Small yes beats big yes you cannot keep.**
 
 :::info Low-Bandwidth Repair Scripts
 When reliability slips, repair is usually small and concrete:
@@ -140,61 +157,63 @@ Limited availability is not a moral failure. The goal is not shaming people for 
 ---
 
 ## Guided Session 2
-### Unreliable Nodes
+### Small Reliable Moves
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe how an unreliable node affects the whole network around it
-- identify their own reliability patterns (where you're reliable, where you're not)
-- understand that being reliable in small things builds an enormous reputation over time
+- describe how unreliable behavior makes a group or friendship harder to manage
+- identify one place they are already reliable and one place they want to improve
+- understand that small repeated actions build a reputation over time
 
 ---
 
 #### Activities
 
-**1. The Network Drawing**
+**1. What Happens When People Cannot Count on You**
 
-Draw a small network — five or six circles connected by lines. Each circle is a person. Each line is a relationship.
+Tell a short story or draw a simple group:
 
-Now imagine one of the circles is unreliable. They say they'll be somewhere and don't show up. They cancel last-minute. They forget. They flake.
+- someone says they will come and does not show up
+- someone always forgets what they promised
+- someone never tells people when plans change
 
-What happens to the network around them?
+Ask:
 
-- Other people start hedging when they include this node. They add "if you actually come" or stop counting on them being there.
-- Plans take more effort because no one can predict if this node will participate.
-- Other connections — between the unreliable node's friends — sometimes get stronger, because they coordinate around the unreliable person.
+- How does that affect the group?
+- What extra work does it create?
 
-The unreliable node usually doesn't see this happening. From their perspective, "things are fine" — they just bailed once or twice. But from the network's perspective, the bandwidth around them has dropped significantly.
-
----
-
-**2. Your Own Reliability Audit**
-
-Ask the student to be honest:
-
-> "Where are YOU reliable in your network? Where are you NOT reliable?"
-
-Most people are reliable in some contexts and unreliable in others. Examples:
-
-- "I'm super reliable with school stuff but I always forget to text my grandma back."
-- "I follow through with friends but bail on family events."
-- "I'm great with big stuff but I forget the small things."
-
-Write this in the Telemetry Log. Self-awareness about reliability patterns is enormously valuable — and rare.
+The group starts planning around that person.
 
 ---
 
-**3. The Reputation Effect**
+**2. My Own Reliability Check**
 
-Reliability compounds over time. A kid who is reliably on time for things for two years has a totally different reputation than a kid who's reliably on time *most* of the time. The small difference compounds into a big one.
+Ask:
 
-This works in your favor: you don't have to be perfect to build a strong reputation. You just have to be consistent. Pick one small reliability win you can deliver every week (or every day) for the next month and stick to it. That's enough to start.
+> "Where are you already easy to count on? Where do you slip?"
 
 Examples:
 
-- Always respond to a friend's text within 24 hours
-- Always be where you said you'd be at the time you said you'd be there
-- Always remember one specific recurring thing (your sister's volleyball game, your dad's morning meeting)
+- "I remember school things but forget texts."
+- "I show up for friends but forget chores."
+- "I am good with big promises but bad with small ones."
+
+Write it in the Telemetry Log.
+
+---
+
+**3. Pick One Reliable Move**
+
+Choose one small reliability win for this week.
+
+Examples:
+
+- always answer one message the same day
+- always put the backpack by the door
+- always tell someone if plans change
+- always bring the thing you promised
+
+The point is not perfection. The point is steady follow-through.
 
 ---
 
@@ -202,34 +221,31 @@ Examples:
 
 ### Goal
 
-Identify your reliability patterns. Commit to one small reliability win and execute it this week.
+Identify your reliability patterns and keep one small reliable promise this week.
 
 ### Activities
 
-**1. The Reliability Audit (Self)**
+**1. My Reliability Check**
 
 Write out:
 
-- **Where I'm reliable:** ___
-- **Where I'm not:** ___
-- **The smallest area where I'd like to be more reliable:** ___
-- **My commitment this week:** ___
+- where I am reliable: ___
+- where I slip: ___
+- my one small commitment this week: ___
 
-Keep the commitment SMALL. "Always show up to family dinner on time this week" is a great commitment. "Be more reliable in general" is not — it's too vague.
+Keep it small and clear.
 
-**Minimum viable version (younger learners):** Pick one thing — like "make my bed every day" or "text my friend back the same day." Mark on the calendar each day you do it.
+**Minimum viable version:** Pick one thing and mark each day you did it.
 
 ---
 
-**2. The Bandwidth Test**
+**2. The Easy-to-Count-On Test**
 
-Pick three relationships in your life. For each, ask yourself:
+Pick three relationships and ask:
 
-- Is this a high-bandwidth or low-bandwidth connection?
-- What makes it that way?
-- Is there one thing I could do this month to make it higher-bandwidth?
-
-You're auditing the relationship, but the only thing you can control is your own side of the connection.
+- Does this relationship feel easy to count on or harder?
+- What makes it feel that way?
+- What is one thing I can control that might help?
 
 :::note Solo/Small-Group Fallback
 The reliability audit is solo. The reliability commitment requires showing up for someone else — but that other person doesn't have to know about the curriculum. Showing up reliably is its own message.
@@ -253,11 +269,13 @@ The reliability audit is solo. The reliability commitment requires showing up fo
 - "I am easy to count on when ___."
 - "I want to be more reliable about ___."
 
+**Low-writing options:** sticker calendar, checkboxes, tally marks, or oral answers.
+
 ### Reflection Questions
 
-- Who is the most reliable person in your life? What does it feel like to know them?
-- What's your most reliable trait, in your honest opinion?
-- What's one place you'd like to upgrade your reliability?
+- Who is the easiest person to count on in your life?
+- What is one way you are already reliable?
+- What is one place you want to upgrade?
 
 ---
 
@@ -265,9 +283,9 @@ The reliability audit is solo. The reliability commitment requires showing up fo
 
 After this week, check whether the learner can:
 
-1. **Define bandwidth in their words:** "What does it mean for a friendship to be 'high-bandwidth'?" (Looking for: something about being easy to communicate with / predictable / low effort / easy to count on.)
-2. **Distinguish reliability from intensity:** "Is the friend who tells you they love you all the time always the most reliable? Why or why not?" (Looking for: the recognition that words and follow-through aren't the same.)
-3. **Own their pattern:** "Where are YOU reliable in your life and where are you not?" (Looking for: honest, specific self-awareness — not just "I'm pretty reliable.")
+1. **Define reliability:** "What does it mean to be easy to count on?"
+2. **Distinguish reliability from intensity:** "Is someone reliable just because they say big nice things? Why or why not?"
+3. **Own their pattern:** "Where are you reliable, and where do you slip?"
 
 If the learner can do at least 2 of these, they are ready for Week 12.
 
@@ -276,15 +294,13 @@ If the learner can do at least 2 of these, they are ready for Week 12.
 ## Pause and Notice
 
 :::note What Matters Here
-After the bandwidth test, ask:
+Ask:
 
-> "Think about your highest-bandwidth relationship. What does it feel like in your body when you're with that person? What does it feel like when you message them?"
+> "What does it feel like in your body when you are with someone you can really count on?"
 
-For most kids, this is a kind of body relaxation — shoulders drop, breath slows, the whole system unclenches. That's the *somatic signature* of a high-bandwidth connection. Your body knows.
+For many kids, the answer is some version of: calmer, easier, less tense.
 
-The point: reliability isn't just a relationship feature. It's a gift your hardware can directly feel. The more reliable your connections, the lower the background load your system carries through the day.
-
-**This week's takeaway:** Be the reliable node. Not perfect — predictable. The network around you will reward it in ways you don't even see.
+**This week's takeaway:** You do not need to be perfect. You do need to be predictable.
 :::
 
 ---
@@ -300,11 +316,11 @@ The point: reliability isn't just a relationship feature. It's a gift your hardw
 ---
 
 :::tip Simplify (Ages 8–9)
-Skip the "bandwidth" and "network node" language. Use: "Being someone people can count on is one of the most important things you can be." Have the student commit to one tiny reliability win this week and track it on a calendar with stickers.
+Skip most of the bandwidth language. Use: "Being someone people can count on is important." Track one tiny reliability win with stickers.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner think about a famous "reliable person" — a coach, a teacher, a public figure — and describe what specifically they do that earns the reputation. Then identify one specific person who's *un*reliable and reverse-engineer what's happening. Concrete analysis beats abstract concepts.
+Have the older learner analyze a reliable person they admire and list the small habits that make that person trustworthy.
 :::
 
 ## Related Tools
@@ -315,5 +331,5 @@ Have the older learner think about a famous "reliable person" — a coach, a tea
 ---
 
 :::tip Vocabulary This Week
-**reliability**, **bandwidth**, **predictability**, **network node**, **low-friction connection**
+**reliability**, **easy to count on**, **bandwidth** (toolbox phrase), **predictability**
 :::

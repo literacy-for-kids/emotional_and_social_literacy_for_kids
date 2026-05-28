@@ -6,29 +6,41 @@ description: "The Input/Output Audit — a step-by-step debugging routine that s
 ---
 
 # Week 8: Separating Signal from Narrative Noise
-*Debugging the Signal Noise — Unit 2 Capstone*
+*The Detective Check: What Happened, What My Brain Said, What I Do Next*
 
-Three weeks ago, you learned that the brain runs predictable bugs. Two weeks ago, you learned that the brain wraps stories around every signal. Last week, you learned that those stories can amplify themselves into runaway spirals.
+Three weeks ago, you learned about thought bugs. Two weeks ago, you learned about the story maker. Last week, you learned how a worry snowball grows.
 
-This week, you put it all together into a single tool: the **Input/Output Audit**.
+This week, you put those ideas together in one tool: **The Detective Check**.
 
-The audit is a step-by-step routine for taking a strong reaction, stripping away the narrative noise, isolating the raw data signal, and producing a **rational response protocol** — a deliberate decision about what to actually do.
+The formal toolbox name is **Input/Output Audit**. Kid version:
 
-This is the most important skill in Unit 2. From this week on, when something pings your emotional system, you don't have to react from the middle of the noise. You have a tool.
+1. What happened?
+2. What did my body feel?
+3. What did my brain say?
+4. Is that definitely true?
+5. What is my next safe move?
+
+This is the biggest skill in Unit 2. It helps a child slow down after a hard moment and choose a next step on purpose.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"When something upsetting happens, slow down and ask: What happened? What did my brain say? What is a safe next move?"
+:::
+
 :::info Facilitator Snapshot
-- This week consolidates Unit 2 into one process. Don't add new ideas — assemble what's there.
-- The Input/Output Audit will be used in every remaining unit. Get the structure clear now.
-- Make the audit feel like a piece of equipment the student owns — not a worksheet.
-- The audit is for AFTER the hijack passes. It is not a tool to use *during* a full meltdown.
+- This week consolidates Unit 2 into one process. Do not add new ideas.
+- Lead with **The Detective Check**. Offer **Input/Output Audit** as the formal tool name.
+- Make the tool feel like something the student owns, not a compliance worksheet.
+- This tool is for **after** the hot moment starts cooling down, not during a full meltdown.
+- Use low-stakes examples first. Fictional examples count.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Audit Walkthrough](#guided-session-1)
-- [Guided Session 2: The Rational Response Protocol](#guided-session-2)
+- [Guided Session 1: The Detective Check Walkthrough](#guided-session-1)
+- [Guided Session 2: Choosing a Next Safe Move](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +50,7 @@ This is the most important skill in Unit 2. From this week on, when something pi
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log, paper, pencil, optional: an index card to keep a pocket version of the audit on |
-| **Key vocabulary** | input/output audit, signal, noise, rational response protocol |
+| **Key vocabulary** | detective check, input/output audit, camera facts, next safe move |
 | **Difficulty** | Moderate (synthesis of Unit 2) |
 
 ## Facilitator Preparation
@@ -50,150 +62,147 @@ This is the most important skill in Unit 2. From this week on, when something pi
 :::
 
 :::tip Facilitation Mindset
-This week is craft, not feeling. You are teaching the student to use a tool. Give them time to handle it. Walk through an example slowly. Don't rush to the insight — let the structure itself do the work.
+This week is tool practice.
 
-Important: the audit is for *after* the emotional intensity has come down. You can't audit while you're hijacked — the prefrontal cortex isn't online enough. The audit is what you do once you can think again. Make that explicit.
+Walk through an example slowly. Do not rush.
+
+Important: this tool is for *after* the emotional intensity has come down enough to think. Do not tell a child to "run the audit" in the middle of a meltdown.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "When something upsets you, we have a checklist now: What happened? What did my brain make of it? Was the story really true? What do I actually want to do?"
+**Simplest version of the concept:** "When something upsets you, you can be a detective: What happened? What did my brain say? What is a smart next move?"
 
 **What to shorten or skip:**
-- Skip the formal "Rational Response Protocol" framing. Just ask "what's the smart thing to do here?"
-- Use only 3 audit steps instead of 5.
+- Skip the formal response-protocol language.
+- Use the tiny 3-step version if needed.
 
 **Adapting the activities:**
-- Make a "Detective Sheet" instead of an audit. The student is a detective looking at the evidence.
-- Use a cartoon character (a goofy detective or scientist) to guide the steps.
+- Make a Detective Sheet.
+- Use camera and thought-bubble pictures.
+- Keep examples low-stakes.
 
-**Journal alternative:** "Something hard happened: ___. What actually happened: ___. What my brain said: ___. Was that really true? ___. What I'm going to do: ___."
+**Journal alternative:** Draw one camera box, one thought bubble, and one action arrow.
 
-**What success looks like:** The student can walk through their detective sheet for one real situation this week, even if they need help.
+**What success looks like:** The student can walk through one detective check with help.
 :::
 
 ---
 
 ## Guided Session 1
-### The Audit Walkthrough
+### The Detective Check Walkthrough
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe the five steps of the Input/Output Audit
-- run the audit on a real recent example with facilitator support
-- understand that the audit is a tool for AFTER the hot feeling, not during it
+- describe the five steps of the Detective Check
+- use the check on a recent or fictional example with support
+- understand that this tool works best after the hot feeling cools down a bit
 
 ---
 
 #### Activities
 
-**1. The Five Steps**
+**1. The Five Detective Steps**
 
-Write the five steps on a piece of paper or large card:
+Write the five steps on a card:
 
-```
-THE INPUT/OUTPUT AUDIT
+```text
+THE DETECTIVE CHECK
 
-STEP 1 — TRIGGER
-What event pinged the system? (One sentence.)
-
-STEP 2 — TELEMETRY
-What did my body do? What was the emotional signal?
-
-STEP 3 — INPUTS
-What actually happened? (Only what a camera would see.)
-
-STEP 4 — OUTPUTS
-What did my brain make of it? Any bugs running?
-(Catastrophizing? Mind-reading? Personalization? All-or-nothing?)
-
-STEP 5 — REWRITE
-What is a more accurate story? What's the rational response?
+1. What happened?
+2. What did my body feel?
+3. What did my brain say?
+4. Is that definitely true?
+5. What is my next safe move?
 ```
 
-Each step is short. The whole audit should take five minutes once you know it.
+Toolbox names:
+
+- Detective Check = **Input/Output Audit**
+- next safe move = **rational response protocol**
 
 ---
 
 **2. The Worked Example**
 
-Walk through one real example together. Use one of the student's recent moments — ideally from the past week.
+Walk through one example together.
 
 Example:
 
-> **TRIGGER:** Got a 7/10 on a spelling quiz instead of the 10/10 I usually get.
+> **What happened?** I got 3 words wrong on a spelling quiz.
 >
-> **TELEMETRY:** Chest tight. Throat felt thick. Eyes watery. Wanted to hide the paper.
+> **What did my body feel?** Tight chest, watery eyes, wanted to hide the paper.
 >
-> **INPUTS:** I got 3 words wrong. The teacher handed me back the paper without saying anything. Two classmates saw my score.
+> **What did my brain say?** "I am terrible at school." "Everyone saw." "Mom will be so mad."
 >
-> **OUTPUTS:** "I'm stupid." "Everyone is going to laugh at me." "I'm bad at school now." "Mom is going to be furious." (Bugs: catastrophizing AND all-or-nothing thinking.)
+> **Is that definitely true?** No. I know I got 3 words wrong. I do not know what everyone thinks.
 >
-> **REWRITE:** I got 3 words wrong on a quiz. That's a thing that happened. Most kids get things wrong sometimes. The teacher didn't say anything, which probably just means she was busy. Mom will care if I'm trying — and I am trying. The rational response: review the 3 words tonight, ask the teacher tomorrow about the rule, move on.
+> **What is my next safe move?** Review the three words, ask for help if needed, and keep going.
 
-Notice how short the inputs are. Notice how big the outputs are. Notice how the rewrite isn't about pretending the situation didn't happen — it's about responding to what *actually* happened instead of to the story.
+Notice how short the facts are and how big the brain story gets.
 
 ---
 
-**3. The Audit Card**
+**3. The Pocket Card**
 
-Have the student write the five steps on a small index card or sticky note. Put it somewhere they'll see it — in the Telemetry Log, by their bed, in a homework folder. The point is to have the audit handy when they need it.
-
-If a full five-step write-up is too much in the moment, use a pocket-card version first:
+Have the student write the short version on an index card:
 
 ```text
-TRIGGER -> CAMERA FACTS -> BRAIN STORY -> NEXT SAFE MOVE
+CAMERA FACTS -> BRAIN STORY -> NEXT SAFE MOVE
 ```
 
-Then expand it into the full audit later.
+The full five-step version can live in the Telemetry Log.
 
 ---
 
 ## Guided Session 2
-### The Rational Response Protocol
+### Choosing a Next Safe Move
 #### Learning Goal
 By the end of this session, the student can:
 
-- write a **rational response protocol** based on an audit
-- distinguish between an emotional reaction and a deliberate response
-- understand that the response can include emotion — it just isn't *driven by* emotion
+- choose a next safe move after the Detective Check
+- distinguish a fast reaction from a thoughtful response
+- generate more than one possible next step before picking one
 
 ---
 
 #### Activities
 
-**1. Reaction vs. Response**
+**1. Reaction vs. Next Safe Move**
 
 Explain:
 
-> "An emotional reaction happens automatically. The hijack chooses it. The bugs amplify it. You don't really decide.
->
-> A rational response is what you choose AFTER the audit. It comes from the thinking brain. It might still include feelings — you might still be sad, frustrated, hurt. But the action you take is *chosen*, not *triggered*."
+> "A reaction jumps out fast. A next safe move is chosen after you slow down enough to think."
 
-The audit's final step — the **rewrite** — is where the rational response gets designed.
+The student can still feel sad, mad, embarrassed, or worried. The difference is that the next move is chosen on purpose.
 
 ---
 
 **2. The Three-Option Rule**
 
-When designing a rational response, write down at least three possible actions before picking one:
+Before choosing a next move, write down three options.
 
-Example: friend canceled plans at the last minute. What's the rational response?
+Example: a friend canceled plans.
 
-- **Option 1:** Send a passive-aggressive text. (Reaction. Costs trust. Will regret.)
-- **Option 2:** Don't respond at all. (Avoidance. Doesn't solve anything.)
-- **Option 3:** Reply with "no worries, hope everything's okay — want to reschedule for ___?" (Honest, low-cost, leaves the door open.)
+- Option 1: send a mean text
+- Option 2: ignore them completely
+- Option 3: send a calm message and ask to reschedule
 
-The point of writing three options is that **the first option that pops into your head is usually the reaction, not the response.** Forcing yourself to write three slows you down enough for the thinking brain to weigh in.
+The first idea is often the reaction. Writing three options helps thinking brain join in.
 
 ---
 
-**3. Walking Another Real Example All the Way Through**
+**3. Try Another Example**
 
-Pick a second recent event from the student's life. Run the full audit + three-option rule. Pick a rational response together.
+Run the full Detective Check on a second example:
 
-If they can do this with you today, they can do it alone next week.
+- someone bumps into you in the hall
+- a sibling borrows something without asking
+- the group chat gets quiet
+- a teacher sounds short
+
+Pick the next safe move together.
 
 ---
 
@@ -201,29 +210,31 @@ If they can do this with you today, they can do it alone next week.
 
 ### Goal
 
-Run the Input/Output Audit on at least three real moments this week. Pick a rational response for each.
+Run the Detective Check on at least three moments this week. Pick a next safe move for each.
 
 ### Activities
 
-**1. The Audit Streak**
+**1. The Detective Check Streak**
 
-Run the full audit on three moments this week. They can be small — they don't have to be major emotional events. In fact, practicing on small things makes it easier when something big happens.
+Use the full check on three moments this week. Small examples are better than huge ones.
 
-For each audit:
+For each one:
 
-- Use all five steps
-- Use the three-option rule for the response
-- Note what you actually did
+- use all five steps
+- list three options
+- choose one next safe move
 
-**Minimum viable version (younger learners):** Do one audit this week with facilitator help. Use the simpler 3-question version from the For Younger Learners block.
+**Minimum viable version:** Do one check this week with help.
 
 ---
 
-**2. The Catch Comparison**
+**2. The Compare-It Check**
 
-After each audit, ask yourself: **how would I have reacted WITHOUT the audit?**
+After each Detective Check, ask:
 
-Write it down. Comparing "what I would have done" vs "what I actually did" makes the value of the tool concrete.
+> "What would I probably have done without this tool?"
+
+Compare that to what you actually did.
 
 :::note Solo/Small-Group Fallback
 The audit is fundamentally a solo tool. No partner needed. If you have one, you can compare audits — but the audit itself is between you and your log.
@@ -231,40 +242,37 @@ The audit is fundamentally a solo tool. No partner needed. If you have one, you 
 
 ### Telemetry Log
 
-> Reserve a section of your Telemetry Log for audits. Each audit follows the same five-step structure:
+> Reserve a section of your Telemetry Log for Detective Checks. Each one follows the same five steps:
 >
-> **TRIGGER:** ___
+> **What happened?:** ___
 >
-> **TELEMETRY (body + emotional signal):** ___
+> **What did my body feel?:** ___
 >
-> **INPUTS (what actually happened):**
+> **What did my brain say?:**
 > - ___
 >
-> **OUTPUTS (what my brain made of it):**
-> - ___
+> **Is that definitely true?:** ___
 >
-> **Bug(s) running:** ___ (catastrophizing / mind-reading / personalization / all-or-nothing / none)
->
-> **REWRITE (rational response):**
+> **My next safe move:**
 > - Option 1: ___
 > - Option 2: ___
 > - Option 3: ___
 > - Picked: ___
 >
-> **What actually happened:** ___
->
-> **Note for next time:** ___
+> **What actually happened after that?:** ___
 
 **Sentence starters for younger learners:**
-- "What actually happened was ___."
+- "What happened was ___."
 - "My brain said ___."
-- "The smart thing to do is ___."
+- "My next safe move is ___."
+
+**Low-writing options:** pocket card, checkboxes, short phrases, or oral answers.
 
 ### Reflection Questions
 
-- Did doing the audit change what you actually did in any moment this week?
-- Was there a moment where running the audit was too hard? When?
-- Which step of the audit do you find easiest? Which is hardest?
+- Did the Detective Check change what you actually did?
+- Was there a moment when this tool was too hard to use? When?
+- Which step feels easiest? Which step feels hardest?
 
 ---
 
@@ -272,9 +280,9 @@ The audit is fundamentally a solo tool. No partner needed. If you have one, you 
 
 After this week, check whether the learner can:
 
-1. **List the audit steps:** "What are the five steps of the audit?" (Looking for: trigger, telemetry, inputs, outputs, rewrite — even rough versions count.)
-2. **Run a quick audit:** Give them a small hypothetical ("imagine someone bumps into you in the hall and doesn't apologize"). Have them run the audit out loud. (Looking for: a separation of inputs from outputs and a non-reactive rational response.)
-3. **Distinguish reaction from response:** "What's the difference between an emotional reaction and a rational response?" (Looking for: something about reaction being automatic / instant / from the hijack vs. response being chosen / deliberate / after thinking.)
+1. **List the steps:** "What are the five steps of the Detective Check?" (Rough versions count.)
+2. **Run a quick check:** Give a small hypothetical and have them do the steps out loud.
+3. **Distinguish reaction from response:** "What is the difference between a fast reaction and a next safe move?"
 
 If the learner can do at least 2 of these, they are ready for Unit 3 (Week 9).
 
@@ -290,17 +298,15 @@ If the learner can do at least 2 of these, they are ready for Unit 3 (Week 9).
 ## Pause and Notice
 
 :::note What Matters Here
-After running an audit on a real event, ask:
+Ask:
 
-> "What did it feel like to slow down enough to actually run the audit? Was it hard? Did anything change about how the situation felt?"
+> "What did it feel like to slow down enough to actually use the tool?"
 
-Some students find the audit weirdly calming — like the mere act of writing the steps down lets their nervous system release. Others find it tedious at first. Both are normal.
+Some students find the steps calming. Others think it feels slow at first. Both are normal.
 
-The bigger point: **a tool you can run is a thousand times more powerful than advice you can't.** Telling a kid to "calm down" or "don't worry so much" rarely lands. Handing them a five-step audit they've practiced — that lands.
+The bigger point is simple: **a practiced tool beats vague advice.**
 
-You now have a tool. The rest of the curriculum assumes you can use it.
-
-**This week's takeaway:** Strong feelings are loud. The skill is creating enough quiet — through the audit — to hear what the situation actually requires.
+**This week's takeaway:** Strong feelings are loud. The Detective Check helps create enough quiet to choose a next safe move.
 :::
 
 ---
@@ -320,15 +326,15 @@ You now have a tool. The rest of the curriculum assumes you can use it.
 Use a 3-step Detective Sheet instead of a 5-step audit:
 1. **What happened?** (the input)
 2. **What did my brain say?** (the output)
-3. **What's the smart move?** (the response)
+3. **What's the smart next move?** (the response)
 
 That's enough. The fuller audit can come later.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner add a **prediction column** to their audits: "I think the rational response will lead to ___." Then they get to see whether their predictions were right. Over time, they're building calibration — knowing when their predictions match reality and when they don't.
+Have the older learner add a prediction line: "I think this next safe move will lead to ___." Then compare prediction to reality.
 :::
 
 :::tip Vocabulary This Week
-**input/output audit**, **signal**, **noise**, **rational response protocol**
+**detective check**, **Input/Output Audit** (toolbox phrase), **camera facts**, **next safe move**
 :::

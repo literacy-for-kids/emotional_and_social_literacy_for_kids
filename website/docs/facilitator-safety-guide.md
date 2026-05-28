@@ -8,6 +8,8 @@ description: "Safety, privacy, disclosure, and capstone guardrails for adults te
 
 This curriculum teaches emotional and social literacy. It gives students language, models, and tools for reading signals, separating facts from interpretations, and designing safer responses.
 
+Adults should expect to see both kid-facing terms and toolbox terms. For example: **Body Signal Notebook / Telemetry Log**, **thought bugs / cognitive distortions**, **trust jar / trust ledger**, **Check Before You Tell / verification**, and **When/Then Plan / protocol**.
+
 It is **not therapy**. It does not diagnose, treat, or replace mental health care. Adults using this curriculum do not need to act like therapists. They do need to create emotional safety, protect privacy, and escalate appropriately when something is outside the scope of a lesson.
 
 :::caution Safety Scope
@@ -62,7 +64,7 @@ If a student shares something that suggests danger, abuse, neglect, self-harm, h
 
 ## Telemetry Log and Mandatory Reporting
 
-The **Telemetry Log** is designed as a private journal. Students are encouraged to treat it as their own record, and facilitators should not require students to share log entries publicly.
+The **Telemetry Log** is designed as a private journal. Many students may call it their **Body Signal Notebook**. Students are encouraged to treat it as their own record, and facilitators should not require students to share log entries publicly.
 
 However, **the log is not confidential when safety is involved.**
 
@@ -165,6 +167,8 @@ When in doubt, skip the ice cube and use a textured object or an environment sca
 
 Use this checklist before approving a Week 15–18 project.
 
+The kid-facing capstone language is: **pick one problem that keeps happening**, make a **When/Then Plan**, use it during **Try-It Week**, then **look back** and patch it. Adults may still see the formal terms friction point, protocol, deployment, and post-mortem in support materials.
+
 A project is appropriate if it is:
 
 - low-stakes
@@ -205,6 +209,7 @@ Use extra care when lessons touch group chats, screenshots, rumors, or network m
 - Use anonymized or fictional networks whenever possible.
 - Do not screenshot, forward, or share private messages as part of an activity unless a responsible adult is addressing a real safety need.
 - If a digital example is needed, strip names and identifying details.
+- Teach Week 13's **Check Before You Tell** rule before asking students to discuss any rumor or screenshot example.
 
 The goal is to understand group patterns, not assign social value.
 

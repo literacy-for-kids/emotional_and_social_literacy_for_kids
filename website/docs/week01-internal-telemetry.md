@@ -6,29 +6,37 @@ description: "Students map their own biological hardware and learn to read body 
 ---
 
 # Week 1: Mapping Your Biological Hardware
-*Internal Telemetry & Hardware States*
+*Body Signals: Learning to Notice What Your Body Is Telling You*
 
-Welcome to Emotional & Social Literacy. Over the coming weeks, you are going to learn how your own hardware works — and how to read the signals it sends you.
+Welcome to Emotional & Social Literacy. Over the next 18 weeks, you will practice noticing what is happening inside you and around you.
 
-This week we start with the most basic idea in the entire curriculum:
+This week starts with one big idea:
 
-**Your body is constantly sending you data. Heartbeat, breath, energy, hunger, tightness, warmth — these are not random feelings. They are telemetry. They are the system telling you something is happening.**
+**Your body sends little messages all day. Heartbeat, breath, hunger, tight shoulders, tired eyes, hot cheeks, wiggly legs, butterflies in your stomach - these are body signals. The grown-up toolbox word is telemetry.**
 
-Engineers do not curse the dashboard lights on a car. They read them. This week, you learn to do the same with the dashboard inside you.
+You do not have to explain a body signal right away. First, you learn to notice it.
+
+Think of this week like becoming a **Body Signal Detective**. You are learning to read your own body dashboard: heart, breath, stomach, shoulders, and energy.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Your body sends little messages all day. This week you practice noticing them so you can understand yourself a little sooner."
+:::
+
 :::info Facilitator Snapshot
-- This is a low-stakes, sensory week. The goal is curiosity, not insight.
-- Help the student practice the move from "I feel weird" to "my chest is tight and my breath is shallow."
-- Avoid asking *why* the student feels something. Stay on *what* the signal is.
-- Introduce the Telemetry Log at the end of the week. A simple notebook is all you need.
+- This is a low-stakes sensory week. The goal is curiosity, not deep sharing.
+- Lead with **body signals**. Offer **telemetry** as an optional toolbox word.
+- Use drawing, pointing, stickers, or oral answers before asking for writing.
+- Do not ask *why* the child feels something. Stay with *what* they notice.
+- Introduce the Telemetry Log as a **Body Signal Notebook** if that language lands better.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Dashboard Tour](#guided-session-1)
-- [Guided Session 2: Signal Hunting](#guided-session-2)
+- [Guided Session 1: Body Signal Detective](#guided-session-1)
+- [Guided Session 2: What's Normal for Me?](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -37,23 +45,26 @@ Engineers do not curse the dashboard lights on a car. They read them. This week,
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | A notebook for the Telemetry Log, paper, pencil, an ice cube or cold object, a stopwatch or phone timer |
-| **Key vocabulary** | telemetry, hardware, signal, baseline |
+| **Materials** | A notebook for the Body Signal Notebook (Telemetry Log), paper, pencil, crayons or markers, an ice cube or textured object, a timer |
+| **Key vocabulary** | body signals, telemetry, baseline, body dashboard |
 | **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Get a notebook the student will keep all 18 weeks. This becomes the **Telemetry Log**.
-- Read the "For Younger Learners" block below before teaching.
-- Have an ice cube ready in a small bowl, or a cold object the student can hold briefly.
+- Get a notebook the student will keep all 18 weeks. The kid-facing name can be **Body Signal Notebook**. The formal toolbox name is **Telemetry Log**.
+- Bring a simple body outline or blank paper for drawing.
+- Have an ice cube, cold bottle, or textured object ready.
 - Have a timer ready.
+- Read the "For Younger Learners" block below before teaching.
 :::
 
 :::tip Facilitation Mindset
-This week, **resist the urge to interpret**. If a student says "my stomach feels weird," don't say "oh, are you nervous about school?" Just say: "Got it. What does *weird* feel like exactly? Tight? Fluttery? Heavy?"
+This week, **resist the urge to interpret**. If a student says "my stomach feels weird," do not jump to "you must be nervous." Stay with the clue:
 
-You are teaching the student to read the dashboard before they decide what it means.
+> "Show me where. Is it tight, fluttery, heavy, hot, or empty?"
+
+You are teaching the student to become a body signal detective, not asking them to prove why the signal showed up.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -62,54 +73,57 @@ You are teaching the student to read the dashboard before they decide what it me
 **Simplest version of the concept:** "Your body is always sending you little messages. Today we are practicing listening to them."
 
 **What to shorten or skip:**
-- Skip the third sensory exercise if attention is fading.
-- Keep sessions to 15–20 minutes.
+- Keep sessions to 15 to 20 minutes.
+- Use 3 to 5 body signals instead of a long list.
+- Skip any activity that feels too personal and switch to object noticing.
 
 **Adapting the activities:**
-- Use drawing instead of writing. Have the student draw a "body map" and mark where they notice signals.
-- Use only 3 body signals (heartbeat, breath, energy) instead of a longer list.
+- Use drawing first. A body map with arrows or colored dots counts.
+- Let the student point, act it out, or pick from picture words.
+- Try simple examples: after recess, before homework, after a loud lunch, or when a sibling grabs a toy.
 
-**Journal alternative:** Have the student tell you one signal they noticed and you write it down for them. A drawing of a body with arrows pointing to where they felt something is a perfectly good entry.
+**Journal alternative:** Have the student draw a body with labels like "hot face," "wiggly legs," or "tight shoulders." They can also tell you one signal and you write it down.
 
-**What success looks like:** The student can name at least one specific body signal they noticed today (e.g., "my hands felt cold" or "my heart was beating fast").
+**What success looks like:** The student can name at least one specific body signal they noticed today, such as "my heart got fast" or "my stomach felt fluttery."
 :::
 
 ---
 
 ## Guided Session 1
-### The Dashboard Tour
+### Body Signal Detective
 #### Learning Goal
 By the end of this session, the student can:
 
-- name at least 5 specific body signals they can notice on purpose
-- describe a signal in concrete terms (warm, tight, fluttery, heavy) instead of vague ones ("weird")
-- understand that paying attention to a signal does not require fixing it
+- name at least 5 body signals they can notice on purpose
+- use clear words such as warm, tight, fluttery, shaky, heavy, or sleepy
+- show one signal by drawing, pointing, acting it out, or saying it aloud
 
 ---
 
 #### Activities
 
-**1. The 60-Second Scan**
+**1. The 60-Second Notice-and-Name**
 
 Sit comfortably. Set a timer for 60 seconds.
 
-Ask the student to silently notice as many body signals as they can. After the minute, ask:
+Ask the student:
 
-> "What did you notice? Don't tell me what it *means* — just what it was."
+> "For one minute, see how many body clues you can notice. You do not have to tell what they mean. Just notice them."
 
-List everything they noticed on a piece of paper. Use their exact words. The list might include:
+After the minute, make a list together. Common examples include:
 
-- heartbeat (fast / slow / steady)
-- breath (deep / shallow / fast)
-- chest (tight / open)
-- stomach (settled / fluttery / heavy / hungry)
-- hands (warm / cold / sweaty / steady)
-- shoulders (loose / tight)
-- jaw (relaxed / clenched)
-- energy (sleepy / buzzy / steady)
-- temperature (warm / cool / just right)
+- heartbeat: slow, medium, fast
+- breath: deep, shallow, bouncy
+- stomach: hungry, fluttery, full, tight
+- shoulders: loose, raised, tense
+- hands: warm, cold, sweaty, still
+- face: hot cheeks, tight jaw
+- legs: wiggly, jumpy, heavy
+- energy: sleepy, medium, full of buzz
 
-If they only got two or three, that is normal. Add a few of your own out loud: "I notice my shoulders feel a little tight. I notice my breath is medium-fast."
+If the student only notices two or three, that is normal. Model your own:
+
+> "I notice my shoulders feel a little tight. I notice my breath is medium-slow."
 
 :::info Choice and Privacy Note
 Students do not need to share body signals aloud. They can point to a body map, circle words, draw what they notice, or keep the observation private in their log.
@@ -119,101 +133,121 @@ If a body-scan style activity feels too personal, switch to an **object scan**: 
 
 ---
 
-**2. The Ice Cube Experiment**
+**2. Draw Your Body Dashboard**
 
-Have the student hold an ice cube in one hand for 20 seconds. (Or a very cold object — a frozen water bottle is fine.)
+On paper, draw a pretend dashboard with five lights:
 
-Ask, *during* the 20 seconds:
+- Heart
+- Breath
+- Stomach
+- Shoulders
+- Energy
 
-> "What signals are showing up right now? Where in your body?"
+Let the student color or mark each light:
 
-After they set it down, ask:
-
-> "Did any of those signals change after you let go? How fast?"
-
-This is their first lesson that **signals are real, they change, and they pass**. The body adjusts. The dashboard updates.
-
----
-
-**3. Wrap-Up Discussion**
+- green for calm or steady
+- yellow for noticeable
+- red for strong or extra loud
 
 Ask:
 
-> "If your body is always sending these signals — heartbeat, breath, tightness, warmth — why do you think we usually don't notice them?"
+> "What might your dashboard look like before a spelling test? After soccer? At a loud lunch table?"
 
-Possible answers: we're busy, we're used to them, our brain filters them out.
+This makes the idea visual right away.
 
-Key takeaway: **Your body is sending data all the time. You just usually have the volume turned down. This curriculum is about turning the volume up a little — on purpose.**
+:::info Choice and Privacy Note
+Students do not have to share body signals aloud. They can point to a body map, circle picture words, use stickers, or keep the observation private in their notebook.
+
+If body noticing feels too personal, switch to an **object detective** version: notice the color, texture, temperature, and weight of an object for 60 seconds, then compare how the body feels before and after.
+:::
+
+---
+
+**3. Signals Change and Pass**
+
+Have the student hold an ice cube, cold bottle, or textured object for 15 to 20 seconds.
+
+Ask during the activity:
+
+> "What is your body saying right now? Where do you notice it?"
+
+Then ask after they put it down:
+
+> "What changed? What stayed? Did the signal get bigger first and then smaller?"
+
+Key idea:
+
+**Signals are real, and signals change. A strong body feeling can show up, peak, and pass.**
 
 ---
 
 ## Guided Session 2
-### Signal Hunting
+### What's Normal for Me?
 #### Learning Goal
 By the end of this session, the student can:
 
-- identify the difference between a **baseline** signal (what's normal for them) and a **spike** (something new or stronger)
-- recognize that the same signal can mean different things in different situations
-- separate a body signal from an interpretation of that signal
+- describe **baseline** as what is normal for their body when nothing special is happening
+- notice when a signal gets stronger than baseline
+- name at least 3 reasons the same signal might show up
 
 ---
 
 #### Activities
 
-**1. The Baseline Check**
+**1. Baseline Check**
 
 Explain:
 
-> "A **baseline** is what's normal for you when nothing special is happening. Engineers always measure the baseline first, because that's the thing they compare new readings to."
+> "A **baseline** is your usual starting place. It is what your body is doing when nothing big is going on."
 
-Have the student sit quietly for 30 seconds and notice their baseline:
+Do a short check:
 
-- "Right now, how is your breath? Slow, medium, fast?"
-- "How is your heart? Calm, medium, racing?"
-- "Energy level out of 10?"
-- "Body — any tight spots?"
+- breath: slow, medium, fast
+- heart: calm, medium, fast
+- stomach: okay, hungry, fluttery
+- shoulders: loose or tight
+- energy: low, medium, high
 
-Write down their baseline on a piece of paper.
-
-This is the first entry in their **Telemetry Log** baseline. They will compare future readings against this.
-
----
-
-**2. Spike Hunting**
-
-Now have them do something physical for about 60 seconds — jumping jacks, running in place, or sprinting up and down stairs.
-
-Immediately afterward, do the same scan:
-
-- breath?
-- heart?
-- energy?
-- body?
-
-Compare to baseline. What changed? How fast did the change show up? How long did it take to return to baseline?
-
-Discussion:
-
-> "Your heart sped up. Was something wrong? No — your body was sending you a signal that said: 'we just did a lot of work, we need more fuel.' That's all. The signal was *information*, not a problem."
+Write it down as the first Body Signal Notebook entry.
 
 ---
 
-**3. The Same Signal, Different Meanings**
+**2. Spike Spotting**
+
+Have the student do 30 to 60 seconds of movement, such as:
+
+- jumping jacks
+- jogging in place
+- hallway walking fast
+- dancing to one song clip
+
+Then do the same check again.
 
 Ask:
 
-> "Imagine your heart starts beating fast. What are three different reasons that could happen?"
+> "What changed fast? What stayed the same? How can you tell this is a body signal and not a problem?"
+
+Point out:
+
+**A fast heart can mean you ran. A fast heart can also mean nerves, excitement, or surprise. The signal is a clue. The meaning comes later.**
+
+---
+
+**3. Same Signal, Different Reasons**
+
+Ask:
+
+> "If your heart is beating fast, what are three different reasons that could happen?"
 
 Possible answers:
 
-- You just ran
-- You're nervous about something
-- You're excited about something
-- You had a big sugary drink
-- You just woke up from a scary dream
-- Someone surprised you
+- you just ran at recess
+- you are excited for a game
+- you feel nervous about homework
+- someone surprised you
+- the lunchroom is really loud
 
-Key takeaway: **A signal is data. The same signal can mean different things depending on what's going on. Reading a signal is the first step. Figuring out what it means comes later.**
+This helps students learn that a signal is information, not a command.
 
 ---
 
@@ -221,38 +255,42 @@ Key takeaway: **A signal is data. The same signal can mean different things depe
 
 ### Goal
 
-Practice noticing body signals throughout the day and make the first entry in the Telemetry Log.
+Practice noticing body signals during the day and make the first entries in the Body Signal Notebook.
 
 ### Activities
 
-**1. Three Scans a Day**
+**1. Three Short Scans**
 
-For 3 days, do a 30-second scan at three different times:
+For 3 days, do a 30-second scan at three times:
 
-- Morning (right after waking up)
-- Middle of the day
-- Evening (right before bed)
+- morning
+- after school
+- evening
 
-Write down one or two signals each time. A scan is just answering:
+Answer any two of these:
 
-- "What is my heart doing?"
-- "What is my breath doing?"
-- "Any tight spots?"
-- "Energy level 1–10?"
+- What is my heart doing?
+- What is my breath doing?
+- Any tight spots?
+- What is my energy like?
 
-**Minimum viable version (younger learners):** Do one scan a day for three days. Draw a small body and mark where you noticed a signal.
+**Minimum viable version:** Do one scan a day. Draw a small body and add one arrow or sticker where you noticed a signal.
 
 ---
 
-**2. The Spike Log**
+**2. One Strong-Signal Note**
 
-If something feels stronger than baseline at any point in the day — happy spike, frustrated spike, sleepy spike, hungry spike — write down just one sentence:
+If you notice a strong signal during the day, write or say one short note:
 
-> "At ___ today, I noticed my ___ was ___."
+> "At ___, I noticed ___ in my ___."
 
-Example: "After lunch today, I noticed my energy was at a 2 and I was kind of cranky."
+Examples:
 
-No analysis required. Just the reading.
+- "At recess, I noticed my heart was fast."
+- "Before homework, I noticed my shoulders were tight."
+- "After a loud lunch, I noticed my head felt tired."
+
+No long explanation needed. Small examples count.
 
 :::note Solo/Small-Group Fallback
 This week is fully solo-friendly. No partner activities required.
@@ -260,25 +298,27 @@ This week is fully solo-friendly. No partner activities required.
 
 ### Telemetry Log
 
-> Start your **Telemetry Log** this week. The first entry is the **baseline** you wrote down in Session 2.
+> Start your **Body Signal Notebook** this week. The formal toolbox name is **Telemetry Log**.
 >
-> Then add this:
+> Add this first entry:
 >
-> **My usual baseline:** breath ___, heart ___, energy ___ /10, tight spots ___
+> **My usual baseline:** breath ___, heart ___, energy ___, tight spots ___
 >
-> **One signal I noticed this week:** ___
+> **One body signal I noticed:** ___
 >
 > **What was going on when I noticed it:** ___
 
 **Sentence starters for younger learners:**
 - "Today I felt ___ in my ___."
-- "When I noticed that, I was ___ (doing what?)."
+- "When I noticed that, I was ___."
+
+**Low-writing options:** draw a body map, use colored dots, circle icons, or tell an adult and let them scribe.
 
 ### Reflection Questions
 
-- Which signal was easiest for you to notice? Which was hardest?
-- Did you notice any signal you'd never paid attention to before?
-- Was there a time today when your body told you something before your brain did?
+- Which signal was easiest to notice?
+- Which signal was hardest to notice?
+- Did your body tell you something before your words caught up?
 
 ---
 
@@ -286,9 +326,9 @@ This week is fully solo-friendly. No partner activities required.
 
 After this week, check whether the learner can:
 
-1. **Name signals concretely:** "Name 3 specific body signals you can notice right now." (Looking for: specific words like "tight chest," "fast breath," "cold hands" — not "I feel weird.")
-2. **Understand baseline:** "What does *baseline* mean?" (Looking for: "what's normal for me when nothing special is going on.")
-3. **Treat signals as data:** "If your heart starts beating fast, does that mean something is wrong?" (Looking for: "not necessarily — it could mean lots of things; it's just information.")
+1. **Name signals clearly:** "Name 3 body signals you can notice right now." (Looking for: clear words such as "tight chest," "fast breath," or "cold hands.")
+2. **Understand baseline:** "What does *baseline* mean?" (Looking for: "what is normal for me when nothing special is happening.")
+3. **Treat signals as clues:** "If your heart starts beating fast, does that always mean something is wrong?" (Looking for: "no, it could mean lots of things; it is information.")
 
 If the learner can do at least 2 of these, they are ready for Week 2.
 
@@ -296,7 +336,7 @@ If the learner can do at least 2 of these, they are ready for Week 2.
 
 ## Related Tools
 
-- Use the **Personal Telemetry Log** in [Student Tools and Printables](/docs/student-tools-and-printables) for private entries, body maps, or drawing-based tracking.
+- Use the **Body Signal Notebook (Telemetry Log)** in [Student Tools and Printables](/docs/student-tools-and-printables) for private entries, body maps, or drawing-based tracking.
 - Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a learner needs more privacy, a pass option, or a fictional example.
 
 ---
@@ -304,13 +344,13 @@ If the learner can do at least 2 of these, they are ready for Week 2.
 ## Pause and Notice
 
 :::note What Matters Here
-During the ice cube experiment, you noticed that an uncomfortable signal — cold — got more intense and then faded. That is one of the most important things to know about your hardware:
+One of the most important things students learn this week is this:
 
-> **Signals come, they peak, they pass.**
+> **Signals come, they peak, and they pass.**
 
-A lot of life feels easier once you really know this. When a hard feeling shows up, the worst part of it usually isn't permanent. The body adjusts. The dashboard updates.
+An uncomfortable signal does not last forever. A strong signal is not proof that something is wrong with the child. It is a clue from the body dashboard.
 
-This week's takeaway: **You are not your signals. You are the engineer reading them.**
+**This week's takeaway:** You are not your body signals. You are the person learning to notice them.
 :::
 
 ---
@@ -324,13 +364,13 @@ This is the first week of the curriculum — no prior content to review yet. Goi
 ---
 
 :::tip Simplify (Ages 8–9)
-If the student is younger, skip the spike-hunting comparison and stick to the body map: draw a body, mark where you notice signals, label them with simple words. The single key idea — "my body sends me messages, and I can listen on purpose" — is enough.
+If the student is younger, stick with the body map and the dashboard picture. The main idea is enough: "My body sends me messages, and I can notice them on purpose."
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner pick one signal (e.g., breath, heart, jaw tightness) and track it 5 times over the day. Look for patterns: when is it usually relaxed? When is it usually tight? What predicts the change? This is their first taste of using telemetry to understand themselves.
+Have the older learner track one signal, such as breath, heart, or jaw tension, five different times during the day. Ask what situations make it change and what stays steady.
 :::
 
 :::tip Vocabulary This Week
-**telemetry**, **hardware**, **signal**, **baseline**
+**body signals**, **telemetry** (toolbox word), **baseline**, **body dashboard**
 :::

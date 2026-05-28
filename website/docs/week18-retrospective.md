@@ -6,33 +6,38 @@ description: "Capstone Week 4 — analyze the deployment data, write patch notes
 ---
 
 # Week 18: Post-Mortem, Patch Notes, and Next Version
-*The Social Interface Patch — Curriculum Capstone*
+*Look Back, Improve the Plan, and Celebrate — Curriculum Capstone*
 
-You made it.
+You made it to the final week.
 
-Eighteen weeks ago, you started reading body signals. Now you're conducting a post-mortem on a real-world protocol deployment. That is a remarkable arc.
+Eighteen weeks ago, you started by noticing body clues. Now you are looking back at a real plan you tried in real life.
 
-This final week, you do three things:
+This week you do three things:
 
-1. **Analyze the data** from last week's deployment.
-2. **Write patch notes** for version 2.0 of your protocol.
-3. **Present** what you learned — to a facilitator, family member, or trusted audience.
+1. **Look back** at what happened during Try-It Week.
+2. **Write patch notes** for version 2.0 of your plan.
+3. **Share** what you learned in a way that fits you.
 
-The protocol you wrote will not be perfect. It wasn't supposed to be. The point was never the perfect protocol — it was the **loop**: diagnose, design, deploy, iterate. That loop is the most powerful tool you'll take from this course. You can run it on any system, any time, for the rest of your life.
+The plan was never supposed to be perfect on the first try. The goal was to run the full loop: notice, understand, plan, try, and improve.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"What worked? What did not work? What will I change next time?"
+:::
+
 :::info Facilitator Snapshot
-- This is the finale. Make it feel like a graduation, not a final exam.
-- Focus on the process, not whether the protocol "worked." The student ran a complete loop on a real problem in their own life. That is the accomplishment.
-- The presentation can be tiny (3 minutes to one family member) or larger (a small audience). Match the student's comfort.
-- The Telemetry Log is now an artifact. Treat it like one — it documents a real intellectual journey.
+- This is the finale. Make it feel like a celebration, not a test.
+- Focus on the process, not whether the first plan worked perfectly.
+- The sharing can be tiny: one trusted adult, one sibling, or just the facilitator.
+- The Telemetry Log now shows a real learning journey. Treat it with care.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Post-Mortem](#guided-session-1)
-- [Guided Session 2: The Showcase](#guided-session-2)
+- [Guided Session 1: Look Back and Patch](#guided-session-1)
+- [Guided Session 2: Share and Celebrate](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -42,7 +47,7 @@ The protocol you wrote will not be perfect. It wasn't supposed to be. The point 
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | The full Telemetry Log, baseline data (Week 15), protocol v1.0 (Week 16), deployment data (Week 17), paper or slides for the presentation |
-| **Key vocabulary** | post-mortem, patch notes, retrospective, iteration |
+| **Key vocabulary** | look back, patch notes, next version, reflection |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -55,42 +60,39 @@ The protocol you wrote will not be perfect. It wasn't supposed to be. The point 
 :::
 
 :::tip Facilitation Mindset
-This is the celebration week. Whatever the protocol did or didn't do, the student executed the entire loop. Most adults never do this on a problem in their own life. The student is now ahead of most adults.
+This is the celebration week.
 
-Make sure they know that. Not by saying it once — by saying it several times across the week. Their internal voice will spend years catching up to what they've actually done. Help them hear it now.
+Whatever the plan did or did not do, the learner completed the full loop on a real problem. Keep bringing the focus back to that.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "You get to share what you discovered — like a real scientist presenting findings!"
+**Simplest version of the concept:** "You get to share what you discovered."
 
 **What to shorten or skip:**
-- Skip the formal patch-notes structure. Use simple "what worked / what didn't / what to change."
-- Skip self-assessment rubrics. Use simple reflection questions.
-- Keep the celebration big — this is real.
+- Use simple "what worked / what didn't / what to change next time."
+- Skip formal rubrics.
 
 **Adapting the presentation:**
-- The presentation can be: "My problem was ___. I tried ___. I found out ___. The coolest thing I learned was ___."
-- Add a simple patch step: "Next time, I would change ___."
-- Drawings and oral presentation count fully. No written report required.
-- A presentation to a stuffed animal audience counts. The structured reflection is what matters.
+- The sharing can be one minute, with drawings, speaking, or acting it out.
+- A stuffed-animal audience counts.
 
-**Journal alternative:** "The most important thing I learned in this whole course is ___. One thing I'll do differently now is ___." Spoken or drawn is fine.
+**Journal alternative:** "The most important thing I learned is ___."
 
-**What success looks like:** The student shares their experiment results in any format and can name at least one skill they'll keep using.
+**What success looks like:** The student can share what they tried and one thing they learned.
 :::
 
 ---
 
 ## Guided Session 1
-### The Post-Mortem
+### Look Back and Patch
 #### Learning Goal
 By the end of this session, the student can:
 
-- analyze the full data from the deployment week and draw conclusions
-- write **patch notes** for protocol v2.0 — specific changes based on what they observed
-- understand that the project's success isn't whether the protocol worked perfectly, but whether they ran the loop
+- analyze the data from Try-It Week and draw conclusions
+- write **patch notes** for plan v2.0
+- understand that success is running the loop, not being perfect on the first try
 
 ---
 
@@ -115,14 +117,14 @@ Walk through these questions together. Write down the answers:
 | When the protocol fired, did it help? | |
 | What was the biggest surprise in the data? | |
 
-Make a simple before/after comparison:
+Make a simple before-and-after comparison:
 
 ```
 BEFORE (Week 15 Baseline):
   Friction point happened: ___ times in ___ days
   Average severity: ___/10
 
-DEPLOYMENT (Week 17):
+TRY-IT WEEK (Week 17):
   Friction point happened: ___ times in ___ days
   Average severity: ___/10
   Protocol fired (when triggered): ___% of the time
@@ -133,7 +135,7 @@ DEPLOYMENT (Week 17):
 
 **2. Write the Patch Notes**
 
-Software developers write "patch notes" when they update a program. We're doing the same.
+Patch notes just mean: what I am keeping, what I am changing, and what I learned.
 
 ```
 PROTOCOL — PATCH NOTES v2.0
@@ -194,24 +196,24 @@ Return to a foundational idea: this project's success was about **process qualit
 | Did I analyze the data and write patch notes? | |
 | Did I iterate based on evidence? | |
 
-If you checked most of these boxes, **your process was excellent — regardless of whether the protocol worked perfectly.** This is the engineering loop. You ran it. That is the win.
+If you checked most of these boxes, the process was strong, even if the first version was messy. Running the loop is the win.
 
 ---
 
 ## Guided Session 2
-### The Showcase
+### Share and Celebrate
 #### Learning Goal
 By the end of this session, the student can:
 
-- present their project clearly to an audience
-- explain their reasoning, data, and conclusions
+- share their project clearly with a trusted audience
+- explain what they tried, what happened, and what they learned
 - answer questions about their process
 
 ---
 
 #### Activities
 
-**1. Preparing the Presentation**
+**1. Preparing the Share-Out**
 
 The student prepares a brief presentation (3–5 minutes) covering:
 
@@ -220,7 +222,7 @@ The student prepares a brief presentation (3–5 minutes) covering:
 3. **The Protocol:** What was your plan? (Trigger → Default → Check)
 4. **The Data:** What happened when you ran it? (Show the numbers!)
 5. **The Patch:** What's v2.0?
-6. **The Lesson:** What would you tell someone else facing a similar problem?
+6. **The Lesson:** What would you tell someone else with a similar problem?
 7. **The Course Connection:** Which other concepts from the course showed up in your project? (Telemetry? The hijack? The audit? Cognitive bugs? The trust ledger? Iterated games?)
 
 Format can be:
@@ -229,11 +231,11 @@ Format can be:
 - A verbal walkthrough with the data sheet
 - A simple slide deck
 
-**Simplified presentation (younger learners):** Answer four questions with facilitator help: "What was my question? What did I do? What happened? What did I learn?" They can draw, speak, or act it out. Take a photo of their work to mark the moment.
+**Simplified share-out (younger learners):** Answer four questions with help: "What was my problem? What did I try? What happened? What did I learn?"
 
 ---
 
-**2. Present!**
+**2. Share It**
 
 The student presents to:
 
@@ -256,7 +258,7 @@ After the presentation, the audience asks questions:
 
 This is a genuine accomplishment. Celebrate it.
 
-> "Over 18 weeks, you learned to read your own telemetry, recognize the amygdala hijack, debug cognitive distortions, run an Input/Output Audit, read the trust ledger, set interface specs, diagnose conflict as system mismatch, and engineer a real-world protocol. You ran the full engineering loop on a problem in your own life and lived through what worked and what didn't. That is remarkable. Almost no adult has done what you just did."
+> "Over 18 weeks, you learned to notice body clues, catch panic-brain moments, check thought bugs, slow down before reacting, read trust, set clearer boundaries, and make a real plan for a real problem. You tried the plan, learned from it, and improved it. That matters."
 
 Optional: a small certificate, a card, a treat, a moment of formal recognition. Pick what fits.
 
@@ -266,7 +268,7 @@ Optional: a small certificate, a card, a treat, a moment of formal recognition. 
 
 ### Goal
 
-Write the final Telemetry Log entry — a letter to yourself about what these 18 weeks taught you.
+Write the final Telemetry Log entry about what these 18 weeks taught you.
 
 ### Activities
 
@@ -280,7 +282,7 @@ Answer in your Telemetry Log:
 
 2. **The Most Surprising Lesson:** What did you learn that genuinely changed how you see yourself or other people?
 
-3. **The Biggest Bug You Run:** Which cognitive distortion still trips you up most often?
+3. **The Biggest Thought Bug:** Which thought bug still trips you up most often?
 
 4. **The Tool You'll Keep Using:** Which specific tool from the course do you think you'll actually use going forward — the audit, the protocol structure, the trust ledger, the 5 Whys, the long exhale, something else?
 
@@ -308,7 +310,7 @@ Now write:
 
 ---
 
-**3. The Engineer's Pledge**
+**3. My Promise to Myself**
 
 Write one short personal commitment:
 
@@ -328,33 +330,33 @@ The final reflection is fully solo. The presentation works with any audience siz
 
 ### Telemetry Log
 
-> This IS the final journal entry. Make it count.
+> This is the final journal entry. Take your time.
 
 ### Reflection Questions
 
-- If you taught this course to a friend, which week would you start with? Why?
-- Do you think you'll keep using the Telemetry Log? Why or why not?
-- What's the next friction point in your life you'd like to engineer a protocol for?
-- In five years, which lesson from this course do you think will matter most?
+- If you taught this course to a friend, which week would you start with?
+- Do you think you will keep using the Telemetry Log?
+- What is the next problem in your life you might use this loop on?
+- Which lesson from this course might matter most later on?
 
 ---
 
 ## Related Tools
 
-- Use the **Patch Notes Reflection** in [Student Tools and Printables](/docs/student-tools-and-printables) if you want a reusable closing template.
+- Use the **Look Back and Patch Notes** page in [Student Tools and Printables](/docs/student-tools-and-printables) if you want a reusable closing template.
 - Use the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) for optional portfolio, rubric, or certificate-style reflection ideas.
 
 :::info Optional Portfolio or Certificate Reflection
-If the student wants a visible ending, assemble a tiny portfolio with one early Telemetry Log entry, the final protocol, one deployment tracker, and one patch-notes reflection. A short written certificate reflection can name what the student can now do without turning the finale into a high-pressure performance.
+If the student wants a visible ending, assemble a tiny portfolio with one early Body Signal Notebook / Telemetry Log entry, the final When/Then Plan, one Try-It Week tracker, and one patch-notes reflection. A short written certificate reflection can name what the student can now do without turning the finale into a high-pressure performance.
 :::
 
 ---
 
 ## Check for Understanding
 
-This is the final check for the whole curriculum. After the presentation and reflections, confirm:
+This is the final check for the whole curriculum. After the sharing and reflections, confirm:
 
-1. **Concept retention:** "Name three big ideas from this course." (Looking for any three — telemetry, hijack, cognitive distortions, the audit, the trust ledger, interface specs, conflict as system mismatch, iterated games, protocol design, etc.)
+1. **Concept retention:** "Name three big ideas from this course."
 2. **Personal framework:** "What's your process now when something upsets you?" (Looking for: a multi-step approach drawing on course concepts — even a simple 3-step verbal version counts.)
 3. **Real transfer:** "Tell me about a real moment in the last few weeks where you handled something differently because of what you learned." (Looking for: ANY real example, no matter how small.)
 4. **Growth mindset:** "What's something you used to think about emotions or people that you don't think anymore?" (Looking for: evidence of intellectual growth — "I used to think being hijacked meant I was bad" or "I didn't know conflicts had hidden variables.")
@@ -368,11 +370,11 @@ If the learner can show concept retention, a personal framework, one real-world 
 :::note What Matters Here
 This is the final Pause and Notice. Make it count.
 
-> "Think back to Week 1 — when we first did a body scan and you tried to name what your hardware was doing. How does it feel to know you can do all of *this* now — read your own state, recognize a hijack, debug a bad story, audit a reaction, read a trust ledger, design a protocol, run an experiment on yourself, write patch notes?"
+> "Think back to Week 1. How does it feel to know you can now read your body clues, notice when panic brain is taking over, check a story in your head, slow yourself down, and make a plan for a hard moment?"
 
-> "You have tools most adults don't have. The Input/Output Audit. The 5 Whys. The trust ledger. The protocol structure. But the most important thing you've learned isn't any one tool. It's the **identity shift** — from someone things happen to, to someone who runs a system they can understand and improve."
+The most important shift is not one single tool. It is learning that you can notice, understand, and improve your own patterns.
 
-**Course takeaway:** You are an engineer. Of your own hardware, of your own thinking, of your own relationships, of your own protocols. Every day, dozens of times a day. And now you have a toolkit. That is worth celebrating.
+**Course takeaway:** You have tools now. Keep using them with curiosity and care.
 :::
 
 ---

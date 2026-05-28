@@ -6,27 +6,33 @@ description: "Formally introduce the Telemetry Log. Students compile weeks 1–3
 ---
 
 # Week 4: Reading Your Own Early Warning Signs
-*Internal Telemetry & Hardware States — Unit 1 Capstone*
+*My Signal Map: Noticing What Happens Before Things Get Big*
 
-For three weeks, you have been gathering data:
+For three weeks, you have been collecting clues:
 
-- Week 1: what your body's signals feel like
-- Week 2: what changes your processing capacity
-- Week 3: what a hijack looks like for you
+- what your body signals feel like
+- what changes your brain battery
+- what panic-brain moments look like for you
 
-This week, you compile all of that into one tool: a formal **Telemetry Log**.
+This week, you put those clues into one place: your **Signal Map**. The formal toolbox name is still **Telemetry Log**, but the kid version is simple: **a notebook that helps you notice your patterns**.
 
-The point of the log is not record-keeping. It is **pattern recognition**. The hijack rarely arrives out of nowhere. It is usually preceded by a chain of smaller signals — a slow rise in tension, a drop in capacity, a tightening jaw, a worried thought, a short breath. Most kids never notice that chain. By the end of this week, you will be reading yours.
+Big reactions usually do not come out of nowhere. There are often little signs first: a tight jaw, a stomach drop, fake laughing, wanting to leave, saying "whatever," or getting snappy about tiny things.
 
-When you can see the early warning signs, you have time. Time to take a breath, to step away, to switch tasks, to ask for help. Time is the most valuable resource any system has.
+When you can spot those early signs, you get something important: **a choice moment**. The grown-up toolbox phrase is **intervention window**. Kid version: **the moment where you still have a choice**.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Big reactions usually have little warning signs first. This week you learn your warning signs so you can notice them sooner."
+:::
+
 :::info Facilitator Snapshot
-- This week consolidates Unit 1. Don't add new ideas — package the ones you've built.
-- The Telemetry Log becomes the central tool of the curriculum from here on.
-- Focus: helping the student see the sequence — early warning → tension rise → hijack — so they can intervene early.
-- Format matters less than habit. A messy log that gets used is better than a beautiful log that doesn't.
+- This week consolidates Unit 1. Do not add big new ideas.
+- The Telemetry Log becomes the central tool from here on, but it can be introduced as a **Signal Map** or **Body Signal Notebook**.
+- Focus on the pattern: early sign, build-up, panic-brain moment, what helped.
+- Format matters less than habit. A messy map that gets used is better than a perfect one that gets ignored.
+- Do not interrogate the child. Use low-stakes or fictional examples first.
 :::
 
 :::info Privacy Note
@@ -35,8 +41,8 @@ The Telemetry Log is for pattern noticing, not grading private feelings. Student
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Master Telemetry Log](#guided-session-1)
-- [Guided Session 2: The Early Warning Chain](#guided-session-2)
+- [Guided Session 1: Build My Signal Map](#guided-session-1)
+- [Guided Session 2: Before, During, After](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -46,7 +52,7 @@ The Telemetry Log is for pattern noticing, not grading private feelings. Student
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log notebook (started Week 1), all notes from weeks 1–3, paper, pencil, colored markers or highlighters (optional) |
-| **Key vocabulary** | telemetry log, early warning sign, escalation chain, intervention window |
+| **Key vocabulary** | signal map, telemetry log, early warning sign, choice moment |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -59,187 +65,183 @@ The Telemetry Log is for pattern noticing, not grading private feelings. Student
 :::
 
 :::tip Facilitation Mindset
-The student has done real work over the last three weeks. Treat this week like the moment a project gets organized into a binder — celebratory, not effortful. You are helping them see how much they already know.
+The student has done real work over the last three weeks. Treat this week like making a personal map, not like filling out paperwork.
 
-If the log feels boring to them, look for ways to make it personal: stickers, color codes, even a code name for it. Anything that increases the chance they'll actually open it next week.
+If the log feels boring, make it visual:
+
+- stickers
+- traffic-light colors
+- a body map
+- a comic strip
+- short checkboxes instead of paragraphs
+
+Anything that makes the child more likely to open it next week is a good choice.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "We're putting all our learnings into one book. Then we're going to look for what happens right before things get hard — so we can catch it earlier."
+**Simplest version of the concept:** "We are putting what you learned into one map. Then we are looking for what happens right before things get hard."
 
 **What to shorten or skip:**
-- Skip the formal "Escalation Chain" diagram. Use a simple list instead: "Things I do BEFORE I lose it."
-- Keep the log to one page if needed.
+- Skip the formal chain language.
+- Keep the map to one page if needed.
 
 **Adapting the activities:**
-- Make the log visual. Stickers, drawings, color-coded mood faces all count.
-- Use storytelling: "Tell me about a time you got really mad. Now let's rewind. What was happening 5 minutes BEFORE you got mad?"
+- Use green, yellow, and red sections.
+- Draw a body map or a comic strip.
+- Tell the story backward: "What happened right before? And right before that?"
 
-**Journal alternative:** The student can illustrate their early warning signs with drawings instead of words. A small comic strip of "what happens before I lose it" is a perfectly good entry.
+**Journal alternative:** The student can make a before/during/after comic instead of writing paragraphs.
 
-**What success looks like:** The student can describe at least one early warning sign — "I get quiet" or "my chest feels weird" or "I start arguing about little things" — that shows up BEFORE a meltdown.
+**What success looks like:** The student can name at least one warning sign that shows up before a meltdown or shutdown.
 :::
 
 ---
 
 ## Guided Session 1
-### The Master Telemetry Log
+### Build My Signal Map
 #### Learning Goal
 By the end of this session, the student can:
 
-- compile their personal data from weeks 1–3 into a single, organized log
-- describe the structure of their Telemetry Log clearly
-- use the log to find their own patterns
+- gather their patterns from weeks 1 to 3 into one organized map
+- use green, yellow, and red sections to describe their experience
+- name at least one thing that helps them come back from yellow or red
 
 ---
 
 #### Activities
 
-**1. The Compilation**
+**1. Build the Signal Map**
 
-Spread out everything from weeks 1–3. Together, create a clean version of the Telemetry Log with these sections:
+Spread out everything from Weeks 1 to 3. Together, create a clean version of the Signal Map with these sections:
 
-**Section A — My Baseline**
+**Green - My usual self**
 
-- Usual breath: ___
-- Usual heart: ___
-- Usual energy: ___ /10
-- Usual body tension spots: ___
+- My usual breath: ___
+- My usual energy: ___
+- My body feels steady when: ___
 
-**Section B — My Inputs**
+**Yellow - My warning signs**
 
-- Things that charge me: ___
-- Things that drain me: ___
-- My usual capacity drop times: ___
+- I start to notice: ___
+- My battery usually drops when: ___
+- A clue that I need a pause is: ___
 
-**Section C — My Hijack Tells**
+**Red - Panic brain is driving**
 
-- What my body does when I'm hijacked: ___
-- My default response (fight / flight / freeze): ___
+- My body does: ___
+- I usually want to: fight / flight / freeze
 - What helps me come back: ___
 
-**Section D — Daily Entries**
-
-Leave room for ongoing entries with these prompts:
+Leave room for short daily entries:
 
 - Date / time
-- Capacity (1–10)
-- Strongest signal today
-- Story the brain told around it (we'll dig into this in Unit 2)
-- What I actually did
-- One thing to remember
+- Green / yellow / red
+- Biggest clue I noticed
+- What helped, if anything
 
 ---
 
-**2. The Color Code (Optional)**
+**2. Use a Color Code**
 
-If colors help the student engage, use a simple traffic-light scheme:
+Use a traffic-light scheme:
 
-- **Green** — regulated, capacity high, calm signals
-- **Yellow** — load building, capacity dropping, early warning signs showing up
-- **Red** — hijacked or close to it
+- **Green:** thinking brain is online
+- **Yellow:** warning signs are showing up
+- **Red:** panic brain is driving
 
-Mark each entry in the log with green / yellow / red. Over time, the colors themselves tell a story.
+The student can color each entry, use emojis, or draw three boxes to point at.
 
 ---
 
-**3. The First Look-Back**
+**3. The First Pattern Hunt**
 
-Read through the past three weeks of notes together. Ask:
+Read through the past three weeks together. Ask:
 
-- "What pattern stands out to you?"
-- "Is there a signal that shows up over and over?"
-- "Is there a time of day or kind of situation that drops your capacity?"
+- "What clue shows up a lot?"
+- "What time of day seems hardest?"
+- "What usually shows up before things get big?"
 
-Patterns the student notices themselves stick way better than ones you point out. Wait. Let them find one.
+Wait for the student to notice one pattern for themselves.
 
 ---
 
 ## Guided Session 2
-### The Early Warning Chain
+### Before, During, After
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe the **escalation chain** — the sequence of small signals that lead to a hijack
-- identify their own personal early warning signs
-- name the **intervention window** — the moment in the chain when they can still act
+- describe what happened before, during, and after a hard moment
+- identify at least 3 personal warning signs
+- name the point where they still had a choice
 
 ---
 
 #### Activities
 
-**1. The Replay**
+**1. Rewind the Moment**
 
-Pick one recent moment when the student got hijacked. Together, *rewind*.
+Pick one low-stakes recent moment. Rewind it.
 
-> "Okay, you blew up at your brother. Let's go backward. What was happening 1 minute before?"
+Use these frames:
 
-Walk through the chain, one minute at a time, working backwards:
+- **Before:** What clues were already there?
+- **During:** What got bigger fast?
+- **After:** What helped, or what do you wish you had done?
 
-- 1 minute before the blowup
-- 5 minutes before
-- 30 minutes before
-- 1 hour before
-- That morning
+Look for:
 
-At each step, look for:
+- body signals
+- battery level
+- early thoughts
+- behavior changes
 
-- Body signals (was your jaw already tight?)
-- Capacity (had your battery dropped?)
-- Thoughts (was there a story building?)
-- Behavior (were you quieter than usual? more snappy?)
+Example:
 
-The chain often looks something like:
-
-```
-Morning:   slept badly                       (capacity already low)
-Afternoon: skipped snack                     (capacity drops more)
-4:00 PM:   small annoyance with sibling      (first irritation)
-4:15 PM:   jaw tight, breath shorter          (body warning sign)
-4:20 PM:   "they ALWAYS do this" thought     (story builds)
-4:25 PM:   yelled                            (HIJACK)
+```text
+Before: hungry after school, shoulders tight, saying "leave me alone"
+During: sibling touched my stuff, stomach dropped, I yelled
+After: took a break, drank water, felt calmer 10 minutes later
 ```
 
 ---
 
-**2. The Intervention Window**
+**2. The Choice Moment**
 
-Look at the chain together. Ask:
+Ask:
 
-> "At what point in this chain could you have done something different?"
+> "Where was the moment when you still had a choice?"
 
-Almost always, the answer is **earlier than the moment of the blowup**. There is a window — sometimes minutes long, sometimes hours — when the student could have:
+Possible answers:
 
-- eaten something
-- gone for a short walk
-- said "I need a minute"
-- done a long exhale
-- told a parent "my battery is low"
-- stepped away from the trigger
+- when the shoulders first got tight
+- when the student wanted to leave
+- when they said "whatever"
+- when the snack was skipped
+- when the room started to feel too loud
 
-That window is the **intervention window**. The earlier in the chain you catch it, the easier the fix.
+That is the **choice moment**. The formal phrase is **intervention window**.
 
-> "The skill we're building is noticing earlier and earlier in the chain — so the intervention is small instead of huge."
+The earlier the student notices it, the smaller the fix can be.
 
 ---
 
-**3. The Personal Early Warning List**
+**3. Make the Warning-Sign List**
 
-Together, write down the student's specific early warning signs — the ones that show up *before* a full hijack.
+Write the student's personal warning signs.
 
 Examples:
 
-- "My jaw gets tight."
-- "I start being short with people."
-- "I notice I'm holding my breath."
-- "I want to be alone."
-- "Everything feels too loud."
-- "I get hungry but I'm not really hungry."
-- "I keep arguing about little things."
+- my jaw gets tight
+- I get quiet
+- I fake laugh
+- I want to leave
+- everything feels too loud
+- I argue about tiny things
+- I start saying "whatever"
 
-This list goes in the Telemetry Log. It is one of the most useful tools the student will ever build.
+This list goes in the Telemetry Log and becomes part of the Signal Map.
 
 ---
 
@@ -247,29 +249,37 @@ This list goes in the Telemetry Log. It is one of the most useful tools the stud
 
 ### Goal
 
-Use the Telemetry Log for a full week. Catch at least one early warning sign in real time.
+Use the Signal Map for a full week and catch at least one warning sign in real time.
 
 ### Activities
 
-**1. Daily Entry Streak**
+**1. Daily Signal Check**
 
-Make one Telemetry Log entry every day for a full week. Use the daily entry format from Session 1. Keep it short — three lines is fine.
+Make one short entry each day for a week. Keep it short.
 
-If you miss a day, just pick up the next day. The streak is not the point. The habit is.
+Include:
 
-**Minimum viable version (younger learners):** Three entries during the week. Drawings count. One word in each category is fine.
+- green / yellow / red
+- one clue you noticed
+- what helped, if anything
+
+If you miss a day, just restart the next day.
+
+**Minimum viable version:** Three entries during the week. Drawings, stickers, or one-word answers count.
 
 ---
 
-**2. The Early Warning Catch**
+**2. Catch One Warning Sign**
 
-Once this week, try to catch one of your early warning signs **in the moment** — not afterward. When you do, write down:
+Once this week, try to catch a warning sign **in the moment**.
 
-- What sign you noticed
-- What you did about it (could be anything — even just naming it counts)
-- Did it stop the chain? Or did the chain keep going?
+Write or say:
 
-Either result is useful data. Catching early and still escalating is normal. The skill builds over weeks, not days.
+- what sign you noticed
+- what you did next
+- whether it helped a little, a lot, or not yet
+
+Either result is useful information. The skill builds over weeks, not days.
 
 :::note Solo/Small-Group Fallback
 This week is fully solo. The log is a personal tool — no partner needed.
@@ -277,24 +287,26 @@ This week is fully solo. The log is a personal tool — no partner needed.
 
 ### Telemetry Log
 
-> This IS the Telemetry Log week. The log itself is your journal entry.
+> This is the Telemetry Log week. The log itself is your journal entry.
 >
 > By the end of the week your log should have:
 >
-> - The four sections from Session 1 filled in (Baseline, Inputs, Hijack Tells, Daily Entries)
-> - An Early Warning Sign list from Session 2
-> - At least 5 daily entries
-> - One real-time early-warning catch
+> - Green, yellow, and red sections
+> - A warning-sign list
+> - At least 5 short daily entries
+> - One real-time warning-sign catch
 
 **Sentence starters for younger learners:**
-- "Right before I lost it, I usually ___."
-- "If I'd noticed sooner, I could have ___."
+- "Right before things get big, I usually ___."
+- "My choice moment is when ___."
+
+**Low-writing options:** body map, comic strip, traffic-light boxes, tally marks, or oral answers.
 
 ### Reflection Questions
 
-- What's your earliest reliable warning sign?
-- What's the longest your intervention window has ever been?
-- Is there someone in your life who'd notice your warning signs before you do?
+- What is your earliest reliable warning sign?
+- What is one clue you want to notice sooner?
+- Is there someone in your life who notices your warning signs before you do?
 
 ---
 
@@ -302,9 +314,9 @@ This week is fully solo. The log is a personal tool — no partner needed.
 
 After this week, check whether the learner can:
 
-1. **Show the log:** "Can I see your Telemetry Log?" (Looking for: a real, actual log — even messy — with entries that show use.)
-2. **Describe the chain:** "Walk me through what happens BEFORE you get really upset." (Looking for: a multi-step chain — body signals + thoughts + behaviors — not just "I get mad.")
-3. **Name an early warning sign:** "What's one signal that tells you a hijack might be coming?" (Looking for: any specific, personal signal — tight jaw, quiet voice, snappy mood, etc.)
+1. **Show the map:** "Can I see your Signal Map or Telemetry Log?" (Looking for real use, even if it is messy.)
+2. **Describe the sequence:** "Walk me through what happens before you get really upset." (Looking for more than just "I get mad.")
+3. **Name a warning sign:** "What is one clue that tells you a panic-brain moment might be coming?" (Looking for a specific personal sign.)
 
 If the learner can do at least 2 of these, they are ready for Unit 2 (Week 5).
 
@@ -312,7 +324,7 @@ If the learner can do at least 2 of these, they are ready for Unit 2 (Week 5).
 
 ## Related Tools
 
-- Use the **Personal Telemetry Log** in [Student Tools and Printables](/docs/student-tools-and-printables) if you want a reusable template for paper, digital, or private tracking.
+- Use the **Body Signal Notebook (Telemetry Log)** in [Student Tools and Printables](/docs/student-tools-and-printables) if you want a reusable template for paper, digital, or private tracking.
 - Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a student needs more privacy, a pass option, or an alternative way to participate.
 
 ---
@@ -320,15 +332,15 @@ If the learner can do at least 2 of these, they are ready for Unit 2 (Week 5).
 ## Pause and Notice
 
 :::note What Matters Here
-After looking at the Early Warning Chain together, ask:
+After looking at the Signal Map together, ask:
 
-> "What is it like to see your own pattern written out like this? Does it feel useful? Embarrassing? Both?"
+> "What is it like to see your pattern written or drawn out like this?"
 
-Some kids feel exposed seeing their patterns on paper. That is completely normal — it is the difference between sensing something dimly and seeing it clearly.
+Some kids feel exposed when they see their own pattern clearly. That is normal.
 
-The right response to the discomfort is not to look away. It's to remember the framing: **you are the engineer reading the dashboard of your own system.** Engineers do not get embarrassed by their dashboards. They use them.
+The important reframe is this: **noticing your warning signs is not embarrassing. It is useful.**
 
-**This week's takeaway:** Awareness is not weakness. Knowing your warning signs is one of the most powerful things you can do. It gives you the only thing that really matters in a hard moment: **time**.
+**This week's takeaway:** Awareness is not weakness. Warning signs give you time, and time gives you choices.
 :::
 
 ---
@@ -344,13 +356,13 @@ The right response to the discomfort is not to look away. It's to remember the f
 ---
 
 :::tip Simplify (Ages 8–9)
-Keep the log to two pages: one with "What charges me / What drains me," and one with "What I do right before I lose it." That's enough for now. The format can grow as the student grows.
+Keep the map to two pages: one page for green/yellow/red, and one page for "what helps me." That is enough.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner track 7 full days of data, then graph or chart something — capacity by time of day, frequency of hijacks per week, top three drainers. Looking at their own data visually often reveals patterns that words don't.
+Have the older learner track 7 full days of green/yellow/red moments, then graph when yellow and red show up most often.
 :::
 
 :::tip Vocabulary This Week
-**telemetry log**, **early warning sign**, **escalation chain**, **intervention window**
+**signal map**, **telemetry log** (toolbox phrase), **early warning sign**, **choice moment**
 :::

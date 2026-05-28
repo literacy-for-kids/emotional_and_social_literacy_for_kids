@@ -6,27 +6,34 @@ description: "Capstone Week 3 — deploy the protocol in the real world for a fu
 ---
 
 # Week 17: Running the Experiment in the Real World
-*The Social Interface Patch — Capstone Week 3*
+*Try-It Week — Capstone Week 3*
 
-You diagnosed the problem (Week 15). You designed the protocol (Week 16). This week you ship it.
+You picked one repeat problem. You made a plan. This week you try it in real life.
 
-This is the deployment week. You take your protocol into your actual life and run it for seven days. You track what happens. You collect data — honestly, even when it's disappointing. By the end of the week, you'll have real evidence about whether the protocol works, where it works, where it breaks, and what needs to change.
+This is **Try-It Week**.
 
-This is the part that makes everything you've learned real. Up to now, the curriculum has been concepts and exercises. This week, the concepts hit the road.
+You use your plan for seven days and notice what happens. Some parts may work. Some parts may not. That is normal.
+
+The goal is not perfection. The goal is honest information you can use next week.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Try the plan. Notice what happens. Learn from it."
+:::
+
 :::info Facilitator Snapshot
-- This is the live test. Your job is to support data collection, not to coach perfect execution.
-- The protocol will not work perfectly. That's expected. Imperfect data is still data.
-- Resist the urge to "help" too much during the week. The student is running the experiment. Let them.
-- Track honestly — including the times the student forgot the protocol, ignored it, or tried it and bailed.
+- This is the live test. Support tracking, not perfect performance.
+- Lead with **Try-It Week**. Offer **deployment**, **data collection**, and **real-world test** as toolbox phrases.
+- The plan will probably not work perfectly. That is expected.
+- Track honestly, including partial tries, forgotten moments, and rough days.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Deployment and Tracking](#guided-session-1)
-- [Guided Session 2: Mid-Week Check-In](#guided-session-2)
+- [Guided Session 1: Try It and Track It](#guided-session-1)
+- [Guided Session 2: Midweek Check-In](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -36,7 +43,7 @@ This is the part that makes everything you've learned real. Up to now, the curri
 |---|---|
 | **Prep time** | ~10 minutes |
 | **Materials** | Telemetry Log, the protocol document from Week 16, the baseline data from Week 15, a tracking sheet |
-| **Key vocabulary** | deployment, data collection, observation, real-world test |
+| **Key vocabulary** | Try-It Week, data collection, observation, real-world test |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -49,9 +56,9 @@ This is the part that makes everything you've learned real. Up to now, the curri
 :::
 
 :::tip Facilitation Mindset
-This week is about the student running their own experiment. Your job is to be a curious lab partner, not a manager. Ask questions ("how did Tuesday go?") rather than evaluating ("you didn't follow it on Tuesday").
+Be a curious lab partner, not a judge. Ask questions like "What happened on Tuesday?" instead of "Why didn't you do it right?"
 
-If the student is discouraged because the protocol "isn't working," remind them: this is data collection, not a pass/fail test. A protocol that fails three times this week and works twice is INFORMATION. Information is the entire point.
+If the learner gets discouraged, remind them that a partial try is still useful information.
 :::
 
 :::caution Stop Rule
@@ -63,31 +70,31 @@ The point is to gather honest data from a safe experiment. Students should not p
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "We have a plan. This week we try it. We keep track of what happens. Then next week, we look at what we learned."
+**Simplest version of the concept:** "This week we try the plan and see what happens."
 
 **What to shorten or skip:**
-- Skip the detailed mid-week check-in. Just ask each day: "Did it happen? What did you do?"
-- Simplify the tracking: a tally and a one-word feeling is plenty.
+- Keep the check-in short.
+- Use a very simple tracker.
 
 **Adapting the activities:**
-- Use a sticker chart. Each day the trigger happened: red sticker. Each day they tried the protocol: green sticker. Each day it actually helped: gold star.
-- Make the protocol card very visible — taped to the wall, hanging by their bed, etc.
+- Use a sticker chart or tally marks.
+- Keep the plan card visible.
 
-**Journal alternative:** Just check yes/no each day on a simple chart. The data doesn't have to be detailed to be useful.
+**Journal alternative:** yes/no plus a feeling face each day.
 
-**What success looks like:** The student tries the protocol at least once during the week and tracks whether they tried it.
+**What success looks like:** The student tries the plan at least once and tracks it.
 :::
 
 ---
 
 ## Guided Session 1
-### Deployment and Tracking
+### Try It and Track It
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe what real-world data collection looks like
+- describe what honest tracking looks like
 - set up a tracking sheet for the week
-- understand that any data — including data showing the protocol failed — is useful
+- understand that helpful, mixed, and unhelpful results are all useful
 
 ---
 
@@ -107,40 +114,40 @@ Set up a daily tracking sheet for the week. Use the same kind of structure as th
 | Sat | | | | | |
 | Sun | | | | | |
 
-The point is **honesty**, not success. If the trigger happened and you didn't run the protocol, write that. If you ran it and it didn't help, write that. If you forgot the protocol existed until afterward, write that.
+The point is **honesty**, not success. If the trigger happened and you forgot the plan, write that. If you tried the plan and it only partly helped, write that.
 
 ---
 
-**2. The Three Honest Tracking Rules**
+**2. Three Honest Tracking Rules**
 
 Before the week starts, commit to three rules:
 
-**RULE #1: Track every time the trigger happens — whether or not you used the protocol.**
+**RULE #1: Track every time the trigger happens — whether or not you used the plan.**
 Skipping the "I forgot" entries is exactly how you lose the lesson.
 
-**RULE #2: Track what actually happened, not what you wish had happened.**
+**RULE #2: Track what actually happened, not what you hoped would happen.**
 "I lost my temper anyway" is honest data. "It went pretty well I guess" is not data.
 
-**RULE #3: Track in the same day, not from memory at the end of the week.**
+**RULE #3: Track the same day, not from memory at the end of the week.**
 Memory smooths things out and loses detail. Track within a few hours.
 
 ---
 
-**3. The Pre-Deployment Walkthrough**
+**3. One More Walkthrough**
 
 Walk through the protocol one more time. Read it aloud. Visualize the trigger happening and the student running the protocol.
 
-Then: launch. The deployment starts today.
+Then start. Try-It Week begins today.
 
 ---
 
 ## Guided Session 2
-### Mid-Week Check-In
+### Midweek Check-In
 #### Learning Goal
 By the end of this session, the student can:
 
-- review their data from the first half of the week without judgment
-- identify any obvious patches needed mid-deployment
+- review the first half of the week without judgment
+- identify any obvious small fixes needed midweek
 - continue tracking through the rest of the week
 
 ---
@@ -157,11 +164,11 @@ Look at the tracking sheet so far together. Ask:
 - When the trigger happened, what did you do?
 - What surprised you about how the protocol played out in real life?
 
-Don't evaluate. Just look.
+Do not evaluate. Just look.
 
 ---
 
-**2. Mid-Deployment Patching**
+**2. Small Midweek Fixes**
 
 If something is clearly broken — for example, the trigger never actually happens, or the protocol's first step is impossible in real conditions — it's okay to make a small patch mid-week.
 
@@ -171,20 +178,20 @@ Examples of legitimate mid-week patches:
 - "The first step (long exhale) feels weird to do in front of others. I'm switching it to 'count to 5 silently.'"
 - "I forgot the protocol exists. I'm putting a copy on the inside of my bedroom door."
 
-What's NOT a legitimate patch:
+What is NOT a good midweek fix:
 
-- "It's not working, I'm scrapping the whole thing." (No — keep collecting data. The post-mortem in Week 18 is when the big revisions happen.)
+- "It's not working, so I am throwing the whole thing away." (No. Keep collecting data. The bigger redesign happens next week.)
 - "I want to change the friction point." (No — stay with the project. Even imperfect data is the lesson.)
 
-Update the protocol document if you patched it. Keep tracking.
+Update the plan card if you patched it. Keep tracking.
 
 ---
 
-**3. Encouragement**
+**3. Reset the Tone**
 
 If the protocol isn't working as well as the student hoped, this is the moment to remind them:
 
-> "The point of this week is to **find out what happens** when you deploy the protocol. The result you're collecting — including the 'it didn't work as well as I hoped' result — is exactly what we need for next week's post-mortem. Real engineers find this part useful. So can you."
+> "The point of this week is to find out what happens when you try the plan. Even 'that did not work the way I hoped' is useful information for next week."
 
 Keep going.
 
@@ -198,17 +205,17 @@ The deployment is fully solo — you run YOUR protocol in YOUR life. No partner 
 
 ### Goal
 
-Complete a full week of deployment with honest tracking. Build the data set for the Week 18 post-mortem.
+Complete a full Try-It Week with honest tracking so you have something real to look back on next week.
 
 ### Activities
 
 **1. The Full-Week Tracker**
 
-Continue tracking every day. The data you collect this week is the entire input for the post-mortem next week. Better data → better post-mortem → better v2.0 protocol.
+Continue tracking every day. The data you collect this week is the input for next week's look-back. Better data means a smarter version 2.0.
 
 If the trigger happens multiple times in a day, log each occurrence separately.
 
-**Minimum viable version (younger learners):** Just a daily yes/no with a feeling face. That's still useful data.
+**Minimum viable version:** daily yes/no plus a feeling face or color.
 
 ---
 
@@ -221,7 +228,7 @@ In addition to the tracker, jot down any **observations** that don't fit neatly 
 - "The protocol is way easier with my mom than with my dad."
 - "I noticed the trigger happens 3x on Tuesdays — twice as often as other days."
 
-These observations are gold for the post-mortem. Capture them as you notice them.
+These observations will help a lot next week. Capture them when you notice them.
 
 ### Telemetry Log
 
@@ -243,7 +250,7 @@ These observations are gold for the post-mortem. Capture them as you notice them
 >
 > **End of week (Sunday) summary:**
 > - Total triggers this week: ___
-> - Total times I ran the protocol fully: ___
+> - Total times I ran the plan fully: ___
 > - Times I ran it partially: ___
 > - Times I forgot or skipped: ___
 > - Average severity compared to baseline: ___
@@ -253,11 +260,13 @@ These observations are gold for the post-mortem. Capture them as you notice them
 - "Today the thing happened. I ___."
 - "It went ___ today."
 
+**Low-writing options:** stickers, tallies, colors, or one-word notes.
+
 ### Reflection Questions
 
-- Was there a moment this week when running the protocol surprised you — either because it worked better than expected, or worse?
-- What's the most interesting piece of data you collected this week?
-- If you'd never written the protocol, how do you think the week would have gone differently?
+- Was there a moment this week when the plan surprised you?
+- What is the most interesting thing you noticed?
+- If you had not made the plan, how do you think the week would have gone?
 
 ---
 
@@ -265,9 +274,9 @@ These observations are gold for the post-mortem. Capture them as you notice them
 
 After this week, check whether the learner can:
 
-1. **Show their tracking data:** "Show me your tracker from the week." (Looking for: an actual completed tracker with at least 5 days of data, including failures and skips.)
-2. **Describe what they observed:** "What's the most interesting thing you noticed this week?" (Looking for: a specific observation about how the protocol played out — not "it was fine.")
-3. **Stay engineering-minded about failure:** "If the protocol didn't work on Tuesday, what happened?" (Looking for: a non-judgmental description — "I forgot," "my capacity was at a 3," "I got hijacked before step 1" — not "I'm bad at this.")
+1. **Show the tracker:** "Show me your tracker from the week."
+2. **Describe what they observed:** "What is the most interesting thing you noticed this week?"
+3. **Stay calm about rough moments:** "If the plan did not work on Tuesday, what happened?"
 
 If the learner can do at least 2 of these, they are ready for the final week.
 
@@ -276,15 +285,13 @@ If the learner can do at least 2 of these, they are ready for the final week.
 ## Pause and Notice
 
 :::note What Matters Here
-After the week of deployment, ask:
+After the week, ask:
 
-> "What's it like to be the person running an experiment on yourself? Did it feel different than just 'trying to be better'?"
+> "Did trying the plan feel different from just telling yourself to do better?"
 
-Most kids feel a real shift here. "Trying to be better" is vague and weighed down by self-judgment. "Running an experiment" is specific, neutral, and forward-looking. The data is just data — it doesn't say anything bad about you.
+That difference matters. A plan gives the learner something concrete to try instead of just more pressure.
 
-This reframe alone is one of the most valuable takeaways of the entire course. You can apply it to anything: a study habit, a sport, a friendship. **The data isn't a verdict. The data is information for the next iteration.**
-
-**This week's takeaway:** You are the engineer of your own systems. The data you collect on yourself — honest, curious, neutral — is the most useful resource you have for changing anything.
+**This week's takeaway:** Honest information helps more than pretending everything went fine.
 :::
 
 ---
@@ -300,20 +307,20 @@ This reframe alone is one of the most valuable takeaways of the entire course. Y
 ---
 
 :::tip Simplify (Ages 8–9)
-Use a sticker chart. Tally marks for triggers. A smiley/neutral/frown face per day. That's the right level of data for this age. Reading the chart together at the end of the week is the post-mortem in miniature.
+Use a sticker chart or faces. That is enough data for this age.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner produce a small data visualization at the end of the week: a chart of severity by day, a comparison of baseline week vs. deployment week, or a count of protocol attempts vs. completions. Looking at data visually often reveals patterns words don't.
+Have the older learner make a simple chart comparing baseline week and Try-It Week.
 :::
 
 ## Related Tools
 
-- Use the **Seven-Day Deployment Tracker** in [Student Tools and Printables](/docs/student-tools-and-printables) for a clean daily log.
-- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if the protocol creates pressure, secrecy, or a problem that is bigger than the project.
+- Use the **Try-It Week Tracker** in [Student Tools and Printables](/docs/student-tools-and-printables) for a clean daily log.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if the plan creates pressure, secrecy, or a problem that is bigger than the project.
 
 ---
 
 :::tip Vocabulary This Week
-**deployment**, **data collection**, **observation**, **real-world test**
+**Try-It Week**, **deployment** (toolbox phrase), **data collection**, **real-world test**
 :::

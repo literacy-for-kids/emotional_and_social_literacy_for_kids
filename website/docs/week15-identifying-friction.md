@@ -6,26 +6,31 @@ description: "Capstone Week 1 — identify a recurring social friction point and
 ---
 
 # Week 15: Diagnosing a Recurring Social Problem
-*The Social Interface Patch — Capstone Week 1*
+*Pick One Problem That Keeps Happening — Capstone Week 1*
 
-You have learned to read your own telemetry, debug your thinking, manage your relationships, and diagnose conflict. Now you put it all together on a real problem in your own life.
+You have learned to notice body clues, catch thought bugs, read trust, set boundaries, and slow down before reacting. Now you use those tools on one real problem that keeps happening.
 
-The capstone is a full engineering loop:
+The capstone is a four-week loop:
 
-- **Week 15 (now):** Identify a recurring friction point. Diagnose the root cause.
-- **Week 16:** Design an explicit protocol to address it.
-- **Week 17:** Deploy the protocol in the real world. Collect data.
-- **Week 18:** Post-mortem. What worked? What didn't? Patch and present.
+- **Week 15:** pick one repeating problem and figure out why it keeps happening
+- **Week 16:** make a clear plan for what you will do
+- **Week 17:** try the plan in real life and track what happens
+- **Week 18:** look back, improve the plan, and share what you learned
 
-This week is the diagnostic. You pick **one specific, recurring social friction point** — something that keeps happening, that you keep having a hard time with — and you take it apart. By the end of the week, you should understand it well enough to design a protocol for it next week.
+This week is about choosing well. You are not fixing your whole life. You are picking **one problem that keeps happening** and getting specific enough to understand it.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Pick one problem that keeps happening. Figure out the real reason underneath it."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: this is the start of a four-week project. The student picks a real, recurring problem.
-- The skill: root-cause analysis. Going beyond "this is annoying" to "this keeps happening because ___."
-- The friction point should be a 4-week sized problem — not a one-time event, not their whole life.
-- Help the student pick well. A poorly-chosen friction point makes the next three weeks frustrating.
+- The big idea: start a four-week project by picking one repeat problem the learner can safely work on.
+- Lead with **pick one problem that keeps happening**. Offer **friction point** and **root cause** as toolbox terms.
+- Help the learner choose a project that is small, safe, and partly under their control.
+- A bad project choice makes the next three weeks harder, so spend time here.
 :::
 
 :::caution Capstone Safety Gate
@@ -33,13 +38,15 @@ Facilitator approval is required before a student moves forward with a project.
 
 Approve a project only if it is low-stakes, focused on the student's own behavior, communication, environment, or preparation, and easy to stop if it creates distress.
 
-Do not approve projects about controlling someone else, exposing private information, testing another person's loyalty, revenge, surveillance, unsafe secrets, abuse, or adult-level conflict.
+Do not approve projects about controlling someone else, exposing private information, testing another person's loyalty, revenge, surveillance, unsafe secrets, abuse, unsafe dares, adult conflict, or situations that need immediate adult help.
+
+If the student's real-life examples are too hot, too private, or too painful, switch to a fictional situation or a lower-stakes version.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Picking the Right Friction Point](#guided-session-1)
-- [Guided Session 2: The 5 Whys Diagnostic](#guided-session-2)
+- [Guided Session 1: Picking the Right Problem](#guided-session-1)
+- [Guided Session 2: The Why Ladder](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -49,7 +56,7 @@ Do not approve projects about controlling someone else, exposing private informa
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log, paper, pencil, large piece of paper for the diagnostic, optional: sticky notes |
-| **Key vocabulary** | friction point, root cause, 5 Whys, baseline, recurring pattern |
+| **Key vocabulary** | repeat problem, real reason, 5 Whys, baseline, pattern |
 | **Difficulty** | Moderate to Advanced |
 
 ## Facilitator Preparation
@@ -62,55 +69,64 @@ Do not approve projects about controlling someone else, exposing private informa
 :::
 
 :::tip Facilitation Mindset
-This is where everything they've learned gets applied to a real problem. Treat the student like a colleague working on a project, not a student doing an assignment.
+Treat the learner like a partner working on a real project.
 
-Your job this week is to ensure they pick a problem that's the right size and the right shape — not too big, not too vague, not someone else's to solve. A well-chosen friction point makes the next three weeks land. A poorly chosen one is frustrating.
+Your main job is to help them choose a problem that is the right size: not too big, not too vague, and not someone else's job to fix.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Pick one thing that keeps happening that bothers you. We're going to figure out why it keeps happening — and next week, we'll make a plan."
+**Simplest version of the concept:** "Pick one thing that keeps happening. We are going to figure out the real reason."
 
 **What to shorten or skip:**
-- Skip "root cause" terminology. Use "the real reason."
-- Use 3 Whys instead of 5.
+- Use **3 Whys** instead of 5.
+- Use "real reason" more than "root cause."
 
 **Adapting the activities:**
-- Use very simple, kid-sized friction points: "I keep forgetting my homework folder." "I keep fighting with my brother in the morning."
-- Make the diagnostic playful: "Detective time! Let's find out why this keeps happening."
+- Use small, everyday problems.
+- Turn it into detective work.
 
-**Journal alternative:** Draw the friction point as a comic. Three panels: "Here's what happens. Here's how it ends. Here's how I feel about it."
+**Journal alternative:** Draw the problem in three panels.
 
-**What success looks like:** The student can name a real, specific friction point and give at least one possible reason it keeps happening.
+**What success looks like:** The student picks one specific repeat problem and can name one reason it may keep happening.
 :::
 
 ---
 
 ## Guided Session 1
-### Picking the Right Friction Point
+### Picking the Right Problem
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe what makes a good friction point for this project
-- generate 3–5 candidate friction points from their own life
+- describe what makes a good project problem
+- generate 3 to 5 candidate problems from their own life
 - pick one and write a clear baseline description
 
 ---
 
 #### Activities
 
-**1. What's a Good Friction Point?**
+**1. What Makes a Good Project?**
 
 Explain the criteria:
 
-A good friction point for this project:
+A good project problem for this capstone is:
 
 - **Recurring.** It happens regularly — at least weekly, ideally more often.
 - **Partly in your control.** Something where YOU could potentially change something, not just wait for someone else to.
 - **Not a crisis.** Not something that needs adult intervention right now.
 - **Specific.** "I have a hard time with my sister" is too vague. "My sister and I fight every morning before school" is specific.
 - **Real to you.** Something that actually bugs you. Not a problem you think you "should" pick.
+
+Use this quick sort:
+
+| Good project for this capstone | Not a good project for this capstone |
+|---|---|
+| I keep forgetting my homework folder. | I want my brother to stop being annoying forever. |
+| I get snappy every day before dinner. | I want to prove who my real friends are. |
+| I freeze during group work. | I want to fix my parents' conflict. |
+| I avoid asking for help in math even when I need it. | I want to catch someone lying to me. |
 
 ---
 
@@ -128,7 +144,7 @@ Examples:
 - I lose my temper at recess almost every day.
 - I avoid one specific classmate who used to be my friend.
 
-List them on a piece of paper. Don't censor — write down whatever the student names.
+List them on paper. Do not choose yet.
 
 ---
 
@@ -140,20 +156,20 @@ For each candidate, ask:
 - Is part of it in your control (yes/no)?
 - Could you actually try something different next week (yes/no)?
 
-The candidate that gets three yeses is the one. If multiple qualify, pick the one the student is most curious about — not the most painful one.
+The candidate that gets three yeses is a good fit. If multiple qualify, choose the one the learner is most curious about, not the one with the most pain.
 
-Write this in the Telemetry Log as your **Capstone Friction Point**.
+Write this in the Telemetry Log as your **Capstone Problem**.
 
 ---
 
 ## Guided Session 2
-### The 5 Whys Diagnostic
+### The Why Ladder
 #### Learning Goal
 By the end of this session, the student can:
 
-- run the **5 Whys** diagnostic on their friction point
-- distinguish between surface symptoms and root causes
-- describe at least one underlying mismatch that produces their friction point
+- run the **5 Whys** diagnostic on their chosen problem
+- distinguish between the surface problem and the deeper reason
+- describe at least one mismatch underneath the problem
 
 ---
 
@@ -165,7 +181,7 @@ Explain:
 
 > "The 5 Whys is a diagnostic tool engineers use to find the real cause of a problem. You start with the surface complaint, then you ask 'why?' five times. By the time you've asked five whys, you usually find the real cause underneath the surface — which is often something completely different than what you started with."
 
-This isn't a magic number — sometimes you find the root cause in three whys, sometimes you need more. The point is to keep going past the surface answer.
+This is not a magic number. Sometimes the real answer shows up after three whys, sometimes later. The point is to keep going past the first answer.
 
 ---
 
@@ -196,11 +212,11 @@ Take the student's friction point and walk through it:
 
 This is a totally different diagnosis than "my brother is annoying." Now the fix isn't "make my brother stop" — it's "eat the afternoon snack so I have capacity when he does his thing."
 
-This is the whole point of the 5 Whys. The first answer is rarely the real one.
+This is the whole point of the Why Ladder. The first answer is rarely the full answer.
 
 ---
 
-**3. Reaching for the Mismatch**
+**3. Name the Mismatch**
 
 Once you've done the 5 Whys, see if you can name the **system mismatch** at the root:
 
@@ -209,7 +225,7 @@ Once you've done the 5 Whys, see if you can name the **system mismatch** at the 
 - Different constraints? ("My parents have stress I don't see.")
 - A degraded mode issue? ("Both of us are running on low capacity at the same time of day.")
 
-The friction usually has 1–2 underlying mismatches. Name them. They'll be the targets for the protocol next week.
+Most repeat problems have 1 or 2 underlying mismatches. Name them. They become the targets for next week's plan.
 
 ---
 
@@ -217,7 +233,7 @@ The friction usually has 1–2 underlying mismatches. Name them. They'll be the 
 
 ### Goal
 
-Establish a baseline. Watch the friction point this week WITHOUT trying to change it.
+Establish a baseline. Watch the problem this week without trying to fix it yet.
 
 ### Activities
 
@@ -235,9 +251,9 @@ Before you can fix a problem, you need to know how often it happens. For one wee
 | Sat | | | | |
 | Sun | | | | |
 
-By the end of the week, you have a **baseline** — a measure of how often and how badly the friction happens now. Without this baseline, you can't tell next week whether your protocol is actually working.
+By the end of the week, you have a **baseline**. That means you know how often the problem happens right now.
 
-**Minimum viable version (younger learners):** Each day, write yes or no — did it happen? If yes, draw a face for how it felt.
+**Minimum viable version:** yes/no each day plus a face, color, sticker, or tally mark.
 
 ---
 
@@ -261,7 +277,7 @@ The baseline tracker is fully solo. You're observing your own life — no partne
 
 > Add a new section to your Telemetry Log called **Capstone Project**:
 >
-> **My friction point (specific, one sentence):** ___
+> **My repeat problem (specific, one sentence):** ___
 >
 > **Why this one (what makes it the right pick):** ___
 >
@@ -288,11 +304,13 @@ The baseline tracker is fully solo. You're observing your own life — no partne
 - "The real reason is probably ___."
 - "It usually happens when ___."
 
+**Low-writing options:** draw the pattern, use stickers by day, or say answers aloud.
+
 ### Reflection Questions
 
-- Did the 5 Whys take you somewhere you didn't expect?
-- What's the hardest part of just *watching* the friction point without trying to change it?
-- What pattern emerged that you hadn't noticed before?
+- Did the Why Ladder take you somewhere you did not expect?
+- What is hard about just watching the problem without fixing it yet?
+- What pattern did you notice?
 
 ---
 
@@ -300,9 +318,9 @@ The baseline tracker is fully solo. You're observing your own life — no partne
 
 After this week, check whether the learner can:
 
-1. **Name their friction point clearly:** "What are you working on for the next four weeks?" (Looking for: a specific, recurring problem stated in one or two sentences.)
-2. **Distinguish surface from root:** "What did you think was causing this at first, and what does it actually seem to be?" (Looking for: a difference between the surface complaint and the deeper cause.)
-3. **Read the pattern:** "When does this usually happen?" (Looking for: a specific recurring context — time of day, people involved, conditions — not "all the time.")
+1. **Name the project clearly:** "What problem are you working on for the next four weeks?"
+2. **Distinguish surface from deeper reason:** "What did you think was causing it at first, and what might really be underneath it?"
+3. **Read the pattern:** "When does this usually happen?"
 
 If the learner can do at least 2 of these, they are ready for Week 16.
 
@@ -318,15 +336,13 @@ If the learner can do at least 2 of these, they are ready for Week 16.
 ## Pause and Notice
 
 :::note What Matters Here
-After running the 5 Whys, ask:
+Ask:
 
-> "When you got to the bottom of the diagnostic, did the friction point look different than it did at the top? Is the real cause different from what you originally blamed?"
+> "Did the problem look different by the time you got to the bottom of the why ladder?"
 
-This is one of the most useful moments in the whole curriculum. A lot of social problems get reframed by the diagnostic. The fight with the sibling isn't really about the sibling. The classmate situation isn't really about the classmate. The trigger is one thing; the root is usually another.
+That shift matters. Once the learner can name the deeper reason, the next step becomes much clearer.
 
-Once you can see the root, you can do something about it. While you were blaming the surface, the system was untouchable.
-
-**This week's takeaway:** Most social problems have a cause you haven't named yet. Naming it is the start of fixing it.
+**This week's takeaway:** Many repeat problems have a reason underneath them. Naming that reason is the start of fixing it.
 :::
 
 ---
@@ -342,13 +358,13 @@ Once you can see the root, you can do something about it. While you were blaming
 ---
 
 :::tip Simplify (Ages 8–9)
-Use 3 Whys instead of 5. Keep the friction point very kid-sized: "I keep losing my homework folder," "My sister and I fight every morning." The tracker can be tally marks on a sheet — just count how often the thing happens.
+Use 3 Whys instead of 5. Keep the project small and concrete. Use tally marks, stickers, or faces for the tracker.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner write a formal **problem statement** — a single paragraph that names the friction point, the recurring pattern, the root cause(s), and the underlying mismatch. This becomes a real spec they'll reference next week when designing the protocol.
+Have the older learner write a short problem statement naming the repeat problem, the pattern, the deeper reason, and the mismatch underneath it.
 :::
 
 :::tip Vocabulary This Week
-**friction point**, **root cause**, **5 Whys**, **baseline**, **recurring pattern**
+**repeat problem**, **real reason**, **5 Whys**, **baseline**, **pattern**
 :::
