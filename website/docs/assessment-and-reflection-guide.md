@@ -24,8 +24,8 @@ Students may be assessed on whether they can:
 - identify inputs and outputs
 - name a feedback loop
 - write a respectful boundary
-- choose a responsible response to a rumor
-- design a safe personal protocol
+- choose a responsible Check Before You Tell response to a rumor
+- design a safe When/Then Plan
 - reflect on what changed after trying a tool
 
 ## What Should Not Be Assessed
@@ -71,16 +71,16 @@ Use these rubrics for observation, conferences, portfolios, or brief written wor
 | Level | Description |
 |---|---|
 | **Beginning** | Recognizes rumor, gossip, or conflict. |
-| **Developing** | Checks whether information is verified, kind, or necessary. |
-| **Applying** | Chooses a stop-node or adult-support response. |
+| **Developing** | Uses the Check Before You Tell questions: true, kind, and needed. |
+| **Applying** | Chooses to stop the story, share responsibly, or get adult support. |
 
-### Personal Protocol Design
+### Personal Plan Design
 
 | Level | Description |
 |---|---|
-| **Beginning** | Names a trigger. |
-| **Developing** | Designs a possible response. |
-| **Applying** | Tests, reflects on, and patches the protocol safely. |
+| **Beginning** | Names a trigger or repeat problem. |
+| **Developing** | Designs a possible When/Then response. |
+| **Applying** | Tests, reflects on, and patches the plan safely. |
 
 ## Reflection Prompts
 
@@ -98,13 +98,13 @@ Use short prompts at the end of a lesson, week, or capstone cycle:
 
 Good evidence sources include:
 
-- a completed Telemetry Log entry
-- a fictional Input/Output Audit
+- a completed Body Signal Notebook / Telemetry Log entry
+- a fictional Detective Check / Input/Output Audit
 - a Thought Bug Debugger
-- a Boundary Script Builder
-- a Rumor Stop-Node Checklist
-- a Personal Protocol Template
-- a Patch Notes Reflection
+- a Clear Boundary Rules Script Builder
+- a Check Before You Tell Card
+- a When/Then Plan Card
+- a Look Back and Patch Notes page
 
 See [Student Tools and Printables](/docs/student-tools-and-printables) for reusable templates and [Week 18](/docs/week18-retrospective) for capstone reflection ideas.
 
@@ -112,10 +112,10 @@ See [Student Tools and Printables](/docs/student-tools-and-printables) for reusa
 
 A simple end-of-course portfolio can include:
 
-1. one early Telemetry Log entry
+1. one early Body Signal Notebook / Telemetry Log entry
 2. one audit or thought-bug tool
 3. one boundary or rumor-responsibility artifact
-4. one capstone protocol
+4. one capstone When/Then Plan
 5. one patch-notes reflection
 
 The portfolio should show growth in reasoning and tool use, not private disclosure.

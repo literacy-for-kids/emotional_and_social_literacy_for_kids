@@ -6,29 +6,42 @@ description: "Catastrophic thinking as a runaway amplifying feedback loop — de
 ---
 
 # Week 7: Faulty Logic Loops and How to Spot Them
-*Debugging the Signal Noise*
+*Worry Snowballs and How to Stop Them*
 
-You have learned about cognitive distortions (Week 5) and the story generator (Week 6). This week we focus on one specific failure mode that is so common, so destructive, and so debuggable that it deserves its own week: **catastrophic thinking**.
+You have learned about thought bugs and the story maker. This week you zoom in on one especially common pattern: **catastrophic thinking**.
 
-Catastrophic thinking is a **runaway feedback loop**. A small worry produces a fearful feeling. The fearful feeling makes worse worries seem more likely. The worse worry produces a bigger feeling. The bigger feeling makes the worst-case story seem inevitable. Within minutes, a kid who started with "I forgot my homework" is convinced they will fail school, disappoint their parents, and lose their friends.
+Kid version: **worry snowball** or **worry spiral**.
 
-The loop is fast. It feels like thinking, but it's mostly amplifying. By the time you notice it, you may already be halfway down the spiral.
+A worry snowball starts small, then rolls and rolls:
 
-The fix is not "stop worrying." The fix is **interrupting the loop** — breaking the cycle of thought-amplifying-feeling-amplifying-thought before it builds up enough momentum to take over.
+- "I forgot my homework."
+- "Now the teacher will be upset."
+- "Now I am going to get in trouble."
+- "Now the whole day is ruined."
+
+Nothing new happened outside. The snowball just got bigger inside the brain.
+
+The job this week is not to never worry. The job is to **spot the snowball early and use a snowball stopper** before it gets huge.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"A small worry can roll downhill and get bigger. This week you learn how to spot the snowball before it gets huge."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: catastrophizing isn't a single bad thought — it's a runaway loop.
-- The skill: noticing the loop running and interrupting it (not arguing with it from inside).
-- Be especially gentle here. Many kids' worst spirals happen at night, alone. Be a safe person to talk about it with.
-- Continue the Telemetry Log. Add a "loop catch" entry style.
+- The big idea: catastrophic thinking is a pattern that grows, not one single bad thought.
+- Lead with **worry snowball** or **worry spiral**. Offer **feedback loop** as the toolbox phrase.
+- Keep examples small and safe first: homework, recess mistakes, sports, bedtime worries, group chat silence.
+- Do not ask students to relive scary or traumatic spirals.
+- Continue the Telemetry Log. Add a "snowball catch" or "loop catch" entry style.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Spiral Mechanism](#guided-session-1)
-- [Guided Session 2: Breaking the Loop](#guided-session-2)
+- [Guided Session 1: The Worry Snowball](#guided-session-1)
+- [Guided Session 2: Snowball Stoppers](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +51,7 @@ The fix is not "stop worrying." The fix is **interrupting the loop** — breakin
 |---|---|
 | **Prep time** | ~10 minutes |
 | **Materials** | Telemetry Log, paper, pencil, a way to draw arrows and circles (whiteboard or large paper) |
-| **Key vocabulary** | catastrophic thinking, feedback loop, amplification, loop-breaker |
+| **Key vocabulary** | worry snowball, catastrophic thinking, feedback loop, snowball stopper |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -51,89 +64,96 @@ The fix is not "stop worrying." The fix is **interrupting the loop** — breakin
 :::
 
 :::tip Facilitation Mindset
-This week can be emotionally heavy for some students. Make sure the activities stay in the realm of *recognizing the pattern*, not *reliving the spiral*. The goal is awareness of the mechanism, not exposure to the dread.
+This week can be emotionally heavy for some students. Stay in the realm of *recognizing the pattern*, not *reliving the dread*.
 
-The most powerful move this week is normalization. Almost every kid has these spirals. They feel uniquely terrible because they happen alone in your head at 11 PM. Saying "this is a thing your brain does, and lots of brains do it, and there are tools for it" can be quietly life-changing.
+The most powerful move here is normalization:
+
+> "Lots of brains do this. It feels awful, and it is still a pattern you can learn to spot."
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Sometimes a worry starts small, and then it grows bigger and bigger like a snowball rolling downhill. Today we're learning how to stop the snowball before it gets huge."
+**Simplest version of the concept:** "Sometimes a worry starts tiny and then grows bigger and bigger like a snowball rolling downhill. Today we are learning how to stop it sooner."
 
 **What to shorten or skip:**
-- Skip the formal feedback-loop diagram. Use the snowball metaphor instead.
-- Skip the "amplification" vocabulary. Use "growing" or "snowballing."
+- Skip most formal loop language.
+- Use the snowball picture instead of the full diagram.
 
 **Adapting the activities:**
-- Draw a snowball getting bigger as it rolls. Have the student fill in what worry it started as and what huge thing it became.
-- Use puppet voices: a "tiny worry voice" that grows into a "big worry voice" — making it funny defuses the dread.
+- Draw a snowball getting bigger.
+- Use puppet voices or silly thought bubbles.
+- Use fictional examples first.
 
-**Journal alternative:** "A time my worry snowball got big was when ___. The little worry started as ___ and ended as ___."
+**Journal alternative:** Draw the snowball with a tiny worry at the top and a giant worry at the bottom.
 
-**What success looks like:** The student can describe one spiral they had, including what it started with and what it grew into.
+**What success looks like:** The student can name what a small worry started as and what it grew into.
 :::
 
 ---
 
 ## Guided Session 1
-### The Spiral Mechanism
+### The Worry Snowball
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe catastrophic thinking as a **feedback loop** — thought makes feeling, feeling makes worse thought, worse thought makes worse feeling
-- identify the mechanism (amplification) that makes the loop dangerous
-- diagram a recent spiral of their own
+- describe catastrophic thinking as a worry that keeps feeding itself
+- identify where the worry started and how it got bigger
+- draw a worry snowball from small to huge
 
 ---
 
 #### Activities
 
-**1. The Loop, Drawn**
+**1. Draw the Snowball**
 
-Draw this diagram together:
+Draw a snowball rolling downhill. Label the steps from small to big.
 
-```
-Small worry → Worried feeling
-                    ↓
-                More worry  ←  Bigger feeling
-                    ↓                ↑
-              Bigger worry  ←  Even bigger feeling
-                    ↓                ↑
-             "Catastrophe"  ←  Hijack
+Example:
+
+```text
+forgot homework -> teacher might be annoyed -> I will get in trouble -> everyone will think I am a mess
 ```
 
 Explain:
 
-> "A loop is when the output of something becomes the input that feeds back into it. The worry produces a feeling. The feeling makes the next worry feel more believable. That next worry produces an even bigger feeling. Within minutes, you're spiraling — even though nothing new actually happened in the outside world."
+> "A worry snowball gets bigger because each worried thought makes the next worried thought feel more believable."
 
-Key insight: **the world isn't getting worse during a spiral. The amplification is happening entirely inside your head.**
+Toolbox phrase:
 
----
-
-**2. The Replay**
-
-Take one of the student's recent catastrophic spirals. Walk through it together, mapping each step on the diagram:
-
-- Tiny first worry
-- First feeling
-- Bigger worry the feeling produced
-- Bigger feeling
-- And so on, all the way to wherever the spiral ended
-
-Be gentle — students often feel sheepish seeing how much their brain spun up from a small starting point. That sheepishness is the point. The mechanism is now visible.
+> "This is a feedback loop."
 
 ---
 
-**3. The Three Common Spiral Triggers**
+**2. Replay a Small Spiral**
 
-Spirals usually start with one of these:
+Take one small recent example or a fictional example. Walk through:
 
-1. **A small mistake** ("I forgot my homework" → "I'll fail school")
-2. **A social uncertainty** ("She didn't text back" → "I have no friends")
-3. **A body signal** ("My stomach feels weird" → "I'm going to throw up at school in front of everyone")
+- tiny first worry
+- body feeling
+- bigger worry
+- biggest worry
 
-Ask the student which one is the most common starting point for their own spirals.
+Good examples:
+
+- forgot homework
+- friend did not text back
+- made a mistake in a game
+- worried about bedtime tomorrow
+
+Keep it gentle. The goal is to see the pattern, not make the child feel silly.
+
+---
+
+**3. Three Common Snowball Starters**
+
+Snowballs often start with:
+
+1. **A small mistake**
+2. **A social unknown**
+3. **A body feeling that gets scary fast**
+
+Ask which one is most common for the student.
 
 :::note Where the Metaphor Breaks
 Catastrophizing is a **pattern**, not a character flaw. The loop model is useful because it shows how a spiral grows, not because it explains every hard feeling.
@@ -144,67 +164,54 @@ If a student is dealing with persistent spirals, panic attacks, or thoughts of s
 ---
 
 ## Guided Session 2
-### Breaking the Loop
+### Snowball Stoppers
 #### Learning Goal
 By the end of this session, the student can:
 
-- name three **loop-breaker** techniques and try one on a real spiral
-- understand that loop-breakers work by changing the system's state, not by arguing with the thoughts
-- identify which loop-breakers work best for them personally
+- name several **snowball stoppers** and try one
+- understand that stoppers work by changing what the brain and body are doing
+- identify which stoppers may work best for them
 
 ---
 
 #### Activities
 
-**1. Why Arguing Doesn't Work**
+**1. Why Debate Usually Fails Inside a Spiral**
 
-A common (and unhelpful) approach to catastrophic thinking is to argue with the thoughts from inside the spiral:
+When the snowball is already big, arguing with every scary thought often keeps the worry going.
 
-> "But what if I really do fail the test?"
-> "Okay but what if my parents really are mad?"
-> "Okay but what if she really does hate me?"
+Better move:
 
-Arguing keeps you *in the loop*. It feeds the loop more material. The trick is to **change the system's state** instead of arguing within it.
+> change what your body, attention, or environment is doing first.
 
 ---
 
-**2. The Loop-Breakers**
+**2. The Snowball Stopper Menu**
 
-Three categories of loop-breakers — all of them work by interrupting the feedback cycle:
+Offer a menu. Students can try:
 
-**LOOP-BREAKER #1: Change the body's state.**
+- move your body
+- name the spiral out loud
+- ask for help
+- use 5-4-3-2-1
+- change rooms
+- take a long exhale
+- drink cool water
+- look at something and describe it like a detective
 
-The loop is body-and-brain together. Change the body, and the brain gets new inputs. Tools include:
-
-- **Long exhale** (from Week 3 — 4 in, 6 out)
-- **Cold water** (splash on face, cold drink, hold an ice cube)
-- **Walk or move** (even just to the kitchen and back)
-- **Big stretch** or rolling your shoulders
-
-**LOOP-BREAKER #2: Change the input.**
-
-The loop runs on a single piece of input being chewed over and over. Replace the input:
-
-- Go talk to a real person about something else
-- Look at something across the room and describe it in detail
-- Name 5 things you can see, 4 you can hear, 3 you can touch
-- Watch or read something completely unrelated for 5 minutes
-
-Note: the "5-4-3-2-1" grounding technique is commonly taught and can be helpful; it works by giving the brain new sensory input that competes with the spiral.
-
-**LOOP-BREAKER #3: Name the loop out loud.**
-
-Saying "I'm spiraling right now" — out loud or in a notebook — does something important. It puts a tiny bit of the thinking brain back online. The very act of *labeling* the loop weakens it.
+These are called **loop-breakers** in the toolbox language. Kid version: **snowball stoppers**.
 
 ---
 
-**3. The Personal Loop-Breaker Test**
+**3. Pick a First Stopper**
 
-Ask the student to guess: "Which loop-breaker do you think will work best for YOU?"
+Ask:
 
-Then commit to trying it on the next spiral. Real data beats guessing — but having a guess is the first step toward an experiment.
+> "Which snowball stopper do you want to try first?"
 
-Write it in the Telemetry Log: **"My loop-breaker to try first: ___"**
+Write it in the log:
+
+> **My first snowball stopper: ___**
 
 ---
 
@@ -212,35 +219,34 @@ Write it in the Telemetry Log: **"My loop-breaker to try first: ___"**
 
 ### Goal
 
-Catch a real spiral this week and try at least one loop-breaker.
+Catch a real worry snowball this week and try at least one stopper.
 
 ### Activities
 
-**1. The Spiral Watch**
+**1. Snowball Watch**
 
-For one week, watch for spirals. When one shows up, write down:
+When a worry snowball shows up, write or say:
 
-- **Starting worry:** ___
-- **Where the spiral got to:** ___
-- **Estimated time from start to peak:** ___
-- **Did I try a loop-breaker?** Which one? ___
-- **What happened?** ___
+- where it started
+- what it grew into
+- which stopper you tried
+- what happened next
 
-Even noticing a spiral mid-way through and writing it down counts as a success. You don't have to break every loop — you just have to learn what they look like.
+Even noticing it halfway through counts as success.
 
-**Minimum viable version (younger learners):** Notice one spiral this week. Tell the facilitator about it. Try one loop-breaker together.
+**Minimum viable version:** Notice one snowball and tell the facilitator about it.
 
 ---
 
-**2. The Pre-emptive Loop-Breaker**
+**2. Practice a Stopper in a Calm Moment**
 
-Once this week, when you are NOT in a spiral, try the loop-breaker techniques in calm conditions:
+Once this week, try a stopper when you are not spiraling.
 
-- Try a long exhale before bed
-- Try the 5-4-3-2-1 sensory exercise during a normal moment
-- Try a cold splash on your face when you're already fine
+- long exhale before bed
+- 5-4-3-2-1 during a normal moment
+- short walk after school
 
-Practicing the tools in calm states makes them easier to find in stressful ones.
+Practicing in calm moments makes the tool easier to remember later.
 
 :::note Solo/Small-Group Fallback
 All activities are solo this week. Spirals usually happen alone, and you can build the skill alone.
@@ -248,19 +254,19 @@ All activities are solo this week. Spirals usually happen alone, and you can bui
 
 ### Telemetry Log
 
-> Add a "Loop Catch" entry style to your Telemetry Log:
+> Add a "Snowball Catch" entry style to your Telemetry Log:
 >
 > **Date / time:** ___
 >
 > **Starting worry:** ___
 >
-> **What the spiral grew into:** ___
+> **What the snowball grew into:** ___
 >
 > **Body during the spiral:** ___
 >
-> **Loop-breaker I tried:** ___
+> **Snowball stopper I tried:** ___
 >
-> **What happened:** ___ (loop broke / loop kept going / not sure)
+> **What happened:** ___ (snowball shrank / kept growing / not sure)
 >
 > **Note for next time:** ___
 
@@ -269,11 +275,13 @@ All activities are solo this week. Spirals usually happen alone, and you can bui
 - "It grew into ___."
 - "I tried ___ to make it stop."
 
+**Low-writing options:** snowball drawing, arrows, stickers, or oral answers.
+
 ### Reflection Questions
 
-- What time of day do your spirals usually happen? (Night is very common.)
-- What's your fastest-growing kind of spiral?
-- Is there someone you can talk to in the middle of a spiral? Just naming it to another person is sometimes the strongest loop-breaker.
+- What time of day do your snowballs usually happen?
+- What kind of worry grows fastest for you?
+- Is there someone you can talk to in the middle of a spiral?
 
 ---
 
@@ -281,9 +289,9 @@ All activities are solo this week. Spirals usually happen alone, and you can bui
 
 After this week, check whether the learner can:
 
-1. **Describe a feedback loop:** "What's a feedback loop?" (Looking for: something that builds on itself / output becomes input / gets bigger over time.)
-2. **Identify their own spiral pattern:** "What's a typical spiral for you?" (Looking for: a specific starting point and where it tends to grow to.)
-3. **Name a loop-breaker:** "What's one way to interrupt a spiral?" (Looking for: any one of the techniques — long exhale, cold water, walking, sensory grounding, naming it out loud.)
+1. **Describe a worry snowball:** "What is a worry snowball?" (Looking for: a small worry that keeps getting bigger.)
+2. **Identify their own pattern:** "What is a typical snowball for you?" (Looking for a starting point and where it grows.)
+3. **Name a stopper:** "What is one way to interrupt a spiral?" (Looking for any one technique.)
 
 If the learner can do at least 2 of these, they are ready for Week 8.
 
@@ -299,15 +307,13 @@ If the learner can do at least 2 of these, they are ready for Week 8.
 ## Pause and Notice
 
 :::note What Matters Here
-After looking at a real spiral on paper, ask:
+Ask:
 
-> "How did the spiral feel when you were inside it? And how does it look now that you can see the whole shape?"
+> "How did the snowball feel when you were inside it, and how does it look now on paper?"
 
-A spiral feels *true* from inside. It feels like reality. But from outside — on paper, hours later, looking at the diagram — you can usually see the place where the thinking stopped being thinking and started being amplification.
+From inside, the spiral feels completely true. From outside, it often looks much easier to spot.
 
-This is one of the strangest features of being human: you can be inside a story your brain is telling and have it feel like you're just seeing the world clearly. The skill of this week is recognizing the *feeling* of being inside a loop — and learning to step outside it.
-
-**This week's takeaway:** Catastrophic thinking is a mechanism, not a verdict. It runs in nearly every brain. The fix isn't being someone who doesn't worry. It's becoming someone who can notice the loop running and interrupt it.
+**This week's takeaway:** Catastrophic thinking is a pattern, not a verdict about who you are. The skill is spotting the snowball and interrupting it.
 :::
 
 ---
@@ -323,13 +329,13 @@ This is one of the strangest features of being human: you can be inside a story 
 ---
 
 :::tip Simplify (Ages 8–9)
-Use the snowball metaphor for the whole week. Skip the formal feedback-loop language. The one thing to land: "My worry snowball grows fast. I can stop it by doing something with my body, looking at something else, or telling someone."
+Use the snowball metaphor for the whole week. The one thing to land is: "My worry snowball grows fast, and I can try a stopper."
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner pick the loop-breaker they're most curious about and run a small experiment: use it 5 times over the next week and track whether it consistently breaks the spiral. They get to be both the scientist AND the system being studied.
+Have the older learner pick one stopper and test it over several small spirals this week. Ask whether it works best at the beginning, middle, or late part of the snowball.
 :::
 
 :::tip Vocabulary This Week
-**catastrophic thinking**, **feedback loop**, **amplification**, **loop-breaker**
+**worry snowball**, **catastrophic thinking** (toolbox phrase), **feedback loop**, **snowball stopper**
 :::

@@ -6,32 +6,39 @@ description: "The amygdala hijack as a state-machine change — the curriculum's
 ---
 
 # Week 3: The Brain's Emergency Override
-*Internal Telemetry & Hardware States — Pivot Point*
+*Thinking Brain and Panic Brain*
 
-This is the most important week of the curriculum. Everything before it builds up to it. Everything after it depends on it.
+This is a key week in the curriculum. Everything after this gets easier once this idea lands.
 
-Your brain has two very different processing modes:
+Your brain has more than one mode.
 
-- **Regulated mode:** the thinking part of your brain (the prefrontal cortex) is in charge. You can plan, consider consequences, listen, and decide carefully.
-- **Reactive mode:** under high stress, the brain forces a hard switch to a faster, simpler system (the amygdala). It is built for survival. It picks one of three quick moves — fight, flight, or freeze — and runs it.
+- **Thinking brain** is the part that helps you plan, listen, remember, and choose carefully.
+- **Panic brain** is the fast alarm system that takes over when something feels like danger.
 
-This switch is sometimes called the **amygdala hijack**. It is not a bug. It is a feature. It evolved to keep your ancestors alive when there was no time to think. The problem is that modern life keeps pulling that emergency lever for situations that are not actually life-or-death — a sharp word from a sibling, a bad grade, a friend not texting back.
+The grown-up toolbox words are **prefrontal cortex** for thinking brain and **amygdala** for panic brain. When panic brain grabs control, some adults call it an **amygdala hijack**. Kid version: **panic-brain takeover**.
 
-The skill this week is not "don't get hijacked." That is not possible. The skill is **recognizing when you've been hijacked so you can choose not to act from that state.**
+This is not a flaw. Lots of brains do this. The job is not to never feel it. The job is to notice the **brain mode switch** and wait before acting.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Sometimes your panic brain grabs the steering wheel. The job is not to never feel that. The job is to notice it and wait before acting."
+:::
+
 :::info Facilitator Snapshot
-- This is the pivot week. Slow down. Make it land.
-- The single most important sentence to deliver this week: "You are not broken when this happens. Your brain is doing exactly what it was built to do."
-- The skill is NOT preventing the hijack. It is **recognizing the state change in time to wait it out**.
-- Avoid making the student perform calm. Goal is awareness, not regulation.
+- This is the pivot week. Slow down and make it land.
+- The most important sentence is: "You are not broken when this happens. Your brain is doing something very normal."
+- The skill is not preventing panic-brain moments. The skill is noticing the mode switch early enough to wait.
+- Use small, everyday examples first: homework, recess, a sibling fight, being left out, a loud lunch, not getting a text back.
+- Do not ask students to practice with traumatic or deeply upsetting examples.
+- Offer regulation tools as options, not requirements.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: Two Modes, One Brain](#guided-session-1)
-- [Guided Session 2: Spotting the Switch](#guided-session-2)
+- [Guided Session 1: Thinking Brain, Panic Brain](#guided-session-1)
+- [Guided Session 2: Spotting the Mode Switch](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -41,7 +48,7 @@ The skill this week is not "don't get hijacked." That is not possible. The skill
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log, paper, pencil, a small object the student can hold (stress ball, smooth stone, soft toy), a glass of cool water |
-| **Key vocabulary** | amygdala hijack, state machine, prefrontal cortex, reactive mode, regulated mode, fight/flight/freeze |
+| **Key vocabulary** | thinking brain, panic brain, brain mode switch, amygdala hijack, fight/flight/freeze |
 | **Difficulty** | Moderate (conceptual peak of Unit 1) |
 
 ## Facilitator Preparation
@@ -51,58 +58,68 @@ The skill this week is not "don't get hijacked." That is not possible. The skill
 - Get the Telemetry Log ready.
 - Have a small object for the student to hold during sessions — it gives the hands something to do.
 - Have water available.
-- Consider whether the student has any recent moments of being "really upset" they can use as a case study. Don't dig too deep — anything small works (a fight with a sibling, a frustrated moment with homework).
+- Pick a small, recent example the student can use if needed, such as homework frustration, a game disagreement, being left out at recess, or a sibling argument. Fictional examples are also fine.
 :::
 
 :::tip Facilitation Mindset
-This week introduces a big idea. Don't lecture it — *narrate it*. Use stories. Use your own examples ("I got hijacked this morning when I was running late and dropped my coffee").
+This week introduces a big idea. Do not lecture it. Narrate it.
 
-Be especially careful: do not make this feel like a flaw the student needs to fix. Make it feel like a **specification of the system** — a thing every human brain does, that smart people learn to read.
+Use stories. Use your own small examples. Keep the tone normal and calm.
+
+Be especially careful not to turn this into "fix your feelings." The lesson is: **every human brain can switch modes under stress, and smart people learn to notice the switch.**
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Your brain has a panic button. When it gets pushed, you stop thinking clearly for a few minutes. Today we're learning how to notice when the panic button got pushed."
+**Simplest version of the concept:** "Your brain has a thinking mode and a panic mode. Today we are learning how to notice when panic mode takes over."
 
 **What to shorten or skip:**
-- Skip the specific brain-region names. Just use "thinking brain" and "panic brain."
-- Skip the fight/flight/freeze terminology if it feels heavy. Use "explode / run away / freeze up" instead.
+- Skip most brain-region names. Use "thinking brain" and "panic brain."
+- If fight/flight/freeze feels heavy, use "get loud / get away / go blank."
 
 **Adapting the activities:**
-- Use drawing. Draw a "thinking brain" and a "panic brain" — let the student color them in.
-- Use very short, very recent examples ("remember when you got really mad about the iPad?").
+- Draw a traffic light: green for thinking brain, yellow for warning signs, red for panic brain driving.
+- Use short, low-stakes examples.
+- Practice scripts out loud like a game.
 
-**Journal alternative:** "When my panic brain takes over, I usually ___ (explode / shut down / run away). One thing that helps me come back is ___."
+**Journal alternative:** "When my panic brain gets loud, I usually ___. One thing that helps is ___."
 
-**What success looks like:** The student can describe their own version of the hijack ("when I'm really mad, I can't hear anything") and name one thing that helps them come back to their thinking brain.
+**What success looks like:** The student can describe what their panic-brain moments feel like and name one way to pause safely.
 :::
 
 ---
 
 ## Guided Session 1
-### Two Modes, One Brain
+### Thinking Brain, Panic Brain
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe the difference between regulated mode and reactive mode
-- explain that the amygdala hijack is a **feature**, not a flaw — it evolved for survival
-- name the three common reactive responses (fight, flight, freeze)
+- describe the difference between thinking brain and panic brain
+- explain that panic-brain takeover is normal, not proof they are broken
+- name the three common fast reactions: fight, flight, and freeze
 
 ---
 
 #### Activities
 
-**1. Two Brains, Drawn**
+**1. Draw the Traffic Light Brain**
 
-On a piece of paper, sketch a simple brain. Label two regions:
+Draw a simple traffic light and connect it to brain modes:
 
-- **Thinking brain** (prefrontal cortex) — at the front, behind the forehead. Slow, careful, plans ahead, considers consequences.
-- **Panic brain** (amygdala) — small, deeper inside the brain. Fast, automatic, built for survival.
+- **Green:** thinking brain is online
+- **Yellow:** warning signs are showing up
+- **Red:** panic brain is driving
 
 Explain:
 
-> "Most of the time, your thinking brain is in charge. But when something feels like a threat — and it doesn't even have to be a real life-or-death threat — your brain can flip a switch. It hands control to the panic brain. This is sometimes called the amygdala hijack."
+> "Most of the time, your thinking brain is in charge. But when something feels scary, embarrassing, unfair, or overwhelming, your brain can flip into red mode fast. That is panic brain."
+
+Optional toolbox words:
+
+- thinking brain = **prefrontal cortex**
+- panic brain = **amygdala**
+- panic-brain takeover = **amygdala hijack**
 
 :::note Where the Metaphor Breaks
 "Hijack mode" is useful shorthand, not a complete brain diagram. The brain is a connected system, and no single part is literally running the whole person by itself.
@@ -112,108 +129,131 @@ Strong emotions can reduce access to careful thinking, planning, and listening. 
 
 ---
 
-**2. The Three Default Responses**
+**2. What Panic Brain Usually Does**
 
-When the panic brain takes over, it usually does one of three things:
+When panic brain takes over, it usually pushes one of three fast moves:
 
-- **Fight** — get loud, get angry, push back, attack
-- **Flight** — leave, hide, avoid, run away
-- **Freeze** — go blank, shut down, can't speak, feel stuck
+- **Fight:** get loud, argue, yell, push back
+- **Flight:** leave, hide, avoid, escape
+- **Freeze:** go blank, shut down, cannot talk, feel stuck
 
-Ask the student:
+Ask:
 
-> "When you're really upset, which one are you usually? Fighter, flighter, or freezer? Or does it depend?"
+> "When you get really upset, which one sounds most like you? Or does it depend on the situation?"
 
-(Most kids are mostly one with some of another. There is no wrong answer.)
-
-Note: these are the three commonly taught defaults. Some frameworks also include "fawn" — going along with whatever the other person wants to defuse the threat. If the student recognizes that pattern in themselves, validate it.
+There is no wrong answer.
 
 ---
 
-**3. Why The System Works This Way**
+**3. Why Brains Do This**
 
-Explain:
+Explain simply:
 
-> "Imagine your great-great-great-great-grandparents lived in the woods 50,000 years ago. A wild animal jumps out at them. Do they have time to weigh the pros and cons? No. They need to fight, run, or freeze immediately. The brains that did that survived. The brains that paused to think didn't pass on their genes.
+> "Brains are built to protect us fast. That is useful in real danger. The tricky part is that panic brain can also show up for school stress, social stress, embarrassment, or loud conflict."
 
-> Your brain is still wired for that world. Even though almost no modern problem is a wild animal, the panic brain still flips on for the things it *thinks* are threats — getting embarrassed, getting in trouble, losing a friend, being yelled at."
+Examples:
 
-Key takeaway: **The hijack is not a flaw. It's an emergency feature for a world that mostly no longer exists. Your job is not to disable it — it's to recognize when it fires and not act from that state.**
+- a sibling grabs your stuff
+- you think everyone saw your mistake in class
+- a friend does not text back
+- the game at recess gets unfair
+
+Key takeaway:
+
+**Panic-brain takeover is not a flaw. It is a fast safety system. The skill is learning not to let red mode make all the decisions.**
 
 ---
 
 ## Guided Session 2
-### Spotting the Switch
+### Spotting the Mode Switch
 #### Learning Goal
 By the end of this session, the student can:
 
-- recognize the body signals that come with reactive mode (their own hijack tells)
-- name what their brain CANNOT do during a hijack
-- understand that the hijack passes — usually in minutes, not hours
+- recognize their yellow and red warning signs
+- name what gets harder when panic brain is driving
+- practice one pause script and one calming option
 
 ---
 
 #### Activities
 
-**1. Your Hijack Tells**
+**1. My Yellow Signs and Red Signs**
 
-Ask the student to think about the most recent time they got really upset — angry, scared, overwhelmed. Walk through it together:
+Ask the student to think of one small recent moment when they got really upset. Walk through it together:
 
-- "What was your body doing? Hot face? Tight chest? Fast heart? Tears? Shaky hands?"
-- "What was your breath like?"
-- "Could you think clearly?"
-- "Could you hear what other people were saying?"
-- "What did you want to do? Fight, run, or freeze?"
+- What did your body do first?
+- What showed up when things got bigger?
 
-Make a list of their **hijack tells** — the specific things their body does when the panic brain takes over.
+Common **yellow signs**:
 
-This goes in the Telemetry Log. These are some of the most valuable pieces of self-data in the entire curriculum.
+- hot face
+- stomach drop
+- tight jaw
+- fake laughing
+- saying "whatever"
+- wanting to leave
+- shaky hands
+
+Common **red signs**:
+
+- yelling
+- crying hard
+- shutting down
+- running away
+- feeling like you cannot hear anyone
+
+Make a list of the student's own signs. This goes in the Telemetry Log.
 
 ---
 
-**2. What Goes Offline During a Hijack**
+**2. What Gets Hard in Red Mode**
 
 Explain:
 
-> "When the panic brain takes over, certain things shut down. The thinking brain is not gone — it just isn't driving anymore."
+> "When panic brain is driving, some things get harder. Your thinking brain is still there, but it is not doing its best work."
 
-What goes offline:
+What gets harder:
 
-- **Long-term thinking** ("what will happen in 10 minutes?")
-- **Empathy** ("how is the other person feeling?")
-- **Listening** (you literally hear less when hijacked)
-- **Memory** (you forget what you wanted to say)
-- **Problem-solving** (everything feels black-and-white)
+- listening
+- remembering your plan
+- choosing kind words
+- thinking about later
+- noticing another person's side
+- solving the real problem
 
-> "That's why people regret things they say in a hijack. The part of your brain that would have stopped you wasn't really online."
-
-This reframes "I said something terrible" from a character flaw to a **predictable consequence of the system state**.
+This helps students understand why regret happens after red-mode moments.
 
 ---
 
-**3. The Pause Protocol**
+**3. Panic Brain Pause**
 
-Introduce a simple rule:
+Introduce one rule:
 
-> "When you notice you've been hijacked, the only job is: **don't make it worse**. Don't make a big decision. Don't send the message. Don't say the thing. Just wait it out."
+> "When you notice red mode, your first job is not to make it bigger."
 
-Standard tools that help the system return to regulated mode:
+Offer a tool menu. Students can choose:
 
-- **Long, slow exhale.** A long out-breath helps the body's nervous system shift back. Try 4 seconds in, 6 seconds out.
-- **Cold water.** Splashing cold water on your face, holding ice, or drinking a cold glass of water gives the body a strong, neutral signal.
-- **Move.** Walking, shaking out your arms, jumping — moving the body discharges some of the activation.
-- **Name it.** Saying "I'm hijacked right now" out loud or in your head is itself a tiny bit of thinking brain coming back online.
+- long exhale
+- drink cool water
+- hold a smooth object
+- stand up and move
+- change rooms
+- name the state out loud
 
-These are commonly taught regulation techniques. Different ones work for different kids. The point is **experimenting to find your own toolkit**, not following a checklist.
+Practice short scripts:
 
-Try the long exhale once now, together. 4 in, 6 out. Three rounds.
+- "My panic brain is loud right now."
+- "I need a minute."
+- "I can talk when my thinking brain is back."
+
+Try one tool together in a calm moment.
 
 :::info Regulation Choice Note
 Never force closed eyes, breath-holding, or public descriptions of body sensations. If breath-based tools feel uncomfortable, offer non-body alternatives such as object observation, drawing, counting, an environment scan, movement, or simply naming the state: "I'm hijacked right now."
 :::
 
 :::caution Distress Note
-If a student becomes more upset while discussing a hijack, pause the activity, offer a less personal version, and shift to a grounding option or private check-in with an appropriate adult. This lesson helps with everyday reactive moments, not emergencies.
+If a student becomes more upset while discussing a panic-brain moment, pause the activity, offer a less personal version, and shift to a grounding option or private check-in with an appropriate adult. This lesson is for everyday reactive moments, not emergencies.
 :::
 
 ---
@@ -222,35 +262,36 @@ If a student becomes more upset while discussing a hijack, pause the activity, o
 
 ### Goal
 
-Catch yourself mid-hijack — even just once this week — and try one of the pause tools.
+Catch yourself in yellow or red mode at least once this week and try one pause tool.
 
 ### Activities
 
-**1. The Hijack Watch**
+**1. Brain Mode Watch**
 
-For one week, watch for moments when your panic brain takes over. You don't have to do anything about them. Just notice. Afterward, write down:
+For one week, watch for moments when you move from green to yellow or red. Afterward, write down or say:
 
 - What set it off?
 - What did your body do?
-- Fight / flight / freeze?
-- How long until you came back to regulated mode?
+- Was it fight, flight, or freeze?
+- What helped even a little?
 
-Even noticing **one** hijack this week is a huge win.
+Even noticing **one** moment this week is a real win.
 
-**Minimum viable version (younger learners):** Just notice ONE time when your panic brain showed up. Tell the facilitator. They can write it down.
+**Minimum viable version:** Notice one moment and tell the facilitator. They can write it down.
 
 ---
 
-**2. The Long Exhale Experiment**
+**2. Practice a Pause Tool in a Calm Moment**
 
-Practice the long exhale (4 in, 6 out) at a time when you are NOT upset. The point is to make it automatic so it's available when you need it.
+Practice one tool when you are not upset. Choices:
 
-Try it:
-- right before bed
-- in the morning after waking up
-- before something a little hard (a test, a tough conversation)
+- one long exhale
+- holding a smooth object
+- a quick wall push
+- saying a script out loud
+- sipping cool water slowly
 
-Note: deliberately practicing in calm states makes the tool easier to access in hot ones. This is a widely taught principle in regulation work.
+Practicing in a calm moment makes the tool easier to remember in a hard moment.
 
 :::note Solo/Small-Group Fallback
 All activities are individual this week. No partner needed.
@@ -260,14 +301,16 @@ All activities are individual this week. No partner needed.
 
 > Add a new section to your Telemetry Log:
 >
-> **My Hijack Tells (the signals my body sends when my panic brain takes over):**
+> **My Yellow Signs (warning signs):**
 > - ___
 > - ___
 > - ___
 >
-> **My usual default:** fight / flight / freeze (circle one — or describe your own version)
+> **My Red Signs (panic brain driving):** ___
 >
-> **What I tried this week to come back:** ___
+> **My usual fast reaction:** fight / flight / freeze (circle one or describe your own version)
+>
+> **What I tried this week:** ___
 >
 > **What seemed to help:** ___
 
@@ -276,11 +319,13 @@ All activities are individual this week. No partner needed.
 - "I usually want to ___ (fight / run away / freeze up)."
 - "One thing that helps me come back is ___."
 
+**Low-writing options:** color a traffic light, use arrows, act it out, or tell an adult and let them write.
+
 ### Reflection Questions
 
 - Are you mostly a fighter, a flighter, or a freezer? Or does it depend?
-- How long does it usually take you to come back to regulated mode? Minutes? Hours?
-- Is there someone in your life you can usually be honest with about being hijacked?
+- What is one yellow sign you want to notice sooner?
+- Is there someone you can be honest with when your panic brain gets loud?
 
 ---
 
@@ -288,9 +333,9 @@ All activities are individual this week. No partner needed.
 
 After this week, check whether the learner can:
 
-1. **Describe the state change:** "What happens to your brain when you get really upset?" (Looking for: something about a switch flipping / thinking brain going offline / panic brain taking over / fight-flight-freeze.)
-2. **Name their tells:** "What does YOUR body do when you're hijacked?" (Looking for: at least one specific, personal signal — fast heart, hot face, tight chest, can't speak, etc.)
-3. **Understand the feature, not flaw:** "Why does the brain even do this — wouldn't it be better if it didn't?" (Looking for: something about survival, it evolved for danger, our brains were built for a different world.)
+1. **Describe the mode switch:** "What happens to your brain when you get really upset?" (Looking for: thinking brain gets quieter, panic brain takes over, or a switch flips.)
+2. **Name their signs:** "What does your body do when red mode starts?" (Looking for at least one specific signal.)
+3. **Understand normalcy:** "Does this mean your brain is broken? Why or why not?" (Looking for: no, lots of brains do this; it is a fast safety system.)
 
 If the learner can do at least 2 of these, they are ready for Week 4.
 
@@ -306,19 +351,15 @@ If the learner can do at least 2 of these, they are ready for Week 4.
 ## Pause and Notice
 
 :::note What Matters Here
-This is the most important Pause and Notice of the first unit.
-
 Ask:
 
-> "When you were really upset most recently — really hijacked — did anyone treat you like there was something wrong with you for reacting that way? Did you treat *yourself* that way?"
+> "What changes when you think of this as a brain mode switch instead of as proof that you are a bad kid?"
 
-A lot of kids carry shame about how they act in a hijack. They were yelled at for yelling. They were told they were "too sensitive" for crying. They were told to "snap out of it" when they shut down.
+A lot of kids carry shame about what they do in panic-brain moments. This week gives them a new frame:
 
-This week reframes all of that:
+> **You were not malfunctioning. You were in red mode. The skill is learning to notice it and come back sooner.**
 
-> **You were not malfunctioning. You were running an emergency override your brain has been running for 50,000 years. The skill isn't being someone who never gets hijacked. The skill is becoming someone who can recognize it and come back faster.**
-
-**This week's takeaway:** The hijack is universal. The shame is optional. Everything from this point on — every cognitive distortion you'll learn to debug, every relationship you'll learn to repair, every protocol you'll design — assumes you understand that your brain is a system, not a verdict on your character.
+**This week's takeaway:** Panic brain is common. Shame is not the lesson. Awareness is the lesson.
 :::
 
 ---
@@ -333,13 +374,13 @@ This week reframes all of that:
 ---
 
 :::tip Simplify (Ages 8–9)
-Stick to "thinking brain" and "panic brain." Skip "amygdala" and "prefrontal cortex." The one thing to land: "When my panic brain is in charge, I am not at my best. I should wait before I do anything I'd regret."
+Stick to "thinking brain" and "panic brain." Skip most brain science words. The one thing to land is: "When panic brain is driving, I should pause before I act."
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner research what the **vagus nerve** does and why long exhales help the body downshift. They can also experiment with cold-water immersion (a cool washcloth on the face) and report whether it changes how fast they regulate. This is real, applied biology — let them dig in.
+Have the older learner explore why long exhales or movement can help the body calm down. They can compare two tools and notice which one helps them return to thinking brain faster.
 :::
 
 :::tip Vocabulary This Week
-**amygdala hijack**, **state machine**, **prefrontal cortex**, **reactive mode**, **regulated mode**, **fight/flight/freeze**
+**thinking brain**, **panic brain**, **brain mode switch**, **amygdala hijack** (toolbox phrase), **fight/flight/freeze**
 :::

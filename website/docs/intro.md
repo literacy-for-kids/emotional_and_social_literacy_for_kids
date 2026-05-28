@@ -8,13 +8,13 @@ slug: /intro
 
 # Emotional & Social Literacy for Kids
 
-**A systems engineer's guide to your own hardware — and the people around you.**
+**A systems guide to your own body clues, brain patterns, and the people around you.**
 
-Most curricula about feelings treat emotions as either rules to obey ("be kind!") or weather to endure ("breathe through it"). This curriculum takes a different angle. We treat emotions as **telemetry** — high-priority data packets from the body — and social interactions as **networks** with predictable dynamics. Students stop being passengers inside their own reactions and start becoming engineers who can read the signals, recognize the state changes, and design better protocols.
+Most curricula about feelings treat emotions as either rules to obey ("be kind!") or weather to endure ("breathe through it"). This curriculum takes a different angle. We start with kid language like **body clues**, **brain battery**, **thought bugs**, **trust jar**, and **When/Then Plan**. The toolbox phrases stay available too: **telemetry**, **hardware states**, **cognitive distortions**, **trust ledger**, and **protocol**. Students stop being passengers inside their own reactions and start becoming people who can read signals, notice patterns, and make better choices.
 
 The big shift is this: a kid who learns to label sadness has a label. A kid who learns to read sadness as *data about something the system is tracking* has a tool. One feels passive. The other feels useful.
 
-Over 18 weeks, students build the habit of pausing before they react, debugging the stories their brain spins around emotional data, and noticing the trust ledger that runs every relationship they have. By the end, they will have identified a manageable friction point in their own behavior, communication, or environment, designed a protocol to address it, deployed it in the wild, and run a post-mortem on the results.
+Over 18 weeks, students build the habit of pausing before they react, checking the stories their brain spins around emotional data, and noticing what fills or drains trust in their relationships. By the end, they will have identified one manageable repeat problem in their own behavior, communication, or environment, designed a small plan to address it, tried it in real life, and improved it.
 
 ---
 
@@ -43,9 +43,9 @@ Inside every kid is a complicated, running system: a body that sends signals, a 
 
 This curriculum gives students a different framing:
 
-> **Your feelings are telemetry. Your reactivity is a state machine. Your relationships run on a ledger. Conflict is a system mismatch. Every message you send creates ripples through the network.**
+> **Your feelings are body clues and telemetry. Sometimes panic brain takes over. Relationships build trust over time. Conflict often has a hidden reason. Stories change when they travel.**
 
-None of these are metaphors picked for cleverness. Each one is genuinely useful. A kid who can name an "amygdala hijack" as a state-machine change is more able to wait it out than a kid who just feels overwhelmed. A kid who understands the trust ledger can repair a friendship instead of avoiding it. A kid who can debug a cognitive distortion can stop spiraling.
+None of these are just clever metaphors. Each one is useful. A kid who can say "panic brain is taking over" is often more able to slow down than a kid who only feels overwhelmed. A kid who understands the trust jar can repair a friendship instead of avoiding it. A kid who can spot a thought bug can stop a worry snowball before it grows.
 
 We are explicitly **not** doing therapy. We are not asking kids to process trauma, name complex feelings, or do emotional labor. We are teaching them how their hardware works so they can use it well.
 
@@ -108,23 +108,23 @@ Throughout the curriculum, students gradually internalize five ideas about how t
 
 ### 1. Emotions Are Telemetry, Not Commands
 
-Fear, anger, frustration, and excitement are **biological telemetry packets** — data, not directives. They tell you something is being tracked: a threat, an unmet need, a value being violated. They do *not* tell you what to do. Learning to read the signal without obeying it is the foundational skill of the course. (First introduced in [Week 1](/docs/week01-internal-telemetry).)
+Fear, anger, frustration, and excitement are **body clues** and **telemetry** — data, not orders. They tell you something is being tracked: a threat, an unmet need, a value being bumped, a body running low. They do *not* tell you what to do. Learning to read the signal without obeying it is the foundational skill of the course. (First introduced in [Week 1](/docs/week01-internal-telemetry).)
 
 ### 2. The Amygdala Hijack Is a State Machine Change
 
-Under high stress, the brain forces a hard context-switch from the prefrontal cortex (slow, careful, planning) to the amygdala (fast, defensive, survival routing). This is not a moral failure — it is a state-machine transition that evolved to keep organisms alive. Recognizing the transition lets you pause before acting from the reactive state. (First introduced in [Week 3](/docs/week03-the-amygdala-switch).)
+Under high stress, the brain can flip from **thinking brain** to **panic brain**. The toolbox phrase is **amygdala hijack**. This is not a moral failure; it is a fast protective switch. Recognizing the transition lets you pause before acting from the reactive state. (First introduced in [Week 3](/docs/week03-the-amygdala-switch).)
 
 ### 3. Social Capital Is a Ledger
 
-Every interaction with another person is either a deposit into the trust ledger (consistency, vulnerability, follow-through) or a withdrawal (broken agreements, dismissiveness, dishonesty). Healthy relationships maintain positive balances over time. (First introduced in [Week 9](/docs/week09-the-trust-ledger).)
+Every interaction with another person either fills or drains the **trust jar**. The formal toolbox phrase is **trust ledger**. Consistency, honesty, care, and follow-through build trust over time. (First introduced in [Week 9](/docs/week09-the-trust-ledger).)
 
 ### 4. Conflict Is a System Mismatch
 
-Friction between people is usually an **interface mismatch** — different goals, hidden constraints, asymmetric information — rather than a moral failure on either side. Treating conflict as a diagnostic puzzle rather than a verdict makes it solvable. (First introduced in [Week 12](/docs/week12-peer-pressure); developed across the capstone.)
+Friction between people often has a **hidden reason** inside it: different goals, different pressures, different information, or different timing. The toolbox phrase is **system mismatch**. Treating conflict as a puzzle instead of a verdict makes it more solvable. (First introduced in [Week 12](/docs/week12-peer-pressure); developed across the capstone.)
 
 ### 5. The Network Effect of Communication
 
-Every signal you send creates secondary and tertiary ripples through the social network around you. The kid who understands ripple effects becomes far more deliberate about what they put on the wire. (First introduced in [Week 13](/docs/week13-rumors-and-information).)
+Every message you send can spread outward in ways you do not control. Kid version: **stories change when they travel**. The kid who understands ripple effects becomes more careful about what they repeat, post, or pass on. (First introduced in [Week 13](/docs/week13-rumors-and-information).)
 
 ---
 
@@ -132,11 +132,11 @@ Every signal you send creates secondary and tertiary ripples through the social 
 
 | Unit | Weeks | Focus |
 |------|-------|-------|
-| **Internal Telemetry & Hardware States** | 1–4 | Mapping your biological hardware, reading hardware states, understanding the amygdala switch, and starting the Telemetry Log |
-| **Debugging the Signal Noise** | 5–8 | Cognitive distortions, false narratives, catastrophic thinking, and the Input/Output Audit |
-| **Trust, Ledgers, and Network Security** | 9–11 | The trust ledger, interface specs and boundaries, network reliability |
-| **Game Theory in Groups** | 12–14 | Alignment problems, signal corruption, and iterated cooperation |
-| **The Social Interface Patch (Capstone)** | 15–18 | Identify a friction point, design a protocol, deploy it, run a post-mortem |
+| **Internal Telemetry & Hardware States** | 1–4 | Body clues, brain battery, panic-brain warning signs, and the Body Signal Notebook / Telemetry Log |
+| **Debugging the Signal Noise** | 5–8 | Thought bugs, story maker, worry snowballs, and the Detective Check / Input-Output Audit |
+| **Trust, Ledgers, and Network Security** | 9–11 | Trust jar thinking, clear boundary rules, and being easy to count on |
+| **Game Theory in Groups** | 12–14 | Group pull, stories changing as they travel, and hidden reasons |
+| **The Social Interface Patch (Capstone)** | 15–18 | Pick one repeat problem, make a When/Then Plan, try it, and improve it |
 
 ### Optional Extension Weeks
 
@@ -146,13 +146,15 @@ Two bonus weeks introduce **advanced regulation firmware** (box breathing, somat
 
 ## The Telemetry Log
 
-The **Telemetry Log** is the running journal of this curriculum. Introduced in Week 1 and formally structured in Week 4, it captures:
+The **Telemetry Log** is the running journal of this curriculum. Many students will call it their **Body Signal Notebook**. Introduced in Week 1 and formally structured in Week 4, it captures:
 
 - **Physical state** (energy, sleep, hunger, body sensations)
 - **Emotional signal** (what showed up, how intense, what triggered it)
 - **Story the brain told** (the narrative the system spun up around the signal)
 - **What you actually did** (the response — useful for spotting patterns later)
-- **Notes for next time** (what you would update in your protocol)
+- **Notes for next time** (what you would update in your plan)
+
+Students can write, draw, use colors, use stickers, dictate, or mark checkboxes. The goal is noticing patterns, not producing polished writing.
 
 Over 18 weeks, the log becomes a personal map of how the student's hardware operates — a remarkable record of how they have learned to read their own system.
 
@@ -174,7 +176,7 @@ Before Week 1, adults should skim:
 
 Most activities use simple, accessible materials:
 
-- A notebook for the Telemetry Log (physical or digital)
+- A notebook for the Body Signal Notebook / Telemetry Log (physical or digital)
 - Paper, pencils, sticky notes, colored markers
 - A timer or stopwatch
 - Household objects for sensory exercises (an ice cube, a stress ball, a piece of fruit)
@@ -188,14 +190,14 @@ No special software or expensive materials are required.
 
 By the end of 18 weeks, students should be able to:
 
-- **Read their own telemetry** — recognize physical and emotional signals as data, not commands
-- **Spot a state-machine change** — notice when they are sliding into reactive mode and pause
-- **Debug a cognitive distortion** — catch catastrophizing, mind-reading, and personalization in real time
-- **Audit a signal** — strip the narrative away from a raw emotional reaction and respond to the data
-- **Read the trust ledger** — understand which interactions are deposits and which are withdrawals
-- **Set an interface spec** — communicate a boundary clearly and follow through on it
-- **Diagnose a conflict** — treat friction as a system mismatch instead of a moral failure
-- **Design and ship a protocol** — write an explicit plan, deploy it, measure it, and iterate
+- **Read their own body clues and telemetry** — recognize physical and emotional signals as data, not commands
+- **Spot a panic-brain switch** — notice when they are sliding into reactive mode and pause
+- **Catch a thought bug** — notice catastrophizing, mind-reading, and personalization in real time
+- **Run a Detective Check** — strip the narrative away from a raw emotional reaction and respond to the data
+- **Read the trust jar / trust ledger** — understand which interactions build trust and which drain it
+- **Use clear boundary rules** — communicate a boundary clearly and follow through on their own part
+- **Look for hidden reasons** — treat friction as a mismatch instead of a moral failure
+- **Make and improve a When/Then Plan** — write an explicit plan, try it, measure it, and improve it
 
 The most important outcome is not a single skill. It is a shift in identity:
 

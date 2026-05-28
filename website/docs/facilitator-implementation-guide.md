@@ -8,6 +8,8 @@ description: "Implementation formats, pacing models, differentiation moves, and 
 
 This curriculum is designed for adult facilitation with learners ages 8–12. It works best when the adult is steady, curious, and willing to model the tools without turning the course into therapy, surveillance, or forced disclosure.
 
+In practice, that means teaching the kid-facing term first and the toolbox phrase second. Say **body clues** before **telemetry**, **trust jar** before **trust ledger**, and **When/Then Plan** before **protocol** when introducing a lesson.
+
 Use this page with the [Facilitator Safety Guide](/docs/facilitator-safety-guide). Safety tells you what boundaries to keep. Implementation tells you how to run the course.
 
 ## Implementation Formats
@@ -70,6 +72,7 @@ Useful language to keep the course grounded:
 - "You can use a fictional example."
 - "You do not have to share that aloud."
 - "Let's focus on the signal, not blame."
+- "Let's use the kid version first, then the toolbox word."
 - "That sounds bigger than this activity. Let's connect with the right adult support."
 - "A boundary is about what you can choose, not controlling someone else."
 - "Let's separate the facts from the interpretation."
@@ -93,26 +96,26 @@ Shortened paths should still begin with safety norms and low-stakes examples.
 
 ### 6-Week Core Path
 
-1. [Week 1: Mapping Your Biological Hardware](/docs/week01-internal-telemetry)
-2. [Week 2: Physical Inputs and Processing Capacity](/docs/week02-hardware-states)
-3. [Week 3: The Brain's Emergency Override](/docs/week03-the-amygdala-switch)
-4. [Week 5: The Software Bugs of the Mind](/docs/week05-cognitive-distortions)
-5. [Week 10: Interface Specs That Protect the System](/docs/week10-boundary-setting)
-6. [Week 16: Engineering an Explicit Communication Protocol](/docs/week16-protocol-design) or [Week 18: Post-Mortem, Patch Notes, and Next Version](/docs/week18-retrospective)
+1. [Week 1: Body Clues and Dashboard Lights](/docs/week01-internal-telemetry)
+2. [Week 2: Brain Battery and Inputs](/docs/week02-hardware-states)
+3. [Week 3: Thinking Brain and Panic Brain](/docs/week03-the-amygdala-switch)
+4. [Week 5: Thought Bugs](/docs/week05-cognitive-distortions)
+5. [Week 10: Clear Boundary Rules](/docs/week10-boundary-setting)
+6. [Week 16: Make a When/Then Plan](/docs/week16-protocol-design) or [Week 18: Look Back, Patch Notes, and Next Version](/docs/week18-retrospective)
 
 Best for: short school units, pilot programs, family use, or a fast shared vocabulary when time is limited.
 
 ### 9-Week Core Path
 
-1. [Week 1](/docs/week01-internal-telemetry)
-2. [Week 2](/docs/week02-hardware-states)
-3. [Week 3](/docs/week03-the-amygdala-switch)
-4. [Week 5](/docs/week05-cognitive-distortions)
-5. [Week 6](/docs/week06-false-narratives)
-6. [Week 7](/docs/week07-catastrophic-thinking) or [Week 8](/docs/week08-the-signal-audit)
-7. [Week 10](/docs/week10-boundary-setting)
-8. [Week 13](/docs/week13-rumors-and-information)
-9. [Week 18](/docs/week18-retrospective)
+1. [Week 1: Body Clues and Dashboard Lights](/docs/week01-internal-telemetry)
+2. [Week 2: Brain Battery and Inputs](/docs/week02-hardware-states)
+3. [Week 3: Thinking Brain and Panic Brain](/docs/week03-the-amygdala-switch)
+4. [Week 5: Thought Bugs](/docs/week05-cognitive-distortions)
+5. [Week 6: Story Maker](/docs/week06-false-narratives)
+6. [Week 7: Worry Snowballs](/docs/week07-catastrophic-thinking) or [Week 8: Detective Check](/docs/week08-the-signal-audit)
+7. [Week 10: Clear Boundary Rules](/docs/week10-boundary-setting)
+8. [Week 13: Check Before You Tell](/docs/week13-rumors-and-information)
+9. [Week 18: Look Back and Patch](/docs/week18-retrospective)
 
 Best for: advisory programs, club formats, condensed classroom units, or teams that want the strongest mix of self-awareness, boundaries, information responsibility, and reflection.
 

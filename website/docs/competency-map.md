@@ -20,24 +20,24 @@ Core competency groups used here:
 
 | Week | Main concept | Primary competency | Supporting competencies | Evidence artifact |
 |---|---|---|---|---|
-| 1 | Emotions are signals | Self-awareness | Systems thinking | Personal Telemetry Log |
-| 2 | Inputs change output | Self-management | Self-awareness | Capacity tracker |
-| 3 | Hijack mode | Self-management | Self-awareness | Hijack tells list |
-| 4 | Early warning signs and logging | Self-awareness | Systems thinking | Telemetry Log entry set |
+| 1 | Body clues and emotions as signals | Self-awareness | Systems thinking | Body Signal Notebook |
+| 2 | Brain battery and inputs | Self-management | Self-awareness | Brain battery tracker |
+| 3 | Thinking brain and panic brain | Self-management | Self-awareness | Panic-brain clues list |
+| 4 | Early warning signs and logging | Self-awareness | Systems thinking | Body Signal Notebook entry set |
 | 5 | Thought bugs | Responsible decision-making | Self-awareness | Thought Bug Debugger |
 | 6 | Story generator and interpretation | Responsible decision-making | Self-awareness | Input/Output Audit draft |
-| 7 | Catastrophic thinking and loop interruption | Self-management | Self-awareness | Feedback Loop Map |
-| 8 | Signal audit | Responsible decision-making | Self-management | Input/Output Audit |
-| 9 | Trust ledger | Relationship skills | Social awareness | Trust Repair Planner |
-| 10 | Boundaries as interface specs | Relationship skills | Self-awareness | Boundary Script Builder |
-| 11 | Reliability and bandwidth | Relationship skills | Responsible decision-making | Reliability commitment log |
-| 12 | Alignment problems in groups | Responsible decision-making | Social awareness | Alignment decision reflection |
-| 13 | Rumors as signal corruption | Digital/social information responsibility | Social awareness | Rumor Stop-Node Checklist |
-| 14 | Iterated cooperation and hidden variables | Systems thinking | Relationship skills | Conflict diagnostic reflection |
-| 15 | Friction diagnosis and root causes | Systems thinking | Responsible decision-making | Social System 5 Whys |
-| 16 | Personal protocol design | Self-management | Responsible decision-making | Personal Protocol Template |
-| 17 | Deployment and observation | Self-management | Systems thinking | Seven-Day Deployment Tracker |
-| 18 | Retrospective and patch notes | Self-awareness | Responsible decision-making | Patch Notes Reflection |
+| 7 | Worry snowballs and loop interruption | Self-management | Self-awareness | Worry Snowball Map |
+| 8 | Detective Check / signal audit | Responsible decision-making | Self-management | Detective Check |
+| 9 | Trust jar / trust ledger | Relationship skills | Social awareness | Trust Jar Repair Planner |
+| 10 | Clear boundary rules | Relationship skills | Self-awareness | Clear Boundary Rules Script Builder |
+| 11 | Easy to count on / reliability | Relationship skills | Responsible decision-making | Reliability commitment log |
+| 12 | Group pull in groups | Responsible decision-making | Social awareness | Group pull reflection |
+| 13 | Stories change when they travel | Digital/social information responsibility | Social awareness | Check Before You Tell Card |
+| 14 | Hidden reasons and long-game thinking | Systems thinking | Relationship skills | Hidden-reason reflection |
+| 15 | Repeat problem diagnosis and root causes | Systems thinking | Responsible decision-making | Repeat Problem Why Ladder |
+| 16 | When/Then Plan design | Self-management | Responsible decision-making | When/Then Plan Card |
+| 17 | Try-It Week observation | Self-management | Systems thinking | Try-It Week Tracker |
+| 18 | Look back and patch notes | Self-awareness | Responsible decision-making | Look Back and Patch Notes |
 | Optional 1 | Regulation tools and choice | Self-management | Self-awareness | Regulation tool comparison |
 | Optional 2 | Social networks and topology | Systems thinking | Digital/social information responsibility | Anonymized network map |
 

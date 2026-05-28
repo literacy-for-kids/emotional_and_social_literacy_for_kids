@@ -6,29 +6,35 @@ description: "How sleep, hunger, and sensory load change the brain's processing 
 ---
 
 # Week 2: Physical Inputs and Processing Capacity
-*Internal Telemetry & Hardware States*
+*Brain Battery: What Charges You and What Drains You*
 
-Last week you learned that your body is constantly sending you data. This week you learn something just as important:
+Last week you practiced noticing body signals. This week you learn something just as important:
 
-**The state of your hardware changes how your software runs.**
+**When your brain battery is low, everything feels harder.**
 
-When your battery is low, your phone gets slow, dims the screen, and shuts down apps in the background. Your brain is the same. When you are underslept, hungry, or running on a sensory overload, your processing capacity drops. Little things feel bigger. Frustration shows up faster. Decisions get worse.
+The grown-up toolbox phrase is **processing capacity**. It means how much your brain can handle right now. When you are tired, hungry, thirsty, overstimulated, or worn out after school, your brain battery drops. Small problems feel bigger. Waiting gets harder. Homework feels heavier. Friend drama feels extra loud.
 
-This is not a flaw. It is how the system is built.
+This is not bad behavior hiding inside you. It is a real body pattern you can learn to notice.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"When you are tired, hungry, thirsty, or overwhelmed, everything feels harder. That does not mean you are bad. It means your brain battery is low."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: emotional volatility often starts in the body, not the situation.
-- Don't moralize about food/sleep/screens. Frame these as **inputs** the system needs to run well.
+- The big idea: a lot of "big feelings" start with a low brain battery, not with a bad kid.
+- Lead with **brain battery**. Offer **processing capacity** and **degraded mode** as optional toolbox words.
+- Do not moralize about sleep, food, screens, or noise. Many of these inputs are not fully under a child's control.
 - The point is awareness, not perfection. A student who notices "I'm running low" is winning.
-- Continue the Telemetry Log started in Week 1.
+- Continue the Telemetry Log, also called the Body Signal Notebook.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Battery Test](#guided-session-1)
-- [Guided Session 2: Degraded Mode](#guided-session-2)
+- [Guided Session 1: Brain Battery Check](#guided-session-1)
+- [Guided Session 2: Low-Battery Mode](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -37,180 +43,214 @@ This is not a flaw. It is how the system is built.
 | | |
 |---|---|
 | **Prep time** | ~10 minutes |
-| **Materials** | Telemetry Log, paper, pencil, a snack, a quiet space, optional: a "busy" environment (loud music, lots of stuff happening) |
-| **Key vocabulary** | processing capacity, degraded mode, input, load |
+| **Materials** | Body Signal Notebook (Telemetry Log), paper, pencil, a snack or water if available, a quiet space, optional: a louder or busier space |
+| **Key vocabulary** | brain battery, processing capacity, low-battery mode, load |
 | **Difficulty** | Introductory |
 
 ## Facilitator Preparation
 
 :::info Before You Begin
-- Have the Telemetry Log from Week 1 nearby.
-- Have a snack available for the hunger experiment (something small — a granola bar, an apple).
-- Identify a quiet space and a noisier space for the load experiment (could be as simple as the kitchen during dinner prep vs. a quiet room).
+- Have the Body Signal Notebook from Week 1 nearby.
+- If possible, have water or a small snack available.
+- Identify a quiet space and a noisier or busier space for comparison.
+- Bring paper for a simple "What charges me / what drains me" chart.
 - Read the For Younger Learners block before teaching.
 :::
 
 :::tip Facilitation Mindset
-This week is the antidote to "what's wrong with you?" reactions. When a kid is melting down at 5pm, the answer is often "you've been at school for 8 hours, you're hungry, and the lights are bright." That's not a character defect — that's a system running on a degraded power supply.
+This week is the antidote to "what is wrong with you?"
 
-Treat this week as if you're teaching the student to be the engineer who checks the power supply *before* concluding the software is broken.
+When a child is melting down at 5:00 PM, the answer is often: they have been at school all day, the lunchroom was loud, they are hungry, and their battery is low.
+
+Check the battery before you judge the behavior. That shift matters.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "When you're tired or hungry, everything feels harder. That's not your fault — that's how brains work."
+**Simplest version of the concept:** "When you are tired or hungry, everything feels harder. That is not your fault. That is how brains work."
 
 **What to shorten or skip:**
-- Skip the sensory-load activity if the environment doesn't easily allow it.
-- Keep the inputs list simple: sleep, food, calm vs. noisy environment.
+- Keep the inputs list simple: sleep, food, water, quiet, movement.
+- Skip the noisy-space comparison if it feels like too much.
 
 **Adapting the activities:**
-- Make the energy scale a smiley-face scale (3 faces) instead of 1–10.
-- Use the phone analogy heavily: "Your battery is low right now. We need to charge."
+- Use a 3-face or 3-battery scale: low, medium, full.
+- Use the phone analogy heavily: "Your battery is low right now. What helps charge it?"
+- Let the student sort picture cards into "charges me" and "drains me."
 
-**Journal alternative:** Draw a picture of yourself with a battery on top. How full is your battery right now? What charges it? What drains it?
+**Journal alternative:** Draw a battery on top of a stick figure. Add lightning bolts for what drains it and charging plugs for what helps.
 
-**What success looks like:** The student can name at least one physical input (sleep, food, calm space) that helps their brain work better — and one that drains it.
+**What success looks like:** The student can name at least one thing that charges their brain battery and one thing that drains it.
 :::
 
 ---
 
 ## Guided Session 1
-### The Battery Test
+### Brain Battery Check
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe **processing capacity** as a finite resource, like phone battery
-- identify three physical inputs that change their capacity (sleep, food, sensory load)
-- check their own capacity level on demand
+- describe **brain battery** as how much their brain can handle right now
+- identify at least 3 things that charge or drain that battery
+- check their own battery level with a quick rating
 
 ---
 
 #### Activities
 
-**1. The Phone Battery Analogy**
+**1. The Phone Battery Connection**
 
 Ask:
 
-> "What happens to your phone when the battery gets low?"
+> "What happens to your phone or tablet when the battery gets low?"
 
-Likely answers: gets slow, dims the screen, closes apps, gets warm.
+Likely answers: it gets slow, freezes, dims, or needs charging.
 
-> "Your brain works the same way. It has a battery too — except it runs on sleep, food, water, and quiet. When that battery gets low, your brain dims the screen and closes apps. Things feel harder than they really are."
+Then say:
 
-This is a metaphor, not literal biology. But it is *useful* — it gives the student a way to ask "what's my battery at?" instead of "what's wrong with me?"
+> "Your brain has a battery too. The grown-up phrase is **processing capacity**. It means how much your brain can handle right now. Sleep, food, water, movement, and quiet can help charge it. Hunger, noise, stress, and too much going on can drain it."
+
+This gives the student a better question than "What is wrong with me?"
+
+Better question:
+
+> "What is my battery at right now?"
 
 ---
 
-**2. The Inputs Inventory**
+**2. What Charges Me / What Drains Me**
 
-Make two lists together on a piece of paper:
+Make two lists together:
 
-**Charges the battery:**
+**What charges my brain battery:**
 - enough sleep
-- food and water
-- moving around / fresh air
-- calm spaces
-- doing something you enjoy
+- water and food
+- a calm corner
+- movement or fresh air
+- music, drawing, reading, or another steady activity
 
-**Drains the battery:**
+**What drains my brain battery:**
 - not enough sleep
-- being hungry or thirsty
-- loud / chaotic environments
-- screens for too long
-- too many things going on at once
-- being cold or overheated
+- loud lunchrooms or crowded hallways
+- being hungry after school
+- too much screen time
+- homework plus sports plus chores all at once
+- being hot, cold, or uncomfortable
 
-Have the student add to both lists from their own experience.
+Have the student add examples from real life:
 
-Ask:
-
-> "What drains your battery the fastest?"
+- after a long school day
+- before dinner
+- after a noisy bus ride
+- after a fight with a sibling
+- when a group chat gets busy
 
 :::info Sensitive Inputs Note
 Keep this conversation gentle. Sleep, food, medical needs, disability, medication, family schedules, money stress, and home noise are not fully under a child's control.
 
-The goal is pattern noticing and support, not blaming a student for conditions they did not choose or cannot fix on their own.
+The goal is pattern noticing and support, not blaming a child for conditions they did not choose or cannot fix on their own.
 :::
 
-Their answer is real data about their own hardware.
+Their answers are real data about their own body and school-day rhythm.
 
 ---
 
-**3. The Capacity Check**
+**3. Brain Battery Check**
 
-Have the student rate their current **processing capacity** on a 1–10 scale, where 10 is "I could solve a hard puzzle right now" and 1 is "I cannot think straight."
+Have the student rate their current battery in one of two ways:
 
-Then ask:
+- 1 to 10 scale
+- low / medium / full
+
+Ask:
 
 - "What do you think put you at that number?"
-- "If you wanted to bump it up by 1 point, what would you do?"
+- "What might help bring it up by one step?"
 
-This is a tool they can use any time for the rest of the curriculum: *what's my capacity, and what do I need?*
+Examples:
+
+- drink water
+- eat a snack
+- sit somewhere quieter
+- move for two minutes
+- finish one small task instead of thinking about ten
+
+This is the quick tool for the rest of the course: **What is my battery at, and what do I need?**
 
 ---
 
 ## Guided Session 2
-### Degraded Mode
+### Low-Battery Mode
 #### Learning Goal
 By the end of this session, the student can:
 
-- recognize what their own behavior looks like when running in degraded mode
-- distinguish between a real problem and a low-capacity reaction
-- understand that degraded mode is a hardware state, not a character flaw
+- recognize what they are like when their battery is low
+- tell the difference between a real problem and an extra-big low-battery reaction
+- understand that low-battery mode is a body state, not a character flaw
 
 ---
 
 #### Activities
 
-**1. The Degraded Mode Inventory**
+**1. My Low-Battery Tells**
 
 Ask:
 
-> "When your battery is low — tired, hungry, overloaded — what do you usually act like? Be honest."
+> "When your battery is low - tired, hungry, overloaded, or done with the day - what do you usually act like?"
 
-Help them list specific behaviors (not feelings):
+Help the student list specific behaviors:
 
-- "I snap at my sister."
-- "I cry easily."
-- "I shut down and don't talk."
-- "I get really stubborn."
-- "Little things make me really mad."
-- "I feel like everyone's against me."
+- "I snap at my brother."
+- "I cry faster."
+- "I say 'whatever' to everything."
+- "I get stubborn about tiny things."
+- "I want everyone to leave me alone."
+- "I say yes too fast because I do not want one more problem."
 
-These are their **degraded mode tells** — the observable behaviors that show up when the system is running low.
+These are their **low-battery mode tells**. The toolbox phrase is **degraded mode**.
 
-Write them down. This goes in the Telemetry Log.
-
----
-
-**2. The "Was It Real?" Experiment**
-
-Together, think of one example from the past week where the student was upset about something. Then ask:
-
-> "Were you tired? Hungry? Overloaded?"
-
-If yes, ask:
-
-> "Do you think it would have felt as big if you'd been at a full battery?"
-
-This is a delicate question. The point is not to dismiss the feeling. The point is to recognize that **the same situation feels different at different capacity levels**.
-
-> "The thing was real. The reaction was bigger because the battery was low. Both can be true at once."
+Write them in the notebook.
 
 ---
 
-**3. The Sensory Load Experiment (Optional)**
+**2. Same Problem, Different Battery**
+
+Think of one example from the week:
+
+- sibling touching your stuff
+- a friend not texting back
+- homework after a loud day
+- someone taking too long in a game
+
+Ask:
+
+> "If this happened when your battery was full, would it still be a problem? Would it feel the same size?"
+
+Key reminder:
+
+> "The problem might still be real. A fuller battery just helps you handle it better."
+
+This keeps the lesson from turning into "eat a snack and everything is solved." That is not the point.
+
+---
+
+**3. The Load Experiment (Optional)**
 
 If conditions allow:
 
-- Have the student do a simple task (like reading a paragraph or solving a small puzzle) in a quiet room.
-- Then have them do the same kind of task somewhere noisier (TV on, music playing, someone talking nearby).
+- do a small puzzle or reading task in a quiet room
+- then do a similar task with music, a TV, or more activity nearby
 
-Compare. Was it harder in the noisy space? Did it take longer? Did they feel more frustrated?
+Ask:
 
-> "The task didn't change. The load on your system did. Your brain spent extra processing power filtering out the noise — which left less for the task."
+- Was it harder?
+- Did it take longer?
+- Did frustration show up faster?
+
+Explain:
+
+> "The task did not change. The **load** on your brain changed. The louder or busier it is, the more battery your brain uses just to keep going."
 
 ---
 
@@ -218,32 +258,37 @@ Compare. Was it harder in the noisy space? Did it take longer? Did they feel mor
 
 ### Goal
 
-Track inputs and capacity over a few days to spot patterns. Add a "degraded mode" section to the Telemetry Log.
+Track battery level over a few days to spot patterns. Add a low-battery section to the Body Signal Notebook.
 
 ### Activities
 
-**1. The Capacity Tracker**
+**1. The Brain Battery Tracker**
 
-For 3 days, write down two numbers each evening:
+For 3 days, write down:
 
-- Capacity at the END of the day (1–10)
-- One reason for that number (slept badly, big school day, lots of noise, etc.)
+- battery at the end of the day
+- one thing that charged it
+- one thing that drained it
 
-After 3 days, look for patterns. Is your capacity always lower on a certain kind of day?
+Look for patterns. Is your battery usually low after school? Before dinner? After a loud practice? On nights with less sleep?
 
-**Minimum viable version (younger learners):** Draw a battery each evening. How full is it? One sentence about why.
+**Minimum viable version:** Draw a battery or use a face scale each evening. Add one word about why.
 
 ---
 
-**2. The Low-Capacity Reaction Log**
+**2. One Low-Battery Moment**
 
-Watch for one moment this week when you reacted bigger than the situation deserved. After the moment passes, ask:
+Watch for one moment this week when your reaction got bigger because your battery was low. After the moment passes, ask:
 
-- What was happening physically? Tired? Hungry? Overloaded?
-- What was my capacity at?
-- Do I think the reaction would have been the same at full capacity?
+- What was happening physically?
+- What was my battery at?
+- What helped, even a little?
 
-Write one sentence: "At ___ today, I overreacted to ___. My battery was at about ___."
+Write one sentence:
+
+> "At ___, my battery was low and ___ felt extra hard."
+
+"Forgot" counts. "Tried part of it" counts. Small examples count.
 
 :::note Solo/Small-Group Fallback
 All activities this week are solo. The capacity tracker works perfectly for a single learner.
@@ -253,24 +298,26 @@ All activities this week are solo. The capacity tracker works perfectly for a si
 
 > Add a new section to your Telemetry Log this week:
 >
-> **My Inputs (what charges me):** ___
+> **What charges my brain battery:** ___
 >
-> **My Drainers (what wipes me out fastest):** ___
+> **What drains my brain battery:** ___
 >
-> **My Degraded Mode Tells (what I do when my battery is low):** ___
+> **My Low-Battery Mode Tells (degraded mode):** ___
 >
-> **My usual capacity drop times:** (e.g., "after school," "before dinner," "right when I wake up")
+> **My usual battery-drop times:** (for example: after school, before dinner, right before bed)
 
 **Sentence starters for younger learners:**
 - "When I'm tired, I usually ___."
 - "My battery gets full when ___."
 - "My battery drops when ___."
 
+**Low-writing options:** tally marks, stickers, faces, a simple charger/drainer table, or telling an adult who writes it down.
+
 ### Reflection Questions
 
-- What's your most common degraded mode tell? (Snapping? Crying? Shutting down?)
-- Is there a time of day when your capacity reliably drops?
-- What's one easy thing you could do to charge your battery during a hard day?
+- What is your most common low-battery tell?
+- Is there a time of day when your battery usually drops?
+- What is one small thing that helps charge you?
 
 ---
 
@@ -278,9 +325,9 @@ All activities this week are solo. The capacity tracker works perfectly for a si
 
 After this week, check whether the learner can:
 
-1. **Name processing capacity:** "What is processing capacity, in your own words?" (Looking for: something about how much your brain can handle / a kind of battery / a limit that changes.)
-2. **Identify inputs:** "Name two things that charge your battery and two that drain it." (Looking for: any concrete, personal examples — sleep, food, quiet, exercise, etc.)
-3. **Spot degraded mode:** "How do you usually act when your battery is low?" (Looking for: a specific, observable behavior — "I snap" or "I shut down" — rather than a vague "I feel bad.")
+1. **Name brain battery:** "What is brain battery, in your own words?" (Looking for: how much the brain can handle right now.)
+2. **Identify chargers and drainers:** "Name two things that charge your battery and two that drain it." (Looking for concrete, personal examples.)
+3. **Spot low-battery mode:** "How do you usually act when your battery is low?" (Looking for a specific behavior such as "I snap" or "I shut down.")
 
 If the learner can do at least 2 of these, they are ready for Week 3.
 
@@ -288,7 +335,7 @@ If the learner can do at least 2 of these, they are ready for Week 3.
 
 ## Related Tools
 
-- Use the **Personal Telemetry Log** in [Student Tools and Printables](/docs/student-tools-and-printables) to track capacity, inputs, and low-battery patterns.
+- Use the **Body Signal Notebook (Telemetry Log)** in [Student Tools and Printables](/docs/student-tools-and-printables) to track capacity, inputs, and low-battery patterns.
 - Use the [Facilitator Implementation Guide](/docs/facilitator-implementation-guide) for adaptations when students need shorter, lower-demand logging.
 
 ---
@@ -296,15 +343,15 @@ If the learner can do at least 2 of these, they are ready for Week 3.
 ## Pause and Notice
 
 :::note What Matters Here
-After the "Was It Real?" experiment, ask:
+After the "Same Problem, Different Battery" conversation, ask:
 
-> "What's it like to think about a tough moment this way — as a battery issue plus a real thing — instead of just blaming yourself or someone else?"
+> "What changes when you think about a tough moment as a low-battery moment instead of as proof that you are bad?"
 
-A lot of kids carry around the idea that their reactions are "who they are." This week introduces a different frame: **your reactions are influenced by the state of your hardware**. When the hardware is in good shape, the same situation often feels totally manageable.
+A lot of kids think their hardest moments are their identity. This week offers a different frame: **your reactions are influenced by your battery level**.
 
-This doesn't excuse hurting someone. It does mean you can be more curious about what's driving your reaction — and more compassionate with yourself when the battery is low.
+This does not excuse hurting someone. It does help the child become more curious, less shame-filled, and more ready to repair.
 
-**This week's takeaway:** The body comes first. When the system is degraded, everything else gets harder. Check the battery before you blame the software.
+**This week's takeaway:** A full battery does not make every problem disappear. It does make problems easier to handle.
 :::
 
 ---
@@ -318,13 +365,13 @@ This doesn't excuse hurting someone. It does mean you can be more curious about 
 ---
 
 :::tip Simplify (Ages 8–9)
-Stick with the battery analogy and skip the sensory-load experiment. Just have the student rate their battery each evening for 3 days with a simple 3-face scale (low, medium, full) and write one word about why.
+Stick with the battery analogy and skip the load experiment. Use a simple 3-face scale: low, medium, full.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner track 5 days of capacity AND list their best capacity-boosting habits. Then run an experiment: pick one habit (e.g., 15 extra minutes of sleep, drinking water before lunch) and try it for 5 days. Did the average capacity rating change?
+Have the older learner track 5 days of battery level and test one small change, such as drinking water before lunch or taking a short quiet break after school. Ask whether the average battery rating changes.
 :::
 
 :::tip Vocabulary This Week
-**processing capacity**, **degraded mode**, **input**, **load**
+**brain battery**, **processing capacity** (toolbox phrase), **low-battery mode**, **load**
 :::

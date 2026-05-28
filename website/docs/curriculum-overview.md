@@ -19,9 +19,11 @@ Before teaching, pair this page with the [Facilitator Safety Guide](/docs/facili
 
 The curriculum is organized into four core units plus a capstone, with two optional extension weeks for learners who want to go further.
 
+Throughout the course, the student-facing language comes first and the more formal toolbox phrase sits beside it when useful.
+
 ### Unit 1 — Internal Telemetry & Hardware States (Weeks 1–4)
 
-Students learn to treat their body as the **hardware** their brain runs on. Sleep, hunger, sensory load, and overall energy are not separate from "feelings" — they are inputs that change how the system processes everything else. This unit ends with the formal introduction of the **Telemetry Log**, the personal data-collection tool the student will use for the rest of the course.
+Students start with **body clues**, **dashboard lights**, and **brain battery** language. The formal toolbox phrases are **hardware**, **inputs**, and **telemetry**. Sleep, hunger, sensory load, and energy are not separate from feelings; they change how the whole system runs. This unit ends with the **Body Signal Notebook** (formal name: **Telemetry Log**), the running record students use through the rest of the course.
 
 - **Week 1:** Mapping Your Biological Hardware
 - **Week 2:** Physical Inputs and Processing Capacity
@@ -30,7 +32,7 @@ Students learn to treat their body as the **hardware** their brain runs on. Slee
 
 ### Unit 2 — Debugging the Signal Noise (Weeks 5–8)
 
-The brain does not show you reality — it shows you a story about reality. This unit introduces **cognitive distortions** as bugs in the thinking software: catastrophizing, mind-reading, personalization, and the runaway loops they create. Students learn to perform an **Input/Output Audit** that separates raw data from narrative and produces a rational response.
+The brain does not show you reality directly; it tells a story about reality. This unit introduces **thought bugs**, **story maker**, **worry snowballs**, and **Detective Check** as the main student language. The formal toolbox phrases are **cognitive distortions**, **feedback loops**, and **Input/Output Audit**. Students learn to separate camera facts from the story their brain added and choose a next safe move.
 
 - **Week 5:** The Software Bugs of the Mind
 - **Week 6:** When the Brain Constructs Bad Stories
@@ -39,15 +41,15 @@ The brain does not show you reality — it shows you a story about reality. This
 
 ### Unit 3 — Trust, Ledgers, and Network Security (Weeks 9–11)
 
-Relationships run on an informal **trust ledger** — a running balance built from consistency, vulnerability, and follow-through. This unit teaches students to read that ledger, set clear **interface specs** (boundaries), and understand why reliability is the highest-bandwidth currency in any network.
+Relationships are introduced first as **trust jars** and people who are **easy to count on**. The formal toolbox phrases are **trust ledger**, **interface specs**, and **reliability**. This unit teaches students to notice what fills trust, what drains it, how to make **clear boundary rules**, and why small consistent actions matter so much.
 
 - **Week 9:** How Relationships Build and Spend Capital
-- **Week 10:** Interface Specs That Protect the System
+- **Week 10:** Clear Boundary Rules
 - **Week 11:** Consistency, Transparency, and High-Bandwidth Connections
 
 ### Unit 4 — Game Theory in Groups (Weeks 12–14)
 
-Groups behave differently than pairs. This unit covers **alignment problems** (when group goals conflict with individual ones), **signal corruption** (how rumors propagate faster than corrections), and **iterated cooperation** (why mutual support wins over the long run even when defection wins a single round).
+Groups behave differently than pairs. This unit leads with **group pull**, **stories change when they travel**, and **hidden reasons**. The formal toolbox phrases are **alignment problems**, **signal corruption**, and **iterated cooperation**. Students learn how group pressure works, how rumors spread, and why being fair and cooperative usually helps when you will see people again.
 
 - **Week 12:** The Alignment Problem in Groups
 - **Week 13:** Corrupt Data Transmission and Its Ripple Effects
@@ -55,10 +57,10 @@ Groups behave differently than pairs. This unit covers **alignment problems** (w
 
 ### Capstone — The Social Interface Patch (Weeks 15–18)
 
-Students pick one real, recurring social friction point in their own behavior, communication, or environment and run it through a full engineering loop: diagnose it, design a protocol, deploy that protocol in the real world, and run a post-mortem on the results. Capstone projects should stay low-stakes, learner-controlled, and facilitator-approved.
+Students pick **one problem that keeps happening** and work it through a full loop: understand it, make a **When/Then Plan**, try it in real life during **Try-It Week**, then look back and improve it. The formal toolbox phrases are **friction point**, **protocol**, **deployment**, and **post-mortem**. Capstone projects should stay low-stakes, learner-controlled, and facilitator-approved.
 
 - **Week 15:** Diagnosing a Recurring Social Problem
-- **Week 16:** Engineering an Explicit Communication Protocol
+- **Week 16:** Make a When/Then Plan
 - **Week 17:** Running the Experiment in the Real World
 - **Week 18:** Post-Mortem, Patch Notes, and Next Version
 
@@ -75,17 +77,17 @@ Students pick one real, recurring social friction point in their own behavior, c
 
 Most curricula about emotions use therapeutic language: "processing feelings," "sitting with the discomfort," "validating the inner child." Those approaches have their place — but they tend to position the student as a patient who needs help.
 
-This curriculum positions the student as an **engineer who owns a system**. The vocabulary is deliberate:
+This curriculum positions the student as an **engineer who owns a system**. The vocabulary is deliberate, but now it is introduced in kid-friendly form first:
 
 | Instead of… | We say… |
 |---|---|
-| Feelings | Telemetry |
-| Reactivity | State machine change |
-| Boundaries | Interface specs |
-| Conflict | System mismatch |
-| Rumination | A runaway feedback loop |
-| Repairing a friendship | Updating the ledger |
-| Personal growth | Patching the protocol |
+| Feelings | Body clues / telemetry |
+| Reactivity | Panic-brain switch / state machine change |
+| Boundaries | Clear boundary rules / interface specs |
+| Conflict | Hidden reason or mismatch / system mismatch |
+| Rumination | Worry snowball / runaway feedback loop |
+| Repairing a friendship | Filling the trust jar / updating the ledger |
+| Personal growth | Trying version 2.0 / patching the plan |
 
 This is not a gimmick. The framing reliably shifts a student from passive ("things are happening to me") to active ("I am running a system I can understand and improve").
 
@@ -121,7 +123,7 @@ If you only meet once per week, combine the week's three short sessions into one
 
 ## What You Need to Start
 
-- A notebook for the Telemetry Log (any kind)
+- A notebook for the Body Signal Notebook / Telemetry Log (any kind)
 - Pens, pencils, paper, sticky notes
 - A timer
 - Roughly 60–90 minutes per week (three 20–30 minute sessions)
@@ -136,14 +138,14 @@ That's it.
 
 By the end of the capstone, a student who has completed this curriculum should be able to:
 
-1. **Read their own telemetry.** They can name a physical or emotional signal as data — "my chest is tight, that's my anxiety telemetry firing" — rather than being controlled by it.
-2. **Recognize state changes.** They can notice when they are sliding into reactive mode and use a regulation technique before acting.
-3. **Debug a cognitive distortion.** They can catch themselves catastrophizing, mind-reading, or personalizing and challenge the story.
-4. **Audit a signal.** They can separate raw emotional data from the narrative their brain wraps around it.
-5. **Read a relationship ledger.** They can describe whether a recent interaction was a deposit or a withdrawal.
-6. **Communicate an interface spec.** They can articulate a boundary clearly and follow through on it.
-7. **Diagnose a conflict as a mismatch.** They can describe a recent friction point as a system mismatch instead of a personal attack.
-8. **Design and deploy a protocol.** They have shipped at least one explicit communication or behavioral protocol in their own life and run a post-mortem on it.
+1. **Read their own body clues and telemetry.** They can name a physical or emotional signal as data rather than getting dragged by it.
+2. **Notice panic-brain switches.** They can tell when they are sliding into reactive mode and use a regulation move before acting.
+3. **Catch thought bugs.** They can notice catastrophizing, mind-reading, or personalization and challenge the story.
+4. **Run a Detective Check.** They can separate camera facts from the narrative their brain wrapped around them.
+5. **Read a trust jar / trust ledger.** They can describe what builds trust and what drains it.
+6. **Use clear boundary rules.** They can say what they want, what they will do, and follow through respectfully.
+7. **Look for hidden reasons.** They can describe a conflict as a mismatch, not just a personal attack.
+8. **Make and improve a When/Then Plan.** They have tried at least one explicit plan in real life and learned from the results.
 
 But the deepest measure is identity. The student should describe themselves not as someone who "has anxiety" or "is bad at friends" but as someone **running a system they understand and can improve**.
 

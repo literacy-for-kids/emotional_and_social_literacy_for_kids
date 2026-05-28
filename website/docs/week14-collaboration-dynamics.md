@@ -6,29 +6,43 @@ description: "The Invisible Variable Experiment — iterated cooperation game wh
 ---
 
 # Week 14: Iterated Games and Mutual Support
-*Game Theory in Groups — Unit 4 Capstone*
+*Hidden Reasons: The Hidden Rule Game*
 
-You have spent three weeks on group dynamics. Now you put it all together with a thought experiment that's also a real game.
+You have spent three weeks learning about groups. This week you put it together with a game.
 
-Most kid versions of group thinking treat interactions as **one-shot**: you make a move, the other person makes a move, the round ends. But almost no real relationship is one-shot. You see your sister tomorrow. You see your friends on Monday. You see your teacher every day. Each interaction is one round in a long-running game — an **iterated game** — where the move you make today affects the moves the other person will make next time.
+Sometimes another person seems confusing, rude, or difficult. But before you decide that, it helps to ask:
 
-The math of iterated games is genuinely surprising. In a single round, sometimes the "selfish" move wins. But over many rounds, **mutual support consistently produces the highest total payoff for everyone involved**. The strategy of being reliably cooperative — while still defending yourself when needed — beats almost every other strategy in the long run.
+> **Might they know something I do not?**
 
-This week, you experience this directly through the **Invisible Variable Experiment**: a game with a hidden constraint that reveals what conflict really is — a system mismatch caused by information neither side has.
+That is the heart of this week.
+
+The formal toolbox phrases are **hidden constraint**, **asymmetric information**, and **iterated game**. Kid versions:
+
+- hidden reason or hidden rule
+- they might know something I do not
+- you will see this person again
+
+This week you play the **Hidden Rule Game** and learn why fairness, honesty, and cooperation usually work better over time than being selfish or assuming the worst.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"When someone seems difficult, there may be a reason you cannot see yet. Ask what might be hidden before deciding they are just wrong."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: most conflict isn't malice — it's a hidden constraint you don't know about yet.
-- The skill: assuming the other side has information you don't, before deciding they're wrong.
-- This is Unit 4's capstone. Synthesize, don't add.
-- The Invisible Variable Experiment is a partner activity. Solo fallback included.
+- The big idea: many conflicts feel different once you know the hidden rule or hidden reason.
+- Lead with **hidden reasons** and **Hidden Rule Game**. Offer **hidden constraint**, **asymmetric information**, and **iterated game** as toolbox terms.
+- Do not use this lesson to excuse mistreatment. Cooperation is not the same as tolerating harm.
+- Students may use fictional or low-stakes examples.
+- This is Unit 4's capstone. Synthesize, do not widen scope.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Invisible Variable Experiment](#guided-session-1)
-- [Guided Session 2: Conflict as System Mismatch](#guided-session-2)
+- [Guided Session 1: The Hidden Rule Game](#guided-session-1)
+- [Guided Session 2: Hidden Reasons in Real Life](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +52,7 @@ This week, you experience this directly through the **Invisible Variable Experim
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log, paper, pencil, a partner (Session 1 game), optional: a deck of cards |
-| **Key vocabulary** | iterated game, mutual support, hidden constraint, asymmetric information, system mismatch |
+| **Key vocabulary** | hidden rule, hidden reason, they might know something I do not, cooperation |
 | **Difficulty** | Moderate to Advanced (concepts are bigger here) |
 
 ## Facilitator Preparation
@@ -51,45 +65,47 @@ This week, you experience this directly through the **Invisible Variable Experim
 :::
 
 :::tip Facilitation Mindset
-This week's central insight is one of the most useful ideas the student will ever learn: **most conflict isn't because the other person is bad. It's because there's information you don't have.**
+This week's central insight is one of the most useful ideas in the course:
 
-Don't lecture this. Let the game in Session 1 do the work. After the game, the student will *feel* the insight — that the other side wasn't being annoying, they were just operating with different information. Then the discussion lands.
+> **Sometimes the other person is not being difficult on purpose. Sometimes there is a hidden reason you cannot see yet.**
+
+Let the game do the teaching.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "When you're frustrated with someone, they probably have a reason you don't know about yet. That's usually true. Today we're going to play a game that shows you why."
+**Simplest version of the concept:** "When someone seems difficult, they might have a reason you do not know yet."
 
 **What to shorten or skip:**
-- Skip "iterated game" terminology. Just talk about "things that happen over and over."
-- Use a simpler version of the Invisible Variable Experiment.
+- Skip most game-theory vocabulary.
+- Use the hidden rule game and simple stories.
 
 **Adapting the activities:**
-- Pre-set a very simple hidden rule for a partner game: "you can only use red things" or "you can only nod, not speak." See what happens when the student doesn't know the rule.
-- Use lots of story examples: characters who seemed mean turned out to have a reason.
+- Use a very simple hidden rule.
+- Use story examples where a character had a hidden reason.
 
-**Journal alternative:** "A time someone seemed mean but had a reason I didn't know about was ___."
+**Journal alternative:** "I thought ___, but maybe the hidden reason was ___."
 
-**What success looks like:** The student can describe one situation where a hidden constraint explained why someone acted the way they did.
+**What success looks like:** The student can name one hidden reason that might explain someone's behavior.
 :::
 
 ---
 
 ## Guided Session 1
-### The Invisible Variable Experiment
+### The Hidden Rule Game
 #### Learning Goal
 By the end of this session, the student can:
 
-- experience a conflict where the friction was caused by a hidden constraint, not by anyone being wrong
-- describe **asymmetric information** — when each side knows different things
-- understand that most real conflicts have an "invisible variable" both sides should ask about before assuming
+- experience a conflict caused by a hidden rule, not by someone being wrong
+- describe what it feels like when two people have different information
+- understand that many real conflicts have a hidden reason inside them
 
 ---
 
 #### Activities
 
-**1. Setting Up the Experiment**
+**1. Setting Up the Game**
 
 The student and a partner are going to play a simple cooperative game. But the partner has been given a hidden rule the student doesn't know about.
 
@@ -105,7 +121,7 @@ Give both players paper and pencils. Tell them: "Work together to draw a person.
 
 The student will draw a stick figure. The partner will refuse to add straight legs or arms. Frustration will rise.
 
-Run the game for 3–5 minutes. Resist the urge to explain. Let the friction build.
+Run the game for 3 to 5 minutes. Resist the urge to explain. Let the confusion build a little.
 
 ---
 
@@ -125,34 +141,34 @@ Now reveal the hidden rule:
 
 > "They actually had a rule I didn't tell you about. They could only use blue things [or only curved lines, etc.]. They weren't being weird. They were following a constraint they couldn't tell you about."
 
-The realization usually arrives instantly: **the other side wasn't being a problem. They were operating with information I didn't have.**
+The realization usually arrives fast: **the other side was not just being a problem. They were operating with information I did not have.**
 
 ---
 
 **3. The Lesson**
 
-> "Real life is full of hidden variables. The annoying classmate had a fight with her mom that morning. The strict teacher just got news a family member is sick. The friend who's being weird with you is dealing with something they haven't told anyone yet.
->
-> Most of the time, when you're frustrated with someone, there's information you don't have. They aren't broken. The system has an invisible variable. The skill is **assuming it's there before you decide the other person is bad.**"
+Say:
 
-This is the central insight of the entire game-theory unit. Sit with it.
+> "Real life is full of hidden reasons. A classmate might be upset for reasons you do not know. A teacher may have pressure you cannot see. A friend may be acting strange because something else is going on."
+
+The skill is asking what might be hidden before deciding the other person is simply wrong.
 
 ---
 
 ## Guided Session 2
-### Conflict as System Mismatch
+### Hidden Reasons in Real Life
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe conflict as a **system mismatch** rather than a moral failure
-- name the three diagnostic questions to ask before reacting to a conflict
-- understand iterated games and why mutual support wins over the long run
+- use three questions to look for hidden reasons in a conflict
+- understand that you will see many people again, so cooperation matters over time
+- explain why fairness and honesty usually work better long-term than pettiness
 
 ---
 
 #### Activities
 
-**1. The Three Diagnostic Questions**
+**1. Three Hidden-Reason Questions**
 
 When you're in a conflict, before deciding the other person is wrong, run these three diagnostic questions:
 
@@ -165,25 +181,22 @@ When you're in a conflict, before deciding the other person is wrong, run these 
 **Q3: What's the situation forcing on them?**
 - Are they tired? Hungry? Under pressure? In a bad spot they didn't choose?
 
-This is not "always assume the other person is right." It's "treat conflict like a diagnostic problem before treating it like a moral one."
+This is not "always assume the other person is right." It is a way to slow down and diagnose before judging.
 
 ---
 
-**2. The Iterated Game**
+**2. You Will See This Person Again**
 
 Now zoom out:
 
-> "Most of the people you'll be in conflict with are people you'll see again. Tomorrow. Next week. For years. That changes everything.
->
-> In a one-time interaction, sometimes being selfish wins. In a long-running interaction — an **iterated game** — being reliably cooperative almost always wins. Here's why:
->
-> - If you're known to be cooperative, people will cooperate with you next time too.
-> - If you're known to defect, people will defect right back.
-> - Over many rounds, mutual cooperation produces way more total benefit than mutual defection.
->
-> This isn't being naive. It's strategic. The math actually works out this way."
+> "Most conflicts are not one-and-done. You will probably see this person again. That means today's move affects tomorrow's relationship."
 
-This is the core insight of iterated games — explored in depth in game theory as the success of "tit-for-tat" and similar reciprocal strategies. The general result — that cooperation tends to win in iterated systems — is well-established.
+Kid version of the big idea:
+
+- if you keep being fair, honest, and helpful, people usually learn they can work with you
+- if you keep being petty, people often get petty back
+
+That is why cooperation usually works better over time.
 
 :::note Where the Metaphor Breaks
 Game theory helps us notice patterns. It should not be used to manipulate people, run secret tests, or treat relationships like a trick.
@@ -193,15 +206,11 @@ Cooperation is not the same as tolerating mistreatment. If a situation is unsafe
 
 ---
 
-**3. A Real Conflict Re-Diagnosis**
+**3. Re-Read One Conflict**
 
-Take one recent conflict from the student's life. Together, run the three diagnostic questions:
+Take one recent low-stakes conflict and run the three questions.
 
-- What might the other person have known that you didn't?
-- What might they have wanted that you weren't seeing?
-- What might the situation have been forcing on them?
-
-You don't have to conclude the conflict was your fault. You're just running the diagnosis. Often, even partial answers to those three questions shift how the whole conflict feels.
+You do not have to decide the student was wrong. You are just checking whether there may have been hidden reasons.
 
 :::note Solo/Small-Group Fallback
 The Invisible Variable Experiment is much more powerful with a partner. If you don't have one, the facilitator can play the partner. If even that's not possible: have the student think of a recent conflict and ask them to imagine the "invisible variable" the other person might have had. The insight can land via thought experiment, but it lands harder with the actual game.
@@ -213,11 +222,11 @@ The Invisible Variable Experiment is much more powerful with a partner. If you d
 
 ### Goal
 
-Use the three diagnostic questions on at least one real conflict. Practice iterated-game thinking.
+Use the three hidden-reason questions on at least one real conflict. Practice long-game thinking.
 
 ### Activities
 
-**1. The Conflict Re-Diagnosis**
+**1. The Hidden-Reason Check**
 
 Pick one current or recent conflict. Run the three diagnostic questions on it. Write:
 
@@ -228,25 +237,25 @@ Pick one current or recent conflict. Run the three diagnostic questions on it. W
 - What might have been forcing their hand?
 - A new way to see the situation, even if I'm not totally sure
 
-You don't have to act on any of this. Just notice how the situation looks different through the diagnostic lens.
+You do not have to act on any of this. Just notice how the situation looks different.
 
-**Minimum viable version (younger learners):** Once this week, when you're frustrated with someone, ask one question: "What might they have a reason for that I don't know about?"
+**Minimum viable version:** Ask one question this week: "What might they know that I do not?"
 
 ---
 
-**2. The Cooperation Experiment**
+**2. The Fairness Experiment**
 
-Pick one relationship where you'd like to test iterated cooperation. For a week, deliberately be the cooperator — even when small things tempt you to be petty. Track:
+Pick one relationship where you want to test being fair, honest, and helpful for a week.
 
-- What you did each day
-- How the other person responded
-- Did anything shift over the week?
+Track:
 
-Iterated games take time to show results. A week is short. But even a week of trying often shifts the pattern.
+- what you did
+- how the other person responded
+- whether anything shifted
 
 ### Telemetry Log
 
-> Add a section to your Telemetry Log called **Conflict Diagnostics**:
+> Add a section to your Telemetry Log called **Hidden Reasons**:
 >
 > **A recent conflict:** ___
 >
@@ -259,8 +268,8 @@ Iterated games take time to show results. A week is short. But even a week of tr
 >
 > **Updated interpretation:** ___
 >
-> **Iterated-game test for this week:**
-> - Person I'm running it with: ___
+> **Fairness test for this week:**
+> - Person I am trying this with: ___
 > - My commitment: ___
 > - What happened: ___
 
@@ -268,11 +277,13 @@ Iterated games take time to show results. A week is short. But even a week of tr
 - "I thought ___ but maybe ___."
 - "They might have had a reason like ___."
 
+**Low-writing options:** question cards, arrows, or oral answers.
+
 ### Reflection Questions
 
-- Was there a conflict in your life recently where you found out later there was a hidden variable? What was it?
-- Is there someone you've been frustrated with for a long time? What might their invisible variable be?
-- What's the cost of always assuming the worst about another person?
+- Was there a conflict where you later found out there was a hidden reason?
+- Is there someone you may have been assuming the worst about?
+- What is the cost of always assuming the worst?
 
 ---
 
@@ -280,9 +291,9 @@ Iterated games take time to show results. A week is short. But even a week of tr
 
 After this week, check whether the learner can:
 
-1. **Describe the invisible variable:** "What was the lesson of the experiment we did?" (Looking for: something about hidden information / both sides not knowing the same things / the other person having a reason I didn't see.)
-2. **Run the diagnostic:** Give them a hypothetical conflict ("a friend ignored you all morning"). Have them ask the three diagnostic questions. (Looking for: genuine consideration of alternative explanations, not just defaulting to "they're being mean.")
-3. **Describe iterated games:** "Why does being cooperative usually win in the long run?" (Looking for: something about seeing the person again / building reputation / mutual cooperation paying off over time.)
+1. **Describe the hidden reason idea:** "What was the lesson of the Hidden Rule Game?"
+2. **Run the questions:** Give a hypothetical conflict and have them ask the three hidden-reason questions.
+3. **Describe the long game:** "Why does being fair and cooperative usually help over time?"
 
 If the learner can do at least 2 of these, they are ready for the capstone (Week 15).
 
@@ -291,15 +302,15 @@ If the learner can do at least 2 of these, they are ready for the capstone (Week
 ## Pause and Notice
 
 :::note What Matters Here
-After the Invisible Variable Experiment, ask:
+Ask:
 
-> "Remember that frustrated feeling when the game wasn't going right and you didn't know why? Now imagine: in real life, you're probably feeling that same way pretty often — without ever finding out what the invisible variable was."
+> "What changed when you found out the hidden rule?"
 
-That's a big realization. A lot of the friction in your daily life comes from constraints other people are operating under that you'll never know about. The math teacher who seemed harsh on Tuesday was up all night with a sick parent. The friend who blew you off had a fight with her sister that morning. The kid who was rude to you in the hall is being bullied at home.
+That feeling matters. It is the same shift that can happen in real life when hidden reasons become visible.
 
-This is not an excuse for anyone to be cruel to you. It's a way to **carry less weight**. Not every cold look is about you. Not every weird interaction is a withdrawal in the ledger. Most of it is invisible variables.
+This is not an excuse for cruelty. It is a way to carry less extra anger and make wiser choices.
 
-**This week's takeaway:** Conflict is a diagnostic puzzle. Treat it that way. The world gets quieter — and your relationships get richer — when you stop assuming the worst.
+**This week's takeaway:** Before deciding someone is simply difficult, ask what might be hidden.
 :::
 
 ---
@@ -323,13 +334,13 @@ This is not an excuse for anyone to be cruel to you. It's a way to **carry less 
 ---
 
 :::tip Simplify (Ages 8–9)
-The game is the lesson. Run the experiment, do the reveal, talk about the feeling. Skip "iterated games" entirely — just emphasize: "People usually have a reason. Try to find it before you decide they're being mean."
+The game is the lesson. Skip most formal theory and keep the focus on hidden reasons.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner research the **Prisoner's Dilemma** and "tit-for-tat" strategy. Both are foundational ideas in game theory. The "tit-for-tat" result — that being cooperative-but-not-naive wins iterated games — was a real, surprising result when it was discovered. Older learners often find this fascinating.
+Have the older learner learn the toolbox phrases hidden constraint, asymmetric information, and iterated game, then connect them back to the kid version.
 :::
 
 :::tip Vocabulary This Week
-**iterated game**, **mutual support**, **hidden constraint**, **asymmetric information**, **system mismatch**
+**hidden rule**, **hidden reason**, **they might know something I do not**, **cooperation**
 :::

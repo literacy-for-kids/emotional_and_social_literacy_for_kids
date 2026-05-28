@@ -5,30 +5,44 @@ title: "Week 16: Engineering an Explicit Communication Protocol"
 description: "Capstone Week 2 — design an explicit communication or behavioral protocol as a formal document: Trigger, Default Response, Check."
 ---
 
-# Week 16: Engineering an Explicit Communication Protocol
-*The Social Interface Patch — Capstone Week 2*
+# Week 16: Make a When/Then Plan
+*Make a When/Then Plan — Capstone Week 2*
 
-Last week you diagnosed your friction point. You named the root cause. You found the underlying mismatch. This week you design the fix.
+Last week you picked one repeat problem and figured out what may be underneath it. This week you make a plan.
 
-A **protocol** is an explicit, pre-decided plan for how to handle a specific situation. It removes the need to figure out what to do in the moment — which is good, because in the moment, your prefrontal cortex is usually offline. Protocols work *because* they were designed when the system was running cleanly, not in the middle of the heat.
+Kid version: a **When/Then Plan**.
 
-This week you write your protocol as a formal document. It has three parts: a **Trigger** (the specific signal that activates the protocol), a **Default Response** (the pre-decided action), and a **Check** (how you know if it's working).
+Toolbox phrase: a **protocol**.
 
-By the end of the week, you should have a protocol you can deploy in real life next week.
+The reason this helps is simple: when a hard moment shows up, it is easier to follow a plan you made earlier than to invent one while you are already upset.
+
+This week you write a small plan card with three parts:
+
+- **When this happens...**
+- **Then I will...**
+- **I will know it helped if...**
+
+By the end of the week, you should have a plan you can try next week.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"When this happens, I will do this. I will know it helped if this gets a little better."
+:::
+
 :::info Facilitator Snapshot
-- This week is structured design. The protocol is a document, not a vague intention.
-- A good protocol is small, specific, and testable. "Be nicer to my brother" is not a protocol. "When my brother takes my stuff, I'll say 'please ask first' and walk away" — that's a protocol.
-- The protocol should target the ROOT cause from Week 15, not the surface symptom.
-- Don't write the perfect protocol. Write a deployable one. Iteration in Weeks 17–18 will refine it.
+- This week is structured design. The plan should be written, not just talked about.
+- Lead with **When/Then Plan**. Offer **protocol**, **trigger**, **default response**, and **check** as toolbox terms.
+- A good plan is small, specific, and testable.
+- The plan must focus on the learner's actions, not on controlling someone else.
+- Do not chase perfect. Make something small enough to try next week.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Protocol Document](#guided-session-1)
-- [Guided Session 2: Pre-Mortem and Refinement](#guided-session-2)
+- [Guided Session 1: The Plan Card](#guided-session-1)
+- [Guided Session 2: What Could Go Wrong?](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +52,7 @@ By the end of the week, you should have a protocol you can deploy in real life n
 |---|---|
 | **Prep time** | ~15 minutes |
 | **Materials** | Telemetry Log, paper, pencil, large paper or index card for the protocol document, baseline data from Week 15 |
-| **Key vocabulary** | protocol, trigger, default response, check, pre-mortem |
+| **Key vocabulary** | When/Then Plan, protocol, trigger, check |
 | **Difficulty** | Moderate to Advanced |
 
 ## Facilitator Preparation
@@ -50,9 +64,9 @@ By the end of the week, you should have a protocol you can deploy in real life n
 :::
 
 :::tip Facilitation Mindset
-This week is engineering. The work is precise, deliberate, and observable. Help the student write a protocol they can actually use.
+Help the learner write a plan they can actually use.
 
-A common pitfall: students try to write a protocol that requires other people to behave a certain way. ("My brother will stop taking my stuff.") That's not a protocol — that's a wish. A protocol describes what YOU will do. The actions are yours. Steer firmly toward this.
+A common mistake is writing a wish instead of a plan. "My brother will stop" is a wish. "When my brother grabs my pencil, I will say one sentence and move away" is a plan.
 :::
 
 :::caution Protocol Safety Note
@@ -64,42 +78,42 @@ If a protocol depends on tricking, watching, exposing, pressuring, or controllin
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Today we're writing a plan. When ___ happens, I will ___. That's the whole plan."
+**Simplest version of the concept:** "Today we are writing a plan card: when this happens, I will do this."
 
 **What to shorten or skip:**
-- Skip the pre-mortem. Just write the protocol.
-- Use a simple two-part protocol: "When ___ happens, I will ___." Add the Check informally.
+- Skip most formal vocabulary.
+- Keep it to two or three short steps.
 
 **Adapting the activities:**
-- Write the protocol on a fun card with markers. It's a recipe card for handling a moment.
-- Practice saying the steps out loud, like rehearsing for a play.
+- Make a colorful plan card.
+- Practice it out loud like a script.
 
-**Journal alternative:** Draw the protocol as a comic: panel 1 (the trigger), panel 2 (what I will do), panel 3 (the result).
+**Journal alternative:** Draw the plan as a three-panel comic.
 
-**What success looks like:** The student has a written or drawn protocol they understand and can recite from memory.
+**What success looks like:** The student has a short plan they understand and can say out loud.
 :::
 
 ---
 
 ## Guided Session 1
-### The Protocol Document
+### The Plan Card
 #### Learning Goal
 By the end of this session, the student can:
 
-- write a protocol with three parts: Trigger, Default Response, Check
-- ensure the protocol targets the root cause from Week 15
-- understand that a good protocol describes their own actions, not other people's
+- write a plan with three parts: When, Then, Check
+- connect the plan to the deeper reason from Week 15
+- understand that a good plan describes their own actions, not other people's
 
 ---
 
 #### Activities
 
-**1. The Protocol Template**
+**1. The Plan Template**
 
 Write this template on a piece of paper or index card:
 
 ```
-PROTOCOL v1.0
+WHEN/THEN PLAN v1.0
 
 TARGET FRICTION POINT:
 ___
@@ -107,21 +121,21 @@ ___
 ROOT CAUSE (from Week 15):
 ___
 
-THE PROTOCOL:
+THE PLAN:
 
-  TRIGGER:
-    When this specific thing happens or this specific signal shows up...
+  WHEN:
+    When this specific thing happens...
     ___
 
-  DEFAULT RESPONSE:
+  THEN I WILL:
     ...I will do this exact action.
     ___
 
   CHECK:
-    I'll know if it's working because...
+    I will know it helped if...
     ___
 
-WHEN I'LL RUN THIS PROTOCOL:
+WHEN I'LL TRY THIS PLAN:
 ___ (specific times, days, or situations)
 
 BACKUP PLAN (if the default doesn't work):
@@ -132,15 +146,15 @@ ___
 
 **2. The Three Parts Explained**
 
-**TRIGGER:** This has to be specific and observable. Bad triggers: "when I'm upset," "when things get hard." Good triggers: "When my brother grabs something off my desk," "When the teacher calls on me and I don't know the answer," "When the lunch table is full and I have to find another seat."
+**WHEN:** This has to be specific and easy to notice. Bad: "when I'm upset." Better: "when my brother grabs something off my desk" or "when I walk into math and want to avoid asking for help."
 
-**DEFAULT RESPONSE:** This has to be one specific action you can actually do — alone, in the moment, without needing anyone else's permission. Bad default: "Get along with my brother." Good default: "Say 'please put that back — ask first next time' in a calm voice, then leave the room for two minutes."
+**THEN I WILL:** This has to be one action you can actually do. Bad: "make my brother stop." Better: "say one sentence and walk to the kitchen."
 
-**CHECK:** This has to be something you can observe. Bad check: "Things will be better." Good check: "The fight either doesn't happen, or it ends in under three minutes instead of escalating."
+**CHECK:** This has to be something you can notice. Bad: "everything is better." Better: "the argument stays under three minutes" or "I ask for help once instead of staying silent."
 
 ---
 
-**3. Writing the Protocol**
+**3. Writing the Plan**
 
 Now write the actual protocol for the student's friction point. Use the template. Get specific.
 
@@ -150,40 +164,40 @@ Example:
 >
 > **ROOT CAUSE:** My capacity is low at 5:30 because I haven't eaten a snack, AND my brother often grabs my stuff right then.
 >
-> **TRIGGER:** It's around 5:30 PM. My brother walks into my room or grabs something off my desk.
+> **WHEN:** It is around 5:30 PM and my brother walks into my room or grabs something off my desk.
 >
-> **DEFAULT RESPONSE:**
+> **THEN I WILL:**
 > 1. Take one long exhale (4 in, 6 out).
 > 2. Say "please ask first" in a normal voice.
 > 3. If he doesn't put it back, get up and walk to the kitchen.
 > 4. Don't engage further until after dinner.
 >
-> **CHECK:** Did the interaction stay under 3 minutes without yelling? Did I keep my voice at a normal volume?
+> **CHECK:** Did the interaction stay under 3 minutes without yelling? Did I keep my voice normal?
 >
-> **WHEN:** Every weekday between 5:00 and 6:00 PM.
+> **WHEN I'LL TRY THIS PLAN:** Every weekday between 5:00 and 6:00 PM.
 >
 > **BACKUP PLAN:** If I notice my battery is at a 3 or below by 4:30, eat a snack BEFORE 5 PM. The protocol works better when capacity is already topped up.
 
-Notice the protocol is **small**. It doesn't try to solve the whole brother dynamic. It just gives the student a deliberate move for the 5:30 trigger. That's enough.
+Notice the plan is **small**. It does not solve the whole sibling relationship. It gives the learner one deliberate move for one repeat moment.
 
 ---
 
 ## Guided Session 2
-### Pre-Mortem and Refinement
+### What Could Go Wrong?
 #### Learning Goal
 By the end of this session, the student can:
 
-- run a **pre-mortem** on their protocol — imagining it fails and figuring out why
-- identify the weak points in the protocol before deploying it
-- refine the protocol based on the pre-mortem
+- imagine how the plan might fail and why
+- identify weak points before trying it next week
+- make one or two small improvements before deployment
 
 ---
 
 #### Activities
 
-**1. The Pre-Mortem**
+**1. The Uh-Oh Check**
 
-A **pre-mortem** is the opposite of a post-mortem. Instead of analyzing why a project failed *after* it happened, you imagine the project failed and ask why — *before* you start.
+The formal toolbox phrase is **pre-mortem**. Kid version: **What could go wrong?**
 
 Ask the student:
 
@@ -198,11 +212,11 @@ List every possible failure mode. Common ones:
 - Someone else's behavior made it impossible.
 - The protocol turned out to address the wrong root cause.
 
-Each of these is a real risk. The pre-mortem lets you patch the holes BEFORE they cause failure.
+Each of these is a real risk. This check lets you patch weak spots before next week.
 
 ---
 
-**2. Patching the Holes**
+**2. Patch the Weak Spots**
 
 For each major failure mode, add a fix to the protocol:
 
@@ -211,7 +225,7 @@ For each major failure mode, add a fix to the protocol:
 - "I gave up after one fail" → the protocol is for the WEEK, not for a single attempt. Failures are data, not reasons to quit.
 - "The protocol addressed the wrong root cause" → that's why we'll do a post-mortem in Week 18 and iterate.
 
-Update the protocol document with the patches.
+Update the plan card with the patches.
 
 ---
 
@@ -221,7 +235,7 @@ Have the student walk through the protocol out loud, from trigger to check, as i
 
 > "It's 5:35 PM. My brother walks in and grabs my pencil. My body wants to yell. Instead, I take one long exhale. I say 'please ask first.' He doesn't put it back. I stand up. I walk to the kitchen. I sit at the table. I don't engage."
 
-This rehearsal makes the protocol way more likely to fire in the real moment. The brain has run the steps mentally. The pattern is loaded.
+This rehearsal makes the plan easier to use in a real moment.
 
 ---
 
@@ -229,7 +243,7 @@ This rehearsal makes the protocol way more likely to fire in the real moment. Th
 
 ### Goal
 
-Practice the protocol in your head every day. Pre-fire it before any real deployment.
+Practice the plan in your head every day so it is easier to use next week.
 
 ### Activities
 
@@ -237,13 +251,13 @@ Practice the protocol in your head every day. Pre-fire it before any real deploy
 
 Each day this week, read your protocol out loud once. Walk through what you'll do, step by step.
 
-This isn't busywork. The more times you've mentally rehearsed the protocol, the easier it is to actually run when the trigger arrives.
+This is not busywork. Rehearsal makes the plan easier to use.
 
 **Minimum viable version (younger learners):** Read your protocol card aloud every morning and every night. That's enough.
 
 ---
 
-**2. The Pre-Fire Test**
+**2. A Small Test Run**
 
 If your trigger happens this week (and it probably will), try the protocol! Don't worry about doing it perfectly. The point is to test it once, even if it falls apart halfway through. Record what happened:
 
@@ -252,7 +266,7 @@ If your trigger happens this week (and it probably will), try the protocol! Don'
 - What surprised you?
 - Anything to patch before next week's full deployment?
 
-You're still pre-deploying — the formal deployment is Week 17. This week, the goal is just to test that the protocol document is good enough to start with.
+The goal is not to do it perfectly. The goal is to see whether the plan is usable.
 
 :::note Solo/Small-Group Fallback
 The protocol design is fully solo. The protocol itself describes YOUR actions, not anyone else's — no partner needed for design or execution.
@@ -260,11 +274,11 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 
 ### Telemetry Log
 
-> Add the full protocol document to your Telemetry Log. Include:
+> Add the full plan card to your Telemetry Log. Include:
 >
-> **Protocol v1.0** with all sections from Session 1
+> **When/Then Plan v1.0** with all sections from Session 1
 >
-> **Pre-mortem failure modes I identified:** ___
+> **What could go wrong:** ___
 >
 > **Patches I added:** ___
 >
@@ -284,11 +298,13 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 - "When ___ happens, I will ___."
 - "I'll know it worked if ___."
 
+**Low-writing options:** draw the trigger, make a tiny card, or rehearse orally.
+
 ### Reflection Questions
 
-- Did writing the protocol down change how you think about the friction point?
-- Which step of the protocol do you think will be the hardest in the real moment?
-- What's one thing in the protocol that might need to change after you actually try it?
+- Did writing the plan down change how you think about the problem?
+- Which step will be hardest in a real moment?
+- What might need to change after you try it?
 
 ---
 
@@ -296,9 +312,9 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 
 After this week, check whether the learner can:
 
-1. **Show the protocol:** "Read me your protocol." (Looking for: a document with a clear trigger, a specific default response, and an observable check.)
-2. **Explain the design choices:** "Why this default response and not something else?" (Looking for: a connection to the root cause from Week 15 — not just a random action.)
-3. **Identify the failure modes:** "What's the most likely way this protocol breaks?" (Looking for: at least one specific failure mode and a patch for it.)
+1. **Show the plan:** "Read me your When/Then Plan."
+2. **Explain the design choices:** "Why this plan and not some other plan?"
+3. **Identify weak points:** "What is the most likely way this plan breaks?"
 
 If the learner can do at least 2 of these, they are ready for Week 17.
 
@@ -306,25 +322,21 @@ If the learner can do at least 2 of these, they are ready for Week 17.
 
 ## Related Tools
 
-- Use the **Personal Protocol Template** in [Student Tools and Printables](/docs/student-tools-and-printables) to keep the protocol concrete and student-controlled.
-- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a proposed protocol starts drifting toward secrecy, manipulation, or control.
+- Use the **When/Then Plan Card** in [Student Tools and Printables](/docs/student-tools-and-printables) to keep the plan concrete and student-controlled.
+- Use the [Facilitator Safety Guide](/docs/facilitator-safety-guide) if a proposed plan starts drifting toward secrecy, manipulation, or control.
 
 ---
 
 ## Pause and Notice
 
 :::note What Matters Here
-After finishing the protocol, ask:
+Ask:
 
-> "How do you feel looking at this document? Excited? Skeptical? Both?"
+> "Does this plan feel small enough to really try?"
 
-Many kids feel a mix. Excitement that they have an actual plan. Skepticism that a paper document will hold up in a real moment.
+That is the right question. A plan does not need to be impressive. It needs to be usable.
 
-Both are appropriate. Protocols don't fix problems by magic — they work because pre-deciding what to do in a hot moment is enormously powerful. The cooler version of you (the one writing the protocol now) is making the choice. The hotter version of you (the one in the moment) just has to execute.
-
-This is the whole point of the engineering frame. You're not someone who has to figure it out from scratch every time. You're someone whose past self can leave gifts for their future self in the form of pre-decided actions.
-
-**This week's takeaway:** A protocol is a gift from calm-you to hot-you. Make the gift specific enough to use.
+**This week's takeaway:** A clear plan is a gift from calm-you to future-you.
 :::
 
 ---
@@ -340,13 +352,13 @@ This is the whole point of the engineering frame. You're not someone who has to 
 ---
 
 :::tip Simplify (Ages 8–9)
-Use a two-part protocol: "When ___ happens, I will ___." That's the whole thing. Add the check informally: "Did it go better than usual?" Make the protocol card colorful and visible. Read it together every morning.
+Use a short plan card: "When ___ happens, I will ___." Add a simple check: "Did it go a little better?"
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner add a **success metric** to the Check section: a specific, countable number to track. Examples: "Number of fights per week (was 5; goal is 3 or fewer)" or "Number of times I followed the protocol when triggered (target: 50% or more)." Concrete numbers make the next two weeks of data collection much more useful.
+Have the older learner add one number to the Check section, such as how many times they want to use the plan or how much they want the intensity to drop.
 :::
 
 :::tip Vocabulary This Week
-**protocol**, **trigger**, **default response**, **check**, **pre-mortem**
+**When/Then Plan**, **protocol**, **trigger**, **check**, **what could go wrong?**
 :::

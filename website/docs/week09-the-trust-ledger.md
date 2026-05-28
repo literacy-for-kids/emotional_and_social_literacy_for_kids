@@ -6,29 +6,38 @@ description: "Social capital and the trust ledger — every interaction is a dep
 ---
 
 # Week 9: How Relationships Build and Spend Capital
-*Trust, Ledgers, and Network Security*
+*The Trust Jar: What Builds Friendship and What Drains It*
 
-For the first two units, you have been working on your own system. Now we look outward.
+For the first two units, you mostly looked at your own system. Now you look at relationships.
 
-Every relationship you have — with a friend, a parent, a teacher, a sibling — runs on something that looks a lot like a bank account. Trust gets **deposited** when people are kind, honest, consistent, and dependable. Trust gets **withdrawn** when they break promises, hurt each other, dismiss each other, or disappear without explanation.
+Imagine each relationship has a **trust jar** or **friendship jar**.
 
-This is the **trust ledger**. Most kids never see it explicitly, but they feel its effects constantly. A friendship with a high trust balance can survive a fight. A friendship with a low balance can collapse over something tiny — because the account was already overdrawn.
+- Kindness, honesty, showing up, and repair put things in the jar.
+- Lying, teasing, ignoring, breaking promises, and disappearing without explanation take things out.
 
-This week you learn to read the ledger.
+The formal toolbox phrase is **trust ledger**. Kid version: **trust jar**.
+
+This week is about noticing what fills the jar, what drains it, and how repair works.
 
 ---
 
+:::tip Kid Version
+This week's idea in kid language:
+"Trust grows when people are kind, honest, and dependable. Trust shrinks when people hurt, ignore, or break promises."
+:::
+
 :::info Facilitator Snapshot
-- The big idea: trust isn't a feeling — it's an accumulated balance that builds (or burns) over time.
-- The skill: noticing whether your interactions are deposits or withdrawals.
-- Be careful not to turn this into a tool for grading other people. The ledger is mostly a way to understand the *health* of a relationship, not whether a person is "good" or "bad."
-- Continue the Telemetry Log. Start a Ledger section.
+- The big idea: trust grows through repeated actions over time.
+- Lead with **trust jar** or **friendship jar**. Offer **trust ledger** as the toolbox phrase.
+- Do not turn this into scorekeeping or "you owe me" language.
+- Use working relationships first, not crisis relationships.
+- Continue the Telemetry Log. Start a Trust Jar section.
 :::
 
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
-- [Guided Session 1: The Trust Ledger](#guided-session-1)
-- [Guided Session 2: Reading a Real Account](#guided-session-2)
+- [Guided Session 1: The Trust Jar](#guided-session-1)
+- [Guided Session 2: Reading a Real Relationship](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -38,7 +47,7 @@ This week you learn to read the ledger.
 |---|---|
 | **Prep time** | ~10 minutes |
 | **Materials** | Telemetry Log, paper, pencil, optional: a small jar of coins or buttons (for the ledger demo), a partner or facilitator for one activity |
-| **Key vocabulary** | trust ledger, social capital, deposit, withdrawal, micro-agreement |
+| **Key vocabulary** | trust jar, trust ledger, deposit, withdrawal, micro-agreement |
 | **Difficulty** | Moderate |
 
 ## Facilitator Preparation
@@ -51,39 +60,39 @@ This week you learn to read the ledger.
 :::
 
 :::tip Facilitation Mindset
-This week is one of the most useful in the whole curriculum. The trust ledger explains so many social patterns kids find mysterious: why some friendships survive fights, why others crumble, why one mean comment from a close friend hurts less than one from an acquaintance, why "I'm sorry" doesn't always fix things.
+This week is useful because it explains why some friendships feel steady and some feel shaky.
 
-Stay warm. The ledger isn't a tool for scorekeeping or grudges. It's a tool for understanding what's actually happening.
+Stay warm. The trust jar is not a tool for grudges or keeping score. It is a tool for understanding what helps a relationship feel safer and stronger.
 :::
 
 ## For Younger Learners (Ages 8–9)
 
 :::info Adapting This Week
-**Simplest version of the concept:** "Every time you're kind, helpful, or honest with someone, you put a coin in their friendship jar. Every time someone is mean, breaks a promise, or ignores you, a coin comes out. Today we're looking at our jars."
+**Simplest version of the concept:** "Every time someone is kind, honest, or dependable, a coin goes in the friendship jar. Every time someone hurts the friendship, a coin comes out."
 
 **What to shorten or skip:**
-- Skip "social capital" terminology. Stick with "the friendship jar" or "the trust jar."
-- Skip the explicit deposit/withdrawal list. Just use examples.
+- Skip most financial language.
+- Stick with jar, coins, and examples.
 
 **Adapting the activities:**
-- Use actual jars and coins or buttons. Let the student physically add and remove pieces.
-- Use a real friend or family member's name and walk through last week's deposits and withdrawals.
+- Use real coins or buttons.
+- Use one friendship or family relationship that feels mostly safe.
 
-**Journal alternative:** "Today I made a deposit by ___. Today I noticed a withdrawal when ___."
+**Journal alternative:** "A coin went in when ___. A coin came out when ___."
 
-**What success looks like:** The student can describe at least one deposit and one withdrawal from a real relationship this week.
+**What success looks like:** The student can name one thing that fills the jar and one thing that drains it.
 :::
 
 ---
 
 ## Guided Session 1
-### The Trust Ledger
+### The Trust Jar
 #### Learning Goal
 By the end of this session, the student can:
 
-- describe the trust ledger as a running balance of deposits and withdrawals
-- identify specific behaviors that count as deposits vs. withdrawals
-- understand that high-balance accounts can survive errors, while low-balance accounts can't
+- describe a trust jar as something that fills and drains over time
+- identify specific actions that put things in or take things out
+- understand that steady trust makes relationships stronger during mistakes
 
 ---
 
@@ -91,91 +100,85 @@ By the end of this session, the student can:
 
 **1. The Coin Jar Demo**
 
-Set out a jar (or just a circle drawn on paper). Explain:
+Set out a jar or draw one on paper.
 
-> "Imagine every friendship you have is a jar. The jar holds *trust*. Every time you and the other person do something that builds the friendship, a coin goes in. Every time something hurts the friendship, a coin comes out. The total number of coins in the jar is your **trust balance** with that person."
+Explain:
 
-If you brought real coins, let the student add and remove them as you talk through examples.
+> "Imagine each relationship has a trust jar. When people are kind, honest, and dependable, coins go in. When people hurt the relationship, coins come out."
+
+If you brought real coins or buttons, let the student add and remove them as you give examples.
 
 ---
 
-**2. Deposits and Withdrawals**
+**2. What Puts Coins In and What Takes Coins Out**
 
-Make two lists on a piece of paper:
+Make two lists:
 
-**DEPOSITS (build trust):**
-- showing up when you said you would
-- listening when someone is talking
-- keeping a secret
-- telling the truth when it would be easier not to
-- noticing when someone's having a hard day
-- following through on small promises
-- defending someone when they're not there
-- apologizing genuinely when you mess up
-- being honest about your own feelings (small vulnerabilities)
+**Coins in the jar:**
+- saving a seat
+- texting back
+- keeping a promise
+- telling the truth
+- apologizing for a mistake
+- not joining teasing
+- listening when someone is upset
 
-**WITHDRAWALS (drain trust):**
+**Coins out of the jar:**
+- making fun of someone
+- sharing a secret that was not yours to share
+- lying
+- ignoring someone over and over
 - breaking promises
-- being mean or dismissive
-- talking about someone behind their back
-- ignoring messages or not responding for a long time without explanation
-- lying — even small ones
-- making fun of someone for sharing something real
-- not following through on things you said you'd do
-- being inconsistent (sometimes warm, sometimes cold)
+- laughing when someone shares something real
 
-Have the student add to both lists. Their own examples will be more accurate than yours.
+Have the student add their own examples.
 
 ---
 
-**3. The High-Balance Rule**
+**3. The Full-Jar Rule**
 
-Here's the key insight:
+Key idea:
 
-> "When a trust balance is high, the relationship can survive almost anything — a fight, a misunderstanding, even a real mistake. The balance absorbs it.
->
-> When the balance is low, almost anything can break it. One small thing tips the account into negative territory, and the whole relationship feels at risk."
+> "When the jar is pretty full, a relationship can survive a mistake more easily. When the jar is almost empty, even one small problem can feel huge."
 
-This is why a fight with your best friend feels different than a fight with an acquaintance. It isn't that you care more — it's that the balance is different.
-
-This is also why hurting someone close to you has a bigger cost: a withdrawal from a high-balance account hits the system harder, because the relationship depends more on the balance.
+That helps explain why one misunderstanding with a close friend may feel different than one with someone you barely trust.
 
 :::note Where the Metaphor Breaks
-The trust ledger is a useful model, not a scoreboard. Relationships are not bank accounts where every action gets tallied forever.
+The trust jar is a useful model, not a scoreboard. It is not for saying "you owe me" or keeping exact points forever.
 
-Repair, generosity, forgiveness, context, and changing behavior all matter. The goal is wiser trust — noticing what builds reliability, what damages it, and what boundaries are needed while trust rebuilds — not punishment or emotional accounting.
+Repair, generosity, boundaries, and changing behavior all matter. The goal is wiser trust, not punishment.
 :::
 
 ---
 
 ## Guided Session 2
-### Reading a Real Account
+### Reading a Real Relationship
 #### Learning Goal
 By the end of this session, the student can:
 
-- pick a real relationship and analyze its recent deposits and withdrawals
-- identify whether the account is currently building or draining
-- identify one **micro-agreement** — a small, repeated promise that strongly builds (or breaks) trust
+- pick a real relationship and name recent jar-fillers and jar-drainers
+- describe whether the relationship feels fuller or emptier lately
+- identify one **micro-agreement**, a small promise that matters a lot over time
 
 ---
 
 #### Activities
 
-**1. Pick an Account**
+**1. Pick a Relationship**
 
-Have the student pick one real relationship. Best choices:
+Have the student pick one real relationship, such as:
 
-- A friend they're close with (but not in active conflict)
-- A sibling
-- A parent
+- a friend
+- a sibling
+- a parent or caregiver
 
-Skip relationships that are in active crisis — those are too emotionally charged for a first analysis.
+Skip relationships in active crisis.
 
 ---
 
-**2. The Recent Ledger**
+**2. The Recent Jar Check**
 
-Together, list the last week's interactions with that person. For each one, mark it as **deposit (+)**, **withdrawal (−)**, or **neutral (≈)**.
+List the last week's interactions. For each one, mark it as **coin in (+)**, **coin out (-)**, or **neutral (~)**.
 
 | Interaction | + / − / ≈ | Note |
 |---|---|---|
@@ -185,29 +188,26 @@ Together, list the last week's interactions with that person. For each one, mark
 | Joked about her in front of others | − | |
 | Said hi in the hallway | ≈ | |
 
-This isn't about judging the relationship. It's about *seeing* what the day-to-day balance actually looks like.
+This is not about judging people. It is about seeing what the relationship has felt like lately.
 
 ---
 
-**3. The Micro-Agreement**
+**3. The Small Promise That Matters**
 
-Some deposits are huge — apologizing genuinely, defending someone in a tough moment, being there in a crisis. But the day-to-day balance is mostly built by **micro-agreements**: tiny promises kept consistently over time.
+Some trust is built by small repeated promises, called **micro-agreements**.
 
-Examples of micro-agreements:
+Examples:
 
 - "I'll text you back."
 - "I'll save you a seat."
-- "I won't tell anyone what you just said."
-- "I'll be on time for the call."
-- "I'll let you know if I can't come."
+- "I'll tell you if plans change."
+- "I'll ask before borrowing your markers."
 
-Each individual micro-agreement is small. But kept consistently over months, they build enormous trust. Broken consistently, they drain it just as fast.
+Ask:
 
-Ask the student:
+> "What is one small promise you could keep more reliably this week?"
 
-> "What's a micro-agreement YOU could be more reliable about — with someone in your life?"
-
-Pick one. Put it in the Telemetry Log.
+Put it in the Telemetry Log.
 
 ---
 
@@ -215,57 +215,62 @@ Pick one. Put it in the Telemetry Log.
 
 ### Goal
 
-Read the ledger on three real relationships. Practice making at least one deliberate deposit this week.
+Notice trust jars in three real relationships and practice making at least one deliberate deposit this week.
 
 ### Activities
 
-**1. The Three-Account Audit**
+**1. The Three-Jar Check**
 
-Pick three people in your life. For each, write:
+Pick three people and write:
 
-- Person: ___
-- Recent deposits I made: ___
-- Recent withdrawals I made: ___
-- Recent deposits they made: ___
-- Recent withdrawals they made: ___
-- Current balance feel: high / medium / low / overdrawn
+- person: ___
+- recent coins in: ___
+- recent coins out: ___
+- jar feels: full / medium / low
 
-Do this for three different people. You'll probably notice that the same behavior shows up over and over — your patterns are visible across relationships.
+You may notice the same trust patterns showing up in several relationships.
 
-**Minimum viable version (younger learners):** Pick one person. Name one deposit and one withdrawal from the past week.
+**Minimum viable version:** Pick one person and name one coin in and one coin out.
 
 ---
 
 **2. The Deliberate Deposit**
 
-Pick one relationship where you'd like to build the balance. Choose one specific deposit you'll make this week — small is fine. Examples:
+Pick one relationship where you want to fill the jar a little.
 
-- Text first
-- Remember something specific they mentioned and ask about it
-- Show up early
-- Keep a small promise you usually forget about
-- Compliment something specific (not generic)
+Choose one action:
 
-Do it. Note what happened.
+- text back
+- save a seat
+- keep a promise
+- apologize honestly
+- ask how something important went
+
+Do it and note what happened.
+
+Repair examples can sound like:
+
+- "I messed up. I am sorry. Next time I will ___."
+- "I forgot. I want to do better on this small thing."
 
 :::note Solo/Small-Group Fallback
-The ledger analysis is solo. The deliberate deposit requires another person, but that other person doesn't have to be participating in the curriculum. Any human you have in your life counts.
+The trust-jar analysis is solo. The deliberate deposit involves another person, but it can be any real person in the student's life.
 :::
 
 ### Telemetry Log
 
-> Open a new section in your Telemetry Log called **The Trust Ledger**:
+> Open a new section in your Telemetry Log called **The Trust Jar**:
 >
 > **People I want to track:**
 > 1. ___
 > 2. ___
 > 3. ___
 >
-> **My usual deposit patterns:** ___
+> **My usual jar-fillers:** ___
 >
-> **My usual withdrawal patterns:** ___ (be honest — what do you do that costs trust?)
+> **My usual jar-drainers:** ___
 >
-> **A micro-agreement I'm going to keep this week:** ___
+> **A small promise I am going to keep this week:** ___
 >
 > **A deliberate deposit I made:** ___
 >
@@ -275,11 +280,13 @@ The ledger analysis is solo. The deliberate deposit requires another person, but
 - "I made a deposit with ___ when I ___."
 - "I noticed a withdrawal when ___."
 
+**Low-writing options:** coins or buttons, checkboxes, plus/minus marks, or oral answers.
+
 ### Reflection Questions
 
-- Which relationship in your life has the highest balance? What built that balance?
-- Is there a relationship where you've been making more withdrawals than deposits lately?
-- What's your most natural deposit move? (Some people are great listeners. Some are great at remembering details. Some show up reliably.)
+- Which relationship in your life feels like it has the fullest jar?
+- Is there a relationship where you have been taking more out than putting in lately?
+- What is one deposit that feels natural for you?
 
 ---
 
@@ -287,9 +294,9 @@ The ledger analysis is solo. The deliberate deposit requires another person, but
 
 After this week, check whether the learner can:
 
-1. **Define the ledger:** "What's the trust ledger?" (Looking for: something about a running balance of deposits and withdrawals / how trust adds up over time.)
-2. **Give examples:** "Name two deposits and two withdrawals." (Looking for: any concrete examples — keeping a promise, lying, etc.)
-3. **Read a real account:** "Tell me about a real relationship and whether it's gaining or draining trust right now." (Looking for: a specific assessment, even if the student isn't sure of the exact balance.)
+1. **Define the trust jar:** "What is the trust jar or trust ledger?" (Looking for: trust builds and drains over time.)
+2. **Give examples:** "Name two things that put coins in and two things that take coins out."
+3. **Read a real relationship:** "Tell me about one relationship and whether the jar feels fuller or emptier lately."
 
 If the learner can do at least 2 of these, they are ready for Week 10.
 
@@ -305,15 +312,15 @@ If the learner can do at least 2 of these, they are ready for Week 10.
 ## Pause and Notice
 
 :::note What Matters Here
-After the Three-Account Audit, ask:
+Ask:
 
-> "Was there anyone whose account looked different than you expected? Maybe someone you thought was close, but the ledger is actually thin? Or someone you didn't think was close, but the deposits are surprisingly high?"
+> "Did any relationship look different on paper than it feels in your head?"
 
-This question often produces a real moment of insight. Sometimes the *feeling* of closeness in a relationship doesn't match the actual ledger. Sometimes a friendship that feels strained on the surface has a thick, healthy balance underneath. Both are useful to see clearly.
+Sometimes a relationship feels close but the jar has been draining. Sometimes a quieter relationship turns out to have a very full jar.
 
-Important: the ledger is *yours* to read. It is not a scorecard to wave at other people. Saying "I made three deposits and you only made one, so you owe me" misses the entire point. The ledger is a way to understand the *system*, not a weapon.
+Important: the jar is for understanding the relationship, not for arguing with people about points.
 
-**This week's takeaway:** Trust isn't a feeling. It's a balance. Build it on purpose.
+**This week's takeaway:** Trust grows through repeated actions. You can help build it on purpose.
 :::
 
 ---
@@ -329,13 +336,13 @@ Important: the ledger is *yours* to read. It is not a scorecard to wave at other
 ---
 
 :::tip Simplify (Ages 8–9)
-Use the friendship jar metaphor throughout. Skip "ledger" and "deposit/withdrawal." Use "coins added" and "coins taken out." The one thing to land: "Every time I'm kind and dependable, I'm building a friendship. Every time I'm not, I'm draining it."
+Use the friendship jar metaphor the whole week. Skip most of the ledger language.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner think about a famous broken relationship — from a book, a show, or history — and reconstruct the ledger over time. When did the deposits start drying up? When did the withdrawals dominate? At what point did the balance go negative? This is great practice for seeing the pattern in real (and fictional) systems.
+Have the older learner analyze a friendship from a book or show and track what filled and drained the jar over time.
 :::
 
 :::tip Vocabulary This Week
-**trust ledger**, **social capital**, **deposit**, **withdrawal**, **micro-agreement**
+**trust jar**, **trust ledger** (toolbox phrase), **deposit**, **withdrawal**, **micro-agreement**
 :::
