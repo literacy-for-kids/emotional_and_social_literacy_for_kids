@@ -1,4 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#7c3aed"/>
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="72" fill="white" text-anchor="middle">🧩</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Emotional and Social Literacy for Kids Logo</title>
+  <desc id="desc">A compact purple emotional and social literacy icon showing two interlocking puzzle pieces and a small heart, representing self-awareness and connection.</desc>
+
+  <!-- Background badge -->
+  <rect x="12" y="12" width="176" height="176" rx="42" fill="#F5F3FF"/>
+  <rect x="12" y="12" width="176" height="176" rx="42" stroke="#7C3AED" stroke-width="8"/>
+
+  <!-- Left puzzle piece: self-awareness -->
+  <path d="M49 75
+           C49 67 55 61 63 61
+           H84
+           C84 51 92 43 102 43
+           C112 43 120 51 120 61
+           H136
+           C144 61 150 67 150 75
+           V96
+           H132
+           C123 96 116 103 116 112
+           C116 121 123 128 132 128
+           H150
+           V139
+           C150 147 144 153 136 153
+           H101
+           V133
+           C101 125 94 119 86 119
+           C78 119 71 125 71 133
+           V153
+           H63
+           C55 153 49 147 49 139
+           V75Z"
+        fill="#7C3AED"/>
+
+  <!-- Right puzzle piece overlay: social connection -->
+  <path d="M101 61
+           H136
+           C144 61 150 67 150 75
+           V96
+           H132
+           C123 96 116 103 116 112
+           C116 121 123 128 132 128
+           H150
+           V139
+           C150 147 144 153 136 153
+           H101
+           V133
+           C101 125 94 119 86 119
+           C78 119 71 125 71 133
+           V153
+           H63
+           C55 153 49 147 49 139
+           V121
+           H68
+           C77 121 84 114 84 105
+           C84 96 77 89 68 89
+           H49
+           V75
+           C49 67 55 61 63 61
+           H84
+           C84 51 92 43 102 43
+           C112 43 120 51 120 61
+           H101Z"
+        fill="#A78BFA" opacity="0.35"/>
+
+  <!-- Clean internal cut/detail lines -->
+  <path d="M101 64V150" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.95"/>
+  <path d="M61 92H70
+           C78 92 84 98 84 106
+           C84 114 78 120 70 120
+           H61"
+        stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+
+  <!-- Heart for emotional literacy -->
+  <path d="M99 100
+           C93 91 80 94 80 106
+           C80 119 99 130 100 131
+           C101 130 120 119 120 106
+           C120 94 107 91 101 100
+           C100 101 100 101 99 100Z"
+        fill="#FFFFFF"/>
+
+  <!-- Connection nodes -->
+  <circle cx="70" cy="74" r="7" fill="#DDD6FE"/>
+  <circle cx="130" cy="74" r="7" fill="#DDD6FE"/>
+  <circle cx="130" cy="139" r="7" fill="#DDD6FE"/>
+  <path d="M76 75H124M126 80L103 96M126 134L107 120" stroke="#DDD6FE" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Small calm/social accents -->
+  <circle cx="48" cy="53" r="6" fill="#C4B5FD"/>
+  <circle cx="152" cy="53" r="6" fill="#C4B5FD"/>
+  <circle cx="100" cy="170" r="5" fill="#C4B5FD"/>
 </svg>
