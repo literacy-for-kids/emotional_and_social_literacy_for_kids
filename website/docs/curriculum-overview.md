@@ -10,7 +10,7 @@ description: "Structure, units, and design philosophy of the 18-week Emotional &
 This page describes the structure of the curriculum, what makes it distinctive, what you need to start, and what success looks like by Week 18.
 
 :::tip Use With These Guides
-Before teaching, pair this page with the [Facilitator Safety Guide](/docs/facilitator-safety-guide), the [Facilitator Implementation Guide](/docs/facilitator-implementation-guide), and the [Competency Map](/docs/competency-map).
+Before teaching, pair this page with the [Facilitator Safety Guide](/docs/facilitator-safety-guide), the [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance), the [Facilitator Implementation Guide](/docs/facilitator-implementation-guide), the [Outcomes and Framework Connections](/docs/outcomes), the [SEL Checkpoint](/docs/sel-checkpoint), the [Assessment Checkpoints](/docs/assessment-checkpoints), the [Self-Assessment and Reflection](/docs/self-assessment), and the [Competency Map](/docs/competency-map).
 :::
 
 ---
@@ -69,6 +69,8 @@ Students pick **one problem that keeps happening** and work it through a full lo
 - **Optional 1:** Advanced Regulation Firmware (box breathing, somatic grounding, progressive muscle relaxation)
 - **Optional 2:** Complex Group Dynamics and Network Theory (in-group/out-group, network topology, information cascades)
 
+These extension topics are best treated as guided options for older learners, mixed-age groups ready for more complexity, or ages 11-13 extension work rather than baseline expectations for every learner.
+
 ---
 
 ## What Makes This Curriculum Distinctive
@@ -103,6 +105,46 @@ Every week has a **Check for Understanding** — specific, observable signals th
 
 Every week includes a **For Younger Learners (Ages 8–9)** block and an **Extend (Ages 10–12)** block. The same curriculum supports both ages without splitting into separate tracks.
 
+Some weeks also include guided extension moves for **ages 11-13**, especially when the topic asks learners to analyze peer pressure, online interaction, reputation, exclusion, or a more detailed final project.
+
+## Age-Banded Emotional and Social Learning Goals
+
+### Ages 8-9: Guided foundation
+
+Learners should be able to:
+
+- name common emotions such as happy, sad, angry, worried, excited, embarrassed, frustrated, proud, and lonely
+- notice simple body clues such as tight fists, fast heartbeat, tears, quietness, or wanting space
+- use sentence frames such as "I feel ___ because ___" with support
+- describe what a character or person might be feeling using clues
+- try one calming strategy with adult guidance
+- ask for help, space, a break, or clarification when needed
+- practice listening and taking turns in low-stakes conversations
+
+### Ages 10-12: Core path
+
+Learners should be able to:
+
+- describe mixed emotions and explain possible causes
+- connect feelings, thoughts, actions, and consequences
+- choose from several regulation strategies, such as breathing, movement, journaling, drawing, taking space, or talking to a trusted person
+- identify more than one perspective in a social situation
+- use respectful language during disagreement
+- suggest fair solutions to common friendship or group problems
+- reflect on a mistake, repair attempt, or growth moment without shame
+
+### Ages 11-13: Optional extension
+
+Learners may also:
+
+- analyze more complex social situations involving peer pressure, exclusion, group identity, online interaction, reputation, or social media
+- compare how different people or cultures may express emotions differently
+- discuss how stress, attention, sleep, belonging, conflict, or digital spaces can affect emotions
+- lead or support a group problem-solving conversation
+- build a more detailed final project with audience, empathy, evidence, accessibility, attribution, and revision
+
+Advanced emotional, social, and reflective tasks should stay guided or optional. Younger learners can stay with fictional, classroom, or story-based examples while older learners take on deeper analysis.
+
 ---
 
 ## Prerequisites
@@ -115,9 +157,36 @@ That said, the curriculum is best when paired with a **consistent facilitator** 
 
 ## Implementation Model
 
-The curriculum is designed as **18 weeks with three short sessions per week**. Each session can be taught in about **20–30 minutes**. Use **20 minutes** for a lean implementation and **30 minutes** when including discussion, journaling, or extension activities.
+The curriculum is designed as **18 weeks with three short sessions per week**. Each session is planned for about **20 minutes**, with some settings stretching to **30 minutes** when discussion, journaling, or extension activities fit the group.
 
 If you only meet once per week, combine the week's three short sessions into one compressed block and preserve the same arc: model, practice, reflect.
+
+## Choosing Emotional and Social Examples
+
+Rotate examples across home, school, community, online, and group settings. Emotional and social literacy is not only about classroom behavior. It also applies to friendships, family routines, teams, clubs, games, digital spaces, community events, and everyday misunderstandings.
+
+Useful examples include:
+
+- fictional story characters
+- classroom routines
+- group project disagreements
+- playground or recess misunderstandings
+- sports team moments
+- library clubs
+- community center events
+- neighborhood cleanup projects
+- family meals or chores
+- sibling or cousin conflicts
+- online game chats
+- text message misunderstandings
+- birthday party invitations
+- cultural celebrations
+- public event posters
+- school announcements
+- pet-care responsibilities
+- waiting, turn-taking, and sharing situations
+
+When possible, choose examples that reflect different kinds of learners and communities: rural, suburban, urban, multilingual, multigenerational, neurodivergent, disabled, shy, outgoing, homeschooled, foster, blended, single-parent, guardian-led, and culturally diverse families.
 
 ---
 

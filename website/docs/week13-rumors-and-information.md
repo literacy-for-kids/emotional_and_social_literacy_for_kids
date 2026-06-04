@@ -213,6 +213,52 @@ The Telephone game is much more fun with 3+ people, but you can simulate it on p
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Use made-up or classroom stories, practice the three check questions, and keep the work concrete.
+- **Ages 10-12:** Compare rumor spread in person and online, explain ripple effects, and use respectful discussion moves during disagreement.
+- **Ages 11-13 optional extension:** Add guided analysis of edited images, AI-generated content, reputation pressure, or exclusion in digital spaces.
+
+## Respectful Discussion Moves
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What clues make you think that?"
+- "Who might feel differently?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+- "I need a moment before I answer."
+
+The goal is not to force agreement. The goal is to help learners practice listening, naming feelings, giving reasons, asking better questions, and treating people with dignity while discussing social situations.
+
+## Digital Feelings and Social Influence
+
+Digital spaces can affect feelings and relationships. A game, video, message, feed, ad, or post can make someone feel excited, left out, rushed, jealous, worried, proud, connected, or angry. The feeling is real, but it is still worth asking what shaped it.
+
+Learner questions:
+
+- Who made this message, post, video, or game feature?
+- What feeling might it create?
+- What does it want people to do?
+- Is it trying to get attention, time, clicks, likes, shares, or money?
+- Could someone feel left out, pressured, or rushed?
+- What would be a kind and safe response?
+- Should I pause, check, or talk to a trusted person before reacting?
+
+Some images, voices, videos, messages, comments, or characters may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should check carefully before trusting, sharing, reacting, or comparing ourselves to them.
+
+Additional learner questions:
+
+- Who made this?
+- Could it be edited or AI-generated?
+- Is it trying to make me feel something strongly?
+- Is another trusted source or person saying the same thing?
+- What should I do before I react or share?
+
+Useful examples include online game chat, group text misunderstandings, video comments, edited photos, filters, AI-generated images, "perfect life" posts, prank videos, popularity counts, streaks, likes, exclusion from a group chat, and sponsored influencer content that creates wanting, jealousy, or social pressure.
+
 ## Independent Practice
 
 ### Goal

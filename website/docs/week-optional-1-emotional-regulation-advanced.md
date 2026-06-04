@@ -173,6 +173,38 @@ Note this in the Telemetry Log: **"My best regulation tools are ___ and ___."**
 
 ---
 
+## Calm Strategy Practice
+
+A calm strategy is not a magic button. It gives your brain and body a little more space before you choose what to do next.
+
+The goal is not to hide feelings or make a learner look calm for someone else. The goal is to practice safe choices and learn which tools fit this learner's system.
+
+Possible calm strategies:
+
+- slow breathing
+- counting
+- stretching
+- walking
+- drawing
+- journaling
+- using a fidget or sensory tool
+- asking for a break
+- drinking water
+- naming the feeling
+- finding a quiet space
+- talking to a trusted person
+- using a visual scale
+- listening to music when appropriate
+- using AAC, cards, or gestures to ask for help
+
+Different strategies work for different people. A strategy that helps one learner may annoy or overwhelm another learner. The goal is to build a menu of safe choices.
+
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Try one or two strategies in calm moments, use short concrete language, and stop if a tool feels uncomfortable.
+- **Ages 10-12:** Compare several strategies and explain when each one may help.
+- **Ages 11-13 optional extension:** Analyze public vs. private strategies, sensory preferences, and which tools fit different social or digital settings.
+
 ## Independent Practice
 
 ### Goal

@@ -110,6 +110,59 @@ Use the table for quick lookups. Use the scaffold section at the end when you wa
 
 ---
 
+## Additional Core Terms
+
+These shorter everyday terms sit beside the more technical vocabulary above. They are useful when learners, caregivers, or facilitators want the plainest possible wording.
+
+| Term | Definition | Introduced |
+|---|---|---|
+| **Accessibility** | Making a tool, space, lesson, or project easier for different people to use and understand. | Throughout |
+| **AI-edited** | Changed with the help of artificial intelligence, such as a filtered photo, cleaned-up voice clip, or rewritten sentence. | Week 13 |
+| **AI-generated** | Made partly or fully by artificial intelligence instead of only by a person. | Week 13 |
+| **Apology** | A truthful way to name harm, take responsibility, and show what you will do differently next time. | Week 9 |
+| **Assumption** | Something your brain guesses without full proof. | Week 6 |
+| **Attribution** | Giving credit for facts, images, quotes, ideas, data, or AI help you used. | Week 18 |
+| **Body clue** | A sign from your body, like tight shoulders, fast heartbeat, tears, or wanting space. | Week 1 |
+| **Calm strategy** | A safe action that gives your brain and body more space before you choose what to do next. | Week 3 |
+| **Conflict** | A problem, disagreement, or mismatch between people, needs, goals, or expectations. | Week 10 |
+| **Consequence** | What happens after a choice or action. | Week 8 |
+| **Consent** | A clear yes that is given freely and can be changed. Silence or pressure is not consent. | Week 10 |
+| **Coping strategy** | A tool a person uses to get through a hard moment. Some coping strategies are safer and more helpful than others. | Week 3 |
+| **Deepfake** | A video, image, or voice clip that has been changed to look or sound real when it is not. | Week 13 |
+| **Digital communication** | Messages, comments, posts, chats, photos, videos, or voice notes shared through phones, games, apps, or computers. | Week 13 |
+| **Emotion** | A strong feeling state such as anger, joy, fear, sadness, embarrassment, or excitement. | Week 1 |
+| **Empathy** | Trying to understand what someone else may be feeling or needing. | Week 9 |
+| **Feeling** | The word you use to describe part of your emotional experience, such as calm, worried, lonely, or proud. | Week 1 |
+| **Inclusion** | Making sure people can join, belong, and participate without being pushed out. | Week 12 |
+| **Need** | Something important for safety, health, fairness, rest, support, or belonging. | Week 2 |
+| **Neurodivergent** | A word some people use when their brain works in ways that are different from what a group expects, such as autism, ADHD, dyslexia, or other differences. | Throughout |
+| **Peer pressure** | Pressure from other kids or a group to think, act, join, or stay quiet in a certain way. | Week 12 |
+| **Perspective** | One way of seeing or understanding a situation. Different people can have different perspectives. | Week 8 |
+| **Reflection** | Looking back at what happened, what you noticed, and what you learned. | Week 4 |
+| **Repair** | Actions that help fix harm, rebuild trust, or make a safer next step after a mistake. | Week 9 |
+| **Respect** | Treating people with care, dignity, and honesty, even during disagreement. | Week 10 |
+| **Responsibility** | Owning your part in a situation and choosing what you can do next. | Week 15 |
+| **Revision** | Improving your words, plan, or project after feedback, new evidence, or reflection. | Week 18 |
+| **Self-awareness** | Noticing your own feelings, body clues, thoughts, strengths, and needs. | Week 1 |
+| **Self-management** | Using tools, plans, and support to handle feelings and choices safely. | Week 3 |
+| **Sensory overwhelm** | A feeling that your brain or body is getting too much noise, light, touch, motion, or other input at once. | Week 2 |
+| **Social pressure** | Pressure from a group, trend, audience, or situation to act a certain way. | Week 12 |
+| **Trigger** | The event, clue, or moment that sets off a feeling, thought pattern, or plan. | Week 16 |
+| **Trust** | The feeling that someone is honest, dependable, and safe to be around. | Week 9 |
+| **Want** | Something you would like, even if it is not a basic need. | Week 2 |
+
+Some images, voices, videos, messages, comments, or characters may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should check carefully before trusting, sharing, reacting, or comparing ourselves to them.
+
+Useful questions:
+
+- Who made this?
+- Could it be edited or AI-generated?
+- Is it trying to make me feel something strongly?
+- Is another trusted source or person saying the same thing?
+- What should I do before I react or share?
+
+---
+
 ## Simple Versions and Facilitator Notes
 
 ### Alignment problem

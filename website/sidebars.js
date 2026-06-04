@@ -11,9 +11,14 @@ const sidebars = {
   curriculumSidebar: [
     'intro',
     'facilitator-safety-guide',
+    'caregiver-and-facilitator-guidance',
     'facilitator-implementation-guide',
     'curriculum-overview',
     'competency-map',
+    'outcomes',
+    'sel-checkpoint',
+    'assessment-checkpoints',
+    'self-assessment',
     {
       type: 'category',
       label: 'Internal Telemetry',

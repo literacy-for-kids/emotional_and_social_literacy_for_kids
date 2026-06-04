@@ -264,6 +264,59 @@ Optional: a small certificate, a card, a treat, a moment of formal recognition. 
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Share the project in a very small format, such as a drawing, short talk, puppet explanation, or one trusted listener.
+- **Ages 10-12:** Use the full reflection routine, explain more than one perspective, and describe what changed after feedback or practice.
+- **Ages 11-13 optional extension:** Build a more detailed project with audience, empathy, evidence, accessibility, attribution, revision, and guided discussion of digital or social reputation effects.
+
+## Respectful Discussion Moves
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What clues make you think that?"
+- "Who might feel differently?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+- "I need a moment before I answer."
+
+The goal is not to force agreement. The goal is to help learners practice listening, naming feelings, giving reasons, asking better questions, and treating people with dignity while discussing social situations.
+
+## Digital Feelings and Social Influence
+
+Digital spaces can affect feelings and relationships. A game, video, message, feed, ad, or post can make someone feel excited, left out, rushed, jealous, worried, proud, connected, or angry. The feeling is real, but it is still worth asking what shaped it.
+
+Learner questions:
+
+- Who made this message, post, video, or game feature?
+- What feeling might it create?
+- What does it want people to do?
+- Is it trying to get attention, time, clicks, likes, shares, or money?
+- Could someone feel left out, pressured, or rushed?
+- What would be a kind and safe response?
+- Should I pause, check, or talk to a trusted person before reacting?
+
+Some images, voices, videos, messages, comments, or characters may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should check carefully before trusting, sharing, reacting, or comparing ourselves to them.
+
+## Honest Emotional and Social Literacy Project Checklist
+
+Before presenting or sharing, check:
+
+- I clearly described the feeling, social situation, conflict, or relationship skill.
+- I explained who is affected.
+- I explained what someone might feel or need.
+- I considered more than one perspective.
+- I suggested a safe and respectful next step.
+- I avoided blaming, shaming, or exaggerating.
+- I used examples, clues, or evidence to support my ideas.
+- I gave credit for outside facts, images, quotes, ideas, data, or AI help.
+- I made my project readable, understandable, and accessible for my audience.
+- I can answer questions respectfully and revise my idea if needed.
+
+Use the Beginning / Developing / Secure / Extending project rubric in [Assessment Checkpoints](/docs/assessment-checkpoints) if you want a shared facilitator tool for this final week.
+
 ## Independent Practice
 
 ### Goal

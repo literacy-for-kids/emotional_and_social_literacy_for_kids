@@ -217,8 +217,12 @@ The goal is to understand group patterns, not assign social value.
 
 Read these pages alongside this guide:
 
+- [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance)
 - [Facilitator Implementation Guide](/docs/facilitator-implementation-guide)
 - [Student Tools and Printables](/docs/student-tools-and-printables)
+- [SEL Checkpoint](/docs/sel-checkpoint)
+- [Assessment Checkpoints](/docs/assessment-checkpoints)
 - [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide)
+- [Self-Assessment and Reflection](/docs/self-assessment)
 
 If you are teaching the capstone, review this guide again before approving a project.

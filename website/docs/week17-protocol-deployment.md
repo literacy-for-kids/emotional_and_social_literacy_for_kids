@@ -201,6 +201,12 @@ The deployment is fully solo — you run YOUR protocol in YOUR life. No partner 
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Track the plan with stickers, tallies, or feeling faces and keep the reflection short.
+- **Ages 10-12:** Compare what happened, what helped, and what needs revision using the full tracker.
+- **Ages 11-13 optional extension:** Add guided analysis of audience, evidence, digital context, or accessibility if the project will be shared beyond the facilitator.
+
 ## Independent Practice
 
 ### Goal

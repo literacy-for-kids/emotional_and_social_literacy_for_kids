@@ -202,6 +202,64 @@ If you don't have a partner for the role-play, the facilitator can play multiple
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Stay with fictional, classroom, game, or playground examples and practice one short holding-your-choice script with support.
+- **Ages 10-12:** Use the full lesson routine to compare group goals, body clues, and respectful choices in realistic social situations.
+- **Ages 11-13 optional extension:** Analyze peer pressure, exclusion, reputation, group identity, or digital group pressure more deeply with guided support.
+
+## Social Problem-Solving Moves
+
+1. Pause before reacting.
+2. Name the problem without blaming.
+3. Name what each person might feel or need.
+4. Think of two possible choices.
+5. Choose a safe and respectful next step.
+6. Repair harm if needed.
+7. Reflect on what could work better next time.
+
+Learner sentence frames:
+
+- "I felt ___ when ___."
+- "I need ___."
+- "I think the problem is ___."
+- "One fair solution could be ___."
+- "Can we try ___?"
+- "I'm sorry for ___. Next time I will ___."
+- "I need help solving this."
+
+The goal is not to force children to apologize before they understand what happened. The goal is to help them notice impact, take responsibility when appropriate, and practice repair.
+
+## Respectful Discussion Moves
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What clues make you think that?"
+- "Who might feel differently?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+- "I need a moment before I answer."
+
+The goal is not to force agreement. The goal is to help learners practice listening, naming feelings, giving reasons, asking better questions, and treating people with dignity while discussing social situations.
+
+## Digital Feelings and Social Influence
+
+Digital spaces can affect feelings and relationships. A game, video, message, feed, ad, or post can make someone feel excited, left out, rushed, jealous, worried, proud, connected, or angry. The feeling is real, but it is still worth asking what shaped it.
+
+Learner questions:
+
+- Who made this message, post, video, or game feature?
+- What feeling might it create?
+- What does it want people to do?
+- Is it trying to get attention, time, clicks, likes, shares, or money?
+- Could someone feel left out, pressured, or rushed?
+- What would be a kind and safe response?
+- Should I pause, check, or talk to a trusted person before reacting?
+
+Useful examples include online game chat, group text misunderstandings, video comments, likes, streaks, popularity counts, and exclusion from a group chat.
+
 ## Independent Practice
 
 ### Goal

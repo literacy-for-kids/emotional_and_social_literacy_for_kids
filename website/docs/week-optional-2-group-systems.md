@@ -185,6 +185,30 @@ This connects directly to Week 13 (Corrupt Data Transmission): the topology of y
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Keep the lesson concrete with simple maps, initials, and one idea about how group shapes affect what happens.
+- **Ages 10-12:** Use the full network ideas to notice hubs, bridges, group identity, and information spread.
+- **Ages 11-13 optional extension:** Add guided analysis of reputation, exclusion, digital social spaces, audience pressure, or online information cascades while keeping examples private and anonymized.
+
+## Digital Feelings and Social Influence
+
+Digital spaces can affect feelings and relationships. A game, video, message, feed, ad, or post can make someone feel excited, left out, rushed, jealous, worried, proud, connected, or angry. The feeling is real, but it is still worth asking what shaped it.
+
+Learner questions:
+
+- Who made this message, post, video, or game feature?
+- What feeling might it create?
+- What does it want people to do?
+- Is it trying to get attention, time, clicks, likes, shares, or money?
+- Could someone feel left out, pressured, or rushed?
+- What would be a kind and safe response?
+- Should I pause, check, or talk to a trusted person before reacting?
+
+Some images, voices, videos, messages, comments, or characters may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should check carefully before trusting, sharing, reacting, or comparing ourselves to them.
+
+Useful examples include online game chat, group text misunderstandings, video comments, edited photos, filters, AI-generated images, "perfect life" posts, prank videos, popularity counts, streaks, likes, exclusion from a group chat, and sponsored influencer content that creates wanting, jealousy, or social pressure.
+
 ## Independent Practice
 
 ### Goal

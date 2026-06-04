@@ -254,6 +254,32 @@ Explain:
 
 ---
 
+## Calm Strategy Practice
+
+A calm strategy is not a magic button. It gives your brain and body a little more space before you choose what to do next.
+
+The goal is not to hide feelings or make a learner look calm for someone else. The goal is to practice safe choices that protect capacity and support honest noticing.
+
+Possible calm strategies:
+
+- slow breathing
+- counting
+- stretching
+- walking
+- drawing
+- journaling
+- using a fidget or sensory tool
+- asking for a break
+- drinking water
+- naming the feeling
+- finding a quiet space
+- talking to a trusted person
+- using a visual scale
+- listening to music when appropriate
+- using AAC, cards, or gestures to ask for help
+
+Different strategies work for different people. A strategy that helps one learner may annoy or overwhelm another learner. The goal is to build a menu of safe choices.
+
 ## Independent Practice
 
 ### Goal

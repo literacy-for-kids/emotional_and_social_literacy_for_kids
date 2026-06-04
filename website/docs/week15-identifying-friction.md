@@ -229,6 +229,34 @@ Most repeat problems have 1 or 2 underlying mismatches. Name them. They become t
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Keep the project small, concrete, and supported. Use 3 Whys, drawing, stickers, or one short sentence instead of deeper analysis.
+- **Ages 10-12:** Use the full routine to describe a repeat problem, identify clues, and explain one realistic next step.
+- **Ages 11-13 optional extension:** Add guided analysis of peer pressure, exclusion, group identity, online interaction, reputation, or a more detailed audience for the final project.
+
+## Social Problem-Solving Moves
+
+1. Pause before reacting.
+2. Name the problem without blaming.
+3. Name what each person might feel or need.
+4. Think of two possible choices.
+5. Choose a safe and respectful next step.
+6. Repair harm if needed.
+7. Reflect on what could work better next time.
+
+Learner sentence frames:
+
+- "I felt ___ when ___."
+- "I need ___."
+- "I think the problem is ___."
+- "One fair solution could be ___."
+- "Can we try ___?"
+- "I'm sorry for ___. Next time I will ___."
+- "I need help solving this."
+
+The goal is not to force children to apologize before they understand what happened. The goal is to help them notice impact, take responsibility when appropriate, and practice repair.
+
 ## Independent Practice
 
 ### Goal

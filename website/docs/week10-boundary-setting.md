@@ -214,6 +214,42 @@ It is not about controlling the other person. It is about protecting yourself.
 
 ---
 
+## Social Problem-Solving Moves
+
+1. Pause before reacting.
+2. Name the problem without blaming.
+3. Name what each person might feel or need.
+4. Think of two possible choices.
+5. Choose a safe and respectful next step.
+6. Repair harm if needed.
+7. Reflect on what could work better next time.
+
+Learner sentence frames:
+
+- "I felt ___ when ___."
+- "I need ___."
+- "I think the problem is ___."
+- "One fair solution could be ___."
+- "Can we try ___?"
+- "I'm sorry for ___. Next time I will ___."
+- "I need help solving this."
+
+The goal is not to force children to apologize before they understand what happened. The goal is to help them notice impact, take responsibility when appropriate, and practice repair.
+
+## Respectful Discussion Moves
+
+- "I see it differently because..."
+- "One reason I think that is..."
+- "Can you explain what you mean by...?"
+- "What clues make you think that?"
+- "Who might feel differently?"
+- "I agree with this part, but I wonder about..."
+- "Another perspective might be..."
+- "I changed my thinking because..."
+- "I need a moment before I answer."
+
+The goal is not to force agreement. The goal is to help learners practice listening, naming feelings, giving reasons, asking better questions, and treating people with dignity while discussing social situations.
+
 ## Independent Practice
 
 ### Goal

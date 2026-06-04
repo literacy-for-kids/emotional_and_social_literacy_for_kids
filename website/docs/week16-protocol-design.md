@@ -239,6 +239,60 @@ This rehearsal makes the plan easier to use in a real moment.
 
 ---
 
+## Age-Banded Emotional and Social Learning Goals
+
+- **Ages 8-9:** Use a short plan card with one trigger, one action, and one simple check.
+- **Ages 10-12:** Use the full When/Then Plan and connect the plan to root cause, body clues, and repair choices.
+- **Ages 11-13 optional extension:** Add guided work on audience, accessibility, attribution, revision, or digital examples when those details genuinely fit the learner's project.
+
+## Calm Strategy Practice
+
+A calm strategy is not a magic button. It gives your brain and body a little more space before you choose what to do next.
+
+The goal is not to hide feelings or make a learner look calm for someone else. The goal is to practice safe choices so the plan can actually run when the hard moment arrives.
+
+Possible calm strategies:
+
+- slow breathing
+- counting
+- stretching
+- walking
+- drawing
+- journaling
+- using a fidget or sensory tool
+- asking for a break
+- drinking water
+- naming the feeling
+- finding a quiet space
+- talking to a trusted person
+- using a visual scale
+- listening to music when appropriate
+- using AAC, cards, or gestures to ask for help
+
+Different strategies work for different people. A strategy that helps one learner may annoy or overwhelm another learner. The goal is to build a menu of safe choices.
+
+## Social Problem-Solving Moves
+
+1. Pause before reacting.
+2. Name the problem without blaming.
+3. Name what each person might feel or need.
+4. Think of two possible choices.
+5. Choose a safe and respectful next step.
+6. Repair harm if needed.
+7. Reflect on what could work better next time.
+
+Learner sentence frames:
+
+- "I felt ___ when ___."
+- "I need ___."
+- "I think the problem is ___."
+- "One fair solution could be ___."
+- "Can we try ___?"
+- "I'm sorry for ___. Next time I will ___."
+- "I need help solving this."
+
+The goal is not to force children to apologize before they understand what happened. The goal is to help them notice impact, take responsibility when appropriate, and practice repair.
+
 ## Independent Practice
 
 ### Goal

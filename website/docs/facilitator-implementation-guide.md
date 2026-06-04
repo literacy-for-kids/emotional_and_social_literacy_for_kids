@@ -10,7 +10,7 @@ This curriculum is designed for adult facilitation with learners ages 8–12. It
 
 In practice, that means teaching the kid-facing term first and the toolbox phrase second. Say **body clues** before **telemetry**, **trust jar** before **trust ledger**, and **When/Then Plan** before **protocol** when introducing a lesson.
 
-Use this page with the [Facilitator Safety Guide](/docs/facilitator-safety-guide). Safety tells you what boundaries to keep. Implementation tells you how to run the course.
+Use this page with the [Facilitator Safety Guide](/docs/facilitator-safety-guide), [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance), [Outcomes and Framework Connections](/docs/outcomes), and [SEL Checkpoint](/docs/sel-checkpoint). Safety tells you what boundaries to keep. Implementation tells you how to run the course.
 
 ## Implementation Formats
 
@@ -25,7 +25,7 @@ The curriculum works in several settings:
 
 ## Official Timing Model
 
-> The curriculum is designed as 18 weeks with three short sessions per week. Each session can be taught in about 20–30 minutes. Use 20 minutes for a lean implementation and 30 minutes when including discussion, journaling, or extension activities.
+> The curriculum is designed as 18 weeks with three short sessions per week. Each session is planned for about 20 minutes, with some settings stretching to 30 minutes when discussion, journaling, or extension activities fit.
 
 ### Timing Options
 
@@ -124,9 +124,10 @@ Best for: advisory programs, club formats, condensed classroom units, or teams t
 Before launch:
 
 1. Read the [Facilitator Safety Guide](/docs/facilitator-safety-guide).
-2. Choose your pacing model.
-3. Skim the [Curriculum Overview](/docs/curriculum-overview) and [Competency Map](/docs/competency-map).
-4. Decide how students will use the [Student Tools and Printables](/docs/student-tools-and-printables).
-5. Review the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) before the capstone.
+2. Skim [Caregiver and Facilitator Guidance](/docs/caregiver-and-facilitator-guidance) if you are teaching in a mixed setting or expect sensitive topics.
+3. Choose your pacing model.
+4. Skim the [Curriculum Overview](/docs/curriculum-overview), [Outcomes and Framework Connections](/docs/outcomes), and [Competency Map](/docs/competency-map).
+5. Decide how students will use the [Student Tools and Printables](/docs/student-tools-and-printables) and [SEL Checkpoint](/docs/sel-checkpoint).
+6. Review the [Assessment Checkpoints](/docs/assessment-checkpoints), [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide), and [Self-Assessment and Reflection](/docs/self-assessment) before the capstone.
 
 The goal is not perfect delivery. The goal is clear models, safe pacing, and enough repetition for the tools to become usable.
