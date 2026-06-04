@@ -18,7 +18,7 @@ const config = {
   organizationName: 'literacy-for-kids',
   projectName: 'emotional_and_social_literacy_for_kids',
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
 
