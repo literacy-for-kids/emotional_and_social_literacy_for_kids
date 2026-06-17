@@ -16,6 +16,10 @@ The formal toolbox phrase is **alignment problem**.
 
 Feeling group pull is normal. Wanting to belong is normal. The skill is noticing the pull before you automatically go along.
 
+:::tip Coping Skill Moment
+Feeling group pull before you have decided anything? Press your feet flat on the floor and name three true things. Grounding buys you a few seconds to ask, *"Do I actually want this, or am I just being pulled?"* before you answer. (More in [Grounding: Come Back to Right Now](/docs/coping-skills/lesson-03-grounding).)
+:::
+
 ---
 
 :::tip Kid Version

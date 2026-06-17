@@ -16,6 +16,10 @@ The grown-up toolbox phrase is **cognitive distortion**. Kid version: **thought 
 
 Thought bugs are not signs of a broken brain. Lots of brains do this. The skill is learning to notice the bug before you treat it like a fact.
 
+:::tip Coping Skill Moment
+Caught a thought that feels like a fact? Run a quick story check: *What do I know for sure? What else could be true? What would I tell a friend?* A thought bug is worth catching before you treat it like the truth. (More in [Thought Bugs and Story Checks](/docs/coping-skills/lesson-06-thought-bugs).)
+:::
+
 ---
 
 :::tip Kid Version

@@ -19,6 +19,10 @@ The grown-up toolbox words are **prefrontal cortex** for thinking brain and **am
 
 This is not a flaw. Lots of brains do this. The job is not to never feel it. The job is to notice the **brain mode switch** and wait before acting.
 
+:::tip Coping Skill Moment
+When you feel panic-brain take over — hot face, fast heart, the urge to yell — that is a signal, not a command. Press the Pause Button: stop, one slow breath out, name it (*"panic brain is driving right now"*), then choose. You can feel something big and still choose what you do next. (More in [The Pause Button](/docs/coping-skills/lesson-02-pause-button).)
+:::
+
 ---
 
 :::tip Kid Version

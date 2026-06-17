@@ -18,6 +18,10 @@ You do not have to explain a body signal right away. First, you learn to notice 
 
 Think of this week like becoming a **Body Signal Detective**. You are learning to read your own body dashboard: heart, breath, stomach, shoulders, and energy.
 
+:::tip Coping Skill Moment
+Be a Signal Detective right now: pick one body clue you can feel this minute — shoulders, stomach, or breath — and just name it silently. *"That's a signal."* A signal gives you information; it does not have to choose your action. (More in [My System Has Signals](/docs/coping-skills/lesson-01-system-signals).)
+:::
+
 ---
 
 :::tip Kid Version

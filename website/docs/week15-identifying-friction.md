@@ -19,6 +19,10 @@ The capstone is a four-week loop:
 
 This week is about choosing well. You are not fixing your whole life. You are picking **one problem that keeps happening** and getting specific enough to understand it.
 
+:::tip Coping Skill Moment
+Looking closely at a problem that keeps happening can stir up frustration or embarrassment. If it does, that is a signal — not a reason to quit. Name the feeling, take a slow breath, and remember that asking for help is a skill: *"I'm stuck on this and don't know how to explain it yet"* is a complete, useful sentence. (More in [Asking for Help Without Exploding](/docs/coping-skills/lesson-07-asking-for-help).)
+:::
+
 ---
 
 :::tip Kid Version
