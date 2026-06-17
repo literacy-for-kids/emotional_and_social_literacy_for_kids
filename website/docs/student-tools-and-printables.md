@@ -15,6 +15,8 @@ These tools can be copied, printed, adapted, or used privately. Students may use
 - Many of these tools also work well as quick index cards or half-sheets.
 :::
 
+For grab-and-go cards that match the eight toolkit lessons, see the [Printable Coping Skill Cards](./coping-skills/printables.md).
+
 ## Body Signal Notebook (Telemetry Log)
 
 Used with [Week 1](/docs/week01-internal-telemetry), [Week 2](/docs/week02-hardware-states), and [Week 4](/docs/week04-the-telemetry-log).

@@ -9,7 +9,7 @@ description: "Asking for help, space, or a do-over is a skill — and repair aft
 
 **Big idea:** Asking for help is a skill, not a failure. The trick is asking *before* a feeling gets so big it comes out as yelling, shutting down, or storming off.
 
-This puts [Week 10: Boundary Setting](/docs/week10-boundary-setting) and the repair work in [Week 15: Identifying Friction](/docs/week15-identifying-friction) into a moment-of-need form.
+This puts [Week 10: Boundary Setting](../week10-boundary-setting.md) and the repair work in [Week 15: Identifying Friction](../week15-identifying-friction.md) into a moment-of-need form.
 
 :::tip Kid Version
 When you don't know how to ask, the pressure leaks out sideways — snapping or going silent. A few simple scripts give the feeling a doorway out that doesn't hurt anyone.

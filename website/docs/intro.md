@@ -31,7 +31,7 @@ Over 18 weeks, students build the habit of pausing before they react, checking t
 - Review [The Five Core Mental Models](#the-five-core-mental-models) to see the ideas that thread through every week.
 - Skim [Course at a Glance](#course-at-a-glance) for the full program structure.
 - Use [Getting Started](#getting-started) when you want the fastest route into the lessons.
-- Reach for the [Coping Skills Toolkit](/docs/coping-skills/intro) when you want short, grab-and-go tools to use in the actual moment a feeling gets big.
+- Reach for the [Coping Skills Toolkit](./coping-skills/intro.md) when you want short, grab-and-go tools to use in the actual moment a feeling gets big.
 :::
 
 :::info For Caregivers and Teachers

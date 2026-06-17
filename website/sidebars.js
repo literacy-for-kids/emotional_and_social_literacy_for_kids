@@ -98,6 +98,7 @@ const sidebars = {
         'coping-skills/lesson-06-thought-bugs',
         'coping-skills/lesson-07-asking-for-help',
         'coping-skills/lesson-08-coping-menu',
+        'coping-skills/printables',
       ],
     },
     'student-tools-and-printables',

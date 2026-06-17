@@ -9,7 +9,7 @@ description: "Sometimes the fastest way to help the mind is to help the body."
 
 **Big idea:** The mind and body are one system. When thinking feels hard, the cause is sometimes simple — tired, hungry, thirsty, too hot, too cold, or stuck sitting still.
 
-This connects to the "hardware states" idea from [Week 2](/docs/week02-hardware-states): a drained battery changes everything downstream.
+This connects to the "hardware states" idea from [Week 2](../week02-hardware-states.md): a drained battery changes everything downstream.
 
 :::tip Kid Version
 Before deciding *you* are the problem, check the simple stuff — like checking a glitchy phone's battery before deciding it's broken.

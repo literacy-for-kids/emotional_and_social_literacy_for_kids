@@ -9,7 +9,7 @@ description: "Brains sometimes add stories to facts. We can check the story befo
 
 **Big idea:** There's a difference between a **fact** (what happened) and a **story** (what your brain decided it means). Stories sometimes have bugs.
 
-This is the field-kit version of [Week 5: Cognitive Distortions](/docs/week05-cognitive-distortions), [Week 6: False Narratives](/docs/week06-false-narratives), and [Week 7: Catastrophic Thinking](/docs/week07-catastrophic-thinking).
+This is the field-kit version of [Week 5: Cognitive Distortions](../week05-cognitive-distortions.md), [Week 6: False Narratives](../week06-false-narratives.md), and [Week 7: Catastrophic Thinking](../week07-catastrophic-thinking.md).
 
 :::tip Kid Version
 A friend walks by without saying hi. **Fact:** they didn't say hi. **Story your brain adds:** "they're mad at me." The story is just one quick guess — you can check it before believing it.

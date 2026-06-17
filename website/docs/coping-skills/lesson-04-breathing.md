@@ -9,7 +9,7 @@ description: "Breathing is one way to send a calming signal to your body."
 
 **Big idea:** Breathing happens on its own, but you can also take the controls — a slow breath is a signal you send *to* your body that says, "we can settle a little."
 
-The box-breathing technique here is taught in more depth in [Optional Week 1: Advanced Regulation](/docs/week-optional-1-emotional-regulation-advanced).
+The box-breathing technique here is taught in more depth in [Optional Week 1: Advanced Regulation](../week-optional-1-emotional-regulation-advanced.md).
 
 :::tip Kid Version
 Breathing is like a dial. Fast, sharp breaths turn the energy up. Slow breaths — especially long breaths *out* — turn it down a notch.

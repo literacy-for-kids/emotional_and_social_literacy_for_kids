@@ -9,7 +9,7 @@ description: "Feelings and body clues are information, not instructions — the 
 
 **Big idea:** A feeling is a signal, not a command. A body clue is information.
 
-This is the same telemetry idea from [Week 1](/docs/week01-internal-telemetry), packed into a tool you can use in the moment.
+This is the same telemetry idea from [Week 1](../week01-internal-telemetry.md), packed into a tool you can use in the moment.
 
 :::tip Kid Version
 Your body sends little messages all day. Noticing one early — *"my shoulders just went tight"* — gives you a head start on choosing what to do.

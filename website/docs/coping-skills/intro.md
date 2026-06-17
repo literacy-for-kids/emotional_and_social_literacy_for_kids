@@ -15,7 +15,7 @@ If the weekly lessons are the engineering manual, the Coping Skills Toolkit is t
 
 ## The core idea
 
-Everything here rests on one move you already practiced in [Week 1](/docs/week01-internal-telemetry):
+Everything here rests on one move you already practiced in [Week 1](../week01-internal-telemetry.md):
 
 > A feeling is a **signal, not a command.** A body clue is **information.** A pause creates **choice.**
 
@@ -27,12 +27,12 @@ This toolkit pulls the practical tools together in one place and links back to t
 
 | Toolkit lesson | Builds on |
 |---|---|
-| My System Has Signals | [Week 1: Internal Telemetry](/docs/week01-internal-telemetry), [Week 2: Hardware States](/docs/week02-hardware-states) |
-| The Pause Button | [Week 3: The Amygdala Switch](/docs/week03-the-amygdala-switch) |
-| Grounding & Breathing & Body Reset | [Optional Week 1: Advanced Regulation](/docs/week-optional-1-emotional-regulation-advanced) |
-| Thought Bugs & Story Checks | [Week 5: Cognitive Distortions](/docs/week05-cognitive-distortions), [Week 6: False Narratives](/docs/week06-false-narratives), [Week 7: Catastrophic Thinking](/docs/week07-catastrophic-thinking) |
-| Asking for Help Without Exploding | [Week 10: Boundary Setting](/docs/week10-boundary-setting), [Week 15: Identifying Friction](/docs/week15-identifying-friction) |
-| Build Your Personal Coping Menu | [Week 16: Protocol Design](/docs/week16-protocol-design), [Student Tools and Printables](/docs/student-tools-and-printables) |
+| My System Has Signals | [Week 1: Internal Telemetry](../week01-internal-telemetry.md), [Week 2: Hardware States](../week02-hardware-states.md) |
+| The Pause Button | [Week 3: The Amygdala Switch](../week03-the-amygdala-switch.md) |
+| Grounding & Breathing & Body Reset | [Optional Week 1: Advanced Regulation](../week-optional-1-emotional-regulation-advanced.md) |
+| Thought Bugs & Story Checks | [Week 5: Cognitive Distortions](../week05-cognitive-distortions.md), [Week 6: False Narratives](../week06-false-narratives.md), [Week 7: Catastrophic Thinking](../week07-catastrophic-thinking.md) |
+| Asking for Help Without Exploding | [Week 10: Boundary Setting](../week10-boundary-setting.md), [Week 15: Identifying Friction](../week15-identifying-friction.md) |
+| Build Your Personal Coping Menu | [Week 16: Protocol Design](../week16-protocol-design.md), [Student Tools and Printables](../student-tools-and-printables.md) |
 
 Use the toolkit on its own as a short unit, fold individual tools into the weeks above, or keep it open as a reference all year.
 
@@ -46,7 +46,7 @@ Children ages 8–12, used by parents, teachers, homeschoolers, clubs, libraries
 These lessons teach everyday coping and self-management skills. They are not therapy, medical advice, or a replacement for help from a trusted adult or qualified professional. If a child is in danger, overwhelmed, or dealing with serious distress, involve a trusted adult right away.
 :::
 
-See the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for this curriculum's full guidance on privacy, disclosure, and sensitive moments.
+See the [Facilitator Safety Guide](../facilitator-safety-guide.md) for this curriculum's full guidance on privacy, disclosure, and sensitive moments.
 
 ## A note on privacy and agency
 
@@ -65,3 +65,5 @@ See the [Facilitator Safety Guide](/docs/facilitator-safety-guide) for this curr
 6. [Thought Bugs and Story Checks](./lesson-06-thought-bugs.md)
 7. [Asking for Help Without Exploding](./lesson-07-asking-for-help.md)
 8. [Build Your Personal Coping Menu](./lesson-08-coping-menu.md)
+
+After the eight lessons, keep the [Printable Coping Skill Cards](./printables.md) nearby for quick reference.

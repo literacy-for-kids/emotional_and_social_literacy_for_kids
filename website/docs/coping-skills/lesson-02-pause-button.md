@@ -9,7 +9,7 @@ description: "A pause gives your brain and body time to choose instead of react.
 
 **Big idea:** A pause creates choice. You can feel something big and still choose what you do next.
 
-This is the practical companion to [Week 3: The Amygdala Switch](/docs/week03-the-amygdala-switch) — when the switch flips, a pause is how you give the thinking brain a chance to come back online.
+This is the practical companion to [Week 3: The Amygdala Switch](../week03-the-amygdala-switch.md) — when the switch flips, a pause is how you give the thinking brain a chance to come back online.
 
 :::tip Kid Version
 A feeling is what happens inside you. An action is what you do about it. The pause is the button in between — and pressing it can be as short as one breath.

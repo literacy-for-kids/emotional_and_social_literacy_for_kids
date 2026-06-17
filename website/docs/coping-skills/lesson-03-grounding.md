@@ -9,7 +9,7 @@ description: "Grounding uses the senses to help your body notice that you are he
 
 **Big idea:** Grounding uses your senses to remind your body that you are here, now, and safe enough to think.
 
-This is the quick-reference version of the somatic grounding work in [Optional Week 1: Advanced Regulation](/docs/week-optional-1-emotional-regulation-advanced).
+This is the quick-reference version of the somatic grounding work in [Optional Week 1: Advanced Regulation](../week-optional-1-emotional-regulation-advanced.md).
 
 :::tip Kid Version
 When your thoughts race ahead or loop back, grounding closes the extra windows so you can look at one calm, real thing right now.
