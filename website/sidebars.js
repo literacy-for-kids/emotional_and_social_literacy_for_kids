@@ -20,6 +20,7 @@ const sidebars = {
     'assessment-checkpoints',
     'self-assessment',
     'communication-skills',
+    'problem-solving-skills',
     {
       type: 'category',
       label: 'Internal Telemetry',

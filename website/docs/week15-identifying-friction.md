@@ -27,6 +27,10 @@ Looking closely at a problem that keeps happening can stir up frustration or emb
 A problem is easier to solve once you can say it clearly. Try: "The problem is ___, and it keeps happening when ___." Naming the friction in plain words is the first communication move toward fixing it. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Name the social friction before solving it: "The part that isn't working between us is ___." A clear problem statement keeps one awkward moment from turning into a whole story. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

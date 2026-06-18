@@ -22,6 +22,10 @@ This week you practice saying them out loud.
 A boundary only works if the other person can understand it. Make the request clear: "I need ___" or "Please stop ___." Clear words protect both honesty and the relationship — the other person isn't left guessing what's okay. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Name the boundary problem clearly: "The thing that isn't okay for me is ___." A clear statement is easier to ask for — and easier to act on — than a vague bad feeling. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

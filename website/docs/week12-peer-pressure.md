@@ -24,6 +24,10 @@ Feeling group pull before you have decided anything? Press your feet flat on the
 When the group pulls one way, a question buys you room: "Wait — what exactly are we doing, and why?" You can also disagree without attacking: "I see it differently, and I'm going to sit this one out." Clear words make "no" easier to say and easier to hear. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Pressure feels like there's only one choice. Brainstorm at least three options — including a brave one and an ask-for-help one — to break the "only one way" trap. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

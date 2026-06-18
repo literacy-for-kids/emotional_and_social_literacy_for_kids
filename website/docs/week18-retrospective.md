@@ -24,6 +24,10 @@ The plan was never supposed to be perfect on the first try. The goal was to run 
 Looking back works best with feedback you can use: "One thing that worked is ___. One thing I'd change is ___." Feedback is information, not a grade on you — and where a plan hurt someone, a repair is part of the next version too. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+A retrospective is the "adjust" step of the loop. Ask what Version 2 of this friendship or group could change next time — looking back is how you make the next try better. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

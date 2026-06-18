@@ -20,6 +20,10 @@ That is the heart of this week.
 When someone seems difficult, listen for the hidden reason before deciding: "Can you tell me what's going on for you?" Active listening — and making sure everyone gets airtime — turns a confusing group into a working one. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+When a group isn't working, break the friction into parts: Is it the plan, the roles, or the way people are talking? Naming which part is stuck lets you fix one thing at a time. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 The formal toolbox phrases are **hidden constraint**, **asymmetric information**, and **iterated game**. Kid versions:
 
 - hidden reason or hidden rule

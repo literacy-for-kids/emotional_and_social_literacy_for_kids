@@ -20,6 +20,10 @@ This week you learn how to slow down before you pass something on. The kid versi
 Before passing a story on, ask one evidence question: "How do we know that's true?" Checking before you tell is communication that protects people — it slows a rumor down instead of speeding it up. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Before reacting to a screenshot or rumor, sort facts from guesses: "What do I actually know, and what am I assuming?" Most rumors travel on guesses dressed up as facts. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

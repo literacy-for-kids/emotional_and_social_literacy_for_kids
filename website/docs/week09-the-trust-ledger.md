@@ -27,6 +27,10 @@ When you have made a withdrawal from someone's trust jar, repair is how you make
 Repair is also communication. After a withdrawal, a clear repair refills the jar: "I said that badly. Let me try again." Saying what happened and what you'll do differently rebuilds trust faster than pretending nothing happened. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+When trust feels shaky, separate what happened from what you guessed it means. "He didn't reply" is a fact; "he's mad at me" might be a guess. Checking the difference keeps a small moment from becoming a big story. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version
