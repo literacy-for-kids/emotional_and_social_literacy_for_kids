@@ -18,6 +18,10 @@ Boundaries are not mean. They are not punishments. They are clear directions plu
 
 This week you practice saying them out loud.
 
+:::tip Communication Moment
+A boundary only works if the other person can understand it. Make the request clear: "I need ___" or "Please stop ___." Clear words protect both honesty and the relationship — the other person isn't left guessing what's okay. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

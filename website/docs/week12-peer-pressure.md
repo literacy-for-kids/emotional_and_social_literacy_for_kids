@@ -20,6 +20,10 @@ Feeling group pull is normal. Wanting to belong is normal. The skill is noticing
 Feeling group pull before you have decided anything? Press your feet flat on the floor and name three true things. Grounding buys you a few seconds to ask, *"Do I actually want this, or am I just being pulled?"* before you answer. (More in [Grounding: Come Back to Right Now](./coping-skills/lesson-03-grounding.md).)
 :::
 
+:::tip Communication Moment
+When the group pulls one way, a question buys you room: "Wait — what exactly are we doing, and why?" You can also disagree without attacking: "I see it differently, and I'm going to sit this one out." Clear words make "no" easier to say and easier to hear. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

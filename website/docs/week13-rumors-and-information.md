@@ -16,6 +16,10 @@ A rumor can go around fast. The correction often moves slower, or never catches 
 
 This week you learn how to slow down before you pass something on. The kid version of the tool is **Check Before You Tell**. The formal toolbox phrase is **verification protocol**.
 
+:::tip Communication Moment
+Before passing a story on, ask one evidence question: "How do we know that's true?" Checking before you tell is communication that protects people — it slows a rumor down instead of speeding it up. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

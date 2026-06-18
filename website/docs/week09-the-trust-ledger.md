@@ -23,6 +23,10 @@ This week is about noticing what fills the jar, what drains it, and how repair w
 When you have made a withdrawal from someone's trust jar, repair is how you make a deposit back. Try the repair script: name it (*"I snapped"*), explain without excusing (*"I was overwhelmed"*), and try again (*"I'm sorry — can we start over?"*). Repair often refills the jar more than never slipping would. (More in [Asking for Help Without Exploding](./coping-skills/lesson-07-asking-for-help.md).)
 :::
 
+:::tip Communication Moment
+Repair is also communication. After a withdrawal, a clear repair refills the jar: "I said that badly. Let me try again." Saying what happened and what you'll do differently rebuilds trust faster than pretending nothing happened. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ---
 
 :::tip Kid Version

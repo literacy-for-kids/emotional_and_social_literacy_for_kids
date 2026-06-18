@@ -16,6 +16,10 @@ Sometimes another person seems confusing, rude, or difficult. But before you dec
 
 That is the heart of this week.
 
+:::tip Communication Moment
+When someone seems difficult, listen for the hidden reason before deciding: "Can you tell me what's going on for you?" Active listening — and making sure everyone gets airtime — turns a confusing group into a working one. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 The formal toolbox phrases are **hidden constraint**, **asymmetric information**, and **iterated game**. Kid versions:
 
 - hidden reason or hidden rule
