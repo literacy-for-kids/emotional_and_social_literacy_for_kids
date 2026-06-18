@@ -48,6 +48,12 @@ Before guessing what someone meant, ask one clarifying question: "Can you say th
 These are everyday communication and self-management tools, not therapy, legal advice, or medical advice. Kids should never be required to share private experiences. If a child is in danger, overwhelmed, or dealing with serious distress, involve a trusted adult right away.
 :::
 
+## Printable cards
+
+The hub toolkit includes printable communication cards for active listening, clarifying questions, explaining your thinking, disagreement, help requests, feedback, repair, and choosing the right tool.
+
+[Printable Communication Skill Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication/communication-printables)
+
 ## Where to go next
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:

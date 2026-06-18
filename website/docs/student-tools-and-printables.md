@@ -15,7 +15,7 @@ These tools can be copied, printed, adapted, or used privately. Students may use
 - Many of these tools also work well as quick index cards or half-sheets.
 :::
 
-For grab-and-go cards that match the eight toolkit lessons, see the [Printable Coping Skill Cards](./coping-skills/printables.md).
+For grab-and-go cards that match the eight toolkit lessons, see the [Printable Coping Skill Cards](./coping-skills/printables.md). For communication scripts and quick-reference cards, see the hub [Printable Communication Skill Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication/communication-printables).
 
 ## Body Signal Notebook (Telemetry Log)
 
