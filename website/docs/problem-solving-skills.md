@@ -10,7 +10,7 @@ slug: /problem-solving-skills
 
 Social problems often feel personal and messy. Problem solving helps kids name the friction, separate facts from assumptions, use communication, repair, and ask for help when a problem is too big to handle alone.
 
-This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving), connected to the emotional and social skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Problem Solving Toolkit](https://www.literacy-for-kids.com/docs/toolkits/problem-solving), connected to the emotional and social skills this curriculum builds.
 
 ## A few core ideas
 
@@ -47,6 +47,6 @@ These are everyday problem-solving tools, not therapy, legal advice, or medical 
 
 The full toolkit has short lessons on naming the problem, sorting facts from guesses, breaking problems into parts, brainstorming options, trying one safe step, observing results, and adjusting:
 
-- [Problem Solving Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving)
+- [Problem Solving Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/problem-solving)
 
-For problem-solving checklists and quick-reference cards, see the hub [Printable Problem Solving Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/problem-solving/problem-solving-printables).
+For problem-solving checklists and quick-reference cards, see the hub [Printable Problem Solving Cards](https://www.literacy-for-kids.com/docs/toolkits/problem-solving/problem-solving-printables).

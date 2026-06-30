@@ -85,4 +85,4 @@ Keep checks indirect and general:
 
 ## Privacy and Student Data
 
-The Telemetry Log and any personal reflections are private. No student data is collected. See [Privacy and Student Data](https://literacy-for-kids.github.io/literacy_for_kids/docs/privacy-and-student-data/).
+The Telemetry Log and any personal reflections are private. No student data is collected. See [Privacy and Student Data](https://www.literacy-for-kids.com/docs/privacy-and-student-data/).

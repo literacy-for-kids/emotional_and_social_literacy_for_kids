@@ -60,7 +60,7 @@ const roadmapSections = [
   },
 ];
 
-const currentSiteHref = 'https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/';
+const currentSiteHref = 'https://emotional.literacy-for-kids.com/';
 
 function FeatureCard({title, description}) {
   return (

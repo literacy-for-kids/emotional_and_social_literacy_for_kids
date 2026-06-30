@@ -12,8 +12,8 @@ const config = {
   tagline: 'A free, open 18-week curriculum that teaches ages 8–12 how emotions and social systems actually work',
   favicon: 'img/favicon.ico',
 
-  url: 'https://literacy-for-kids.github.io',
-  baseUrl: '/emotional_and_social_literacy_for_kids/',
+  url: 'https://emotional.literacy-for-kids.com',
+  baseUrl: '/',
 
   organizationName: 'literacy-for-kids',
   projectName: 'emotional_and_social_literacy_for_kids',

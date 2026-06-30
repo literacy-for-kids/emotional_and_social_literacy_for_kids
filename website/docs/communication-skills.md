@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about reading your own signals and understanding the people around you — trust, boundaries, peer pressure, rumors, collaboration, and repair. Almost all of that happens through **communication**: the words, listening, questions, and repairs people use to understand each other.
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the emotional and social skills this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the emotional and social skills this curriculum builds.
 
 ## Why communication matters in relationships
 
@@ -52,10 +52,10 @@ These are everyday communication and self-management tools, not therapy, legal a
 
 The hub toolkit includes printable communication cards for active listening, clarifying questions, explaining your thinking, disagreement, help requests, feedback, repair, and choosing the right tool.
 
-[Printable Communication Skill Cards](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication/communication-printables)
+[Printable Communication Skill Cards](https://www.literacy-for-kids.com/docs/toolkits/communication/communication-printables)
 
 ## Where to go next
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)
