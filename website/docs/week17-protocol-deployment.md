@@ -142,6 +142,12 @@ Then start. Try-It Week begins today.
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Trying a new skill goes better with the right kind of support. Tell your supporter what actually helps: a reminder, company, privacy, or space. Good collaboration asks, instead of guessing.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Midweek Check-In
 #### Learning Goal
 By the end of this session, the student can:
@@ -277,6 +283,12 @@ These observations will help a lot next week. Capture them when you notice them.
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+After a hard moment, a small restart plan helps you return. Write one next step: when I try again, I will do this one thing. A tiny plan makes coming back easier.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

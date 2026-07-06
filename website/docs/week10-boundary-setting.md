@@ -22,10 +22,6 @@ This week you practice saying them out loud.
 A boundary only works if the other person can understand it. Make the request clear: "I need ___" or "Please stop ___." Clear words protect both honesty and the relationship — the other person isn't left guessing what's okay. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Name the boundary problem clearly: "The thing that isn't okay for me is ___." A clear statement is easier to ask for — and easier to act on — than a vague bad feeling. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ---
 
 :::tip Kid Version
@@ -100,6 +96,10 @@ Avoid pushing students to set boundaries they are not ready to try in real life.
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+Name the boundary problem clearly: "The thing that isn't okay for me is ___." A clear statement is easier to ask for — and easier to act on — than a vague bad feeling. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### Clear Boundary Rules
 #### Learning Goal
 By the end of this session, the student can:
@@ -328,6 +328,12 @@ The boundary inventory is solo. The role-play needs a partner — but if you don
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Practicing a boundary sentence before a hard moment makes it easier to find later — just like practicing a keyboard shortcut or a math fact. Rehearse it a few times when things are calm.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

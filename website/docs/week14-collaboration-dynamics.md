@@ -20,10 +20,6 @@ That is the heart of this week.
 When someone seems difficult, listen for the hidden reason before deciding: "Can you tell me what's going on for you?" Active listening — and making sure everyone gets airtime — turns a confusing group into a working one. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-When a group isn't working, break the friction into parts: Is it the plan, the roles, or the way people are talking? Naming which part is stuck lets you fix one thing at a time. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 The formal toolbox phrases are **hidden constraint**, **asymmetric information**, and **iterated game**. Kid versions:
 
 - hidden reason or hidden rule
@@ -101,6 +97,10 @@ Let the game do the teaching.
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+When a group isn't working, break the friction into parts: Is it the plan, the roles, or the way people are talking? Naming which part is stuck lets you fix one thing at a time. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### The Hidden Rule Game
 #### Learning Goal
 By the end of this session, the student can:
@@ -164,6 +164,12 @@ The skill is asking what might be hidden before deciding the other person is sim
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Fair group work is discussed, not guessed. Run a quick fair-work check: "Does anyone have too much, too little, or no way to contribute?" Fixing the load early beats resenting it later.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Hidden Reasons in Real Life
 #### Learning Goal
 By the end of this session, the student can:
@@ -338,6 +344,12 @@ Track:
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Group work goes smoother with visible roles. Before starting, write who is doing what, and by when, so shared work does not pile onto one person.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

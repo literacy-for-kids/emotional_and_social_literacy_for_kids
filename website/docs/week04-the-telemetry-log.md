@@ -100,6 +100,12 @@ Anything that makes the child more likely to open it next week is a good choice.
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+A log entry works better with a simple, repeatable shape: date, situation, body clue, feeling word. Same fields every time means future-you can compare entries — and the log stays private unless you choose to share it.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Build My Signal Map
 #### Learning Goal
 By the end of this session, the student can:
@@ -311,6 +317,12 @@ This week is fully solo. The log is a personal tool — no partner needed.
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A log helps you learn patterns that one moment can't show. Reviewing your entries is reflection over time: "What keeps showing up?" That is how a pattern becomes something you can notice earlier.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

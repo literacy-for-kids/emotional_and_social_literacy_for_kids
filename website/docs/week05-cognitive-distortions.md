@@ -167,6 +167,12 @@ Have the student say it out loud.
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Distortions are easier to spot when they have labels. Naming the pattern — all-or-nothing, mind-reading, catastrophizing — turns a blur of thoughts into categories you can recognize the next time one shows up.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Thought Bug Hunt
 #### Learning Goal
 By the end of this session, the student can:

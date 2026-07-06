@@ -361,6 +361,12 @@ All activities are individual this week. No partner needed.
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+A calming step is easier to use when it is tiny and cued. Pick one small move (a slow breath, a hand on the desk) and decide when to use it, so it is ready before a hard moment.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Describe the mode switch:** "What happens to your brain when you get really upset?" (Looking for: thinking brain gets quieter, panic brain takes over, or a switch flips.)

@@ -20,10 +20,6 @@ Feeling group pull is normal. Wanting to belong is normal. The skill is noticing
 Feeling group pull before you have decided anything? Press your feet flat on the floor and name three true things. Grounding buys you a few seconds to ask, *"Do I actually want this, or am I just being pulled?"* before you answer. (More in [Grounding: Come Back to Right Now](./coping-skills/lesson-03-grounding.md).)
 :::
 
-:::tip Communication Moment
-When the group pulls one way, a question buys you room: "Wait — what exactly are we doing, and why?" You can also disagree without attacking: "I see it differently, and I'm going to sit this one out." Clear words make "no" easier to say and easier to hear. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ---
 
@@ -161,6 +157,10 @@ Belonging is a real need. That is why group pull feels powerful.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+When the group pulls one way, a question buys you room: "Wait — what exactly are we doing, and why?" You can also disagree without attacking: "I see it differently, and I'm going to sit this one out." Clear words make "no" easier to say and easier to hear. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Go Along or Hold Your Choice?
 #### Learning Goal
 By the end of this session, the student can:
@@ -346,6 +346,12 @@ See what happens and log it.
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A response to peer pressure is easier to use if you plan it ahead. Write one short sentence you might need and keep it somewhere easy to find, so future-you has a cue ready.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

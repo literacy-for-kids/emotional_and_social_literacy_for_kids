@@ -181,6 +181,12 @@ This is the quick tool for the rest of the course: **What is my battery at, and 
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Body states are easier to understand when the information is sorted: what my body reported (tired, hungry, tense) and what my brain added ("this day is ruined"). Two piles — signal and story — keep them from blurring together.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Low-Battery Mode
 #### Learning Goal
 By the end of this session, the student can:

@@ -354,6 +354,12 @@ This week is fully solo-friendly. No partner activities required.
 
 ## Check for Understanding
 
+:::tip Learning Moment
+Noticing your body's signals is a skill you practice, not something you either have or don't. The more you check in, the earlier you will spot a signal next time — like any skill, it grows with reps.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **Name signals clearly:** "Name 3 body signals you can notice right now." (Looking for: clear words such as "tight chest," "fast breath," or "cold hands.")

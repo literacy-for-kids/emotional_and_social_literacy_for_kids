@@ -157,6 +157,12 @@ Limited availability is not a moral failure. The goal is not shaming people for 
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Reliable groups make room for every member. If someone is always left out of the plan, that is a group problem, not that person's problem — and no one should have to fix exclusion alone. Naming it, or asking a trusted adult for help, is part of safe collaboration.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Small Reliable Moves
 #### Learning Goal
 By the end of this session, the student can:

@@ -24,10 +24,6 @@ The plan was never supposed to be perfect on the first try. The goal was to run 
 Looking back works best with feedback you can use: "One thing that worked is ___. One thing I'd change is ___." Feedback is information, not a grade on you — and where a plan hurt someone, a repair is part of the next version too. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-A retrospective is the "adjust" step of the loop. Ask what Version 2 of this friendship or group could change next time — looking back is how you make the next try better. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ---
 
 :::tip Kid Version
@@ -94,6 +90,10 @@ Whatever the plan did or did not do, the learner completed the full loop on a re
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+A retrospective is the "adjust" step of the loop. Ask what Version 2 of this friendship or group could change next time — looking back is how you make the next try better. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### Look Back and Patch
 #### Learning Goal
 By the end of this session, the student can:
@@ -414,6 +414,12 @@ If the student wants a visible ending, assemble a tiny portfolio with one early 
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Looking back at a repair attempt is how social skills grow. Ask: "What did this teach me, and what could I practice before next time?" That turns a hard moment into a next step instead of a verdict.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 This is the final check for the whole curriculum. After the sharing and reflections, confirm:
 

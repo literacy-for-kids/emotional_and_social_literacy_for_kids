@@ -19,8 +19,19 @@ const sidebars = {
     'sel-checkpoint',
     'assessment-checkpoints',
     'self-assessment',
-    'communication-skills',
-    'problem-solving-skills',
+    {
+      type: 'category',
+      label: 'Shared Skills',
+      collapsed: true,
+      items: [
+        'communication-skills',
+        'problem-solving-skills',
+        'learning-how-to-learn',
+        'executive-function',
+        'collaboration-skills',
+        'information-organization',
+      ],
+    },
     {
       type: 'category',
       label: 'Internal Telemetry',

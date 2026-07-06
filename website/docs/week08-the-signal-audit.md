@@ -304,6 +304,12 @@ The audit is fundamentally a solo tool. No partner needed. If you have one, you 
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Noticing signals over time is easier with a simple, private tracker. Deciding what to note ahead of time means the audit runs itself instead of relying on memory.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week, check whether the learner can:
 
 1. **List the steps:** "What are the five steps of the Detective Check?" (Rough versions count.)

@@ -183,6 +183,12 @@ Notice the plan is **small**. It does not solve the whole sibling relationship. 
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Collaboration does not mean saying yes to everything. A healthy group can hear "I need help," "that role does not work for me," or "that does not feel okay." Shared work still needs boundaries.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### What Could Go Wrong?
 #### Learning Goal
 By the end of this session, the student can:
@@ -363,6 +369,12 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A social plan is easier to build when it is small and specific. Pick one situation and one first move you could try, instead of trying to plan for everything at once.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 

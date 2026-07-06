@@ -23,10 +23,6 @@ This week is about choosing well. You are not fixing your whole life. You are pi
 Looking closely at a problem that keeps happening can stir up frustration or embarrassment. If it does, that is a signal — not a reason to quit. Name the feeling, take a slow breath, and remember that asking for help is a skill: *"I'm stuck on this and don't know how to explain it yet"* is a complete, useful sentence. (More in [Asking for Help Without Exploding](./coping-skills/lesson-07-asking-for-help.md).)
 :::
 
-:::tip Communication Moment
-A problem is easier to solve once you can say it clearly. Try: "The problem is ___, and it keeps happening when ___." Naming the friction in plain words is the first communication move toward fixing it. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ---
 
@@ -177,6 +173,10 @@ Write this in the Telemetry Log as your **Capstone Problem**.
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+A problem is easier to solve once you can say it clearly. Try: "The problem is ___, and it keeps happening when ___." Naming the friction in plain words is the first communication move toward fixing it. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### The Why Ladder
 #### Learning Goal
 By the end of this session, the student can:
@@ -357,6 +357,12 @@ The baseline tracker is fully solo. You're observing your own life — no partne
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+A messy social moment can teach a useful next practice. Ask: "What part was hard — noticing the signal, saying the words, listening, or repairing after?" Naming the hard part helps you practice the right skill.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week, check whether the learner can:
 
