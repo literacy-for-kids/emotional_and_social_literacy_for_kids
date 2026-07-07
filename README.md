@@ -1,23 +1,27 @@
+# Emotional & Social Literacy for Kids
+
 ![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
 ![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
-**View the curriculum website:**  
+An 18-week, adult-facilitated curriculum for ages 8–12 that treats emotions as telemetry and social life as a system kids can learn to read, debug, and improve.
+
+🌐 **Use the curriculum here:**
 https://emotional.literacy-for-kids.com/
 
-# Emotional & Social Literacy for Kids
+---
 
-An 18-week, adult-facilitated curriculum for ages 8-12 that treats emotions as telemetry and social life as a system kids can learn to read, debug, and improve.
+## About the Curriculum
 
 Most social and emotional education focuses on compliance, vague self-expression, or rules without models. This curriculum takes a different approach: students learn that emotions are signals, reactivity is a state change, trust is built through repeated behavior, and conflict is often a solvable system mismatch rather than a moral verdict.
 
-This is an educational curriculum, not therapy. Students may use fictional or low-stakes examples, and adults are expected to protect privacy, choice, and safety while teaching the tools.
+This is an educational curriculum, **not therapy**. Students may use fictional or low-stakes examples, and adults are expected to protect privacy, choice, and safety while teaching the tools.
 
 ## At a Glance
 
 - 18 weeks, usually taught in three short sessions per week
-- About 20-30 minutes per session
+- About 20–30 minutes per session
 - Designed for classrooms, homeschool, caregivers, co-ops, and after-school settings
 - Includes weekly lessons, facilitator guides, student printables, assessment guidance, and a competency map
 
@@ -33,7 +37,7 @@ This is an educational curriculum, not therapy. Students may use fictional or lo
 
 ---
 
-### Core Concepts
+## Core Concepts
 
 These mental models help students move from reactivity toward observation, reasoning, and deliberate action.
 
@@ -45,7 +49,7 @@ These mental models help students move from reactivity toward observation, reaso
 
 ---
 
-### The Curriculum Roadmap
+## The Curriculum Roadmap
 
 This 18-week progression moves from understanding the self to navigating relationships, groups, and a final low-stakes protocol-design capstone.
 
@@ -89,23 +93,43 @@ Students choose a manageable, facilitator-approved friction point in their own b
 - **Optional Week 1:** Advanced regulation tools such as box breathing, somatic grounding, and progressive muscle relaxation, taught with clear opt-out and substitution language
 - **Optional Week 2:** Complex group dynamics and social mapping, taught with strict privacy rules and fictional or anonymized examples
 
-## Local Development
+---
 
-```bash
-cd website
-npm install
-npm run start
-```
+## How to Use It
 
-To verify the site builds cleanly:
+You do not need to run all 18 weeks. Every lesson stands alone as a short discussion or activity — use one lesson, one arc, or the full sequence.
 
-```bash
-cd website
-npm run build
-```
+- **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+- **Only have 20 minutes?** Pick any week on the [curriculum site](https://emotional.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.
+- **Want grab-and-go materials?** See [Student Tools and Printables](website/docs/student-tools-and-printables.md) and the hub's [Shared Toolkit Printables](https://www.literacy-for-kids.com/docs/toolkits/printables/).
+
+---
+
+## Shared Skills
+
+This curriculum connects to the seven cross-curriculum [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) — short life-skill modules that support every literacy: **Coping Skills, Communication, Problem Solving, Learning How to Learn, Executive Function, Collaboration, and Information Organization.**
+
+This repo also hosts a full local **Coping Skills Toolkit** companion module with grab-and-go tools for real moments, plus doorway pages for the other toolkits and "Moment" callouts inside weekly lessons.
+
+---
+
+## Part of Literacy for Kids
+
+This is one of **nine domain literacies** in the [Literacy for Kids](https://www.literacy-for-kids.com/) ecosystem — free, open-source curricula covering decisions, computers, media, money, civic life, law, emotions and relationships, the environment, and health. Browse them all from the [hub site](https://www.literacy-for-kids.com/) or the [GitHub organization](https://github.com/literacy-for-kids).
+
+---
+
+## Contributing
+
+Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, or suggesting teaching improvements. Lesson content is plain Markdown under `website/docs/`; fork, edit, and open a pull request. Every page on the live site also has an "Edit this page" link that takes you straight to the file.
+
+---
 
 ## License
 
 This project uses dual licensing:
+
 - Code (JavaScript, CSS, configuration): [MIT License](./LICENSE-CODE)
-- Curriculum content (Markdown under website/docs/): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
+- Curriculum content (Markdown under `website/docs/`): [CC BY-NC-SA 4.0](./LICENSE-CONTENT)
+
+You are free to use, adapt, and share the curriculum content for non-commercial purposes, with attribution, and under the same license. The site code can be reused under MIT.
