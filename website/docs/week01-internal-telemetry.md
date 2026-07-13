@@ -135,6 +135,8 @@ Students do not need to share body signals aloud. They can point to a body map, 
 If a body-scan style activity feels too personal, switch to an **object scan**: notice the color, shape, weight, texture, and temperature of a nearby object for 60 seconds, then compare how the body feels before and after. The goal is noticing signals, not forcing interoception.
 :::
 
+![A neutral body outline with example body signals labeled — busy thoughts, hot cheeks, fast heartbeat, butterflies, clenched fists, wiggly legs — a map for pointing to where signals show up](/img/diagrams/body-signal-map.svg)
+
 ---
 
 **2. Draw Your Body Dashboard**
@@ -156,6 +158,8 @@ Let the student color or mark each light:
 Ask:
 
 > "What might your dashboard look like before a spelling test? After soccer? At a loud lunch table?"
+
+![A pretend body dashboard with five gauges — heart, breath, stomach, shoulders, and energy — each reading calm, medium, or revved-up](/img/diagrams/body-dashboard.svg)
 
 This makes the idea visual right away.
 

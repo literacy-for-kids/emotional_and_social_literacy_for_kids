@@ -1,0 +1,33 @@
+<svg viewBox="0 0 760 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fnTitle">
+  <title id="fnTitle">A small friend network drawn as circles connected by lines: solid lines are steady, reliable connections; a dashed line marks a connection that keeps flaking, which makes the whole group harder to count on</title>
+  <rect x="1" y="1" width="758" height="478" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="380" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">A Friend Network</text>
+  <text x="380" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Circles are people. Lines are connections. Steady lines carry more.</text>
+
+  <!-- edges -->
+  <g stroke="#7c3aed" stroke-width="3.5">
+    <line x1="380" y1="150" x2="220" y2="260"/>
+    <line x1="380" y1="150" x2="540" y2="260"/>
+    <line x1="220" y1="260" x2="330" y2="380"/>
+    <line x1="540" y1="260" x2="330" y2="380"/>
+    <line x1="220" y1="260" x2="540" y2="260"/>
+  </g>
+  <line x1="540" y1="260" x2="620" y2="390" stroke="#dc2626" stroke-width="3" stroke-dasharray="8 8"/>
+
+  <!-- nodes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" font-weight="700" text-anchor="middle">
+    <g><circle cx="380" cy="150" r="34" fill="#7c3aed"/><text x="380" y="156" fill="#ffffff">Sam</text></g>
+    <g><circle cx="220" cy="260" r="34" fill="#7c3aed"/><text x="220" y="266" fill="#ffffff">Noor</text></g>
+    <g><circle cx="540" cy="260" r="34" fill="#7c3aed"/><text x="540" y="266" fill="#ffffff">Ava</text></g>
+    <g><circle cx="330" cy="380" r="34" fill="#7c3aed"/><text x="330" y="386" fill="#ffffff">Leo</text></g>
+    <g><circle cx="620" cy="390" r="34" fill="#ffffff" stroke="#dc2626" stroke-width="3"/><text x="620" y="396" fill="#991b1b">Kai</text></g>
+  </g>
+
+  <!-- labels -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5">
+    <text x="255" y="195" fill="#5b21b6">steady: shows up, keeps plans</text>
+    <text x="588" y="322" fill="#991b1b">keeps flaking lately</text>
+  </g>
+
+  <text x="380" y="452" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">One wobbly line doesn&#8217;t make a bad person &#8212; but it does change what the group can count on.</text>
+</svg>

@@ -84,6 +84,8 @@ Check the battery before you judge the behavior. That shift matters.
 **What success looks like:** The student can name at least one thing that charges their brain battery and one thing that drains it.
 :::
 
+![The brain battery: things that drain it — tiredness, hunger, thirst, noise, a long school day — and things that recharge it — rest, food, water, quiet, movement, easy company](/img/diagrams/brain-battery.svg)
+
 ---
 
 ## Guided Session 1

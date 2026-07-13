@@ -152,6 +152,8 @@ Have the student write the short version on an index card:
 CAMERA FACTS -> BRAIN STORY -> NEXT SAFE MOVE
 ```
 
+![Camera facts versus brain story: the camera saw a friend walk past without waving; the brain wrote a story about it; the next safe move checks the story against reality](/img/diagrams/camera-facts-brain-story.svg)
+
 The full five-step version can live in the Telemetry Log.
 
 ---

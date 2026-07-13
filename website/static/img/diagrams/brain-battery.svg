@@ -1,0 +1,50 @@
+<svg viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bbaTitle">
+  <title id="bbaTitle">The brain battery: things that drain it — being tired, hungry, thirsty, overstimulated, or worn out after school — and things that recharge it — rest, food, water, quiet, movement, and time alone or with easy company</title>
+  <defs>
+    <marker id="bbaR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+    <marker id="bbaG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="418" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Brain Battery</text>
+  <text x="430" y="66" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">When the battery is low, everything feels harder. That is the battery &#8212; not a bad kid.</text>
+
+  <!-- battery -->
+  <g transform="translate(430 220)">
+    <rect x="-90" y="-105" width="180" height="230" rx="18" fill="#ffffff" stroke="#7c3aed" stroke-width="5"/>
+    <rect x="-32" y="-125" width="64" height="20" rx="6" fill="#7c3aed"/>
+    <rect x="-74" y="55" width="148" height="52" rx="8" fill="#dc2626"/>
+    <rect x="-74" y="-5" width="148" height="52" rx="8" fill="#f59e0b"/>
+    <rect x="-74" y="-65" width="148" height="52" rx="8" fill="#16a34a" opacity="0.35"/>
+    <text y="90" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="700" fill="#ffffff">low: everything is LOUD</text>
+    <text y="28" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="700" fill="#ffffff">medium: doing okay</text>
+    <text y="-32" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="700" fill="#166534">full: ready for hard stuff</text>
+  </g>
+
+  <!-- drains -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="14">
+    <text x="90" y="130" font-weight="700" fill="#dc2626">DRAINS THE BATTERY</text>
+    <text x="90" y="160" fill="#1e293b">being tired or hungry</text>
+    <text x="90" y="188" fill="#1e293b">thirst</text>
+    <text x="90" y="216" fill="#1e293b">noise and crowds</text>
+    <text x="90" y="244" fill="#1e293b">a long school day</text>
+    <text x="90" y="272" fill="#1e293b">worry running in the background</text>
+    <line x1="280" y1="200" x2="330" y2="200" stroke="#dc2626" stroke-width="3" marker-end="url(#bbaR)"/>
+  </g>
+
+  <!-- chargers -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="14">
+    <text x="580" y="130" font-weight="700" fill="#16a34a">RECHARGES THE BATTERY</text>
+    <text x="580" y="160" fill="#1e293b">sleep and rest</text>
+    <text x="580" y="188" fill="#1e293b">food and water</text>
+    <text x="580" y="216" fill="#1e293b">quiet time</text>
+    <text x="580" y="244" fill="#1e293b">moving your body</text>
+    <text x="580" y="272" fill="#1e293b">easy company or time alone</text>
+    <line x1="580" y1="200" x2="530" y2="200" stroke="#16a34a" stroke-width="3" marker-end="url(#bbaG)"/>
+  </g>
+
+  <text x="430" y="390" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">A lot of &#8220;big feelings&#8221; start with a low battery. Checking the battery first is a real skill.</text>
+</svg>

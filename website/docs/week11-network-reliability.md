@@ -52,8 +52,10 @@ This week's idea in kid language:
 :::info Before You Begin
 - Have the Telemetry Log accessible.
 - Think about an example from your own life: a relationship that's high-bandwidth (low friction, easy to send anything) and one that's low-bandwidth (you have to filter, hedge, prepare). Sharing this helps the lesson land.
-- For Session 2, you may want to draw a simple network diagram. A few circles connected by lines is enough.
+- For Session 2, you may want to draw a simple network diagram. A few circles connected by lines is enough — like this one:
 :::
+
+![A small friend network drawn as circles connected by lines: solid lines are steady connections; a dashed line marks a connection that keeps flaking](/img/diagrams/friend-network.svg)
 
 :::tip Facilitation Mindset
 This week's lesson is quieter than some others.

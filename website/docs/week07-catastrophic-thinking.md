@@ -111,9 +111,7 @@ Draw a snowball rolling downhill. Label the steps from small to big.
 
 Example:
 
-```text
-forgot homework -> teacher might be annoyed -> I will get in trouble -> everyone will think I am a mess
-```
+![The catastrophe staircase: a fact — forgot homework — climbs through bigger and bigger guesses to a huge leap, with a walk-back-down arrow pointing to the one thing that is actually true](/img/diagrams/catastrophe-staircase.svg)
 
 Explain:
 

@@ -1,0 +1,63 @@
+<svg viewBox="0 0 860 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bmoTitle">
+  <title id="bmoTitle">Two brain modes shown as drivers of the same car: thinking brain drives calmly and can plan, listen, and choose; panic brain grabs the wheel fast when something feels like danger — the skill is noticing the switch and waiting before acting</title>
+  <rect x="1" y="1" width="858" height="478" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="42" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Who Is Holding the Steering Wheel?</text>
+
+  <!-- thinking brain panel -->
+  <g>
+    <rect x="55" y="75" width="360" height="310" rx="14" fill="#f5f3ff" stroke="#7c3aed" stroke-width="2.5"/>
+    <text x="235" y="110" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="800" fill="#5b21b6">THINKING BRAIN</text>
+    <!-- calm face with steering wheel -->
+    <g transform="translate(235 210)">
+      <circle r="56" fill="#a78bfa"/>
+      <circle cx="-18" cy="-12" r="6" fill="#1e293b"/>
+      <circle cx="18" cy="-12" r="6" fill="#1e293b"/>
+      <path d="M-20,20 Q0,36 20,20" fill="none" stroke="#1e293b" stroke-width="4" stroke-linecap="round"/>
+      <!-- wheel held steady -->
+      <circle cx="0" cy="86" r="34" fill="none" stroke="#5b21b6" stroke-width="7"/>
+      <circle cx="0" cy="86" r="6" fill="#5b21b6"/>
+      <line x1="0" y1="86" x2="0" y2="58" stroke="#5b21b6" stroke-width="5"/>
+    </g>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b" text-anchor="middle">
+      <text x="235" y="340">plans &#183; listens &#183; remembers &#183; chooses carefully</text>
+      <text x="235" y="364" fill="#64748b">toolbox word: prefrontal cortex</text>
+    </g>
+  </g>
+
+  <!-- panic brain panel -->
+  <g>
+    <rect x="445" y="75" width="360" height="310" rx="14" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
+    <text x="625" y="110" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="17" font-weight="800" fill="#991b1b">PANIC BRAIN</text>
+    <!-- alarmed face grabbing wheel -->
+    <g transform="translate(625 210)">
+      <circle r="56" fill="#fca5a5"/>
+      <circle cx="-18" cy="-14" r="9" fill="#ffffff" stroke="#1e293b" stroke-width="2.5"/>
+      <circle cx="18" cy="-14" r="9" fill="#ffffff" stroke="#1e293b" stroke-width="2.5"/>
+      <circle cx="-18" cy="-12" r="4" fill="#1e293b"/>
+      <circle cx="18" cy="-12" r="4" fill="#1e293b"/>
+      <ellipse cx="0" cy="24" rx="10" ry="14" fill="#1e293b"/>
+      <!-- alarm marks -->
+      <g stroke="#dc2626" stroke-width="4" stroke-linecap="round">
+        <line x1="-78" y1="-52" x2="-64" y2="-40"/>
+        <line x1="78" y1="-52" x2="64" y2="-40"/>
+        <line x1="0" y1="-84" x2="0" y2="-66"/>
+      </g>
+      <!-- wheel tilted -->
+      <g transform="translate(0 86) rotate(-28)">
+        <circle r="34" fill="none" stroke="#dc2626" stroke-width="7"/>
+        <circle r="6" fill="#dc2626"/>
+        <line x1="0" y1="0" x2="0" y2="-28" stroke="#dc2626" stroke-width="5"/>
+      </g>
+    </g>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b" text-anchor="middle">
+      <text x="625" y="340">fast alarm &#183; grabs the wheel when it senses danger</text>
+      <text x="625" y="364" fill="#64748b">toolbox word: amygdala</text>
+    </g>
+  </g>
+
+  <!-- switch arrow -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <text x="430" y="418" font-size="15" font-weight="700" fill="#1e293b">The skill is not &#8220;never feel it.&#8221; The skill is noticing the switch&#8230; and waiting before acting.</text>
+    <text x="430" y="448" font-size="13.5" fill="#64748b">You are not broken when this happens. Lots of brains do this &#8212; it is very normal.</text>
+  </g>
+</svg>
