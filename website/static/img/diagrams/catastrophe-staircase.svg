@@ -32,7 +32,7 @@
     <g>
       <rect x="645" y="120" width="185" height="58" rx="9" fill="#fef2f2" stroke="#dc2626" stroke-width="2.5"/>
       <text x="737" y="144" font-weight="700" fill="#991b1b">HUGE LEAP</text>
-      <text x="737" y="163" fill="#1e293b">Everyone will think I&#8217;m a mess!</text>
+      <text x="737" y="163" font-size="12.5" fill="#1e293b">Everyone will think I&#8217;m a mess!</text>
     </g>
   </g>
 
@@ -45,8 +45,10 @@
 
   <!-- walk back down -->
   <path d="M737,185 C700,320 420,430 265,430 L180,430" fill="none" stroke="#16a34a" stroke-width="3.5" stroke-dasharray="9 7" marker-end="url(#ctG)"/>
-  <text x="560" y="392" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#166534">walk back down to the fact</text>
-  <text x="560" y="412" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">&#8220;What do I actually know? What is just a story so far?&#8221;</text>
+  <g stroke="#ffffff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">
+    <text x="560" y="392" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#166534">walk back down to the fact</text>
+    <text x="560" y="412" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">&#8220;What do I actually know? What is just a story so far?&#8221;</text>
+  </g>
 
   <text x="430" y="458" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#64748b">Brains climb this staircase fast. Naming the steps slows the climb.</text>
 </svg>
