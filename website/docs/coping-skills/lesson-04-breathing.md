@@ -26,6 +26,10 @@ Under stress, breathing gets fast and shallow without your noticing. Slowing it 
 - **Hand-tracing:** trace up each finger as you breathe in, down as you breathe out — five calm breaths.
 - **Balloon breathing:** hand on belly, slowly fill the "balloon," slowly empty it.
 
+![Box breathing: trace a square — breathe in for 4, hold for 4, breathe out for 4, hold for 4](/img/diagrams/box-breathing.svg)
+
+![Hand-tracing breathing: trace up each finger as you breathe in, down the other side as you breathe out](/img/diagrams/five-finger-breathing.svg)
+
 ## An honest note
 
 Breathing does **not** erase the problem. The hard assignment is still there. Breathing just clears your thinking so you can deal with it better.

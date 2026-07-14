@@ -23,6 +23,8 @@ A racing, scattered brain struggles to choose a useful action. Grounding settles
 
 **5–4–3–2–1** — notice 5 things you see, 4 you hear, 3 you can touch, 2 you can smell, and take 1 slow breath. Keep examples mild and everyday.
 
+![Grounding 5-4-3-2-1: five things you can see, four you can hear, three you can touch, two you can smell, one slow breath](/img/diagrams/grounding-54321.svg)
+
 **Feet-on-floor reset** — press both feet flat, notice the floor push back, and say: *"The floor is holding me up. I am right here."*
 
 **Object focus** — study one nearby object like a scientist: color, edges, texture, temperature.
