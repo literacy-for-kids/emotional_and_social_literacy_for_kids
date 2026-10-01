@@ -72,191 +72,189 @@ Learners may also:
 - compare how culture, context, belonging, or online spaces affect choices
 - use the checkpoint language during group discussion, peer feedback, or project revision
 
-## Phase Checkpoint: Emotional Awareness and Body Clues (Weeks 1-4)
+## Checkpoint Timing and Scope
 
-### What this checkpoint is for
+Use the checkpoint after its listed lessons, or after those lessons in a flexible schedule. The prompts below assess taught core content; unrelated health, civic, media, or social topics and optional extensions are discussion opportunities, not advancement requirements. Accept drawings, speech, AAC, dictation, or model demonstrations.
 
-This checkpoint helps facilitators see whether learners can notice feelings and body clues, describe simple patterns, and use a low-stakes check-in routine before a reaction gets bigger.
+| After lessons | Unit |
+|---|---|
+| Weeks 1–4 | Internal Telemetry and Hardware States |
+| Weeks 5–8 | Debugging the Signal Noise |
+| Weeks 9–11 | Trust, Boundaries, and Reliability |
+| Weeks 12–14 | Game Theory in Groups |
+| Weeks 15–18 | The Social Interface Patch |
 
-### Look-fors
+Fictional work counts equally at every phase. Private responses may stay private; passing, pausing, or switching examples requires no explanation. Use separate demonstration samples rather than private logs.
 
-- names at least one feeling and one body clue
-- notices that signals can change during the day
-- connects a signal to a possible cause without over-explaining
-- uses a drawing, scale, card, or sentence frame to show what they notice
+### Shared Progress Scale
 
-### Checkpoint questions
+- **Beginning:** Needs the concept modeled with a concrete example.
+- **Developing:** Explains part of the mechanism with prompts.
+- **Secure:** Explains the core relationship using the selected accessible response format.
+- **Extending:** Applies it to a new example and names assumptions or limits.
 
-- What feeling or body clue do you notice?
-- What might be affecting that signal right now?
-- What could help you notice it sooner next time?
+Use the phase-specific answer guidance below. Extension vocabulary, polished writing, and speed are not readiness criteria.
 
-### Ready to move on
+## Phase Checkpoint: Internal Telemetry and Hardware States (Weeks 1–4)
 
-The learner can notice and describe at least one body clue and one feeling in a low-stakes example with growing independence.
+### Lessons Assessed
 
-### Reteach moves
+- [Week 1: Mapping Your Biological Hardware](./week01-internal-telemetry.md)
+- [Week 2: Physical Inputs and Processing Capacity](./week02-hardware-states.md)
+- [Week 3: The Brain's Emergency Override](./week03-the-amygdala-switch.md)
+- [Week 4: Reading Your Own Early Warning Signs](./week04-the-telemetry-log.md)
 
-- Use emotion cards and body-clue cards together.
-- Practice with a fictional character, animal, or story scene.
-- Offer a visual scale, body map, or color code instead of open-ended writing.
-- Model your own low-stakes example out loud.
+### Evidence to Use
 
-### Checkpoint snapshot
+A fictional Body Signal Notebook sample and warning-sign map.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Notices feelings | Needs heavy support to name a feeling | Names a common feeling with support | Names a feeling and connects it to context | Describes mixed feelings or changing feelings over time |
-| Notices body clues | Needs help noticing body changes | Names one body clue after prompting | Names body clues with simple detail | Explains how body clues can warn them early |
-| Uses a check-in routine | Participates with adult direction | Uses a simple scale or card with support | Completes a short check-in independently | Chooses a tool or format that fits their system and explains why |
+### Checkpoint Questions and Look-Fors
 
-## Phase Checkpoint: Empathy, Perspective, and Listening (Weeks 5-8)
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 1 | What body clues might a fictional character notice? | Name a plausible signal without requiring personal sensations or interpreting it as a command. |
+| Week 2 | What might charge or drain the character's brain battery? | Name a relevant input and possible effect; conditions are not fully under a child's control. |
+| Week 3 | What might change when panic-brain mode starts? | Explain that reactivity is a state, not a broken or bad person. |
+| Week 4 | What early warning clue appears in this fictional log? | Read the sequence, identify a plausible earlier clue, and explain the logging tool without showing a private log. |
 
-### What this checkpoint is for
+### Ready to Move On
 
-This checkpoint helps facilitators see whether learners can separate observation from interpretation, listen for clues, and consider that more than one perspective may fit the same event.
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### Look-fors
+### Reteach Moves
 
-- describes what happened before jumping to assumptions
-- identifies at least one possible feeling or perspective for another person
-- listens long enough to gather clues before deciding
-- suggests more than one explanation or next step
+Use a story character, body-map icons, and a two-event sample log. Learners may observe, pass, or choose a different example.
 
-### Checkpoint questions
+## Phase Checkpoint: Debugging the Signal Noise (Weeks 5–8)
 
-- What are the camera facts?
-- What might another person think or feel here?
-- What is one safe next move after you slow down?
+### Lessons Assessed
 
-### Ready to move on
+- [Week 5: The Software Bugs of the Mind](./week05-cognitive-distortions.md)
+- [Week 6: When the Brain Constructs Bad Stories](./week06-false-narratives.md)
+- [Week 7: Faulty Logic Loops and How to Spot Them](./week07-catastrophic-thinking.md)
+- [Week 8: Separating Signal from Narrative Noise](./week08-the-signal-audit.md)
 
-The learner can use a Detective Check or similar routine to separate facts from story and consider another perspective in a low-stakes scenario.
+### Evidence to Use
 
-### Reteach moves
+A fictional thought-bug example, worry loop, and Input/Output Audit.
 
-- Use picture books, short videos, or comics and pause for clues.
-- Compare a camera-facts sentence to a brain-story sentence.
-- Practice respectful listening with turn cards or sentence frames.
-- Let learners sort possible explanations instead of generating them from scratch.
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint snapshot
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 5 | Which thought bug might be present in “one mistake means everything is ruined”? | All-or-nothing thinking or catastrophizing, with an explanation; do not use the label to dismiss harm. |
+| Week 6 | A character gets no reply. What is observed and what is a story? | No reply is observed; “they hate me” is an interpretation. Offer an alternative while admitting uncertainty. |
+| Week 7 | Where could the worry snowball be interrupted? | Identify a step in the feedback loop and a possible safe action or support. |
+| Week 8 | What should an audit keep separate? | Facts, interpretation, capacity/body clues, and possible responses. It checks a story, not the learner's worth. |
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Separates fact from story | Blends observation and interpretation | Identifies facts with support | Separates facts and brain story clearly | Explains how a story can change choices |
-| Considers perspective | Focuses only on one person's view | Names another view with prompting | Describes at least two possible perspectives | Compares perspectives and explains why clues matter |
-| Listens and responds | Interrupts or jumps to answers | Listens with reminders | Uses respectful listening and response moves | Builds on what others say and revises thinking openly |
+### Ready to Move On
 
-## Phase Checkpoint: Self-Management and Calm Strategies (Weeks 9-11)
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-### What this checkpoint is for
+### Reteach Moves
 
-This checkpoint helps facilitators see whether learners can notice emotional signals, choose a safe regulation strategy, and explain what might help before reacting. It is not a test. Learners may answer by talking, drawing, pointing, sorting cards, writing short notes, using AAC, or explaining their thinking to a partner.
+Sort fact and story cards, then build one fictional snowball and practice a safe interrupt. Optional calming-technique mastery is not a phase requirement.
 
-### Look-fors
+## Phase Checkpoint: Trust, Boundaries, and Reliability (Weeks 9–11)
 
-- names at least one feeling or body clue
-- chooses a safe calm strategy from a menu
-- explains when that strategy might help
-- asks for help, space, or a break when needed
-- reflects on whether a strategy worked
+### Lessons Assessed
 
-### Checkpoint questions
+- [Week 9: How Relationships Build and Spend Capital](./week09-the-trust-ledger.md)
+- [Week 10: Clear Boundary Rules](./week10-boundary-setting.md)
+- [Week 11: Consistency, Transparency, and High-Bandwidth Connections](./week11-network-reliability.md)
 
-- What feeling or body clue do you notice?
-- What strategy could help before reacting?
-- Who or what could support you?
+### Evidence to Use
 
-### Ready to move on
+A fictional relationship scene and an accessible boundary example.
 
-The learner can choose a safe calm strategy and explain when it might help in a common relationship or boundary moment.
+### Checkpoint Questions and Look-Fors
 
-### Reteach moves
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 9 | What builds or reduces trust in this fictional scene? | Name deposits/withdrawals and patterns without ranking real relationships or treating trust as a debt owed. |
+| Week 10 | A character freezes after someone ignores “stop.” Is the boundary valid? | Yes. Freezing or inability to enforce does not erase the boundary. Adults must help protect children; calm performance is not required. |
+| Week 11 | What makes a character easy to count on over time? | Consistency, follow-through on commitments, and communicating changes; intense promises alone are insufficient. |
 
-- Use emotion cards and body-clue cards together.
-- Model one calm strategy and practice it when everyone is already calm.
-- Let learners choose from a visual menu of strategies.
-- Use a fictional character scenario instead of a personal example.
+### Ready to Move On
 
-### Checkpoint snapshot
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Notices feelings | Needs help naming a feeling | Names a feeling with support | Names a feeling and body clue | Explains how feelings can change over time |
-| Chooses a strategy | Needs a strategy chosen for them | Chooses from two options with support | Chooses a safe strategy and explains why | Compares strategies for different situations |
-| Reflects on response | Says what happened with support | Names one helpful or unhelpful response | Explains what helped and what to try next | Suggests a plan for a future situation |
+### Reteach Moves
 
-## Phase Checkpoint: Conflict, Boundaries, and Social Problem-Solving (Weeks 12-14)
+Use a made-up marker-sharing scene. Identify a limit through writing, drawing, gesture, or AAC, and discuss adult support instead of requiring confrontation.
 
-### What this checkpoint is for
+## Phase Checkpoint: Game Theory in Groups (Weeks 12–14)
 
-This checkpoint helps facilitators see whether learners can name a social problem without blame, consider what people may feel or need, and choose a safe and respectful next step.
+### Lessons Assessed
 
-### Look-fors
+- [Week 12: The Alignment Problem in Groups](./week12-peer-pressure.md)
+- [Week 13: Corrupt Data Transmission and Its Ripple Effects](./week13-rumors-and-information.md)
+- [Week 14: Iterated Games and Mutual Support](./week14-collaboration-dynamics.md)
 
-- names a problem clearly without turning it into an insult
-- uses a boundary, repair, or problem-solving sentence frame
-- suggests more than one possible choice
-- notices when group pressure or rumor spread changes the situation
+### Evidence to Use
 
-### Checkpoint questions
+A peer-pressure scene, Check Before You Tell decision, and conflict analysis.
 
-- What is the problem here?
-- What might each person feel or need?
-- What would be a safe and respectful next step?
+### Checkpoint Questions and Look-Fors
 
-### Ready to move on
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 12 | What options does a character have under group pull? | Recognize pressure and possible choices, with safe support rather than blaming someone unable to resist. |
+| Week 13 | What should happen before a rumor or screenshot is forwarded? | Ask about truth, kindness/need, verification, consent/context, and adult help when needed; do not collect private messages. |
+| Week 14 | What hidden difference could change a conflict? | Different goals, information, timing, or pressures may matter. Compare safe cooperative options without assuming both sides have equal power. |
 
-The learner can explain a conflict, suggest at least one fair response, and use respectful language during disagreement or group pressure.
+### Ready to Move On
 
-### Reteach moves
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-- Practice with puppets, comics, or role cards instead of personal conflicts.
-- Use sentence frames for boundaries, repair, and help-seeking.
-- Pause digital or rumor examples to ask who is affected and what should stop.
-- Model how to name a problem without blaming a whole person.
+### Reteach Moves
 
-### Checkpoint snapshot
+Use a supplied fictional rumor and the hidden-rule game. Mark unknowns and compare possible next steps without naming real peers.
 
-| Skill | Beginning | Developing | Secure | Extending |
-|---|---|---|---|---|
-| Names the problem | Uses blame or vague language | Names part of the problem with support | Names the problem clearly and respectfully | Explains the problem, context, and impact with nuance |
-| Uses social problem-solving | Needs adult direction for next steps | Suggests one safe option with support | Suggests two options and chooses a fair next step | Weighs options and explains why one is more respectful |
-| Uses boundary or repair language | Needs a script provided | Uses a sentence frame with support | Uses a clear boundary or repair sentence | Adapts language for audience, context, and accessibility |
+## Phase Checkpoint: The Social Interface Patch (Weeks 15–18)
 
-## Phase Checkpoint: Emotional and Social Literacy Project (Weeks 15-18)
+### Lessons Assessed
 
-### What this checkpoint is for
+- [Week 15: Diagnosing a Recurring Social Problem](./week15-identifying-friction.md)
+- [Week 16: Make a When/Then Plan](./week16-protocol-design.md)
+- [Week 17: Running the Experiment in the Real World](./week17-protocol-deployment.md)
+- [Week 18: Post-Mortem, Patch Notes, and Next Version](./week18-retrospective.md)
 
-This checkpoint helps facilitators see whether learners can explain a low-stakes project honestly, include empathy and evidence, and revise their thinking after feedback.
+### Evidence to Use
 
-### Look-fors
+An entirely fictional capstone or voluntarily selected excerpts showing the plan cycle.
 
-- explains the problem, feeling, or social situation clearly
-- identifies who is affected and what people may need
-- suggests a safe and respectful response or plan
-- includes realistic clues, examples, or evidence
-- reflects on what changed after trying or revising the idea
+### Checkpoint Questions and Look-Fors
 
-### Checkpoint questions
+| Taught in | Prompt | Expected core reasoning |
+|---|---|---|
+| Week 15 | What repeat problem is specific enough to investigate? | Name a fictional or optional low-stakes real problem, use the Why Ladder, and define a labeled baseline. |
+| Week 16 | What are the trigger, default response, and check in the plan? | State a safe When/Then Plan focused on the character's or learner's choices, not controlling another person. |
+| Week 17 | What happened in the role-play or optional test? | Use honestly labeled records; simulated events are valid. Pausing, stopping, or switching examples is allowed. |
+| Week 18 | What would you patch after reviewing the evidence? | Name one observation, limit, and revision. Private reflection and fictional samples count; neither personal disclosure nor public presentation is required. |
 
-- What is your project trying to help people understand?
-- Who is affected and what might they need?
-- What did you revise after feedback or reflection?
+### Ready to Move On
 
-### Ready to move on
+The learner explains the main relationships shown in the prompts, using the named example or artifact and available supports. If a key relationship remains unclear, model that lesson again and offer a new example; this is a formative decision, not a requirement to disclose or perform perfectly.
 
-The learner can share a clear, kind, and honest project that uses evidence, shows perspective-taking, and names a safe next step.
+### Reteach Moves
 
-### Reteach moves
+Use a fictional repeat problem, a three-part plan card, and two clearly labeled simulated events. Model a small revision rather than requesting private trackers.
 
-- Narrow the topic to one feeling, one conflict, or one repeat problem.
-- Revisit the SEL Checkpoint questions before revising the project.
-- Model how to give credit for facts, ideas, images, quotes, or AI help.
-- Offer checklist-based revision instead of open-ended critique.
+## Capstone Process Rubric
 
-### Emotional and Social Literacy Project Rubric
+| Stage | Core evidence |
+|---|---|
+| Diagnose | A specific fictional or optional real repeat problem and labeled baseline |
+| Design | A safe trigger/default/check plan focused on available choices |
+| Try | Honest role-play or optional real records, with simulated results labeled |
+| Patch | A supported observation, uncertainty, and reason for revision |
+
+Do not grade personal disclosure, calmness, enforcement of another person's behavior, or public presentation.
+
+## Optional Communication Feedback Rubric
+
+Use this only for a learner-selected communication artifact. It does not replace the plan-cycle evidence above or require a public presentation.
 
 | Category | Beginning | Developing | Secure | Extending |
 |---|---|---|---|---|
