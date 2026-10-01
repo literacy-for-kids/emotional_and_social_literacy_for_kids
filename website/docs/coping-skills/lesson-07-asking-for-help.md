@@ -7,6 +7,8 @@ description: "Asking for help, space, or a do-over is a skill — and repair aft
 
 # Asking for Help Without Exploding
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** Asking for help is a skill, not a failure. The trick is asking *before* a feeling gets so big it comes out as yelling, shutting down, or storming off.
 
 This puts [Week 10: Boundary Setting](../week10-boundary-setting.md) and the repair work in [Week 15: Identifying Friction](../week15-identifying-friction.md) into a moment-of-need form.

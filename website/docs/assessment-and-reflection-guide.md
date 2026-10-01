@@ -8,7 +8,7 @@ description: "Ethical assessment guidance, simple rubrics, and reflection prompt
 
 Assessment in this curriculum should measure understanding and tool use, not emotional disclosure, personality, or whether a student looks "fixed."
 
-Students may complete work with fictional examples, neutral examples, or low-stakes real situations. That is still real evidence of learning.
+Students may complete work with fictional examples, neutral examples, or low-stakes real situations. That is still real evidence of learning. Personal examples are optional and may stay private. Learners may pass, use a different example, or return later without explaining why. Use separate fictional demonstration samples instead of requiring access to private logs.
 
 Use this page as the umbrella guide. For the shared question routine, use [SEL Checkpoint](/docs/sel-checkpoint). For phase-based checkpoints, use [Assessment Checkpoints](/docs/assessment-checkpoints). For learner-facing reflection, use [Self-Assessment and Reflection](/docs/self-assessment).
 
@@ -73,7 +73,7 @@ Use these snapshots for observation, conferences, portfolios, or brief written w
 |---|---|
 | **Beginning** | Identifies a need or discomfort. |
 | **Developing** | Writes a clear, respectful boundary with support. |
-| **Secure** | Includes an action they can control and respects others while holding the boundary. |
+| **Secure** | Explains that a boundary stays valid when someone cannot act, and identifies possible safe support in a fictional scenario. |
 | **Extending** | Adjusts the language to fit audience, setting, or accessibility needs. |
 
 ### Social Information Responsibility
@@ -95,6 +95,8 @@ Use these snapshots for observation, conferences, portfolios, or brief written w
 | **Extending** | Uses evidence and revision to improve the plan clearly. |
 
 ## Reflection Prompts
+
+Answer for a fictional character, reflect privately, or pass. "I" may refer to the chosen character.
 
 Use short prompts at the end of a lesson, week, or capstone cycle:
 
@@ -126,7 +128,7 @@ See [Student Tools and Printables](/docs/student-tools-and-printables) for reusa
 
 ## Portfolio Option
 
-A simple end-of-course portfolio can include:
+A voluntary end-of-course portfolio can use entirely fictional samples. Learners select any personal excerpts themselves; private logs are not required. It can include:
 
 1. one early Body Signal Notebook / Telemetry Log entry
 2. one audit or thought-bug tool

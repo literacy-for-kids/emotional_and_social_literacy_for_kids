@@ -16,7 +16,7 @@ These cards teach everyday coping and self-management skills. They are not thera
 :::
 
 :::note A note on privacy
-Kids may keep their cards private, share part of them, or use fictional examples. No child should be required to read personal coping cards aloud.
+Kids may keep their cards private, share part of them, or use fictional examples. No child should be required to share personal coping cards, privately or publicly. Use a separate fictional sample to demonstrate understanding; learners may pass or choose another example without explaining why.
 :::
 
 ---

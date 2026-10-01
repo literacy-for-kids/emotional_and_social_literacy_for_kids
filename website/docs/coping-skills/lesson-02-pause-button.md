@@ -7,6 +7,8 @@ description: "A pause gives your brain and body time to choose instead of react.
 
 # The Pause Button
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** A pause creates choice. You can feel something big and still choose what you do next.
 
 This is the practical companion to [Week 3: The Amygdala Switch](../week03-the-amygdala-switch.md) — when the switch flips, a pause is how you give the thinking brain a chance to come back online.

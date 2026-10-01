@@ -109,6 +109,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Draw the Traffic Light Brain**
 
 Draw a simple traffic light and connect it to brain modes:
@@ -182,6 +184,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. My Yellow Signs and Red Signs**
 
@@ -298,6 +302,8 @@ Catch yourself in yellow or red mode at least once this week and try one pause t
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. Brain Mode Watch**
 
 For one week, watch for moments when you move from green to yellow or red. Afterward, write down or say:
@@ -331,6 +337,8 @@ All activities are individual this week. No partner needed.
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Add a new section to your Telemetry Log:
 >
 > **My Yellow Signs (warning signs):**
@@ -355,6 +363,8 @@ All activities are individual this week. No partner needed.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Are you mostly a fighter, a flighter, or a freezer? Or does it depend?
 - What is one yellow sign you want to notice sooner?
 - Is there someone you can be honest with when your panic brain gets loud?
@@ -362,6 +372,8 @@ All activities are individual this week. No partner needed.
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Executive Function Moment
 A calming step is easier to use when it is tiny and cued. Pick one small move (a slow breath, a hand on the desk) and decide when to use it, so it is ready before a hard moment.
@@ -372,7 +384,7 @@ A calming step is easier to use when it is tiny and cued. Pick one small move (a
 After this week, check whether the learner can:
 
 1. **Describe the mode switch:** "What happens to your brain when you get really upset?" (Looking for: thinking brain gets quieter, panic brain takes over, or a switch flips.)
-2. **Name their signs:** "What does your body do when red mode starts?" (Looking for at least one specific signal.)
+2. **Name possible signs:** "What body clues might a character notice when red mode starts?" (Looking for at least one specific signal.)
 3. **Understand normalcy:** "Does this mean your brain is broken? Why or why not?" (Looking for: no, lots of brains do this; it is a fast safety system.)
 
 If the learner can do at least 2 of these, they are ready for Week 4.

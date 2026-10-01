@@ -7,6 +7,8 @@ description: "Feelings and body clues are information, not instructions — the 
 
 # My System Has Signals
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** A feeling is a signal, not a command. A body clue is information.
 
 This is the same telemetry idea from [Week 1](../week01-internal-telemetry.md), packed into a tool you can use in the moment.

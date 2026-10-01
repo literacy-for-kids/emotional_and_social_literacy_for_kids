@@ -7,6 +7,8 @@ description: "Different tools work for different people. A coping menu helps you
 
 # Build Your Personal Coping Menu
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** There's no single "right" coping tool. A personal coping menu is your own short list of what actually helps *you*, chosen in advance and ready when you need it.
 
 This is a lightweight version of the protocol you design in [Week 16: Protocol Design](../week16-protocol-design.md), and it fits alongside the [Student Tools and Printables](../student-tools-and-printables.md).

@@ -7,6 +7,8 @@ slug: /sel-checkpoint
 
 # SEL Checkpoint
 
+Use a fictional character for any question. Personal reflection may stay private, and learners may pass, pause, or switch examples without explaining why.
+
 This routine gives learners a steady way to think about feelings, needs, choices, and repair without forcing personal disclosure. It works with stories, videos, classroom moments, community examples, group work, digital situations, and low-stakes real-life reflection.
 
 Learners can respond by talking, drawing, pointing, sorting cards, acting out a scene, writing, signing, or using AAC.

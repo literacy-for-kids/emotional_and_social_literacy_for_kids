@@ -88,7 +88,7 @@ You are teaching the student to become a body signal detective, not asking them 
 
 **Journal alternative:** Have the student draw a body with labels like "hot face," "wiggly legs," or "tight shoulders." They can also tell you one signal and you write it down.
 
-**What success looks like:** The student can name at least one specific body signal they noticed today, such as "my heart got fast" or "my stomach felt fluttery."
+**What success looks like:** The student can identify a possible signal for a fictional character, such as a fast heartbeat or fluttery stomach. Personal observations are optional and private.
 :::
 
 ---
@@ -105,6 +105,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The 60-Second Notice-and-Name**
 
@@ -132,7 +134,7 @@ If the student only notices two or three, that is normal. Model your own:
 :::info Choice and Privacy Note
 Students do not need to share body signals aloud. They can point to a body map, circle words, draw what they notice, or keep the observation private in their log.
 
-If a body-scan style activity feels too personal, switch to an **object scan**: notice the color, shape, weight, texture, and temperature of a nearby object for 60 seconds, then compare how the body feels before and after. The goal is noticing signals, not forcing interoception.
+If a body-scan style activity feels too personal, switch to an **object scan**: notice the color, shape, weight, texture, and temperature of a nearby object for 60 seconds, describe the object without reporting any body sensations. The goal is noticing signals, not forcing interoception.
 :::
 
 ![A neutral body outline with example body signals labeled — busy thoughts, hot cheeks, fast heartbeat, butterflies, clenched fists, wiggly legs — a map for pointing to where signals show up](/img/diagrams/body-signal-map.svg)
@@ -166,7 +168,7 @@ This makes the idea visual right away.
 :::info Choice and Privacy Note
 Students do not have to share body signals aloud. They can point to a body map, circle picture words, use stickers, or keep the observation private in their notebook.
 
-If body noticing feels too personal, switch to an **object detective** version: notice the color, texture, temperature, and weight of an object for 60 seconds, then compare how the body feels before and after.
+If body noticing feels too personal, switch to an **object detective** version: notice the color, texture, temperature, and weight of an object for 60 seconds, describe the object without reporting any body sensations.
 :::
 
 ---
@@ -201,6 +203,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Baseline Check**
 
@@ -293,6 +297,8 @@ Practice noticing body signals during the day and make the first entries in the 
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. Three Short Scans**
 
 For 3 days, do a 30-second scan at three times:
@@ -332,6 +338,8 @@ This week is fully solo-friendly. No partner activities required.
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Start your **Body Signal Notebook** this week. The formal toolbox name is **Telemetry Log**.
 >
 > Add this first entry:
@@ -350,6 +358,8 @@ This week is fully solo-friendly. No partner activities required.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Which signal was easiest to notice?
 - Which signal was hardest to notice?
 - Did your body tell you something before your words caught up?
@@ -357,6 +367,8 @@ This week is fully solo-friendly. No partner activities required.
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 Noticing your body's signals is a skill you practice, not something you either have or don't. The more you check in, the earlier you will spot a signal next time — like any skill, it grows with reps.
@@ -366,7 +378,7 @@ Noticing your body's signals is a skill you practice, not something you either h
 
 After this week, check whether the learner can:
 
-1. **Name signals clearly:** "Name 3 body signals you can notice right now." (Looking for: clear words such as "tight chest," "fast breath," or "cold hands.")
+1. **Name signals clearly:** "Name 3 body signals a fictional character might notice." (Looking for: clear words such as "tight chest," "fast breath," or "cold hands.")
 2. **Understand baseline:** "What does *baseline* mean?" (Looking for: "what is normal for me when nothing special is happening.")
 3. **Treat signals as clues:** "If your heart starts beating fast, does that always mean something is wrong?" (Looking for: "no, it could mean lots of things; it is information.")
 

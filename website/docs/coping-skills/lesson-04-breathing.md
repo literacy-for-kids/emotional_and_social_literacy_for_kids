@@ -7,6 +7,8 @@ description: "Breathing is one way to send a calming signal to your body."
 
 # Breathing as a Control Input
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** Breathing happens on its own, but you can also take the controls — a slow breath is a signal you send *to* your body that says, "we can settle a little."
 
 The box-breathing technique here is taught in more depth in [Optional Week 1: Advanced Regulation](../week-optional-1-emotional-regulation-advanced.md).

@@ -7,6 +7,8 @@ description: "Grounding uses the senses to help your body notice that you are he
 
 # Grounding: Come Back to Right Now
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** Grounding uses your senses to remind your body that you are here, now, and safe enough to think.
 
 This is the quick-reference version of the somatic grounding work in [Optional Week 1: Advanced Regulation](../week-optional-1-emotional-regulation-advanced.md).

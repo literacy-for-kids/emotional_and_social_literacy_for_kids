@@ -95,11 +95,13 @@ By the end of this session, the student can:
 
 - describe **brain battery** as how much their brain can handle right now
 - identify at least 3 things that charge or drain that battery
-- check their own battery level with a quick rating
+- use a quick rating to describe a fictional character's battery level, or privately rate their own if they choose
 
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Phone Battery Connection**
 
@@ -140,7 +142,7 @@ Make two lists together:
 - homework plus sports plus chores all at once
 - being hot, cold, or uncomfortable
 
-Have the student add examples from real life:
+Have the student add examples for a fictional character, or optional private real-life notes:
 
 - after a long school day
 - before dinner
@@ -154,13 +156,13 @@ Keep this conversation gentle. Sleep, food, medical needs, disability, medicatio
 The goal is pattern noticing and support, not blaming a child for conditions they did not choose or cannot fix on their own.
 :::
 
-Their answers are real data about their own body and school-day rhythm.
+Fictional examples demonstrate the skill. Personal observations may stay private.
 
 ---
 
 **3. Brain Battery Check**
 
-Have the student rate their current battery in one of two ways:
+Rate a fictional character's battery, or optionally rate your own privately, in one of two ways:
 
 - 1 to 10 scale
 - low / medium / full
@@ -200,6 +202,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. My Low-Battery Tells**
 
@@ -296,6 +300,8 @@ Track battery level over a few days to spot patterns. Add a low-battery section 
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Brain Battery Tracker**
 
 For 3 days, write down:
@@ -330,6 +336,8 @@ All activities this week are solo. The capacity tracker works perfectly for a si
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Add a new section to your Telemetry Log this week:
 >
 > **What charges my brain battery:** ___
@@ -349,6 +357,8 @@ All activities this week are solo. The capacity tracker works perfectly for a si
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - What is your most common low-battery tell?
 - Is there a time of day when your battery usually drops?
 - What is one small thing that helps charge you?
@@ -357,11 +367,13 @@ All activities this week are solo. The capacity tracker works perfectly for a si
 
 ## Check for Understanding
 
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
+
 After this week, check whether the learner can:
 
 1. **Name brain battery:** "What is brain battery, in your own words?" (Looking for: how much the brain can handle right now.)
-2. **Identify chargers and drainers:** "Name two things that charge your battery and two that drain it." (Looking for concrete, personal examples.)
-3. **Spot low-battery mode:** "How do you usually act when your battery is low?" (Looking for a specific behavior such as "I snap" or "I shut down.")
+2. **Identify chargers and drainers:** "Name two things that might charge a character's battery and two that might drain it." (Looking for concrete examples; fictional examples count equally.)
+3. **Spot low-battery mode:** "How might a fictional character act when their battery is low?" (Looking for a possible behavior such as snapping or becoming quiet; no personal report is required.)
 
 If the learner can do at least 2 of these, they are ready for Week 3.
 

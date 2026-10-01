@@ -64,7 +64,7 @@ If a student shares something that suggests danger, abuse, neglect, self-harm, h
 
 ## Telemetry Log and Mandatory Reporting
 
-The **Telemetry Log** is designed as a private journal. Many students may call it their **Body Signal Notebook**. Students are encouraged to treat it as their own record, and facilitators should not require students to share log entries publicly.
+The **Telemetry Log** is designed as a private journal. Many students may call it their **Body Signal Notebook**. Students are encouraged to treat it as their own record, and facilitators should not require students to share personal entries, privately or publicly. Assess learning with separate fictional samples; the learner decides whether to offer any personal excerpt.
 
 However, **the log is not confidential when safety is involved.**
 
@@ -121,7 +121,7 @@ Students can still learn the concept without using a personal story. Offer these
 - observe the tool and summarize how it works
 - use a neutral school, club, or home example
 
-These alternatives are not lesser participation. They are valid participation.
+These alternatives are not lesser participation. They are valid participation. Passing, pausing, and switching examples require no explanation. Offer another fictional assessment opportunity or a later check rather than demanding personal disclosure.
 
 ## Body-Based Activity Cautions
 
@@ -163,7 +163,13 @@ Safe alternatives that work for nearly all students:
 
 When in doubt, skip the ice cube and use a textured object or an environment scan instead. The goal is a grounding anchor, not a specific object.
 
+## Boundary Support
+
+A boundary is valid even if a child freezes, cannot speak, cannot leave, or needs help enforcing it. Silence or lack of follow-through is not agreement. Do not grade tone, calmness, or the ability to make another person comply. Adults are responsible for protecting children and responding to harm. Offer AAC, written, drawn, or fictional practice, and make role-play opt-in with a stop signal and no unwanted contact.
+
 ## Capstone Safety Gate
+
+A fully fictional capstone and role-play test meet the same learning goals. Mark imagined observations as simulated. Real-life tests are optional; learners may stop or switch without losing credit, and private data or public presentations are never required.
 
 Use this checklist before approving a Week 15–18 project.
 
@@ -193,7 +199,7 @@ Quick approval questions:
 | Check | Yes/No |
 |---|---|
 | Is the project about the learner's own behavior, communication, environment, or preparation? | |
-| Can it be tested safely in everyday life without secrecy or manipulation? | |
+| Can it be tested safely in fictional role-play or optional everyday life without secrecy or manipulation? | |
 | Can the student stop the test immediately if it creates distress? | |
 | Would you be comfortable describing this project to a caregiver, school leader, or supervisor? | |
 | Does it avoid controlling, diagnosing, exposing, or fixing another person? | |

@@ -84,7 +84,7 @@ Students examine peer pressure, rumors, group incentives, and hidden variables, 
 ### Weeks 15–18: The Social Interface Patch
 
 **Focus:** Conflict resolution and system optimization
-Students choose a manageable, facilitator-approved friction point in their own behavior, communication, or environment, then design, test, and reflect on a personal protocol.
+Students choose a manageable fictional problem or an optional private real example, then design, test, and reflect on a plan. Fictional role-play meets the same learning goals; personal logs, real-life tests, and public presentations are optional.
 
 - **Key tools:** Social System 5 Whys, Personal Protocol Template, Seven-Day Deployment Tracker, Patch Notes Reflection
 

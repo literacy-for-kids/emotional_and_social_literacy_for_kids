@@ -2,7 +2,7 @@
 sidebar_position: 10
 sidebar_label: "Week 10: Interface Specs That Protect the System"
 title: "Week 10: Interface Specs That Protect the System"
-description: "Boundaries as interface specifications — how to set, communicate, and enforce limits that protect the system from overload."
+description: "Boundaries as interface specifications — how to communicate limits, respect them, and seek support when needed."
 ---
 
 # Week 10: Clear Boundary Rules
@@ -14,12 +14,14 @@ A **boundary** is a clear rule about how people may treat you.
 
 The formal toolbox phrase is **interface specification**. Kid version: **clear boundary rule**.
 
-Boundaries are not mean. They are not punishments. They are clear directions plus what **you** will do if the problem keeps happening.
+Boundaries are not mean or punishments. A boundary expresses a limit or need. "Stop," "No," a gesture, or an AAC message can be enough. You do not have to explain your feelings or promise a next action for your boundary to count.
 
-This week you practice saying them out loud.
+A boundary remains valid if you freeze, cannot speak, cannot leave, or need help. Adults are responsible for protecting children and responding to harm; children are not responsible for making someone else comply.
+
+This week you can practice with words, writing, drawings, gestures, AAC, or fictional examples.
 
 :::tip Communication Moment
-A boundary only works if the other person can understand it. Make the request clear: "I need ___" or "Please stop ___." Clear words protect both honesty and the relationship — the other person isn't left guessing what's okay. (More on the [Communication Skills](./communication-skills.md) page.)
+Clear communication can help someone understand a boundary, but a boundary does not become invalid when someone ignores or misunderstands it. When it feels safe, try: "I need ___" or "Please stop ___." Clear words protect both honesty and the relationship — the other person isn't left guessing what's okay. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
 ---
@@ -32,7 +34,7 @@ This week's idea in kid language:
 :::info Facilitator Snapshot
 - The big idea: boundaries help relationships stay safer and clearer.
 - Lead with **boundary** and **clear boundary rule**. Offer **interface specification** as a toolbox phrase.
-- The skill is a calm script, not a perfect performance.
+- Assess understanding and safe support choices, not calmness, tone, loudness, or the ability to enforce a limit.
 - Use low-stakes examples first. Students may use fictional examples and do not have to name real people.
 - Do not turn boundary work into compliance demands or pressure students into confrontations.
 - Continue the Telemetry Log. Add a Boundaries section.
@@ -59,7 +61,7 @@ This week's idea in kid language:
 :::info Before You Begin
 - Have the Telemetry Log accessible.
 - Think about your own boundaries (the ones you keep AND the ones you struggle to keep). Sharing real adult examples makes this lesson land.
-- For Session 2, you'll do some role-play. Be ready to play the "other side" gently — not at full intensity.
+- Offer opt-in role-play, written scenarios, or observation. Agree on a stop signal and never use actual touching, grabbing, or unwanted contact.
 - Note: this is a vocabulary that has become very popular. Some kids will have heard "boundaries" used in oversimplified ways. Treat the engineering framing as a fresh, more precise version.
 :::
 
@@ -70,7 +72,7 @@ Your job is to make it concrete:
 
 - what happened
 - what I want instead
-- what I will do if it keeps happening
+- a possible safe next step or adult support, if needed
 
 Avoid pushing students to set boundaries they are not ready to try in real life. Understanding the tool comes first.
 :::
@@ -90,7 +92,7 @@ Avoid pushing students to set boundaries they are not ready to try in real life.
 
 **Journal alternative:** Draw a speech bubble with a boundary sentence.
 
-**What success looks like:** The student can say one clear boundary sentence out loud.
+**What success looks like:** The student can identify or communicate a boundary for a fictional character using speech, writing, drawing, gestures, or AAC.
 :::
 
 ---
@@ -105,34 +107,38 @@ Name the boundary problem clearly: "The thing that isn't okay for me is ___." A 
 By the end of this session, the student can:
 
 - describe a boundary as a clear rule for how they want to be treated
-- tell the difference between a complaint and a real boundary
-- identify the three parts of a clear boundary script
+- recognize that a short refusal or request can express a valid boundary
+- identify the optional parts of a longer practice script
 
 ---
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. What a Boundary Really Is**
 
 Explain:
 
-> "A boundary is not just saying 'I do not like that.' A boundary is a clear rule about what is happening, what you want instead, and what you will do if it keeps happening."
+> "A boundary expresses what is okay or not okay for you. 'I do not like that' or 'Stop' can express a boundary. A longer script can help you practice, but you do not have to use every part."
 
 Optional toolbox phrase:
 
 > "The grown-up systems word is interface specification."
 
 :::note Where the Metaphor Breaks
-A boundary describes what **I** will do or allow. It is not a remote control for another person.
+A boundary expresses a limit. It cannot control another person. Someone ignoring it does not make it invalid.
 
-Boundaries do not remove the need for kindness, safety, repair, or accountability. They also do not cancel safe and reasonable adult rules. A student cannot turn "boundary" into a way to avoid cleanup, school expectations, or responsibility for harm.
+Freezing, staying silent, or being unable to leave does not mean agreement. A child may need adult help to be safe.
+
+Boundaries do not remove the need for kindness, safety, repair, or accountability. Safe, reasonable adult rules can coexist with boundaries. Adults should listen to discomfort, provide support or adjustments, and keep children safe while addressing responsibilities.
 :::
 
 ---
 
 **2. The Three-Part Boundary Script**
 
-Write this on paper:
+Use this optional planning aid. A child may use just a short request or refusal, leave any field blank, or include asking an adult for help:
 
 ```text
 1. What happened
@@ -144,7 +150,7 @@ Example:
 
 > "When you grab my stuff without asking, I want you to ask first. If it keeps happening, I am going to put it away and use it later."
 
-Notice: it is calm, specific, and the last part is something the child can actually do.
+Notice: it names a limit and one possible next step. The limit still counts if the child cannot take that step. Calm delivery is not required.
 
 ---
 
@@ -167,41 +173,43 @@ Students may also use fictional or low-stakes examples. No one has to name a rea
 #### Learning Goal
 By the end of this session, the student can:
 
-- say a boundary out loud using all three parts
-- practice one response to gentle pushback
-- understand that follow-through is about protecting themselves, not controlling others
+- communicate or identify a boundary using an accessible format
+- choose whether to rehearse, write, or observe a response to pushback
+- explain that a boundary stays valid even when they need help or cannot act
 
 ---
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Write One Boundary Script**
 
-Take one boundary and fill in the three parts:
+Choose a fictional boundary. Use any helpful parts of the optional script:
 
 - What happened: ___
 - What I want instead: ___
 - What I will do if it keeps happening: ___
 
-Then say it out loud.
+Choose speech, writing, drawing, gestures, AAC, or observation. No explanation or disclosure is required.
 
 ---
 
 **2. Gentle Pushback Practice**
 
-Practice with gentle pushback such as:
+Only rehearse pushback if the learner chooses it. Use fictional characters, agree on a stop signal, and stop immediately if requested. There must be no actual touching or grabbing. Written analysis or watching a model counts equally. Possible fictional lines:
 
 - "I was just joking."
 - "You are being too sensitive."
 - "Why are you making a big deal of this?"
 
-Calm replies can sound like:
+Possible replies, spoken or communicated another way:
 
 - "I still want it to stop."
 - "I am being clear, not mean."
 - "That is my boundary."
 
-Practice 2 or 3 short rounds.
+Offer up to 2 or 3 short rounds; the learner may stop, pass, or switch formats at any time.
 
 ---
 
@@ -209,16 +217,16 @@ Practice 2 or 3 short rounds.
 
 Key rule:
 
-> **A boundary without follow-through is just a wish.**
+> **A boundary is valid even when you cannot enforce it. Asking for help is a safe next step.**
 
-Follow-through is something **you** do:
+Possible protective steps, when safe and available, include:
 
 - move away
 - put the item away
 - end the conversation
 - get a trusted adult
 
-It is not about controlling the other person. It is about protecting yourself.
+These are options, not conditions for having a boundary. If you freeze or cannot act, the limit still matters. The person crossing the boundary is responsible for their behavior, and adults must help protect children. If one adult does not help, another trusted adult may be needed.
 
 ---
 
@@ -266,9 +274,11 @@ Practice writing and saying boundaries. Try one real low-stakes boundary this we
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Boundary List**
 
-Make a list of 3 to 5 boundaries you might want. For each one, write:
+Make a list of 1 to 3 boundaries for a fictional character, or optional private examples. Use any helpful fields:
 
 - what happened
 - what I want instead
@@ -276,7 +286,7 @@ Make a list of 3 to 5 boundaries you might want. For each one, write:
 
 You do not have to use them all this week.
 
-**Minimum viable version:** Write one boundary and say it to a stuffed animal or in a mirror.
+**Minimum viable version:** Write, draw, select, or communicate one fictional boundary. Saying it aloud is optional.
 
 ---
 
@@ -295,10 +305,12 @@ Write what happened.
 Students may also use fictional examples if a real one does not feel safe.
 
 :::note Solo/Small-Group Fallback
-The boundary inventory is solo. The role-play needs a partner — but if you don't have one, practice in front of a mirror or with a stuffed animal. Saying it out loud, even alone, builds the muscle.
+The boundary inventory is solo. The role-play needs a partner — but if you don't have one, practice in front of a mirror or with a stuffed animal. Writing, drawing, gestures, AAC, or observing a demonstration also count.
 :::
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Open a new section in your Telemetry Log called **My Boundary Rules**:
 >
@@ -321,6 +333,8 @@ The boundary inventory is solo. The role-play needs a partner — but if you don
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Which kind of boundary feels easiest to say?
 - What kind of pushback is hardest for you?
 - Is there a boundary someone sets with you that you respect?
@@ -328,6 +342,8 @@ The boundary inventory is solo. The role-play needs a partner — but if you don
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 Practicing a boundary sentence before a hard moment makes it easier to find later — just like practicing a keyboard shortcut or a math fact. Rehearse it a few times when things are calm.
@@ -337,9 +353,9 @@ Practicing a boundary sentence before a hard moment makes it easier to find late
 
 After this week, check whether the learner can:
 
-1. **Define a boundary:** "What is a boundary?" (Looking for: a clear rule about how people may treat you and what you will do.)
-2. **Name the three parts:** "What are the three parts of a clear boundary script?"
-3. **State a real one:** "Tell me one boundary you might say out loud."
+1. **Define a boundary:** "What is a boundary?" (Looking for: a limit or need about how someone may treat you; a next action is optional.)
+2. **Recognize validity:** "A character freezes after someone ignores their request to stop. Does their boundary still count? Who can help?" (Looking for: yes; freezing is not agreement, and adults must help protect children.)
+3. **Practice a fictional one:** "Choose or communicate a boundary for a made-up character." Accept words, writing, drawings, gestures, or AAC; do not grade calmness or enforcement.
 
 If the learner can do at least 2 of these, they are ready for Week 11.
 
@@ -357,7 +373,7 @@ If the learner can do at least 2 of these, they are ready for Week 11.
 :::note What Matters Here
 Ask:
 
-> "What happened in your body when you imagined saying a boundary out loud?"
+> "What might a fictional character notice when practicing a boundary? You may answer about the character, reflect privately, or pass."
 
 For many kids and adults, even practicing a boundary can make the body tense up. That is normal.
 
@@ -370,7 +386,7 @@ For many kids and adults, even practicing a boundary can make the body tense up.
 
 :::tip Connecting to Earlier Weeks
 - **From Week 2:** "Boundaries protect your capacity. If you're constantly absorbing input that overloads the system, your battery drains faster."
-- **From Week 8:** "Use the audit to figure out whether a situation actually needs a boundary, or whether it's a story your brain is amplifying."
+- **From Week 8:** "An audit can help separate facts from guesses. You do not need to prove harm or finish an audit before setting a limit or asking for help."
 - **From Week 9:** "A clear boundary, kept consistently, is actually a deposit in the ledger. It makes you more predictable, which builds trust."
 :::
 
@@ -381,7 +397,7 @@ Use puppets or stuffed animals and practice one short line out loud.
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner compare a boundary they respect from someone else with one they struggle to say themselves. Ask what makes one easier than the other.
+Compare two fictional boundary situations. Ask what support would help in each; personal reflection is optional and may stay private.
 :::
 
 :::tip Vocabulary This Week

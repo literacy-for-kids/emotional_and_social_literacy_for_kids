@@ -14,7 +14,7 @@ Most curricula about feelings treat emotions as either rules to obey ("be kind!"
 
 The big shift is this: a kid who learns to label sadness has a label. A kid who learns to read sadness as *data about something the system is tracking* has a tool. One feels passive. The other feels useful.
 
-Over 18 weeks, students build the habit of pausing before they react, checking the stories their brain spins around emotional data, and noticing what fills or drains trust in their relationships. By the end, they will have identified one manageable repeat problem in their own behavior, communication, or environment, designed a small plan to address it, tried it in real life, and improved it.
+Over 18 weeks, students build the habit of pausing before they react, checking the stories their brain spins around emotional data, and noticing what fills or drains trust in their relationships. By the end, they will have identified one manageable repeat problem for a fictional character or an optional private real example, designed a small plan, explored it in role-play or an optional safe real test, and improved it.
 
 ---
 
@@ -229,7 +229,7 @@ The **Telemetry Log** is the running journal of this curriculum. Many students w
 
 Students can write, draw, use colors, use stickers, dictate, or mark checkboxes. The goal is noticing patterns, not producing polished writing.
 
-Over 18 weeks, the log becomes a personal map of how the student's hardware operates — a remarkable record of how they have learned to read their own system.
+The log may contain fictional practice, optional private personal observations, or both. Adults should use separate fictional samples for assessment rather than require access to private entries.
 
 ---
 
@@ -268,7 +268,7 @@ By the end of 18 weeks, students should be able to:
 - **Catch a thought bug** — notice catastrophizing, mind-reading, and personalization in real time
 - **Run a Detective Check** — strip the narrative away from a raw emotional reaction and respond to the data
 - **Read the trust jar / trust ledger** — understand which interactions build trust and which drain it
-- **Use clear boundary rules** — communicate a boundary clearly and follow through on their own part
+- **Use clear boundary rules** — communicate or identify a limit and recognize that it stays valid when they cannot act or need adult help
 - **Look for hidden reasons** — treat friction as a mismatch instead of a moral failure
 - **Make and improve a When/Then Plan** — write an explicit plan, try it, measure it, and improve it
 

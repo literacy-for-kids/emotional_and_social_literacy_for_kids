@@ -7,6 +7,8 @@ description: "Sometimes the fastest way to help the mind is to help the body."
 
 # Body Reset Tools
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** The mind and body are one system. When thinking feels hard, the cause is sometimes simple — tired, hungry, thirsty, too hot, too cold, or stuck sitting still.
 
 This connects to the "hardware states" idea from [Week 2](../week02-hardware-states.md): a drained battery changes everything downstream.

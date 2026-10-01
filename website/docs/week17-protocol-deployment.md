@@ -8,7 +8,7 @@ description: "Capstone Week 3 — deploy the protocol in the real world for a fu
 # Week 17: Running the Experiment in the Real World
 *Try-It Week — Capstone Week 3*
 
-You picked one repeat problem. You made a plan. This week you try it in real life.
+You picked one repeat problem. You made a plan. This week you try it in fictional role-play or an optional safe real-life test. Fictional practice counts equally.
 
 This is **Try-It Week**.
 
@@ -82,7 +82,7 @@ The point is to gather honest data from a safe experiment. Students should not p
 
 **Journal alternative:** yes/no plus a feeling face each day.
 
-**What success looks like:** The student tries the plan at least once and tracks it.
+**What success looks like:** The student explains tracking with a fictional sample or records a role-play or optional real test. Private observations are not required.
 :::
 
 ---
@@ -99,6 +99,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Daily Tracker**
 
@@ -162,9 +164,11 @@ This session happens **mid-week** — ideally Wednesday or Thursday. Plan it tha
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. The Data Review**
 
-Look at the tracking sheet so far together. Ask:
+Use a fictional sample or a portion the learner voluntarily chooses to share. Do not require the private tracker. Ask:
 
 - Did the trigger happen as often as expected? More? Less?
 - When the trigger happened, what did you do?
@@ -184,12 +188,12 @@ Examples of legitimate mid-week patches:
 - "The first step (long exhale) feels weird to do in front of others. I'm switching it to 'count to 5 silently.'"
 - "I forgot the protocol exists. I'm putting a copy on the inside of my bedroom door."
 
-What is NOT a good midweek fix:
+When the learner wants to stop or switch:
 
-- "It's not working, so I am throwing the whole thing away." (No. Keep collecting data. The bigger redesign happens next week.)
-- "I want to change the friction point." (No — stay with the project. Even imperfect data is the lesson.)
+- "It's not working, so I want to stop." (A learner may pause or stop. If they want to continue, note what happened and consider a small revision.)
+- "I want to change the friction point." (Switch to a fictional or different low-stakes example whenever privacy, safety, or comfort calls for it. Use a clearly labeled new baseline if needed.)
 
-Update the plan card if you patched it. Keep tracking.
+If the learner chooses to continue, update the plan card and tracker. Pausing or switching examples is always allowed.
 
 ---
 
@@ -199,10 +203,10 @@ If the protocol isn't working as well as the student hoped, this is the moment t
 
 > "The point of this week is to find out what happens when you try the plan. Even 'that did not work the way I hoped' is useful information for next week."
 
-Keep going.
+Offer encouragement and a choice to continue, pause, stop, or switch to fiction.
 
 :::note Solo/Small-Group Fallback
-The deployment is fully solo — you run YOUR protocol in YOUR life. No partner required. (The protocol may involve other people, but the protocol itself is yours.)
+Try a safe role-play or fictional scenario solo, or optionally try the plan privately in real life. Label simulated results clearly. No partner, disclosure, or real-world trial is required.
 :::
 
 ---
@@ -217,9 +221,11 @@ The deployment is fully solo — you run YOUR protocol in YOUR life. No partner 
 
 ### Goal
 
-Complete a full Try-It Week with honest tracking so you have something real to look back on next week.
+Complete a Try-It Week using fictional role-play or optional private real observations. Label the source of the results honestly; you may pause or stop.
 
 ### Activities
+
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
 
 **1. The Full-Week Tracker**
 
@@ -243,6 +249,8 @@ In addition to the tracker, jot down any **observations** that don't fit neatly 
 These observations will help a lot next week. Capture them when you notice them.
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a daily entry every day this week:
 >
@@ -276,6 +284,8 @@ These observations will help a lot next week. Capture them when you notice them.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Was there a moment this week when the plan surprised you?
 - What is the most interesting thing you noticed?
 - If you had not made the plan, how do you think the week would have gone?
@@ -283,6 +293,8 @@ These observations will help a lot next week. Capture them when you notice them.
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Executive Function Moment
 After a hard moment, a small restart plan helps you return. Write one next step: when I try again, I will do this one thing. A tiny plan makes coming back easier.
@@ -292,9 +304,9 @@ After a hard moment, a small restart plan helps you return. Write one next step:
 
 After this week, check whether the learner can:
 
-1. **Show the tracker:** "Show me your tracker from the week."
+1. **Explain tracking:** "Use a fictional sample or a voluntary excerpt to explain what the tracker shows."
 2. **Describe what they observed:** "What is the most interesting thing you noticed this week?"
-3. **Stay calm about rough moments:** "If the plan did not work on Tuesday, what happened?"
+3. **Reason about rough moments:** "If the plan did not work on Tuesday, what happened?"
 
 If the learner can do at least 2 of these, they are ready for the final week.
 

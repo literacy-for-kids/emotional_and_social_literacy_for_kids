@@ -72,7 +72,7 @@ Reliability is the long game. Help the student see that a small yes you keep is 
 
 **What to shorten or skip:**
 - Skip most bandwidth and network language.
-- Focus on one or two real-life examples.
+- Focus on one or two fictional examples; optional personal notes may stay private.
 
 **Adapting the activities:**
 - Use stories about being on time, returning messages, or bringing what you promised.
@@ -97,6 +97,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. What Easy to Count On Feels Like**
 
@@ -177,6 +179,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. What Happens When People Cannot Count on You**
 
 Tell a short story or draw a simple group:
@@ -233,6 +237,8 @@ Identify your reliability patterns and keep one small reliable promise this week
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. My Reliability Check**
 
 Write out:
@@ -249,7 +255,7 @@ Keep it small and clear.
 
 **2. The Easy-to-Count-On Test**
 
-Pick three relationships and ask:
+Pick one to three fictional relationships and ask. Optional personal notes may stay private:
 
 - Does this relationship feel easy to count on or harder?
 - What makes it feel that way?
@@ -260,6 +266,8 @@ The reliability audit is solo. The reliability commitment requires showing up fo
 :::
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a **Reliability** section to your Telemetry Log:
 >
@@ -281,6 +289,8 @@ The reliability audit is solo. The reliability commitment requires showing up fo
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Who is the easiest person to count on in your life?
 - What is one way you are already reliable?
 - What is one place you want to upgrade?
@@ -289,11 +299,13 @@ The reliability audit is solo. The reliability commitment requires showing up fo
 
 ## Check for Understanding
 
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
+
 After this week, check whether the learner can:
 
 1. **Define reliability:** "What does it mean to be easy to count on?"
 2. **Distinguish reliability from intensity:** "Is someone reliable just because they say big nice things? Why or why not?"
-3. **Own their pattern:** "Where are you reliable, and where do you slip?"
+3. **Read a pattern:** "Where is a fictional character reliable, and where could they improve?"
 
 If the learner can do at least 2 of these, they are ready for Week 12.
 

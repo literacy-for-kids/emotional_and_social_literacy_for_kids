@@ -106,6 +106,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. The Telephone Game**
 
 Play one round of Telephone if you can. If not, do it on paper: rewrite the same sentence from memory a few times and compare versions.
@@ -174,6 +176,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Three Check Questions**
 
@@ -277,9 +281,11 @@ Useful examples include online game chat, group text misunderstandings, video co
 
 ### Goal
 
-Practice Check Before You Tell on real information this week. Notice ripple effects.
+Practice Check Before You Tell on fictional information this week. A private low-stakes real example is optional.
 
 ### Activities
+
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
 
 **1. The Check Before You Tell Watch**
 
@@ -299,7 +305,7 @@ Be honest. If you passed on something you should not have, note it. That is data
 
 **2. The Ripple Tracker**
 
-Pick one piece of information that traveled in your social network recently (you don't have to write a name). Try to trace it backward:
+Use an invented rumor chain or a safe scene from a story. Trace it backward without collecting real private messages. An optional personal example may stay private:
 
 - Who told you?
 - Who told them?
@@ -309,6 +315,8 @@ Pick one piece of information that traveled in your social network recently (you
 Tracing the ripple often reveals just how corrupted a piece of information has become — and how far it's traveled from any actual source.
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a section to your Telemetry Log called **Story Travel**:
 >
@@ -328,6 +336,8 @@ Tracing the ripple often reveals just how corrupted a piece of information has b
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - What is one example of a story changing as it traveled?
 - Is there someone in your life who is good at stopping gossip?
 - What does it feel like when a false story spreads about someone?
@@ -335,6 +345,8 @@ Tracing the ripple often reveals just how corrupted a piece of information has b
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 If you believed a rumor that turned out false, that is data, not shame. Ask: "What clue did I miss, and what will I check before believing next time?" Updating your story is a learning skill.

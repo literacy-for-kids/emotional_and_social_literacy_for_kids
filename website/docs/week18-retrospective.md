@@ -10,13 +10,13 @@ description: "Capstone Week 4 — analyze the deployment data, write patch notes
 
 You made it to the final week.
 
-Eighteen weeks ago, you started by noticing body clues. Now you are looking back at a real plan you tried in real life.
+Eighteen weeks ago, you started by noticing body clues. Now you are looking back at a plan you explored in fictional role-play or an optional safe real-life test.
 
 This week you do three things:
 
 1. **Look back** at what happened during Try-It Week.
 2. **Write patch notes** for version 2.0 of your plan.
-3. **Share** what you learned in a way that fits you.
+3. **Reflect** privately or choose what to share from a fictional sample or selected excerpt.
 
 The plan was never supposed to be perfect on the first try. The goal was to run the full loop: notice, understand, plan, try, and improve.
 
@@ -50,7 +50,7 @@ This week's idea in kid language:
 | | |
 |---|---|
 | **Prep time** | ~15 minutes |
-| **Materials** | The full Telemetry Log, baseline data (Week 15), protocol v1.0 (Week 16), deployment data (Week 17), paper or slides for the presentation |
+| **Materials** | Fictional demonstration samples or learner-selected excerpts from Weeks 15–17; paper or slides only for an optional presentation |
 | **Key vocabulary** | look back, patch notes, next version, reflection |
 | **Difficulty** | Moderate |
 
@@ -66,7 +66,7 @@ This week's idea in kid language:
 :::tip Facilitation Mindset
 This is the celebration week.
 
-Whatever the plan did or did not do, the learner completed the full loop on a real problem. Keep bringing the focus back to that.
+Whatever the plan did or did not do, the learner practiced the full loop on a fictional or optional real problem. Keep bringing the focus back to that.
 :::
 
 ## For Younger Learners (Ages 8–9)
@@ -84,7 +84,7 @@ Whatever the plan did or did not do, the learner completed the full loop on a re
 
 **Journal alternative:** "The most important thing I learned is ___."
 
-**What success looks like:** The student can share what they tried and one thing they learned.
+**What success looks like:** The student can demonstrate the process with a fictional sample, chosen excerpt, or private reflection. Sharing personal work is optional.
 :::
 
 ---
@@ -106,15 +106,17 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. The Full Data Review**
 
-Spread out all the data from the capstone:
+Use the fictional capstone records, a separate demonstration sample, or only the parts of personal records the learner volunteers. Private logs do not need to be displayed:
 
 - Baseline tracking from Week 15
 - Protocol v1.0 from Week 16
 - Deployment data from Week 17
 
-Walk through these questions together. Write down the answers:
+Use a fictional project or voluntarily selected excerpts. Answer privately, discuss chosen responses, or pass any question:
 
 | Question | Answer |
 |---|---|
@@ -197,7 +199,7 @@ Return to a foundational idea: this project's success was about **process qualit
 
 | Process Quality | Yes/No |
 |---|---|
-| Did I identify a real, recurring friction point? | |
+| Did I identify a clear recurring friction point in fiction or an optional real example? | |
 | Did I dig into the root cause with the 5 Whys? | |
 | Did I design a specific, testable protocol? | |
 | Did I collect honest data — including failures? | |
@@ -213,17 +215,19 @@ If you checked most of these boxes, the process was strong, even if the first ve
 #### Learning Goal
 By the end of this session, the student can:
 
-- share their project clearly with a trusted audience
+- demonstrate the project skill through a fictional sample, a chosen excerpt, or an optional presentation
 - explain what they tried, what happened, and what they learned
-- answer questions about their process
+- explain the process through a fictional example; audience questions may be passed
 
 ---
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Preparing the Share-Out**
 
-The student prepares a brief presentation (3–5 minutes) covering:
+Offer a fictional demonstration, selected excerpt, private reflection, or optional brief presentation (3–5 minutes). The learner chooses what to share, with whom, and which questions to pass. No audience beyond the agreed assessment activity is required. Possible topics:
 
 1. **The Problem:** What was your friction point? Why did it matter?
 2. **The Diagnosis:** What did the 5 Whys reveal? What was the root cause?
@@ -239,20 +243,20 @@ Format can be:
 - A verbal walkthrough with the data sheet
 - A simple slide deck
 
-**Simplified share-out (younger learners):** Answer four questions with help: "What was my problem? What did I try? What happened? What did I learn?"
+**Optional simplified share-out (younger learners):** Answer about a fictional project, use drawings, or reflect privately with help: "What was my problem? What did I try? What happened? What did I learn?"
 
 ---
 
 **2. Share It**
 
-The student presents to:
+If the learner chooses a presentation, they choose the audience. Do not invite others without their agreement. Options include:
 
 - The facilitator
 - Family members (invited for this session)
 - Siblings or friends
 - A stuffed animal audience if needed
 
-After the presentation, the audience asks questions:
+Invite only questions the learner is comfortable answering. They may pass without explanation. Possible questions:
 
 - "What was the hardest part?"
 - "What surprised you most?"
@@ -266,7 +270,7 @@ After the presentation, the audience asks questions:
 
 This is a genuine accomplishment. Celebrate it.
 
-> "Over 18 weeks, you learned to notice body clues, catch panic-brain moments, check thought bugs, slow down before reacting, read trust, set clearer boundaries, and make a real plan for a real problem. You tried the plan, learned from it, and improved it. That matters."
+> "Over 18 weeks, you learned to notice body clues, catch panic-brain moments, check thought bugs, slow down before reacting, read trust, set clearer boundaries, and make a plan for a fictional or optional real problem. You explored the plan, learned from it, and improved it. That matters."
 
 Optional: a small certificate, a card, a treat, a moment of formal recognition. Pick what fits.
 
@@ -333,6 +337,8 @@ Write the final Telemetry Log entry about what these 18 weeks taught you.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Final Entry**
 
 This is the most important entry in the whole log. Take your time.
@@ -391,9 +397,13 @@ The final reflection is fully solo. The presentation works with any audience siz
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > This is the final journal entry. Take your time.
 
 ### Reflection Questions
+
+Answer about your chosen example, keep a personal answer private, or pass.
 
 - If you taught this course to a friend, which week would you start with?
 - Do you think you will keep using the Telemetry Log?
@@ -408,12 +418,14 @@ The final reflection is fully solo. The presentation works with any audience siz
 - Use the [Assessment and Reflection Guide](/docs/assessment-and-reflection-guide) for optional portfolio, rubric, or certificate-style reflection ideas.
 
 :::info Optional Portfolio or Certificate Reflection
-If the student wants a visible ending, assemble a tiny portfolio with one early Body Signal Notebook / Telemetry Log entry, the final When/Then Plan, one Try-It Week tracker, and one patch-notes reflection. A short written certificate reflection can name what the student can now do without turning the finale into a high-pressure performance.
+If the student wants a visible ending, assemble a tiny portfolio of fictional samples or voluntarily selected excerpts, including one early Body Signal Notebook / Telemetry Log sample, the final When/Then Plan, one Try-It Week tracker, and one patch-notes reflection. A short written certificate reflection can name what the student can now do without turning the finale into a high-pressure performance.
 :::
 
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 Looking back at a repair attempt is how social skills grow. Ask: "What did this teach me, and what could I practice before next time?" That turns a hard moment into a next step instead of a verdict.
@@ -424,11 +436,11 @@ Looking back at a repair attempt is how social skills grow. Ask: "What did this 
 This is the final check for the whole curriculum. After the sharing and reflections, confirm:
 
 1. **Concept retention:** "Name three big ideas from this course."
-2. **Personal framework:** "What's your process now when something upsets you?" (Looking for: a multi-step approach drawing on course concepts — even a simple 3-step verbal version counts.)
-3. **Real transfer:** "Tell me about a real moment in the last few weeks where you handled something differently because of what you learned." (Looking for: ANY real example, no matter how small.)
+2. **Response plan:** "What process could a fictional character use when upset?" (Looking for: a multi-step approach drawing on course concepts; writing, drawing, speech, or AAC counts.)
+3. **Apply the skill:** "Show how a character could handle a new fictional situation using what you learned." (Looking for transfer of the tool; a personal story is optional.)
 4. **Growth mindset:** "What's something you used to think about emotions or people that you don't think anymore?" (Looking for: evidence of intellectual growth — "I used to think being hijacked meant I was bad" or "I didn't know conflicts had hidden variables.")
 
-If the learner can show concept retention, a personal framework, one real-world application, and self-awareness about growth — they've completed the course successfully. **Celebrate.**
+If the learner can explain course concepts, describe a response plan, apply a tool to a new fictional or optional real scenario, and reflect on their learning — they've completed the course successfully. Private disclosure and public presentation are not completion requirements. **Celebrate.**
 
 ---
 

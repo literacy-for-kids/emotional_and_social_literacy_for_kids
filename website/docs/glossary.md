@@ -33,20 +33,20 @@ Use the table for quick lookups. Use the scaffold section at the end when you wa
 | **Catastrophizing** | Treating a small problem as if it were a disaster. Kid versions: **Disaster Brain** or a **worry snowball** starting to grow. | Week 5 |
 | **Check** | The part of a **When/Then Plan** that answers: "How will I know it helped?" It should be specific and observable. | Week 16 |
 | **Check Before You Tell** | Kid-friendly name for the Week 13 information filter: Do I know it is true? Is it kind? Does it need to be shared? | Week 13 |
-| **Clear boundary rule** | Kid-friendly way to talk about a boundary: what I want, what I will do, and what I will do next if it keeps happening. | Week 10 |
+| **Clear boundary rule** | Kid-friendly way to talk about a boundary: a limit or need about how someone may treat me. A short refusal can be enough; a next action is optional. | Week 10 |
 | **Cognitive distortion** | A predictable bug in the thinking software — a pattern where the brain produces an inaccurate story about a situation, like catastrophizing or mind-reading. | Week 5 |
 | **Data collection** | Systematically tracking what happens during an experiment, including failures — so you have honest information to learn from. | Week 17 |
 | **Debugging** | The practice of finding and fixing errors in the thinking software — catching a cognitive distortion and replacing it with a more accurate story. | Week 5 |
 | **Default response** | The toolbox phrase for the **Then I will** part of a plan: the action you already chose before the hard moment happens. | Week 16 |
 | **Degraded mode** | The toolbox phrase for **low-battery mode**: when processing capacity is low and the system runs worse. Not a character flaw. | Week 2 |
-| **Deployment** | The toolbox phrase for **Try-It Week**: taking your plan into real life and seeing what actually happens. | Week 17 |
+| **Deployment** | The toolbox phrase for **Try-It Week**: trying a plan through fictional role-play or an optional safe real-life test, then noting what happened. | Week 17 |
 | **Detective Check** | Kid-friendly name for the **Input/Output Audit**. It helps students separate what happened from the story their brain added. | Week 8 |
 | **Deposit** | An interaction that builds trust in a relationship — keeping a promise, listening well, showing up reliably, telling the truth. | Week 9 |
 | **Early warning sign** | A signal that shows up before a full hijack — a tight jaw, a short breath, a familiar irritation. Catching it early gives you time. | Week 4 |
 | **Escalation chain** | The sequence of small signals leading up to a hijack — usually starting hours earlier with a body state, a mood, or an unmet need. | Week 4 |
 | **Feedback loop** | A system where the output becomes the next input, amplifying itself. Kid version: a **worry snowball** that keeps rolling and growing. | Week 7 |
 | **Fight/flight/freeze** | The three common automatic responses the brain runs when in reactive mode — pushing back, leaving, or shutting down. | Week 3 |
-| **Follow-through** | The third part of a well-formed boundary — what you'll actually do if the request isn't honored. Without follow-through, a boundary is just a wish. | Week 10 |
+| **Follow-through** | A possible protective next step when a limit is ignored, such as asking an adult for help. A boundary remains valid if a child freezes, cannot act, or needs support. | Week 10 |
 | **Friction point** | The toolbox phrase for a **repeat problem**: a specific, recurring issue that keeps happening. | Week 15 |
 | **Group pull** | Kid-friendly name for an **alignment problem**: the feeling that the group is pulling you toward a choice. | Week 12 |
 | **Group goal** | What a group is trying to do or be — sometimes spoken, often unspoken. When it diverges from your own goal, you're in an alignment problem. | Week 12 |
@@ -102,7 +102,7 @@ Use the table for quick lookups. Use the scaffold section at the end when you wa
 | **Trigger** | The specific event or signal that activates a plan. Kid version: the **When** part of a **When/Then Plan**. | Week 16 |
 | **Trust jar** | Kid-friendly phrase for the **trust ledger**. It helps students picture trust filling, draining, and being repaired over time. | Week 9 |
 | **Trust ledger** | The running balance of trust in a relationship. Kid version: a **trust jar** that gets filled by deposits and drained by withdrawals. | Week 9 |
-| **Try-It Week** | Kid-friendly phrase for **deployment**: the week you try your plan in real life and see what happens. | Week 17 |
+| **Try-It Week** | Kid-friendly phrase for **deployment**: the week you try a plan in fictional role-play or an optional safe real situation and see what happens. | Week 17 |
 | **Verification** | The act of checking information before passing it on. Kid version: **Check Before You Tell**. | Week 13 |
 | **When/Then Plan** | Kid-friendly name for a **protocol**: when this happens, then I will do this, and I will know it helped if this changes. | Week 16 |
 | **Withdrawal** | An interaction that drains trust from a relationship — a broken promise, a dismissive comment, a betrayal, even a small inconsistency. | Week 9 |
@@ -179,7 +179,9 @@ Useful questions:
 
 ### Boundary
 
-**Simple version:** A clear boundary rule about what I will do or allow.
+**Simple version:** A limit about how I may be treated. "Stop" can be enough.
+
+**Validity:** A boundary stays valid when a child freezes, cannot enforce it, or needs adult help. Adults are responsible for protecting children.
 
 **Facilitator note:** A boundary is not control. It does not erase kindness, accountability, or safe adult rules.
 

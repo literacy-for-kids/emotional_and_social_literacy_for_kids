@@ -6,7 +6,7 @@ description: "Reusable worksheet-style tools that can be copied, printed, adapte
 
 # Student Tools and Printables
 
-These tools can be copied, printed, adapted, or used privately. Students may use fictional examples, neutral examples, or real low-stakes situations. Adults should not require students to share completed tools aloud.
+These tools can be copied, printed, adapted, or used privately. Students may use fictional examples, neutral examples, or real low-stakes situations. Adults should not require students to share completed personal tools, privately or publicly. Use a separate fictional sample to assess the skill. Learners may pass or choose another example without explaining why.
 
 :::tip Use These Safely
 - Students may keep some or all of a tool private.
@@ -153,6 +153,8 @@ Snowball stopper / safer interrupt point:
 ## Clear Boundary Rules Script Builder
 
 Used with [Week 10](/docs/week10-boundary-setting).
+
+These fields are optional practice aids. "Stop," "No," a gesture, or an AAC message can be enough. A child does not owe a feeling, explanation, or enforcement plan. The boundary remains valid if the child freezes or cannot act; adults must help protect children. Use fictional examples or keep personal work private.
 
 ```text
 CLEAR BOUNDARY RULES SCRIPT BUILDER

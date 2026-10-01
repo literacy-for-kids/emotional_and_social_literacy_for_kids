@@ -65,7 +65,7 @@ This week's idea in kid language:
 - Have the Telemetry Log accessible.
 - Plan a partner for Session 1 if possible — a parent, sibling, friend, the facilitator themselves.
 - Pre-read the Invisible Variable Experiment below carefully. It requires the facilitator to set up a hidden constraint without revealing it to the student initially.
-- Prepare a recent real conflict to use as the example in Session 2. Either one of the student's or one from a story they know.
+- Prepare a fictional, low-stakes conflict for Session 2. Do not ask the learner to supply a real conflict.
 :::
 
 :::tip Facilitation Mindset
@@ -112,6 +112,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Setting Up the Game**
 
@@ -181,6 +183,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Three Hidden-Reason Questions**
 
@@ -278,13 +282,15 @@ The goal is not to force agreement. The goal is to help learners practice listen
 
 ### Goal
 
-Use the three hidden-reason questions on at least one real conflict. Practice long-game thinking.
+Use the three hidden-reason questions on a fictional conflict. Practice long-game thinking; a private low-stakes real example is optional.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Hidden-Reason Check**
 
-Pick one current or recent conflict. Run the three diagnostic questions on it. Write:
+Pick one fictional conflict, or privately choose a safe real example. Run the three diagnostic questions on it. Write:
 
 - The conflict (one sentence)
 - What I assumed the other person was doing
@@ -301,7 +307,7 @@ You do not have to act on any of this. Just notice how the situation looks diffe
 
 **2. The Fairness Experiment**
 
-Pick one relationship where you want to test being fair, honest, and helpful for a week.
+Role-play fair, honest, helpful choices in a fictional relationship. An optional real-life try may stay private. Label imagined responses as imagined.
 
 Track:
 
@@ -310,6 +316,8 @@ Track:
 - whether anything shifted
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a section to your Telemetry Log called **Hidden Reasons**:
 >
@@ -337,6 +345,8 @@ Track:
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Was there a conflict where you later found out there was a hidden reason?
 - Is there someone you may have been assuming the worst about?
 - What is the cost of always assuming the worst?
@@ -344,6 +354,8 @@ Track:
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Executive Function Moment
 Group work goes smoother with visible roles. Before starting, write who is doing what, and by when, so shared work does not pile onto one person.

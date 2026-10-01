@@ -108,6 +108,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. The Plan Template**
 
 Write this template on a piece of paper or index card:
@@ -200,6 +202,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Uh-Oh Check**
 
@@ -307,6 +311,8 @@ Practice the plan in your head every day so it is easier to use next week.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Daily Rehearsal**
 
 Each day this week, read your protocol out loud once. Walk through what you'll do, step by step.
@@ -333,6 +339,8 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 :::
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add the full plan card to your Telemetry Log. Include:
 >
@@ -362,6 +370,8 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Did writing the plan down change how you think about the problem?
 - Which step will be hardest in a real moment?
 - What might need to change after you try it?
@@ -369,6 +379,8 @@ The protocol design is fully solo. The protocol itself describes YOUR actions, n
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Executive Function Moment
 A social plan is easier to build when it is small and specific. Pick one situation and one first move you could try, instead of trying to plan for everything at once.
@@ -378,7 +390,7 @@ A social plan is easier to build when it is small and specific. Pick one situati
 
 After this week, check whether the learner can:
 
-1. **Show the plan:** "Read me your When/Then Plan."
+1. **Explain a plan:** "Use a fictional sample to explain a When/Then Plan, or share only the parts you choose."
 2. **Explain the design choices:** "Why this plan and not some other plan?"
 3. **Identify weak points:** "What is the most likely way this plan breaks?"
 

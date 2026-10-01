@@ -7,6 +7,8 @@ description: "Brains sometimes add stories to facts. We can check the story befo
 
 # Thought Bugs and Story Checks
 
+**Practice choice:** Use a fictional character for activities and discussion, observe a demonstration, or choose optional private personal practice. You may pass, stop, or switch examples without explaining why. No body sensations, personal stories, or completed private tools need to be shared; a fictional sample counts equally.
+
 **Big idea:** There's a difference between a **fact** (what happened) and a **story** (what your brain decided it means). Stories sometimes have bugs.
 
 This is the field-kit version of [Week 5: Cognitive Distortions](../week05-cognitive-distortions.md), [Week 6: False Narratives](../week06-false-narratives.md), and [Week 7: Catastrophic Thinking](../week07-catastrophic-thinking.md).

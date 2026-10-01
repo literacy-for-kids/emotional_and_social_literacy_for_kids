@@ -105,6 +105,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Draw the Snowball**
 
 Draw a snowball rolling downhill. Label the steps from small to big.
@@ -174,6 +176,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Why Debate Usually Fails Inside a Spiral**
 
 When the snowball is already big, arguing with every scary thought often keeps the worry going.
@@ -221,6 +225,8 @@ Catch a real worry snowball this week and try at least one stopper.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. Snowball Watch**
 
 When a worry snowball shows up, write or say:
@@ -252,6 +258,8 @@ All activities are solo this week. Spirals usually happen alone, and you can bui
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Add a "Snowball Catch" entry style to your Telemetry Log:
 >
 > **Date / time:** ___
@@ -277,6 +285,8 @@ All activities are solo this week. Spirals usually happen alone, and you can bui
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - What time of day do your snowballs usually happen?
 - What kind of worry grows fastest for you?
 - Is there someone you can talk to in the middle of a spiral?
@@ -285,10 +295,12 @@ All activities are solo this week. Spirals usually happen alone, and you can bui
 
 ## Check for Understanding
 
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
+
 After this week, check whether the learner can:
 
 1. **Describe a worry snowball:** "What is a worry snowball?" (Looking for: a small worry that keeps getting bigger.)
-2. **Identify their own pattern:** "What is a typical snowball for you?" (Looking for a starting point and where it grows.)
+2. **Identify a pattern:** "Describe a worry snowball for a fictional character." (Looking for a starting point and where it grows.)
 3. **Name a stopper:** "What is one way to interrupt a spiral?" (Looking for any one technique.)
 
 If the learner can do at least 2 of these, they are ready for Week 8.

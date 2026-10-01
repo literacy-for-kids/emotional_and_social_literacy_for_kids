@@ -102,6 +102,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Signal and Story**
 
 Explain:
@@ -177,19 +179,21 @@ Distortions are easier to spot when they have labels. Naming the pattern — all
 #### Learning Goal
 By the end of this session, the student can:
 
-- identify their own most common thought bug
-- catch a thought bug in a real or recent example
+- identify a common thought bug in a fictional character, or privately in themselves if they choose
+- catch a thought bug in a fictional or optional low-stakes real example
 - use one checking question, such as "Is that definitely true?"
 
 ---
 
 #### Activities
 
-**1. My Top Thought Bug**
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
+**1. A Character's Thought Bug (or My Optional Private Example)**
 
 Ask:
 
-> "Which bug sounds most like your brain on a hard day?"
+> "Which bug might this character notice on a hard day? You can use your own example privately if you want."
 
 Add it to the log:
 
@@ -247,6 +251,8 @@ Catch at least three thought bugs this week. Name them.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Thought Bug Hunt**
 
 When you notice a bug, write down or say:
@@ -272,6 +278,8 @@ All bug-hunting activities are individual. No partner needed.
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Add a new section to your Telemetry Log this week:
 >
 > **My Top Thought Bug:** ___
@@ -291,6 +299,8 @@ All bug-hunting activities are individual. No partner needed.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Which bug was easiest to spot?
 - Did naming the bug change the feeling, even a little?
 - Have you noticed these bugs in book characters, shows, siblings, or friends?
@@ -298,6 +308,8 @@ All bug-hunting activities are individual. No partner needed.
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 After this week, check whether the learner can:
 

@@ -7,6 +7,8 @@ slug: /self-assessment
 
 # Self-Assessment and Reflection
 
+Use fictional examples for every activity, check, and project. Personal examples are optional and may stay private. Learners may pass, pause, switch examples, or return later without explaining why. Assess the skill with a separate fictional sample; do not require personal stories, body sensations, private logs, real-life experiments, or public presentations.
+
 This page is for reflection and growth. It is not a grade. Learners can respond by checking boxes, talking, drawing, pointing, using AAC, signing, typing, or giving short answers to a trusted adult.
 
 Use it at the middle of the course, near the end, or alongside the final project.

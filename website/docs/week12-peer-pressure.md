@@ -105,6 +105,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. What Group Pull Is**
 
 Explain:
@@ -172,6 +174,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Three Real Choices**
 
@@ -282,6 +286,8 @@ Spot at least one group-pull moment this week, notice your body's signal, and ma
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Group Pull Watch**
 
 For one week, watch for group-pull moments.
@@ -314,6 +320,8 @@ See what happens and log it.
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Add a new section to your Telemetry Log called **Group Pull**:
 >
 > **A group-pull moment I noticed this week:**
@@ -339,6 +347,8 @@ See what happens and log it.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Which is harder for you: going along or holding your choice?
 - Have you ever drifted and regretted it later?
 - Is there a group where group pull happens a lot?
@@ -346,6 +356,8 @@ See what happens and log it.
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Executive Function Moment
 A response to peer pressure is easier to use if you plan it ahead. Write one short sentence you might need and keep it somewhere easy to find, so future-you has a cue ready.
@@ -357,7 +369,7 @@ After this week, check whether the learner can:
 
 1. **Define group pull:** "What is group pull or an alignment problem?" (Looking for: the group wants one thing and you want another.)
 2. **Describe the choices:** "What can you do when group pull happens?" (Looking for: go along, hold your choice, or drift.)
-3. **Name a body signal:** "What does your body do during group pull?" (Looking for a specific signal.)
+3. **Name a body signal:** "What body clue might a fictional character notice during group pull?" (Looking for a specific signal.)
 
 If the learner can do at least 2 of these, they are ready for Week 13.
 
@@ -389,7 +401,7 @@ For many kids, even pretend group pull makes the body react. That is normal.
 :::tip Connecting to Earlier Weeks
 - **From Week 4:** "The body signals of an alignment problem are early warning signs — log them. They'll get easier to recognize over time."
 - **From Week 8:** "When you're in an alignment problem, run a quick audit. What's the input (what's actually happening)? What's the output (the story your brain is telling about how everyone will react if you hold)? They're usually different."
-- **From Week 10:** "Holding ground in an alignment problem is essentially setting a boundary in real time. The three parts (behavior, request, follow-through) still apply."
+- **From Week 10:** "Holding ground in an alignment problem is essentially setting a boundary in real time. The longer practice script is optional. A short refusal is enough, and a boundary remains valid if a child freezes, cannot act, or needs adult help."
 :::
 
 ---

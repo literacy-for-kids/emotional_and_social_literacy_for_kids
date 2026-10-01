@@ -66,13 +66,15 @@ Resist the temptation to push the techniques as universally great. Different bod
 #### Learning Goal
 By the end of this session, the student can:
 
-- perform box breathing (4-4-4-4 pattern)
-- describe what happens in their body during the practice
-- identify whether this technique works well for them
+- explain the box-breathing pattern or optionally try it
+- describe possible uses for a fictional character
+- choose observation, a non-breath alternative, or optional private practice without reporting body sensations
 
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Box Breathing Pattern**
 
@@ -95,21 +97,19 @@ Four equal sides — like tracing a box with your breath. (This technique is com
 
 **2. The First Round**
 
-Try it together. Five complete boxes — about 80 seconds.
+Offer an optional demonstration. Learners may observe, trace a box on paper, or choose a non-breath activity. Trying the breathing pattern is optional; stop if uncomfortable.
 
 After:
 
 > "What did you notice? Did anything change in your body? Your shoulders? Your jaw? Your breath rate when you stopped?"
 
-Record observations in the Telemetry Log.
+Personal observations are optional and private. A fictional sample or description of the technique also counts.
 
 ---
 
 **3. The Comparison**
 
-Take the student's heart rate before and after a second round of box breathing. (Two fingers on the wrist or side of the neck for 15 seconds, multiplied by 4.)
-
-Many people see a small but real drop. This is **direct, measurable evidence** that the technique is doing something to the system — not just a feeling.
+Use an invented before-and-after example to discuss possible changes. Do not require pulse measurements, touching, or reports of body sensations. No particular physical response is needed to demonstrate understanding.
 
 ---
 
@@ -118,13 +118,15 @@ Many people see a small but real drop. This is **direct, measurable evidence** t
 #### Learning Goal
 By the end of this session, the student can:
 
-- perform a basic somatic grounding exercise
-- perform a short progressive muscle relaxation
-- compare which technique they prefer
+- explain or optionally try a basic somatic grounding exercise
+- explain or optionally try short progressive muscle relaxation
+- compare possible uses of techniques for a fictional character; personal preferences may stay private
 
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Somatic Grounding (5-4-3-2-1)**
 
@@ -136,7 +138,7 @@ This widely-taught grounding technique pulls attention out of the spiral and int
 > Name 2 things you can SMELL.
 > Name 1 thing you can TASTE."
 
-Do it together. Slowly.
+Offer an optional demonstration. The learner may observe or describe a fictional scene, skip any sense, and avoid touching anything unwanted.
 
 Why it works: when the brain is engaged with actual sensory data, there's less processing power available for runaway thoughts. The grounding doesn't "stop" the spiral — it competes with it for resources.
 
@@ -146,7 +148,7 @@ Why it works: when the brain is engaged with actual sensory data, there's less p
 
 PMR works by **deliberately tensing** a muscle group, then releasing it. The release tends to land deeper than just trying to "relax."
 
-Try a short version:
+If the learner chooses to try it, offer a short version. They may observe instead, skip any step, or stop at any time:
 
 - Tense your hands into fists for 5 seconds. Release. Notice the difference.
 - Tense your shoulders up to your ears for 5 seconds. Release. Notice.
@@ -167,7 +169,7 @@ Different techniques work for different people and different situations.
 - **Somatic grounding** is great for spirals and racing thoughts — it works by competing for attention.
 - **PMR** is best when the body is physically tense — you can feel the release directly.
 
-Ask the student which one felt most useful for them. Different students will pick different ones. None of them are wrong.
+Ask which tool might help a fictional character and why. Personal preferences may stay private; no report of body sensations is required.
 
 Note this in the Telemetry Log: **"My best regulation tools are ___ and ___."**
 
@@ -209,13 +211,15 @@ Different strategies work for different people. A strategy that helps one learne
 
 ### Goal
 
-Try each of the three techniques during the week. Identify your top two.
+Choose whether to try a comfortable technique, observe a demonstration, or explain a possible use for a fictional character. You may skip any technique and do not need to report personal sensations.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. Daily Practice (Calm State)**
 
-Do each technique at least once during the week — but NOT during a hot moment. Practice in calm states first. The point is to make the technique automatic so it's available when you need it.
+Choose a fictional example, observe a demonstration, or optionally try a comfortable technique in a calm moment. You may skip any technique or stop; there is no requirement to try them all or report physical effects.
 
 **2. Hot-State Trial**
 
@@ -232,6 +236,8 @@ At the end of the week, rank the three techniques for yourself:
 This is real, useful data about your own system.
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a **Regulation Firmware** section:
 >
@@ -252,6 +258,8 @@ This is real, useful data about your own system.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Which technique was hardest to take seriously at first?
 - Did any of them feel weirdly powerful — more than you expected?
 - Could you use one of these without anyone noticing? Which one?
@@ -260,9 +268,11 @@ This is real, useful data about your own system.
 
 ## Check for Understanding
 
-1. **Demonstrate one technique:** "Show me box breathing." (Looking for: a functional 4-4-4-4 pattern.)
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
+
+1. **Explain one technique:** "Describe or illustrate box breathing, or demonstrate it only if you choose." (Looking for understanding of the sequence, not required participation.)
 2. **Name the use case:** "When would you use 5-4-3-2-1 grounding?" (Looking for: spirals, racing thoughts, or hot moments — something specific.)
-3. **Self-knowledge:** "Which technique works best for YOUR system?" (Looking for: a specific answer based on their own experience.)
+3. **Tool choice:** "Which technique might fit this fictional character, and why?" (Looking for a reasoned choice; private personal experience is optional.)
 
 ---
 

@@ -57,7 +57,7 @@ Groups behave differently than pairs. This unit leads with **group pull**, **sto
 
 ### Capstone — The Social Interface Patch (Weeks 15–18)
 
-Students pick **one problem that keeps happening** and work it through a full loop: understand it, make a **When/Then Plan**, try it in real life during **Try-It Week**, then look back and improve it. The formal toolbox phrases are **friction point**, **protocol**, **deployment**, and **post-mortem**. Capstone projects should stay low-stakes, learner-controlled, and facilitator-approved.
+Students pick **one problem that keeps happening** and work it through a full loop: understand it, make a **When/Then Plan**, try it through fictional role-play or an optional safe real test during **Try-It Week**, then look back and improve it. The formal toolbox phrases are **friction point**, **protocol**, **deployment**, and **post-mortem**. Capstone projects should stay low-stakes, learner-controlled, and facilitator-approved.
 
 - **Week 15:** Diagnosing a Recurring Social Problem
 - **Week 16:** Make a When/Then Plan
@@ -212,9 +212,9 @@ By the end of the capstone, a student who has completed this curriculum should b
 3. **Catch thought bugs.** They can notice catastrophizing, mind-reading, or personalization and challenge the story.
 4. **Run a Detective Check.** They can separate camera facts from the narrative their brain wrapped around them.
 5. **Read a trust jar / trust ledger.** They can describe what builds trust and what drains it.
-6. **Use clear boundary rules.** They can say what they want, what they will do, and follow through respectfully.
+6. **Use clear boundary rules.** They can communicate or identify a limit and explain that it remains valid if they freeze, cannot act, or need adult help.
 7. **Look for hidden reasons.** They can describe a conflict as a mismatch, not just a personal attack.
-8. **Make and improve a When/Then Plan.** They have tried at least one explicit plan in real life and learned from the results.
+8. **Make and improve a When/Then Plan.** They have explored at least one plan in fictional role-play or an optional safe real test and learned from the results.
 
 But the deepest measure is identity. The student should describe themselves not as someone who "has anxiety" or "is bad at friends" but as someone **running a system they understand and can improve**.
 

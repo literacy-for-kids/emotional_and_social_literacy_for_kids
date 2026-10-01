@@ -57,7 +57,7 @@ This week's idea in kid language:
 
 :::info Before You Begin
 - Have the Telemetry Log accessible.
-- Prepare a real example to walk through together — something recent enough to be relevant but old enough to be safe.
+- Prepare a fictional, low-stakes example to walk through together. A learner may choose a real example privately, but never needs to supply one.
 - Have an index card or small piece of paper available so the student can build a pocket-sized version of the audit.
 :::
 
@@ -102,6 +102,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Five Detective Steps**
 
@@ -170,6 +172,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Reaction vs. Next Safe Move**
 
@@ -242,6 +246,8 @@ Run the Detective Check on at least three moments this week. Pick a next safe mo
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Detective Check Streak**
 
 Use the full check on three moments this week. Small examples are better than huge ones.
@@ -269,6 +275,8 @@ The audit is fundamentally a solo tool. No partner needed. If you have one, you 
 :::
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Reserve a section of your Telemetry Log for Detective Checks. Each one follows the same five steps:
 >
@@ -298,6 +306,8 @@ The audit is fundamentally a solo tool. No partner needed. If you have one, you 
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Did the Detective Check change what you actually did?
 - Was there a moment when this tool was too hard to use? When?
 - Which step feels easiest? Which step feels hardest?
@@ -305,6 +315,8 @@ The audit is fundamentally a solo tool. No partner needed. If you have one, you 
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Executive Function Moment
 Noticing signals over time is easier with a simple, private tracker. Deciding what to note ahead of time means the audit runs itself instead of relying on memory.

@@ -2,7 +2,7 @@
 sidebar_position: 9
 sidebar_label: "Week 9: How Relationships Build and Spend Capital"
 title: "Week 9: How Relationships Build and Spend Capital"
-description: "Social capital and the trust ledger — every interaction is a deposit or a withdrawal. Students analyze a real relationship's running balance."
+description: "Students use fictional relationships to explore how repeated actions build trust; private personal reflection is optional."
 ---
 
 # Week 9: How Relationships Build and Spend Capital
@@ -42,7 +42,7 @@ This week's idea in kid language:
 :::tip Quick Navigation
 - [Facilitator Preparation](#facilitator-preparation)
 - [Guided Session 1: The Trust Jar](#guided-session-1)
-- [Guided Session 2: Reading a Real Relationship](#guided-session-2)
+- [Guided Session 2: Reading a Relationship Example](#guided-session-2)
 - [Independent Practice](#independent-practice)
 :::
 
@@ -60,7 +60,7 @@ This week's idea in kid language:
 :::info Before You Begin
 - Have the Telemetry Log accessible.
 - Optional: bring a jar and ~20 coins or buttons for a visual demo.
-- Help the student pick a real relationship to analyze — preferably a friendship that's basically working, not one in crisis. Crisis relationships are too charged for a first attempt at this tool.
+- Bring a fictional friendship from a book, show, or made-up story. The learner may choose a low-stakes real relationship privately, but fictional work is equally valid. Do not use relationships in crisis.
 - Avoid using the ledger to vilify any specific person. Especially not parents or siblings.
 :::
 
@@ -107,6 +107,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Coin Jar Demo**
 
@@ -166,11 +168,11 @@ Repair, generosity, boundaries, and changing behavior all matter. The goal is wi
 :::tip Communication Moment
 Repair is also communication. After a withdrawal, a clear repair refills the jar: "I said that badly. Let me try again." Saying what happened and what you'll do differently rebuilds trust faster than pretending nothing happened. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
-### Reading a Real Relationship
+### Reading a Relationship Example
 #### Learning Goal
 By the end of this session, the student can:
 
-- pick a real relationship and name recent jar-fillers and jar-drainers
+- pick a fictional relationship and name jar-fillers and jar-drainers; a private real example is optional
 - describe whether the relationship feels fuller or emptier lately
 - identify one **micro-agreement**, a small promise that matters a lot over time
 
@@ -178,15 +180,13 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Pick a Relationship**
 
-Have the student pick one real relationship, such as:
+Offer a fictional friendship from a book, show, or made-up scene first. For example, two characters agree to share markers; one returns them carefully, and later apologizes after forgetting once.
 
-- a friend
-- a sibling
-- a parent or caregiver
-
-Skip relationships in active crisis.
+The learner may instead choose a low-stakes real relationship privately. They do not need to name anyone, explain why they chose fiction, or disclose the relationship to the facilitator. Skip relationships in active crisis.
 
 ---
 
@@ -251,13 +251,15 @@ The goal is not to force children to apologize before they understand what happe
 
 ### Goal
 
-Notice trust jars in three real relationships and practice making at least one deliberate deposit this week.
+Analyze one to three fictional relationships and plan a trust-building action. A private real-life try is optional.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Three-Jar Check**
 
-Pick three people and write:
+Pick up to three fictional relationships and write. Optional personal notes can use codes and stay private:
 
 - person: ___
 - recent coins in: ___
@@ -272,7 +274,7 @@ You may notice the same trust patterns showing up in several relationships.
 
 **2. The Deliberate Deposit**
 
-Pick one relationship where you want to fill the jar a little.
+Pick a fictional relationship and write or role-play one helpful action. If you freely choose a safe real-life action, you can keep it private.
 
 Choose one action:
 
@@ -282,7 +284,7 @@ Choose one action:
 - apologize honestly
 - ask how something important went
 
-Do it and note what happened.
+For fiction, describe what might happen and label it as imagined. For an optional real-life try, note what happened privately if you want.
 
 Repair examples can sound like:
 
@@ -290,14 +292,16 @@ Repair examples can sound like:
 - "I forgot. I want to do better on this small thing."
 
 :::note Solo/Small-Group Fallback
-The trust-jar analysis is solo. The deliberate deposit involves another person, but it can be any real person in the student's life.
+The fictional analysis and planned action can be completed solo. An action involving a real person is optional; imagined outcomes must be labeled as imagined.
 :::
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Open a new section in your Telemetry Log called **The Trust Jar**:
 >
-> **People I want to track:**
+> **Characters or optional private relationship codes:**
 > 1. ___
 > 2. ___
 > 3. ___
@@ -320,6 +324,8 @@ The trust-jar analysis is solo. The deliberate deposit involves another person, 
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Which relationship in your life feels like it has the fullest jar?
 - Is there a relationship where you have been taking more out than putting in lately?
 - What is one deposit that feels natural for you?
@@ -327,6 +333,8 @@ The trust-jar analysis is solo. The deliberate deposit involves another person, 
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 Social patterns are easier to notice over time than in one moment. Ask: "What has this person shown me more than once?" Looking for patterns helps you learn from repeated signals instead of one confusing event.
@@ -338,7 +346,7 @@ After this week, check whether the learner can:
 
 1. **Define the trust jar:** "What is the trust jar or trust ledger?" (Looking for: trust builds and drains over time.)
 2. **Give examples:** "Name two things that put coins in and two things that take coins out."
-3. **Read a real relationship:** "Tell me about one relationship and whether the jar feels fuller or emptier lately."
+3. **Read a relationship example:** "Use a fictional scene to explain what builds or reduces trust."
 
 If the learner can do at least 2 of these, they are ready for Week 10.
 
@@ -382,7 +390,7 @@ Use the friendship jar metaphor the whole week. Skip most of the ledger language
 :::
 
 :::tip Extend (Ages 10–12)
-Have the older learner analyze a friendship from a book or show and track what filled and drained the jar over time.
+Have the older learner compare two fictional friendships and explain how repeated actions change trust over time. Fictional examples are valid at every age.
 :::
 
 :::tip Vocabulary This Week

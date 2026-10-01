@@ -118,6 +118,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Build the Signal Map**
 
 Spread out everything from Weeks 1 to 3. Together, create a clean version of the Signal Map with these sections:
@@ -179,12 +181,14 @@ Wait for the student to notice one pattern for themselves.
 By the end of this session, the student can:
 
 - describe what happened before, during, and after a hard moment
-- identify at least 3 personal warning signs
+- identify at least 3 possible warning signs for a fictional character; personal notes are optional and private
 - name the point where they still had a choice
 
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Rewind the Moment**
 
@@ -259,6 +263,8 @@ Use the Signal Map for a full week and catch at least one warning sign in real t
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. Daily Signal Check**
 
 Make one short entry each day for a week. Keep it short.
@@ -293,6 +299,8 @@ This week is fully solo. The log is a personal tool — no partner needed.
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > This is the Telemetry Log week. The log itself is your journal entry.
 >
 > By the end of the week your log should have:
@@ -310,6 +318,8 @@ This week is fully solo. The log is a personal tool — no partner needed.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - What is your earliest reliable warning sign?
 - What is one clue you want to notice sooner?
 - Is there someone in your life who notices your warning signs before you do?
@@ -317,6 +327,8 @@ This week is fully solo. The log is a personal tool — no partner needed.
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 A log helps you learn patterns that one moment can't show. Reviewing your entries is reflection over time: "What keeps showing up?" That is how a pattern becomes something you can notice earlier.
@@ -326,9 +338,9 @@ A log helps you learn patterns that one moment can't show. Reviewing your entrie
 
 After this week, check whether the learner can:
 
-1. **Show the map:** "Can I see your Signal Map or Telemetry Log?" (Looking for real use, even if it is messy.)
-2. **Describe the sequence:** "Walk me through what happens before you get really upset." (Looking for more than just "I get mad.")
-3. **Name a warning sign:** "What is one clue that tells you a panic-brain moment might be coming?" (Looking for a specific personal sign.)
+1. **Explain the map:** "Use a fictional sample to show how a Signal Map or Telemetry Log works." (Looking for meaningful tool use; do not require access to a private log.)
+2. **Describe the sequence:** "Walk me through what happens before a fictional character gets really upset." (Looking for more than just "I get mad.")
+3. **Name a warning sign:** "What is one clue that tells you a panic-brain moment might be coming?" (Looking for a specific plausible sign in the chosen example.)
 
 If the learner can do at least 2 of these, they are ready for Unit 2 (Week 5).
 

@@ -18,7 +18,7 @@ This week assumes the student has completed at least Unit 4 (Weeks 12–14). It 
 
 :::info Facilitator Snapshot
 - The big idea: groups have shapes (topologies). The shape predicts a lot about how the group behaves.
-- The skill: seeing the topology of your own social network and asking what the shape tells you.
+- The skill: reading a fictional social network and asking what the shape tells you; personal mapping is optional and private.
 - This week is more conceptual than the others. Use lots of diagrams.
 - Avoid identifying specific real people as "outsiders" or "bridges" in a way that could be hurtful — keep names private.
 :::
@@ -78,12 +78,14 @@ You might say: "We are looking at the *shape* of the network — not whether any
 By the end of this session, the student can:
 
 - describe **in-group / out-group** formation as a predictable feature of human social systems
-- sketch the **topology** of a small social network they're part of
+- sketch the **topology** of a small fictional social network
 - recognize that group shape changes over time
 
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The Tribalism Wiring**
 
@@ -101,7 +103,7 @@ This isn't an excuse for unkind behavior. It's a reason to **notice** when your 
 
 **2. Mapping a Network**
 
-Pick a small social context the student is part of — their class, their friend group, their team. On a large piece of paper, sketch the **topology**:
+Pick a fictional class, friend group, or team from a story, or invent one. A private real example is optional and must not identify or rank classmates. On paper, sketch the **topology**:
 
 - Each person is a **node** (a circle).
 - Each friendship/relationship is an **edge** (a line connecting two nodes).
@@ -142,6 +144,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. Hubs**
 
@@ -213,9 +217,11 @@ Useful examples include online game chat, group text misunderstandings, video co
 
 ### Goal
 
-Map your own social network. Identify the hubs, bridges, and clusters. Reflect on what the topology tells you.
+Map a fictional social network. Identify the hubs, bridges, and clusters. An optional personal map may stay private.
 
 ### Activities
+
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
 
 **1. The Topology Map**
 
@@ -239,11 +245,13 @@ This isn't about being morbid. It's about understanding which connections in you
 
 **3. The In-Group/Out-Group Watch**
 
-For one week, watch for moments when your own brain runs the in-group/out-group wiring. ("That person's not really one of us." "He's part of the other group.") When you catch it, write it down. Don't judge — just notice.
+Invent or find a fictional scene where a character uses in-group/out-group thinking. Write what the character might notice. Optional personal observations may stay private; you do not have to identify or evaluate real people.
 
 The first step in being able to override a default is noticing it's running.
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a section called **Network Topology**:
 >
@@ -259,6 +267,8 @@ The first step in being able to override a default is noticing it's running.
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Are you a hub, a bridge, a member of a tight cluster, or a peripheral node? Are you happy with that role?
 - Has your network's shape changed in the past year? What changed?
 - Where in your life does information seem to spread fastest? Why might that be?
@@ -267,9 +277,11 @@ The first step in being able to override a default is noticing it's running.
 
 ## Check for Understanding
 
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
+
 1. **Define hub and bridge:** "What's the difference between a hub and a bridge in a network?" (Looking for: a hub is connected to many, a bridge connects two otherwise-separate groups.)
-2. **Apply to real network:** "Show me your topology map and tell me one thing you noticed." (Looking for: any genuine observation about the shape — not just naming nodes.)
-3. **Notice the wiring:** "Did you catch your brain running in-group/out-group thinking this week?" (Looking for: any specific instance — not just "yes.")
+2. **Apply to a fictional network:** "Use a fictional map to explain one thing you noticed." (Looking for: any genuine observation about the shape — not just naming nodes.)
+3. **Notice the wiring:** "Describe in-group/out-group thinking in a fictional scene." (Looking for: any specific instance — not just "yes.")
 
 ---
 

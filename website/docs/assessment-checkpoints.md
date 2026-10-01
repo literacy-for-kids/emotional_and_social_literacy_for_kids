@@ -7,6 +7,8 @@ slug: /assessment-checkpoints
 
 # Assessment Checkpoints
 
+Use fictional examples for every activity, check, and project. Personal examples are optional and may stay private. Learners may pass, pause, switch examples, or return later without explaining why. Assess the skill with a separate fictional sample; do not require personal stories, body sensations, private logs, real-life experiments, or public presentations.
+
 These checkpoints help adults notice whether learners are ready to move forward. They are not tests. Learners may respond by talking, drawing, pointing, sorting cards, writing, using AAC, signing, or explaining their thinking to a partner.
 
 Keep the focus on tool use, observation, and reflection rather than disclosure. Fictional and low-stakes examples count.

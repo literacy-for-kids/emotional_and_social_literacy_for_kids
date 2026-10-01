@@ -6,6 +6,8 @@ description: "A general competency map for the 18-week curriculum and optional e
 
 # Competency Map
 
+Use fictional examples for every activity, check, and project. Personal examples are optional and may stay private. Learners may pass, pause, switch examples, or return later without explaining why. Assess the skill with a separate fictional sample; do not require personal stories, body sensations, private logs, real-life experiments, or public presentations.
+
 This map uses broad competency language that overlaps with common social-emotional learning and advisory frameworks. It is not an official standards alignment. Programs can adapt it to local standards, grade bands, and reporting systems.
 
 Core competency groups used here:

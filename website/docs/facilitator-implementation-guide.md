@@ -70,11 +70,11 @@ This structure keeps the course emotionally safe while still making the ideas us
 Useful language to keep the course grounded:
 
 - "You can use a fictional example."
-- "You do not have to share that aloud."
+- "You do not have to share personal work with me or the group. A fictional example counts equally; you may pass or switch."
 - "Let's focus on the signal, not blame."
 - "Let's use the kid version first, then the toolbox word."
 - "That sounds bigger than this activity. Let's connect with the right adult support."
-- "A boundary is about what you can choose, not controlling someone else."
+- "A boundary expresses a limit. It still counts if you freeze or cannot act; adults must help keep children safe."
 - "Let's separate the facts from the interpretation."
 - "If this tool is not a fit for your system, let's test a different one."
 

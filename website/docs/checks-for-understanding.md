@@ -6,6 +6,8 @@ sidebar_label: Checks for Understanding
 
 # Checks for Understanding
 
+Use fictional examples for every activity, check, and project. Personal examples are optional and may stay private. Learners may pass, pause, switch examples, or return later without explaining why. Assess the skill with a separate fictional sample; do not require personal stories, body sensations, private logs, real-life experiments, or public presentations.
+
 Use these optional prompts to notice whether a lesson landed. They are conversation tools, not grades.
 
 ## Four Universal Checks
@@ -20,7 +22,7 @@ These work at the end of any lesson:
 ## Signs of Understanding
 
 - Student describes the concept without just restating a definition
-- Student produces a real-world example that actually fits
+- Student produces a fictional or optional real-world example that fits
 - Student connects the idea to a previous lesson
 - Student asks a follow-up question that shows further thinking
 

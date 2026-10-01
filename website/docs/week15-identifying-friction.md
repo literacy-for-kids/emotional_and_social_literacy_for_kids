@@ -8,14 +8,14 @@ description: "Capstone Week 1 — identify a recurring social friction point and
 # Week 15: Diagnosing a Recurring Social Problem
 *Pick One Problem That Keeps Happening — Capstone Week 1*
 
-You have learned to notice body clues, catch thought bugs, read trust, set boundaries, and slow down before reacting. Now you use those tools on one real problem that keeps happening.
+You have learned to notice body clues, catch thought bugs, read trust, set boundaries, and slow down before reacting. Now you use those tools on one fictional repeating problem, or an optional private real problem.
 
 The capstone is a four-week loop:
 
 - **Week 15:** pick one repeating problem and figure out why it keeps happening
 - **Week 16:** make a clear plan for what you will do
-- **Week 17:** try the plan in real life and track what happens
-- **Week 18:** look back, improve the plan, and share what you learned
+- **Week 17:** try the plan in a role-play, or optionally in safe real life, and track what happens
+- **Week 18:** look back, improve the plan, and choose a private or shared way to show the skill
 
 This week is about choosing well. You are not fixing your whole life. You are picking **one problem that keeps happening** and getting specific enough to understand it.
 
@@ -110,12 +110,14 @@ Name the social friction before solving it: "The part that isn't working between
 By the end of this session, the student can:
 
 - describe what makes a good project problem
-- generate 3 to 5 candidate problems from their own life
+- generate 3 to 5 fictional candidate problems, with private personal brainstorming optional
 - pick one and write a clear baseline description
 
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. What Makes a Good Project?**
 
@@ -142,7 +144,7 @@ Use this quick sort:
 
 **2. The Brainstorm**
 
-Have the student list 3–5 candidate friction points. Don't pick yet — just generate.
+Have the student list 3–5 candidate friction points for a fictional character. Private personal brainstorming is optional. Do not ask for private family or friendship details. Don't pick yet — just generate.
 
 Examples:
 
@@ -188,6 +190,8 @@ By the end of this session, the student can:
 ---
 
 #### Activities
+
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
 
 **1. The 5 Whys Tool**
 
@@ -275,13 +279,15 @@ The goal is not to force children to apologize before they understand what happe
 
 ### Goal
 
-Establish a baseline. Watch the problem this week without trying to fix it yet.
+Establish a baseline for the chosen fictional or optional real problem. Use role-play observations or clearly labeled example data for fiction.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Baseline Tracker**
 
-Before you can fix a problem, you need to know how often it happens. For one week, just **observe** your friction point. Don't try to change it. Track:
+For fiction, create a small set of clearly labeled example events or repeat a safe role-play and record the results. For an optional real project, observe only a safe, low-stakes situation; never postpone getting help to collect data. Track:
 
 | Date | Did it happen? | How bad (1–10) | What was happening before? | What was my capacity? |
 |---|---|---|---|---|
@@ -312,10 +318,12 @@ While tracking, watch for patterns. Look for:
 Patterns become extremely visible when you watch for them on purpose.
 
 :::note Solo/Small-Group Fallback
-The baseline tracker is fully solo. You're observing your own life — no partner required.
+The baseline tracker can use fictional events or optional private real observations. No partner or personal disclosure is required.
 :::
 
 ### Telemetry Log
+
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
 
 > Add a new section to your Telemetry Log called **Capstone Project**:
 >
@@ -350,6 +358,8 @@ The baseline tracker is fully solo. You're observing your own life — no partne
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Did the Why Ladder take you somewhere you did not expect?
 - What is hard about just watching the problem without fixing it yet?
 - What pattern did you notice?
@@ -357,6 +367,8 @@ The baseline tracker is fully solo. You're observing your own life — no partne
 ---
 
 ## Check for Understanding
+
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
 
 :::tip Learning Moment
 A messy social moment can teach a useful next practice. Ask: "What part was hard — noticing the signal, saying the words, listening, or repairing after?" Naming the hard part helps you practice the right skill.

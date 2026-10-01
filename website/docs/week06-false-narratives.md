@@ -102,6 +102,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. The Picture Card Test**
 
 Show an ambiguous photo or describe a scene:
@@ -165,6 +167,8 @@ By the end of this session, the student can:
 
 #### Activities
 
+**Choose your example:** Use a made-up character or safe story scene. Personal examples are optional and may stay private. You may pass, observe, or switch examples without explaining why.
+
 **1. Camera Facts and Thought Bubbles**
 
 Take a piece of paper and make two columns:
@@ -214,6 +218,8 @@ Catch your story maker in action and practice separating facts from story.
 
 ### Activities
 
+**Practice choice:** Fictional practice counts equally. Use your chosen character, or an optional private personal example. You may pass or choose another task without explaining why.
+
 **1. The Daily Detective Check**
 
 When something pings your feelings this week, write down:
@@ -247,6 +253,8 @@ If you don't have a partner, do the Daily Input/Output Drill alone. The drill wo
 
 ### Telemetry Log
 
+Use these fields for your chosen character or for optional private notes. "My" and "I" may mean the character. You do not have to show this log; a separate fictional sample can demonstrate the skill.
+
 > Add a new entry style this week — the Input/Output style:
 >
 > **Trigger:** ___
@@ -272,6 +280,8 @@ If you don't have a partner, do the Daily Input/Output Drill alone. The drill wo
 
 ### Reflection Questions
 
+Answer about your chosen example, keep a personal answer private, or pass.
+
 - Was there a moment this week when the camera facts were small but the brain story was huge?
 - Which kind of situation makes your story maker loudest?
 - What does your body feel like when your story maker gets going fast?
@@ -280,10 +290,12 @@ If you don't have a partner, do the Daily Input/Output Drill alone. The drill wo
 
 ## Check for Understanding
 
+Assess the skill using a fictional scenario, drawing, AAC, or explanation of the tool. Personal stories and private logs are never required. A learner who passes can use another example or return to the check later.
+
 After this week, check whether the learner can:
 
 1. **Name the story maker:** "What is the story maker?" (Looking for: the brain part that guesses what things mean.)
-2. **Separate fact from story:** "Tell me a recent moment. What happened, and what did your brain say?" (Looking for concrete facts and a separate interpretation.)
+2. **Separate fact from story:** "Use a fictional moment: what happened, and what story did the character's brain add?" (Looking for concrete facts and a separate interpretation.)
 3. **Offer another story:** "Your friend ignored you at lunch. First story: 'She is mad.' What is another story?" (Looking for any reasonable alternative.)
 
 If the learner can do at least 2 of these, they are ready for Week 7.
