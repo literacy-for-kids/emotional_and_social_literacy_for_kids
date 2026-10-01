@@ -267,3 +267,7 @@ Use this only for a learner-selected communication artifact. It does not replace
 | Attribution and AI-use transparency | Gives little or no credit for outside help | Gives some credit when reminded | Clearly credits outside facts, images, quotes, ideas, or AI help | Explains clearly how outside sources or AI help were used and checked |
 | Accessibility and presentation design | The project is hard to follow or access | The project is partly clear with some support | The project is readable, understandable, and accessible for the audience | The project is especially clear, organized, and considerate of different learners |
 | Reflection and revision | Says only whether the project was good or bad | Names one thing learned or changed with support | Explains what was learned and what was revised | Reflects deeply on growth, revision, and next steps without shame |
+
+## Week 14 Conflict-and-Protection Check in Unit 4
+
+Use the [fictional routing cards](./week14-collaboration-dynamics.md#core-practice-work-it-out-get-support-or-get-protection). Expected: A permits optional negotiation, B can use adult facilitation, and C–E require adult protection. Ask why "just cooperate" fails for C. Look for threats, unequal power, and adults' responsibility to stop harm. A child may request help for any card; do not grade calmness, confrontation, personal disclosure, or successful enforcement of a boundary.

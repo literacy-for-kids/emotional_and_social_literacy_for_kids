@@ -30,3 +30,11 @@ Use fictional examples for every activity, check, and project. Personal examples
 | 18 | Post-Mortem, Patch Notes, and Next Version | What did I learn about how I operate socially? | Retrospective and synthesis | retrospective, patch notes, version 2.0, reflection | Describe one thing you would change in your protocol v2.0 | Demonstrate a fictional plan or reflect privately; presentation is optional |
 | Opt. 1 | Advanced Regulation Techniques | What tools help when standard regulation is not enough? | Advanced regulation skills | box breathing, somatic grounding, progressive muscle relaxation | Describe one regulation technique and when you would use it | Explain a technique for a fictional character, observe, or optionally practice privately |
 | Opt. 2 | Complex Group Dynamics and Network Theory | How do information and influence travel through social networks? | Network analysis | network topology, in-group, out-group, cascade, influence | What is an information cascade and why can it lead to bad group decisions? | Research one real-world example of a social cascade |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 14 | Conflict and adult protection | Choose optional negotiation, facilitation, or protection |

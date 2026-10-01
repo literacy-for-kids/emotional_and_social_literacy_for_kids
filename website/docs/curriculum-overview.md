@@ -219,3 +219,7 @@ By the end of the capstone, a student who has completed this curriculum should b
 But the deepest measure is identity. The student should describe themselves not as someone who "has anxiety" or "is bad at friends" but as someone **running a system they understand and can improve**.
 
 That shift — from passenger to engineer — is the entire point.
+
+## Practical Core Skills
+
+[Week 14 practices the distinction between ordinary conflict, adult facilitation, and adult protection](./week14-collaboration-dynamics.md#core-practice-work-it-out-get-support-or-get-protection). Cooperation does not replace protection from harm. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.

@@ -242,6 +242,31 @@ The Invisible Variable Experiment is much more powerful with a partner. If you d
 - **Ages 10-12:** Use the full hidden-reason routine to compare needs, constraints, fairness, and cooperation.
 - **Ages 11-13 optional extension:** Add guided analysis of group identity, exclusion, reputation, or community norms while keeping examples privacy-safe.
 
+## Core Practice: Work It Out, Get Support, or Get Protection?
+
+**Time:** 15–20 minutes; use instead of one hidden-reason discussion. **Goal:** distinguish a negotiable disagreement from harm needing adult intervention. **Materials:** the fictional cards below. Learners may pass, switch cards, draw, or explain privately using fiction. Do not ask for personal incidents or reenact threats.
+
+Hidden reasons can explain behavior, but do not excuse harm. A disagreement about preferences is different from bullying, coercion, threats, or abuse. Bullying involves a power imbalance and repeated or potentially repeated aggression. **A child does not need to prove that definition, wait for repetition, speak calmly, or enforce a boundary to deserve help.**
+
+| Fictional card | Appropriate next move | Adult role |
+|---|---|---|
+| A: Jo wants a red poster; Sam wants blue. Both can disagree without fear, and both can stop. | If both want to, compare ideas, take turns, or test a mixed design. Either may ask an adult to help. | Support a fair process; do not force agreement. |
+| B: Ari and Kit interrupt each other while planning. Both feel stuck and want help. | Pause and ask a facilitator to help give each person a turn. | Facilitate voluntarily and check whether either feels intimidated; do not assume equal responsibility. |
+| C: A popular group repeatedly blocks Dev from the game and threatens to spread a private message if Dev tells. | Get help from a safe adult. Dev does not have to negotiate with the group or confront it first. | Stop the harmful behavior, protect privacy, assess safety separately, and follow the program's response procedures. |
+| D: Pat is shoved once and feels afraid. | Move toward safety if possible and get adult help immediately. One incident is enough to seek protection. | Attend to immediate safety and injury concerns; do not wait for a bullying label or repeated harm. |
+| E: A grown-up asks Noor to keep an unsafe touch secret. | Tell another safe adult; if the first does not help, keep seeking support. | Follow safeguarding/reporting procedures. This is not a peer negotiation exercise. |
+
+1. Sort the cards into **optional negotiation**, **adult support**, or **adult protection**. A can use negotiation; B needs requested support; C–E need protection. More than one support route can be appropriate.
+2. For C, choose the safer script: "What can Dev do to make the group like them?" or "What adult action would protect Dev?" Choose the second. Responsibility for the harm belongs with the person causing it and adults responsible for safety.
+3. Practice, without reenacting harm: "I need help. This happened, and I don't feel safe." Drawing, a written note, a communication aid, or showing the card also counts. Freezing or being unable to explain does not cancel the need for help.
+4. Make a fictional support plan: first safe adult ___; another safe adult if the first is unavailable or dismissive ___; safe place ___; how to ask or signal ___. Do not require names from a learner's private life.
+
+**Answer guide:** ordinary conflict allows real choice and safe disagreement. Threats, power imbalance, repeated targeting, physical harm, sexual harm, or coercion call for adult intervention. Uncertainty is a reason to ask for help, not a reason to handle it alone. A learner can ask for adult support even for card A.
+
+**Facilitator notes:** assess the chosen route and reasoning, not a child's calmness, willingness to confront, disclosure, or success at stopping harm. Do not require mediation, a joint meeting, an apology, forgiveness, or restored friendship when harm or unequal power makes that unsafe. Follow the [Facilitator Safety Guide](./facilitator-safety-guide.md).
+
+**Reference, checked 2026-10-01:** [StopBullying.gov: What is bullying?](https://www.stopbullying.gov/bullying/what-is-bullying) and [responding on the spot](https://www.stopbullying.gov/prevention/on-the-spot). These support the adult protection distinction; the cards are fictional teaching examples.
+
 ## Social Problem-Solving Moves
 
 1. Pause before reacting.

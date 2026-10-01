@@ -34,6 +34,12 @@ That means:
 
 Adults are not expected to provide therapy. Adults are responsible for safety, dignity, privacy, and appropriate escalation.
 
+## Conflict Is Not Always a Negotiation Task
+
+Use [Week 14's fictional routing cards](./week14-collaboration-dynamics.md#core-practice-work-it-out-get-support-or-get-protection) to practice the distinction before a real problem arises. Safe preference disagreements may support voluntary negotiation. Stuck learners can ask for adult facilitation. Threats, coercion, harm, fear, or unequal power require adult assessment and protection; one serious incident is enough to act.
+
+Do not make the harmed learner responsible for calming the situation, confronting the person, winning cooperation, or repairing the relationship. In bullying or other unsafe situations, do not impose mediation or a joint apology meeting. Check safety separately, follow the existing disclosure protocol, and use the appropriate safeguarding route. If an initial adult does not help, support access to another safe adult. Do not wait for perfect facts before addressing immediate safety.
+
 ## Group Norms
 
 Set these norms before beginning the course and revisit them often:
