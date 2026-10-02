@@ -38,7 +38,7 @@ Use the toolkit on its own as a short unit, fold individual tools into the weeks
 
 ## Who it is for
 
-Children ages 8–12, used by parents, teachers, homeschoolers, clubs, libraries, or small groups. No prep and no special training required.
+Children ages 8–12, used by parents, teachers, homeschoolers, clubs, libraries, or small groups. No special training is required. Read the selected activity and safety guidance first, choose participation options, and gather any listed materials; preparation depends on the activity.
 
 ## A note on safety
 

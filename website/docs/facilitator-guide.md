@@ -20,9 +20,13 @@ Adults who will facilitate the curriculum consistently over time: parents, homes
 
 ## How to Run a 10-20 Minute Lesson
 
-**Before the session (5-10 min):** Read the lesson fully. This curriculum moves into emotionally complex territory -- anticipate what might come up and decide how you will handle it.
+This is a short adaptation: select one discussion or manageable activity, rather than compressing a whole weekly module. Full guided sessions, independent practice, and projects need the time stated on the week’s page. Check prior concepts before using a week out of sequence; see [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/#pacing-and-preparation).
 
-**During the session:**
+**Before the session (time varies):** Read the lesson fully. This curriculum moves into emotionally complex territory -- anticipate what might come up and decide how you will handle it.
+
+Check the selected activity’s answer notes, safety/access options, materials, and tool setup before learners arrive. A brief read-through may be enough for a discussion; practical activities need additional preparation.
+
+**During the short session:**
 1. Ground the group briefly -- a few slow breaths or a moment of quiet (1 min)
 2. Open with a fictional or low-stakes scenario (1-2 min)
 3. Explain the concept using the lesson's framing (3-5 min)

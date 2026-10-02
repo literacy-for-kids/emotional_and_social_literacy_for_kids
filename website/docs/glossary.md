@@ -83,7 +83,7 @@ Use the table for quick lookups. Use the scaffold section at the end when you wa
 | **Rational response protocol** | The deliberate response chosen at the end of an Input/Output Audit. Kid version: your **next safe move**. | Week 8 |
 | **Reactive mode** | The formal term for **panic-brain mode**: fast, defensive, and narrow, built for survival rather than nuance. | Week 3 |
 | **Regulated mode** | The brain's normal operating state, run by the prefrontal cortex. Slower, careful, capable of planning and considering consequences. | Week 3 |
-| **Regulation firmware** | The body's built-in systems for downshifting from reactive states. Techniques like box breathing and PMR are ways to deliberately activate this firmware. | Optional 1 |
+| **Regulation firmware** | An engineering comparison for a menu of practiced tools, such as breathing, grounding, or PMR. It is not literal firmware or a guaranteed biological response; learners can choose another tool or adult support. | Optional 1 |
 | **Reliability** | Doing what you said you'd do, predictably, over time. The single highest-leverage way to build trust in any relationship. | Week 11 |
 | **Ripple effect** | When information or behavior spreads through a network, affecting people you didn't directly interact with. Every signal you send creates ripples. | Week 13 |
 | **Root cause** | The underlying reason a problem keeps happening. Kid versions: the **real reason** or what is underneath the repeat problem. | Week 15 |

@@ -8,7 +8,7 @@ sidebar_label: Exit Ticket Bank
 
 Use fictional examples for every activity, check, and project. Personal examples are optional and may stay private. Learners may pass, pause, switch examples, or return later without explaining why. Assess the skill with a separate fictional sample; do not require personal stories, body sensations, private logs, real-life experiments, or public presentations.
 
-Exit tickets are short, low-pressure prompts used at the end of a 10-20 minute lesson. Pick one and ask it out loud -- no writing required. These work with any lesson in this curriculum.
+Exit tickets are short, low-pressure prompts used at the end of a selected discussion or activity. Pick one and ask it out loud -- no writing required. These work with any lesson in this curriculum.
 
 ## Recall
 
