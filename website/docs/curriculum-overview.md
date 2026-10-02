@@ -223,3 +223,7 @@ That shift — from passenger to engineer — is the entire point.
 ## Practical Core Skills
 
 [Week 14 practices the distinction between ordinary conflict, adult facilitation, and adult protection](./week14-collaboration-dynamics.md#core-practice-work-it-out-get-support-or-get-protection). Cooperation does not replace protection from harm. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

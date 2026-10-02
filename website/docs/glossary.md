@@ -256,3 +256,14 @@ Useful questions:
 **Simple version:** A shortcut or glitch in the story my brain is telling.
 
 **Facilitator note:** Do not use "thought bug" to dismiss a real problem. The tool checks the interpretation, not the student's worth.
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Ordinary conflict** | A disagreement in which people can express different preferences and stop safely; adult support may still be requested. | Week 14 |
+| **Coercion** | Pressure or threats used to control a person’s choice. It is not a task a child must solve by cooperating. | Week 14 |
+| **Bullying** | Aggressive behavior with real or perceived unequal power that repeats or may repeat. A child can ask for protection before this label is settled. | Week 14 |
+| **Adult protection** | Responsible adult action to address harm and safety, rather than requiring the child to confront, negotiate, or enforce a boundary. | Weeks 10 and 14 |

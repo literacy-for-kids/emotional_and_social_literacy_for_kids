@@ -35,6 +35,24 @@ Do not require closed eyes, breath-holding, public body sharing, or any one body
 - [Independent Practice](#independent-practice)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 1–4 and 10: noticing signals, choice, valid boundaries, and adult support.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Choose a tool without requiring a body change:** A fictional character dislikes holding their breath and does not want to report body sensations. Compare observing a drawn breathing pattern, naming three visible objects, or asking a safe adult for a quieter space. Which choices preserve control and safety?
+
+**Illustrative response and reasoning:** All can be choices to discuss; no breathing demonstration, touching, sensory disclosure, or calm outcome is required. The character may skip or stop a technique and choose adult support. A technique may help some people and may be uncomfortable or ineffective for others.
+
+**Optional depth question:** Describe the tool’s purpose and a safe stop/switch route. Do not score nervous-system control or use relaxation to tolerate an unsafe setting.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Week at a Glance
 
 | | |
@@ -80,7 +98,7 @@ By the end of this session, the student can:
 
 Explain:
 
-> "Your breath is one of the few systems that's both automatic AND controllable. You don't usually think about it, but you can take over the controls anytime. That means breath is a direct line into your nervous system — slow, deliberate breathing reliably sends a 'we're safe, downshift' signal."
+> "Your breath is one of the few systems that's both automatic AND controllable. You don't usually think about it, but you can take over the controls anytime. Gentle breathing can help some people settle, but the response varies. It does not prove the setting is safe, and nobody has to force, hold, or change their breath to complete this lesson."
 
 Box breathing is one of the simplest and most widely taught patterns:
 
@@ -140,13 +158,13 @@ This widely-taught grounding technique pulls attention out of the spiral and int
 
 Offer an optional demonstration. The learner may observe or describe a fictional scene, skip any sense, and avoid touching anything unwanted.
 
-Why it works: when the brain is engaged with actual sensory data, there's less processing power available for runaway thoughts. The grounding doesn't "stop" the spiral — it competes with it for resources.
+Grounding directs attention toward present surroundings. Some people find that helpful; it does not guarantee a calmer state or establish that the environment is safe. The computing-resource explanation is only a metaphor, not a measured account of what every brain is doing.
 
 ---
 
 **2. Progressive Muscle Relaxation (PMR)**
 
-PMR works by **deliberately tensing** a muscle group, then releasing it. The release tends to land deeper than just trying to "relax."
+PMR works by **deliberately tensing** a muscle group, then releasing it. Some people find noticing the release helpful, while others prefer a different technique. No particular sensation or improvement is required.
 
 If the learner chooses to try it, offer a short version. They may observe instead, skip any step, or stop at any time:
 
@@ -318,3 +336,9 @@ Have the older learner research the **vagus nerve** and the **parasympathetic ne
 :::tip Vocabulary This Week
 **box breathing**, **somatic grounding**, **progressive muscle relaxation**, **regulation firmware**
 :::
+
+## Technique Limits and Reference
+
+Relaxation techniques may help some people and may be uncomfortable or unhelpful for others. Do not force deep breaths, breath holds, tensing, touch, taste, or a particular calm response. Learners can observe, choose a non-breath tool, or stop; seek appropriate adult/professional help for concerning symptoms. A drawn description is sufficient evidence of understanding.
+
+References checked 2026-10-02: [NHS: comfortable breathing without forcing](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/) and [NCCIH: relaxation techniques and evidence limits](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know). These are facilitator references, not required learner browsing or individualized care instructions.

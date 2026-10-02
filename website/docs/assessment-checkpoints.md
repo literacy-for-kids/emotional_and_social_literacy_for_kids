@@ -271,3 +271,7 @@ Use this only for a learner-selected communication artifact. It does not replace
 ## Week 14 Conflict-and-Protection Check in Unit 4
 
 Use the [fictional routing cards](./week14-collaboration-dynamics.md#core-practice-work-it-out-get-support-or-get-protection). Expected: A permits optional negotiation, B can use adult facilitation, and C–E require adult protection. Ask why "just cooperate" fails for C. Look for threats, unequal power, and adults' responsibility to stop harm. A child may request help for any card; do not grade calmness, confrontation, personal disclosure, or successful enforcement of a boundary.
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.
