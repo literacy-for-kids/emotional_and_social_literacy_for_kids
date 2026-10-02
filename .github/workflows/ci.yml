@@ -85,5 +85,6 @@ jobs:
             --exclude 'https://www.pbslearningmedia.org'
             --exclude 'https://www.un.org'
             --exclude 'https://www.usa.gov'
+            --exclude '^https://www\.stopbullying\.gov/(bullying/what-is-bullying|prevention/on-the-spot)$'
             './.lychee-root/**/*.html'
           fail: true
