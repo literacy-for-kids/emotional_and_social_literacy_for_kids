@@ -205,32 +205,32 @@ This is not a magic number. Sometimes the real answer shows up after three whys,
 
 **2. Running the Diagnostic**
 
-Take the student's friction point and walk through it:
+Use this fictional example, then walk through the learner's chosen fictional or optional private friction point:
 
 **Example walkthrough:**
 
-> **Friction Point:** "I keep getting into a fight with my brother before dinner."
+> **Friction Point:** "Sam and Sam's brother keep arguing before dinner when the brother takes Sam's drawing tools without asking."
 
-**Why does it happen?**
-> "Because he keeps taking my stuff without asking."
+**Why does the argument start?**
+> "Sam's brother takes the drawing tools without asking."
 
-**Why does that bother me so much?**
-> "Because I've already had a long day and I just want him to leave me alone."
+**Why does Sam object?**
+> "Sam wants people to ask before borrowing and to respect the answer. That boundary matters."
 
-**Why am I worn out by then?**
-> "Because right before dinner is when I'm hungriest and most tired."
+**Why might responding feel harder before dinner?**
+> "Sam might be hungry or tired. That could make responding harder, but it does not make taking the tools okay."
 
-**Why does being hungry and tired make this worse?**
-> "Because my battery is low — I have less patience and small things feel bigger."
+**Why might a snack or quiet break help?**
+> "If Sam wants one and it is available, it might help Sam feel more comfortable. It does not replace getting the tools back or respecting permission."
 
-**Why don't I prevent that?**
-> "Because I haven't been eating my afternoon snack lately."
+**Why is adult support part of the plan?**
+> "Sam does not have to make the brother comply. An adult can help return the tools and make sure borrowing requires permission."
 
-**Root cause candidate:** *The fights happen when my brother does something annoying AND my capacity is low because I skipped a snack.*
+**What is known, and what is a candidate explanation?** The example states that the brother takes tools without asking. Hunger or tiredness is only a possible contributing factor in how hard responding feels; it does not explain away the boundary violation or transfer responsibility to Sam.
 
-This is a totally different diagnosis than "my brother is annoying." Now the fix isn't "make my brother stop" — it's "eat the afternoon snack so I have capacity when he does his thing."
+The plan has two parts: the brother must ask before borrowing and respect Sam's answer, with adult help as needed; Sam may also choose support such as a snack or rest. Sam's boundary remains valid if Sam stays upset, freezes, cannot explain it, or does not have a snack. If one adult does not help, seek another trusted adult. Never postpone help with an unsafe situation to complete a project or collect data.
 
-This is the whole point of the Why Ladder. The first answer is rarely the full answer.
+The Why Ladder can reveal several parts of a problem. Support for the learner and responsibility for respecting a boundary are separate parts; improving one does not remove the other.
 
 ---
 
@@ -388,6 +388,8 @@ After this week, check whether the learner can:
 1. **Name the project clearly:** "What problem are you working on for the next four weeks?"
 2. **Distinguish surface from deeper reason:** "What did you think was causing it at first, and what might really be underneath it?"
 3. **Read the pattern:** "When does this usually happen?"
+
+**Boundary check using the fictional example:** "Sam freezes and cannot explain what happened. Does the brother still need permission to borrow? Should Sam have to eat a snack or calm down before an adult helps?" Look for: permission still matters; protection does not depend on a snack, calmness, or clear speech; adults should help. Revisit the example and [Week 10's boundary guidance](./week10-boundary-setting.md) if the learner confuses self-support with responsibility for someone else's behavior.
 
 If the learner can do at least 2 of these, they are ready for Week 16.
 
